@@ -93,7 +93,7 @@ def select_best_algorithm(text, pattern):
     """Heuristická volba nejvhodnějšího algoritmu podle délky textu a vlastností vzoru."""
     if len(pattern) > len(text) // 2:
         return kmp_search
-    elif len(pattern) < 5 and len(set(pattern)) > 3:
+    elif len(pattern) <= 5 and len(set(pattern)) > 3:
         return bmh_search
     else:
         return brute_force_search
