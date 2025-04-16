@@ -1,0 +1,645 @@
+They say 5% of HIV infections can be blamed on the increased HIV viral load due to malaria, and 10% of adult malaria cases can be blamed on HIV. 
+Since 1980, 8500 more people became HIV positive, and there were 980,000 more episodes of malaria (a person can get it more than once) in a city whose adult population is 200,000, the study found.
+Public health efforts
+The findings have implications for public health efforts, Abu-Raddad says, showing the importance for authorities to tackle these diseases together. 
+Of the 39.5 million people worldwide infected with HIV, 24.7 million are in the poor countries of sub-Saharan Africa. About 2.1 million of the world's 2.9 million AIDS deaths in the past year were also in this region.
+Malaria kills more than a million people annually, mostly young children in sub-Saharan Africa. 
+The researchers produced their results with a mathematical model using HIV and malaria infection data gathered in Malawi by Dr James Kublin of the Hutchinson Center.
+This enabled them to quantify for the first time the synergy between malaria on HIV and its toll on people. 
+Scientists previously determined that a lack of male circumcision and the incidence of genital herpes also were facilitating the spread of HIV.
+Abu-Raddad notes that circumcised men are much less likely to get HIV, and that genital herpes opens a door for HIV to infect a person. 
+Abu-Raddad says malaria now can be considered a third serious factor facilitating the spread of HIV. 
+The two diseases drive one another even though they have different modes of transmission - malaria by mosquito and HIV predominantly by sexual intercourse - Abu-Raddad notes. 
+He says once a person with HIV gets malaria, his or her viral load goes up and stays higher for six to eight weeks, making the person far more infectious to others.
+
+Just because you know someone well doesn't mean you can choose the right present, new research shows
+If you really want an mp3 player this Christmas, but your beloved buys you a radio, don't be too disappointed.
+New international research suggests knowing someone very well actually makes predicting his or her tastes more difficult.
+The study, published in the December issue of the Journal of Consumer Research, goes some way to explaining why people often miss the mark and end up buying weird, inappropriate, or just plain bad gifts for the ones they love most.
+Researchers from the Netherlands and Belgium invited 35 couples who had been in a relationship for at least six months to predict their partners' taste in furniture.
+All 70 participants were first asked to choose their own favourite bedroom suites from 30 on offer.
+Half were then asked to predict their partner's favourites while the other half were asked to predict the favourites of a stranger, person X, who in reality was their partner.
+The researchers conclude that knowing a lot about your partner can actually get in the way of choosing the perfect gift.
+Not only do people become overconfident that they know what their partner will like, but their tendency to assume their tastes are very similar mean they often miss the cue that they're getting it wrong.
+"Our results suggest that familiarity causes [people] to put an overly heavy weight on pre-stored information," write the authors. 
+"The pre-stored information that people possess about their partner is extensive. This elaborate knowledge makes predictors overly confident, such that they do not even attend to product-specific attitude feedback." 
+Australian professor of psychology at the University of New South Wales, Joseph Forgas, says it's hardly surprising that people get it wrong when buying presents for others, as they often get it wrong when buying things for themselves.
+The possible reason? Affluence.
+"People already pretty much have everything that has real utility value for them, so most discretionary purchases are to buy items we don't really need, ie goods that have only symbolic, identity value and only minimal utility value," he says.
+"Such purchases are mainly to make statements about ourselves. And people are not very good in figuring out what statement to make, and what to make it with.
+"For example, some people may think that buying a red Ferrari signals power and wealth, while to others it may just signal sexual inadequacy and impotence."
+
+Could automated answers to your IT questions help reduce frustration when things go wrong?
+The next time you email the IT help desk, you may find yourself dealing with a computer, not a human.
+If a new system that Australian researchers are developing takes off, 'intelligent' computers will generate their own answers to your queries.
+The research by computer scientists Dr Yuval Marom and Professor Ingrid Zukerman of Monash University in Melbourne will be presented at the International Joint Conference on Artificial Intelligence in Hyderabad, India next month.
+"Help desk operators are generally dealing with the same thing over and over again," says Marom.
+And he says many emails can be answered by mixing and matching parts of generic responses, which the researchers' software will generate.
+It can also help automate answers that require a more personalised response, says Marom.
+The software was developed by analysing patterns between a set of 30,000 genuine pairs of questions and answers from an email help desk and generalising relationships between them.
+The emails came from the large international computer hardware company involved in the Australian Research Council Linkage grant that funded the research.
+The software defines several categories of questions that can be answered by generic responses, such as standard advice on how to arrange for a computer to be repaired.
+Then there are questions that require more specific answers. 
+These involve the system directly matching the words in the question to answers in the database, using similar technology to Google.
+But unlike Google, the customer can enter in a much longer query, describing the problem in detail and what they have already done to try and solve it.
+Speed and accuracy
+Marom says the benefit of automated responses is that they can be obtained at "Google speed" instead of having to wait longer for a human to get around to typing a response.
+But how accurate are the answers?
+Marom says the system can be set so that it only fires off an automated answer when it has a certain level of confidence the answer is accurate.
+But customers will tolerate some inaccuracy or incomplete answers as long as they are sufficiently knowledgeable, he says.
+For example, if the system gives the customer the right webpage for downloading some software but tells them the wrong procedure, the customer might still find the automated answer useful.
+And if they get fed up they can always opt out and contact a human instead with the click a button, says Marom.
+So far ratings by staff in Marom's department suggest the automated answers are pretty good when compared to the answers humans give.
+But he says the next step is to evaluate the system online with a real-life email help desk.
+Accuracy and jobs
+Marom says that automated help desk software will cost jobs. But he says some humans will always be required to answer questions the system is not confident of answering.
+Exactly how many humans will depend on where the confidence levels are set as it's a trade-off. 
+If the confidence level is set too high, the system requires more humans to answer the harder questions. 
+If the confidence level is set too low, it could risk annoying customers.
+Marom says the system could be applied in many areas from tax queries to health queries.
+Although of course, he says, the level of confidence for answering health queries would have to be pretty high.
+
+Fossils found on New Zealand's South Island belong to an ancient mammal lineage
+Palaeontologists have found remains of one of the most primitive type of land mammal in the world, a mouse-sized creature that's unlike any mammal alive today.
+The find, at the edge of a swampy lake on New Zealand's South Island, not only fills a gap of the nation's fossil record, it may also help us understand more about the origin of mammals worldwide.
+Researchers, led by Trevor Worthy from Australia's University of Adelaide, publish their results today online in the Proceedings of the National Academy of Sciences.
+Many types of mammals evolved in the Mesozoic period when the dinosaurs dominated, says co-author Alan Tennyson, a palaeontologist from the Museum of New Zealand Te Papa Tongarewa.
+But most of those early lineages are now extinct and mammals living today fall into only one of three groups: placentals, marsupials or monotremes.
+But this latest find, in sediments deposited 16-19 million years ago, doesn't fit into any of these groups.
+"This is an incredible find. We never expected to find anything like this," says Tennyson.
+"What's so exciting about this fossil mammal is that it is from one of those ancient lineages that we thought had become extinct much earlier. This will help us understand more about the origin of mammals worldwide," he says.
+The find is particularly significant for New Zealand as there are virtually no fossils of terrestrial vertebrates between 65 million years ago, when an asteroid impact is thought to have wiped out the dinosaurs, and about 1 million years ago.
+In other parts of the world many different mammals evolved to replace dinosaurs as the dominant species.
+But in New Zealand the only terrestrial vertebrates that seemed to have evolved were reptiles, frogs, and birds - not mammals.
+That's despite the fact that New Zealand's landmass separated from Gondwana after many mammals had evolved.
+"The suggestion has been that giant birds, like the extinct Haast eagle and the moa, filled the ecological niches that mammals like tigers and grazing animals did elsewhere," says Tennyson.
+"But this is a very primitive mammal and it's unlikely to have lived here for 60 million years without diversification. So it opens the possibility that there may be bigger mammals to be found."
+The researchers say the discovery implies the existence of one or more 'ghost lineages' and suggests that mammals may have existed on New Zealand more than 125 million years ago.
+That may contradict an alternative theory for the lack of fossil evidence for terrestrial mammals: that New Zealand was completely submerged about 25 million years ago and that all of its animals and plants arrived from nearby landmasses. 
+But the paper suggests that the discovery, along with other Mesozoic survivors such as the lizard-like tuatara and New Zealand's primitive frogs, confirms that at least some land remained above water throughout the period.
+
+A colonial siphonophore, which grows to 1.5 centimetres, found off the coast of Broome in northwestern Australia
+A Jurassic 'shrimp' thought extinct 50 million years ago has been found in Australian waters, a census of marine life shows.
+Neoglyphea neocaledonica, found on an underwater peak in the Coral Sea, is the oldest marine organism listed in the 2006 Census of Marine Life, a global effort involving 70 nations.
+The census, which is due for completion in 2010, also found marine creatures thriving by a record hot volcanic vent in the Atlantic and in dark waters under thick Antarctic ice.
+Researchers also found 150 new types of fish among 500 new marine species, including furry crabs and a lobster off Madagascar.
+Many species were found in places long thought too hostile for life including by a vent spewing liquids at 407&deg;C and other habitats that are dark, cold or deep.
+Some places seem as inhospitable as planets such as Mars or Venus, the researchers say. 
+"The age of discovery is not over," says Jesse Ausubel, a program manager at the US Sloan Foundation, a sponsor of the 10-year census.
+Among discoveries in 2006 are shrimps, clams and bacteria living by the searing 407&deg;C vent on the floor of the Atlantic Ocean north of Ascension Island, the hottest sea vent ever documented and more than hot enough to melt lead.
+"This is the most extreme environment and there is plenty of life around it," says Professsor Chris German, of the UK's National Oceanography Centre and a leader of the Atlantic survey.
+He says one big puzzle is how creatures cope with shifts in temperatures. For instance, water on the seabed at 3000 metres is just 2&deg;C yet many creatures withstand near-boiling temperatures of up to 80&deg;C from the thermal vent.
+German says it is a bit like a person agreeing to live in a blistering sauna and be hosed at random with freezing water. 
+Scientists have not yet probed how hardy the microbes nearest the hottest part of the vent are.
+Another expedition found crustaceans, jellyfish and single-celled creatures living in darkness in the Weddell Sea off Antarctica under ice 700 metres thick and 200 kilometres from open water. Most of those creatures are new to science. 
+"You can think of it as a cave, one of the remotest caves on Earth," Ausubel says of findings by a robot camera. 
+"Wherever we've gone on Earth we've continued to find life," German says, adding that recent discoveries could be encouraging for the search for life elsewhere in the universe.
+The biggest new species in the census is probably a 1.8 kilomgram rock lobster found off Madagascar. A furry crab, dubbed a 'Yeti crab', was also found off Easter Island.
+In the longest migration ever documented, census researchers tracked sooty shearwater birds on a 70,000 kilometre flight sweeping round the Pacific in 200 days, an average 350 kilometres a day.
+
+Ten studies published since 1999 have identified the human papillomavirus in breast tumours. But more studies are needed to show how closely the two are linked
+Breast cancer could be sexually transmitted, says a researcher who has found the same virus that causes cervical cancer in breast cancer tumours from Australian women.
+Emeritus Professor James Lawson of the University of New South Wales and colleagues have found the same form of the human papillomavirus (HPV) associated with cervical cancer in almost half the breast tumour samples they tested.
+It's the first study of its kind in Australia, although international studies have also found cervical cancer-related HPV in breast cancer cells.
+He says while the evidence is far from conclusive, "it's possible and totally worthy of investigation" to suspect that HPV could also cause breast cancer.
+Lawson says it's possible that HPV is spread by sexual activity or during showers or baths, when the virus could be transferred from the genital area to the breasts via the nipple ducts.
+"We know that the virus explodes out of the cell and is spread by touch, so it's fairly obvious that it could be spread by sexual activity to the breast, you could also argue that it would be spread by washing and bathing," he says.
+Lawson says more research is needed to establish whether HPV is actually causing the breast cancer or if women with breast cancer are more prone to infection with the virus.
+Younger women
+Lawson and colleagues last year published the results of a DNA analysis which found 24 out of 50 breast cancer samples also tested positive to HPV 18, the same form of the virus implicated in breast cancer.
+A subsequent review, published in the journal Future Microbiology in June this year, found various forms of high-risk HPV had been identified in 10 separate breast cancer studies since 1999.
+In a letter published online in the British Journal of Cancer last month Lawson reports that a review of the 2005 study found women with HPV positive breast cancers were on average about eight years younger than those whose tumours did not test positive to the virus.
+He says this lends weight to the sexual transmission theory, because HPV is more common in younger women who are more likely than older women to have had multiple sexual partners, something he describes as a "post-pill phenomenon".
+Lawson says it isn't the first time a virus has been associated with breast cancer. 
+The mouse mammary tumour virus, which causes breast cancer in mice, has been known about since the 1930s, and in a 2004 study Lawson reported finding a genetically similar version of the virus in Australian women.
+Lawson says if it's true that HPV can cause breast cancer as well cervical cancer, the introduction of the cervical cancer vaccine, developed by Australian of the Year Professor Ian Frazer, should also cut rates of breast cancer.
+He says he is currently pushing for a study into this.
+"The real proof of all this will be the vaccine, but you'll have to wait [a long time] for [the results]," he says.
+"It makes sense to follow that group of girls, and when some of them get breast cancer, to see if any of them are HPV positive breast cancers.
+"Theoretically the answer should be no."
+Doubts
+But chief executive officer of Cancer Council Australia, Professor Ian Olver, says while it's possible that a virus could cause breast cancer the existing studies are small and inconclusive.
+"What we've got is small studies that have found an association between HPV and breast cancer ... but they haven't shown anything that could say it's causal," he says.
+"I think you need much bigger studies and a mechanism by which HPV was implicated in the development."
+A recent article published online ahead of appearing in the journal The Breast failed to find evidence of HPV in a study of 81 Swiss women.
+"Our analysis could not support a role of HPV in breast carcinoma," the study concludes.
+
+New research shows that the outermost layer of the atmosphere will lose 3% of its density over the coming decade, a sign of the far-reaching impacts of greenhouse gas emissions. As the density declines, orbiting satellites and space junk will experience less drag
+Human increases in carbon dioxide emissions are thinning the Earth's outer atmosphere, making it easier to keep the space station aloft but prolonging the life of dangerous space junk, scientists say. 
+"It's a bit of a two-edge sword," says Stanley Solomon, a US scientist at the National Center for Atmospheric Research in Boulder, Colorado.
+"In the future, it will be a little bit easier to keep the space station, for instance, in orbit. It will need a little bit less fuel," he says.
+"On the other hand, it will give space junk a much longer lifetime," he told a meeting of the American Geophysical Union in San Francisco. 
+Solomon is the co-author of a study presented this week that found the burning of fossil fuels and increase of carbon dioxide emissions will make the Earth's outer atmosphere above 100 kilometres 3% less dense by 2017.
+The study, which is also published in the journal Geophysical Research Letters, found a decrease in density of about 5% between 1970 and 2000. 
+Although scientists say that carbon dioxide contributes to global warming closer to Earth's surface, in the thinner outer atmosphere where spacecraft orbit, a cooling effect takes place. Solar activity also affects the outer atmosphere. 
+As this outermost region becomes less dense, it produces less drag on satellites, spacecraft and tens of thousands of pieces of discarded space debris from previous missions orbiting at about 400 kilometres from Earth's surface.
+"These objects are now experiencing less drag proportionally than they did 30 years ago," Solomon says. 
+A steady stream of space launches since Sputnik's in 1957 has left about 10,000 orbiting objects bigger than the size of a grapefruit, and 100,000 larger than a centimetre, says Dr Kent Tobiska, president and chief scientist of Space Environment Technologies in Pacific Palisades, California. 
+The International Space Station now in orbit must readjust its path several times a year to avoid colliding with such debris; a chance hit with a spacewalking astronaut could prove fatal.
+
+A researcher has suggested that the origin of Aboriginal language can be traced back to a time when Australia and New Guinea were one
+Aboriginal languages may be much older than people think, argues a linguistic anthropologist who says they originated as far back as the end of the last ice age around 13,000 years ago.
+This challenges existing thinking, which suggests Aboriginal languages developed from a proto-language that spread through Australia 5000 to 6000 years ago.
+The key to the new hypothesis is prehistoric Australia's single land mass 13,000 to 28,000 years ago, when New Guinea and Tasmania were still attached, says Dr Mark Clendon in the journal Current Anthropology.
+Clendon says the continent, known as Sahul, was relatively densely populated on the land bridge connecting northern Australia to New Guinea, now separated by the Arafura Sea.
+The other populated area was along what is now Australia's eastern seaboard.
+The two population groups were separated by a vast, cold, windswept, arid stretch of land that covered most of the continent, says Clendon, who was with the Batchelor Institute of Indigenous Tertiary Education when he published the research.
+The eastern group spoke a tongue that became what is known today as Pama Nyungan and includes languages like Pitjantjatjara, Yolngu and Warlpiri.
+And the Arafurans spoke another family of languages used in northern Australia today.
+"What I'm suggesting is that Pama Nyungan and non-Pama Nyungan languages go back about 13,000 years to when there was a land bridge between New Guinea and Australia," he says.
+Until now, the reason why these two Aboriginal language groups are so different, each with a distinct grammar and vocabulary, has been a mystery.
+Climate change
+Around 11,000 years ago what was the Arafura plain was flooded by rising seas as the ice age ended.
+This caused the northern people to migrate into either New Guinea or to northern parts of Australia.
+Meanwhile, increased rainfall and warmer temperatures made inland parts of the continent more habitable and sparked a westward migration of eastern dwellers.
+This introduced their language group to more central areas of Australia.
+Both groups maintained their distinct languages, Clendon says. 
+His hypothesis provides an alternative picture to the traditional view that 6000 years ago a single proto-language spread from the Gulf of Carpentaria around Australia, eventually giving rise to existing Aboriginal languages.
+"We know about changes in climate and sea levels at the end of the Pleistocene era," Clendon says.
+"I'm suggesting the way languages are configured in Australia today are a result of those changes that happened at the end of the ice age."
+Provocative but unconvincing
+Writing in a reply to Clendon's article, Professor Nicholas Evans, an expert in Aboriginal languages from the University of Melbourne, describes Clendon's hypothesis as "fresh and provocative".
+However, he says there are flaws in the argument, including that there is only weak evidence of similarities between southern New Guinea and northern Aboriginal languages.
+Evans says he remains to be convinced about Clendon's proposal.
+"[But] it adds a welcome alternative to a field in which we are still a long way from having any clear picture of the unimaginably long human occupation of Sahul," he says.
+
+Air pollution in Asia is increasing rainfall in parts of Australia. But scientists are concerned that could be reversed when the pollution is cleared up, therefore plunging more of Australia into drought
+More of Australia could become affected by drought if its nearest neighbours start reducing air pollution, a study suggests.
+Dr Leon Rotstayn of CSIRO Marine and Atmospheric Research says a new computer climate model shows aerosol pollution in Asia is having a long-distance effect on weather in Australia.
+He says the modelling shows that the airborne haze made up of tiny particles from industrial and domestic pollution is cooling the land and oceans around Asia.
+The haze isn't travelling to Australia. But it's been changing the balance of wind and temperature between Asia and Australia, causing heavier rainfalls in central and northwest parts of Australia.
+"What has been observed in the last 50 years is that it has been getting drier in the south and east of Australia and wetter in the northwest and centre," he says.
+"Our pilot modelling results suggest that the Asian haze may be driving that trend towards more rain." 
+Getting rid of the haze could reverse that pattern, he says.
+The research, which will be published in the  Journal of Geophysical Research early next year, is the first time researchers have tried to demonstrate the effect of aerosols on Australia's climate.
+Particles
+The pollution factored into the CSIRO model includes industrial and domestic emissions of particles such as black carbon, from burning diesel, and sulfide particles from coal.
+Rotstayn says this aerosol pollution has a cooling effect because it forms a blanket that keeps the Sun's radiation from reaching the surface of the Earth.
+The particles also cause thicker and more persistent clouds, which reflect heat back into space.
+"The cooling effect of aerosols is a combination of the direct effect of stopping sunlight getting through and the indirect effect whereby the aerosols make clouds more effective," he says.
+"The aerosol haze is cooling Asia and the oceans around [it] and that's affecting the monsoonal winds which bring the summer-time rainfall to the northern parts of Australia."
+He says the trend could be reversed, with serious implications for Australia, if Asian emissions are reduced.
+"Sooner or later those emissions will be cleaned up and a trend of increasing rainfall in the northwest and centre could be reversed," he says.
+"This is potentially serious, because the northwest and centre are the only parts of Australia where rainfall has been increasing."
+Not just a greenhouse problem
+The study shows that we shouldn't underestimate the impact of aerosols on Australia's climate, Rotstayn says.
+"We don't really have much aerosol pollution in Australia most of the time so there's been an assumption that aerosols are not very important to Australian climate. 
+"But when we did these simulations ... without the aerosols we got a completely different rainfall response over Australia.
+"That's suggesting [aerosols are] something we have to take very seriously if we're going to be able to predict climate change and not simply treat it as solely a greenhouse gas problem, because it clearly is not."
+
+Prefer to stay up late? It's your inner creativity speaking
+Do your best work at night? Take solace as new research suggests that night owls are more likely to be creative thinkers.
+Scientists can't yet fully explain why evening types appear to be more creative, but they suggest it could be an adaptation to living outside the norm.
+"Being in a situation which diverges from conventional habit, nocturnal types often experience this situation, may encourage the development of a non-conventional spirit and of the ability to find alternative and original solutions," says Professor Marina Giampietro, lead author of a study to be published in the February 2007 issue of the journal Personality and Individual Differences.
+The Italian researchers, from the Department of Psychology at the Catholic University of the Sacred Heart in Milan, studied 120 men and women of varying ages.
+A self-report questionnaire evaluated degrees of morning and evening dispositions. In fact, true morning and evening-oriented people are actually rare, since most of us fall somewhere in between.
+Once the subjects were categorised into either morning, evening or intermediate types, they underwent three tests designed to measure creative thinking.
+During the first activity, test subjects were asked to draw and title a picture based on an image shown by the researchers.
+For the second activity, called incomplete shapes, test subjects added lines to create pictures out of straight and curved lines. They then were asked to give their pictures a title.
+The final test was similar, only this time the individuals were presented with 30 pairs of vertical lines.
+Scientists scored each completed activity on originality, elaboration, fluidity and flexibility factors.
+Evening types aced each test based on these criteria, while morning and intermediate type people struggled to get scores over 50.
+The researchers also discovered that age didn't curtail creativity.
+"Our study supports the notion that creative characteristics persist in aged people," the scientists write.
+Night owl? Blame your brain
+Hans Van Dongen, associate research professor at the Sleep and Performance Research Center at Washington State University, helped to discover the biological explanation behind morning and evening types.
+He and his colleagues found that a small group of brain cells, called suprachiasmatic nuclei, emit signals to the body that synchronise the time of day.
+This biological clock runs two hours ahead in morning types and two hours later in evening types.
+Morning and evening-oriented people may follow other schedules, due to work, school and other demands, but their preferred schedule is more in sync with this internal clock, which may be partly determined by genetics.
+Van Dongen says that the finding about creativity and evening types is "certainly novel, and one I would not have expected on biological grounds".
+He suggests that the observed differences in creativity might have to do with the fact that evening people also tend to be more extroverted than morning and intermediate types.
+"One could reasonably envision a link between the personality trait of extroversion and the finding of creativity," Van Dongen says.
+
+The Australian Alps had the thinnest and shortest snow season since at least 1982
+Planet Earth had its sixth hottest year on record and a deluge of severe record-breaking weather, according to a new report.
+The findings come from the World Meteorological Organization's (WMO) preliminary report on global climate data for 2006, released today.
+"All over the world we are starting to see extreme weather records being broken," says Dr Michael Coughlan, head of the National Climate Centre at Australia's Bureau of Meteorology, which contributed to the WMO report.
+"While we have had severe events in the past, there does seem to be a pattern now of increasing severity."
+This year was the sixth hottest on record and 2005 was the second hottest.
+"It's unequivocal that temperatures are rising," says Coughlan.
+He says the WMO compared this year's temperatures with instrumental records dating back to 1861 and palaeoclimate data extending back thousands of years.
+Drought
+High temperatures and low rainfall through 2006, combined with an El Ni&ntilde;o, brought severe drought to much of southern Australia.
+Major cropping zones had the driest and warmest 5 years on record.
+And the Australian Alps had the thinnest and shortest snow season since at least 1982, and anecdotally for at least 40 years.
+"In terms of the rainfall this is certainly one of the worst drought on record," says Coughlan.
+Southeastern Australia also had record low temperatures in May and June and severe crop-damaging frosts in late September and mid-October.
+This year's drought followed a 5 to 10 year decline in rainfall in southern and eastern Australia.
+And in the case of southwest western Australia the downward trend in rainfall extends back 20 to 30 years, says Coughlan.
+He says that in this area research by the Indian Ocean Climate Initiatve has linked the decline in rainfall partially to greenhouse gas-induced global warming.
+But in southeastern Australia, where the downturn in rainfall is relatively recent, this link has yet to be made, says Coughlan.
+Australia was not the only place affected by drought, says the WMO report.
+Long-term drought was a problem in the US, Brazil, China and southern Africa, where at least 11 million people were affected by food shortages.
+Flooding rain
+The decrease in rainfall leading to drought in some places is accompanied by increases in rainfall elsewhere, leading to floods.
+Overall, the trend in Australia is for increasing rainfall, just not in the agricultural areas.
+Australia's tropical north had its fifth wettest wet season on record and tropical cyclone Larry in March was the strongest cyclone to make landfall in Queensland since 1918.
+Flooding was also a feature globally.
+The Indian monsoon, for example, brought the highest rainfall in 24 hours ever recorded in several locations.
+Meanwhile, the Danube river reached its highest level for more than a century in April 2006 affecting tens of thousands of people in eastern Europe.
+In May, floods in some of the New England area of the US were the worst in 70 years.
+And the Canadian city of Vancouver had its wettest month ever in November.
+Somalia is currently suffering the worst flooding in recent history with some places receiving more than six times the average monthly rainfall, affecting hundreds and thousands of people.
+Last year also saw the largest ozone hole over the Antarctic and a continued sharp decrease in Arctic sea ice. Over 60,000 square kilometres (about two thirds the size of the state of New South Wales) is being lost a year.
+
+Experts say the reduced HIV risk may be because cells on the inside of the foreskin, the part of the penis cut off in circumcision, are particularly susceptible to HIV infection
+Circumcising men cuts their risk of being infected with HIV in half, and could prevent hundreds of thousands or even millions of new infections, researchers say.
+Circumcising men worked so well that the researchers stopped two large clinical trials in Kenya and Uganda to announce the results, although they caution that the procedure does not make men immune to the virus. 
+Public health leaders hailed the results as pointing to a potentially powerful way to reduce HIV infections in Africa, the continent hardest hit by AIDS. 
+"It does have the potential to prevent many tens of thousands, many hundreds of thousands and perhaps millions of infections over coming years," says Dr Kevin De Cock, director of the World Health Organization's Department of HIV/AIDS. 
+The US National Institutes of Health (NIH) study in Kisumu, Kenya, involving 2784 men aged 18 to 24 showed a 53% reduction of HIV infections in circumcised men compared to uncircumcised men.
+A parallel study involving 4996 men aged 15 to 49 in Rakai, Uganda, showed circumcised men were 48% less likely than uncircumcised men to become infected. 
+Researchers previously noticed that in places where circumcision is common, HIV is less common. 
+Results of the first major study on the issue were reported last year out of South Africa, with researchers seeing a 60% reduction in HIV risk for circumcised men. Researchers view the results of the new trial as strong confirmation. 
+Dr Anthony Fauci, director of the NIH's National Institute of Allergy and Infectious Diseases says the institute ended both trials early and offered circumcision to all men involved in them. The trials began in 2005 and were due to go until mid-2007.
+HIV prevention
+"These results indicate that adult male circumcision could be an important addition to an HIV prevention strategy for men. Male circumcision can lower both an individual's risk of infection and hopefully the rate of HIV spread through the community," Fauci says. 
+Experts say the prevalence of male circumcision varies by region in African countries south of the Sahara, with large numbers of men in some areas remaining uncircumcised. 
+Fauci says while the initial circumcision benefits would be fewer HIV infections in men, the practice could lead to fewer women getting infected in parts of the world like Africa where the virus is passed largely through sex between a man and woman, not homosexual sex. 
+Another study is under way in Uganda assessing HIV infection risk for women with circumcised partners. 
+Experts say the reduced HIV risk may be because cells on the inside of the foreskin, the part of the penis cut off in circumcision, are particularly susceptible to HIV infection.
+HIV also may survive better in a warm, wet environment like that found beneath a foreskin. 
+Circumcision just part of the story
+Fauci says circumcision is not completely protective "and must be seen as a powerful addition to, not a replacement for, other HIV prevention methods".
+He says the benefits could be negated by small decreases in condom use by men or if men add more sexual partners. 
+"These results only apply to men where the risk of HIV transmission is through the penis. Transmission by injection drug use or receptive anal intercourse will not be affected by adult male circumcision," Fauci adds. 
+De Cock says public health experts might encounter cultural and social barriers in parts of Africa to male circumcision. 
+Of the 39.5 million people worldwide infected with the human immunodeficiency virus, 24.7 million are in sub-Saharan Africa. About 25 million people have died from AIDS since it was first identified a quarter century ago.
+
+The newly discovered glider was an agile flyer and had pointed, sharp teeth that it used to eat insects
+Gliding squirrel-like mammals that lived with the dinosaurs at least 130 million years ago may have conquered the skies around the same time as birds, or even earlier, scientists say.
+The newly discovered flyer, called Volaticotherium antiquus or ancient gliding beast, extends the earliest record of gliding flight for mammals to at least 70 million years earlier than once thought.
+A fossil of the creature, which represents a previously unknown group of mammals, was found in rock beds in northeastern China. 
+"It is the first fossil record of a gliding mammal in the Mesozoic, in the age of the dinosaurs. Previously we have had no fossil record of a mammal that had the ability of flight," says Dr Jin Meng, a palaeontologist at the American Museum of Natural History in New York.
+The find suggest other mammals from the Mesozoic era, from 248 to 65 million years ago, could have been much more diverse than scientists think. 
+Meng and his colleagues describe the flying mammal in the journal Nature.
+It is thought to be one of the most important discoveries of a major mammalian group since a review of Mesozoic mammals by Richard Owen in 1871.
+"This mammal is so different from what we know of Mesozoic mammals. So we think it presents a new branch of early mammals," Meng says. 
+The oldest previously known gliding mammal was a rodent. Bats took to the skies with powered flight about 51 million years ago. But the new gliding mammal is not a direct ancestor of any other living mammals.  
+Small agile glider
+The fossil shows the newly discovered mammal weighed 450 grams, was an agile flyer and had pointed, sharp teeth that it used to eat insects. 
+Toe bones suggest it was also able to climb trees, critical for a glider to reach heights from which to take off. 
+It had a large skin membrane from its fore to hind limbs that acted like an aerofoil during flight. There is also evidence of fur on the membrane and other parts of its body.
+A long tail could have acted as a rudder during flight. 
+Fossils of gliding animals are extremely rare. The scientists say the fossil record for gliding mammals is so scant because the small creatures are poorly preserved, particularly their gliding structure.
+"Because they are small mammals and live in forests it is harder for them to be preserved as fossils," says Meng.
+
+Golden coloured cocker spaniels are supposed to be more aggressive than black ones. But are other influences more important in shaping a dog's personality?
+A dog's colour reflects a pooch's personality, scientists say, at least in one breed, the English cocker spaniel.
+The latest study, recently published in the journal Applied Animal Behaviour Science, shows that golden/red English cocker spaniels exhibit the most dominant and aggressive behaviour.
+Black dogs in this breed are the second most aggressive, while particolour (white with patches of colour) are more mild-mannered.
+Earlier research suggests that hair colour is also linked to behaviour in labrador retrievers.
+For this breed, the most aggressive are the yellow ones, the next most aggressive are the black dogs and the least aggressive are the chocolate coloured ones. 
+The behaviour-hair colour connection is likely due to related genetic coding that takes place during the pup's earliest life stages, according to lead author Dr Joaqu&iacute;n P&eacute;rez-Guisado.
+"Maybe the link [to coat colour] is due to the fact that the ectoderm [one of the three primary germ cell layers] is where the skin and central nervous system originate in the embryo," he says.
+P&eacute;rez-Guisado, a Spanish researcher in the Department of Medicine and Animal Surgery at the University of Cordoba, and his colleagues measured levels of dominance and aggression in 51 seven-week-old English cocker spaniel puppies that were either full siblings or half siblings.
+The tests looked at how quickly a person could capture a puppy's attention, how well puppies followed the individual, how the dogs behaved while restrained, how they exerted their social dominance and what they did when they were lifted off the floor.
+In many cases, the golden-coloured dogs resisted human contact and even tried to bite the tester, while the particolour pups often wagged their tails and seemed to enjoy the attention.
+While genes control coat colour and appear to predispose behaviour in certain dogs, P&eacute;rez-Guisado says how dogs are raised plays the biggest role in behaviour. 
+He shows that environmental factors account for 80% of dominant, aggressive personalities while genes only influence 20% of dogs' demeanours.
+"It is very important to give the dog an optimum and suitable environment in order to have a dog with a low dominance aggressive behaviour level," he says.
+"For that reason, owners are primarily responsible for this undesirable dog behaviour."
+Hardly surprising
+Canine behaviourist and trainer Wendy Volhard and professional breeder Carolyn Sisson, who is president of the English Cocker Spaniel Club of San Diego, California, both say they're not surprised by the findings.
+They say that the link between coat colour and behaviour has been "a well-known, old wives' tale" for years.
+Although they both think there is "some truth to the recent findings", Sisson believes a dog's genetic lineage, going back many generations, is a better indicator of temperament than colour.
+Sisson says there are 29 recognised different coat colours for English cocker spaniels, and combinations other than golds mating with golds can result in a golden dog.
+"It's the line breeding out of puppy mills in England that probably resulted in the dominant traits," Sisson says.
+"The very best and worst of my dogs have been spaniels. They seem to cover every behavioural extreme," she adds.
+Looking at DNA
+P&eacute;rez-Guisado and his colleagues next plan to study the English springer spaniel and English cocker spaniel genomes to pinpoint common genes associated with so-called dog rage and colouration.
+Earlier research has also found that hair type may indicate a dog's temperament.
+In a study, wiry-haired mini dachshunds were often more feisty than their mellower, long-haired cousins.
+
+Hundreds of planetary nebulae with intriguing shapes like this helix nebula have been found by an Australian-led team
+The discovery of over 1000 glowing planetary nebulae could help balance cosmic accounts, says an international team of astronomers.
+The researchers say that their discovery could help them calculate what happens to stars' missing matter, mass that seems to be 'lost' when they die.
+Dr Quentin Parker, of Australia's Macquarie University in Sydney, and colleagues, say they have found 900 new planetary nebulae in the Milky Way and 500 in the neighbouring Large Magellanic Cloud.
+"Planetary nebulae are the death throes of stars," says Parker, who is also with the Anglo-Australian Observatory. 
+They are glowing regions of ionised gas that average-sized stars like our Sun throw off when they get old.
+The gas the dying star ejects interacts with the environment around it, such as the interstellar medium, to form weird and wonderful shapes.
+These have been given names like the cat's eye, hourglass, helix, ant and red spider.
+Missing matter
+Studying planetary nebulae helps tell us about how stars' matter is recycled from old to new stars.
+Nebulae last for tens and thousands of years so it's important for astronomers to study both young and old ones. 
+In general, it has been a lot easier for astronomers to find younger nebulae because they glow brighter.
+But Parker and colleagues have been able to find the fainter older ones and are now confident that they have representative sample of different ages, especially of nebulae close to our Sun.
+The mystery about dying stars is that they seem to lose much more mass than what appears to be thrown off in their nebulae. Some 85% of the mass appears to be unaccounted for.
+Parker hope that analysing the hundreds of new nebulae discovered will help explains where the extra mass goes.
+In the team's more detailed study of the Large Magellanic Cloud the team has found numerous extremely faint haloes around 60% of the planetary nebulae there.
+
+Tapping Boswellia tree for frankincense in Eritrea
+If Jesus was born today, the three wise men might have had to substitute frankincense for another gift, according to new research suggesting that production of the fragrant substance is in trouble.
+Frankincense, an aromatic hardened wood resin obtained by tapping Boswellia trees, has been an ingredient in perfumes and incense for thousands of years.
+The Bible says that at Christmas, the magi brought gifts to Jesus of gold, frankincense and myrrh. 
+Now ecologists from the Netherlands and Eritrea warn that current rates of tapping frankincense from Boswellia trees are endangering sustained production of the aromatic resin.
+Writing in the December issue of the Journal of Applied Ecology, Professor Frans Bongers of Wageningen University says that over-tapping the trees results in them producing fewer, less viable seeds.
+And production, in the Horn of Africa, is declining because Boswellia woodlands are failing to regenerate.
+The ecologists hypothesise that poor regeneration, due to intensive tapping, means trees are diverting too much carbohydrate into resin at the expense of reproductive organs such as flowers, fruit and seeds.
+They tested the theory by looking at how many seeds were produced by intensively tapped trees in southwestern Eritrea compared with untapped trees, and their germination rates.
+"At all study sites, trees subject to experimental tapping produced fewer flowers, fruit and seeds than trees that were exempt from tapping," Bongers says.
+"Furthermore tapped trees produced smaller fruits with seeds of lower weight and reduced vitality than non-tapped trees."
+The ecologists suggest changing the way trees are tapped, by reducing the number of tapping points per tree and enabling rest periods, would help ensure production is sustainable.
+"In order to control the decline in fruit and seed production, less intensive tapping procedures should be developed," they write.
+"As our results show that six tapping points per tree are already having a negative impact, we suggest reducing the number of tapping points.
+"New tapping regimes should also include rest periods when there is no resin harvesting to allow the trees to recover."
+The study is the first to show the fragile relationship between extracting wood exudates and tree regeneration in natural populations.
+
+Embryonic stem cells have been harvested from mouse embryos produced without sperm
+Mouse embryos created through a 'virgin birth' process called parthenogenesis show that egg cells can be a source of valued embryonic stem cells, researchers say. 
+The cells can be closely matched to the immune system of the recipient, making them a potential source for transplants, the researchers report today in the journal Science. 
+There are fewer obstacles to developing these stem cells than by using cloning technology, also called somatic cell nuclear transfer, researchers say. 
+"I think it is a much more real-world possibility than nuclear transfer," says Dr George Daley of the Children's Hospital and Harvard Medical School in Boston, who led the study. 
+If the experiment could be reproduced in humans, such cells might provide an alternative way to produce tailored tissues for transplanting, or for studying disease, Daley says. 
+"We are aggressively trying to produce human parthenogenetic embryonic stem cells," he says. 
+How did they do it?
+The researchers say they have produced dozens of genetically matched mice embryonic stem cell lines by means of a novel procedure called parthenogenesis.
+The word comes from Latin and Greek roots meaning virgin beginning and the process occurs when an egg cell starts dividing to produce an embryo without using sperm to fertilise it. 
+The researchers generated stem cells from unfertilised mouse eggs, screened them to ensure they would not be rejected by the rodent's immune system and then injected them back into the mouse. 
+The customised cells were successfully transplanted and yielded many, but not all, types of specialised tissue, possibly because of the absence of any male DNA. 
+The study establishes the principle of using unfertilised eggs as a source of customised embryonic stem cells that are genetically screened to ensure they carry the genes that allow the recipient's immune system to recognise them, making them fit for transplantation therapies.
+Scientists have experimented with parthenogenesis in mice before, but this is the first time that the procedure has yielded the embryonic stem cells or so-called master cells that have the potential to develop into any other type of cell in the body. 
+The study's authors are particularly encouraged because the unfertilised mice eggs produced embryonic stem cells 70% of the time.
+This suggests, the researchers say, that this technique is a much more robust and effective way of generating this highly sought-after genetic material than the current alternative, nuclear transfer. 
+Daley says the cell lines could also be studied for a better understanding of the basic biology of disease. 
+"For instance, a woman with a genetic condition - some kind of early-onset Parkinson's, bone marrow failure - you could use them as an in vitro model of the disease," he says.
+Still, Daley cautions that there are safety concerns with the procedure, which requires the egg to be chemically tricked into spitting out half its genetic material, leaving it with one set of female chromosomes. 
+In particular, tissue obtained in this way can carry some risk of cancer and abnormal growth. 
+"We'll have to demonstrate the safety and durability of cells from parthenogenetic embryonic stems cells before we could imagine any clinical use," says Daley. 
+Human eggs?
+Still, Daley and his team have begun experimenting with the procedure in human eggs, using eggs discarded by women undergoing in vitro fertilisation treatment at Boston's Brigham and Women's Hospital.
+So far, they have not been successful in isolating human embryonic stem cells from these eggs, which are typically 25 hours old by the time they reach the laboratory.
+The research team plans to recruit female volunteers to donate their eggs for research purposes a year or so from now, with the hope that these eggs will deliver better results.
+
+Flares from the Sun are random events but are usually only big at high points in the cycle of solar activity, when this image was taken
+Communication systems are being disrupted by the effects of an unusually large solar explosion that started lashing the Earth this week.
+The explosion could also cause spectacular auroras in the night skies as far north as Sydney, weather permitting.
+Dr David Cole, director of the Australian Government's space weather service, says the massive solar explosion as the Sun is supposed to be in a fairly quiet phase.
+"We didn't expect anything in particular and suddenly this turns up and it's really fierce," says Cole, of IPS Radio and Space Services in Sydney.
+When magnetic fields in the Sun coalesce in dark regions called sunspots they can explode sending a blast of radiation. Such solar flares reach Earth within minutes.
+This is followed by a cloud of plasma or coronal mass ejection (CME) that takes a day or so to reach Earth.
+The flare and CME alter the ionosphere, the outermost part of Earth's atmosphere, and cause problems with communication systems.
+Unpredictable
+Although solar explosions are random, they are more likely to happen when the Sun is most active, during what is called a solar maximum that happens every 11 years. But there is currently a solar minimum.
+Cole says solar flares are hard to predict because there are no models of how they work.
+While Coles' agency suspected something might happen when they saw a sunspot pointing directly at the Earth and a build up in magnetic fields, they couldn't tell exactly if or when an explosion would occur.
+"It's like someone snapping their fingers, you don't know when they're going to do it," he says.
+GPS and short-wave communications blocked
+Cole says the solar flare that reached the Earth mid-week, had possibly the strongest emission at 1.4 gigahertz ever seen, matching almost exactly the wavelength GPS satellites use. 
+He says communication with GPS navigation satellites in the lower ionosphere was blacked out for up to two hours.
+Short-wave radio communications, used by defence forces, aviation and emergency services, were also affected, says Cole. Such communications pass through or bounce off the ionosphere. 
+But Cole stresses air traffic control does not rely on short-wave communication.
+Fire fighters affected?
+Another CME reached Earth today and Cole predicts its effects on short-wave communications will last throughout the weekend.
+It might also affect short-wave communication of some personnel currently fighting Australia's severe bushfires.
+He says his agency will let such emergency services know which frequencies will be unaffected by the CME so they can use these instead.
+Cole says electricity grids close to the poles could also be disrupted today by the CME.
+Cole says the same sunspot produced caused less serious explosions earlier this month and may cause another in around two weeks time.
+Spacewalkers take cover
+While humans on Earth are protected from the effects of solar explosions, those in space are vulnerable, says Cole.
+For instance this week astronauts on the shuttle Discovery and the International Space Station have been sleeping in protected areas and may need to cut planned spacewalks short if radiation levels get too high.
+
+With the new system, individual sensors in a network detect an environmental condition, like temperature, and tell their neighbouring sensors about it. This creates 'clones' that perform tasks based on what their neighbours are doing or sensing
+It has the classic elements of a good spy story: secret agents that infiltrate a network and clone themselves to do the work of many. But this story has a happy ending.
+The agents in question are mobile, self-contained pieces of software that can take over sensors in a wireless network and direct them to accomplish specific tasks.
+The technology could help fight fires, monitor environmental conditions, or even help blind people navigate buildings.
+"Our software is the first to allow this flexible sharing of a sensor network infrastructure," says Professor Gruia-Catalin Roman, chair of the department of computer science and engineering at Washington University in St Louis.
+Most existing wireless sensor networks are built with small devices called motes.
+Each mote includes a battery, a computer, a radio and a sensor that monitors variables such as light, vibration and temperature, takes pictures, or listens for sounds.
+Such networks can consist of hundreds or even thousands of motes, and they can be placed just about anywhere it might be useful to pick up information from the environment.
+Most of them perform a single task, for example monitoring temperature or vibrations in the air. Re-tasking generally requires configuring each sensor anew.
+"This is a major problem. Since these systems exist in the real world, the dynamics and unpredictability often require new solutions," says Professor Jack Stankovic of the University of Virginia in Charlottesville, who is not associated with the research.
+To overcome that limitation, Roman, colleague Assistant Professor Chenyang Lu and their doctoral student Chien-Liang Fok have developed a software system called Agilla.
+Once equipped with the software, individual sensors in a network can detect an environmental condition and communicate with the neighbouring sensors.
+This creates 'clones' that perform tasks based on what their neighbours are doing or sensing.
+In laboratory experiments, Roman and his colleagues used the agents to monitor simulated fires and help robots navigate around them.
+In a real-life situation, a firefighter could potentially tap into the network with a PDA and learn where the fire is and how intense it is.
+"Agilla is small enough to fit on motes, general enough to support many kinds of functionality. I think it is also efficient enough to be viable," says Stankovic.
+
+Nanowires can function as highly sensitive tuning forks, scientists say
+Scientists say they have made the world's strongest nanowire, reaching the theoretical limits of what they'd planned to build.
+The nanowire, which is about 1000 times thinner than a human hair, is so strong it could support 16 African elephants if it was scaled up to the size of a child's finger, says Associate Professor John Sader from Australia's University of Melbourne.
+Sader is part of an international team of scientists that grew the semiconducting nanomaterial, publishing the results in the journal Nano Letters.
+"The ultimate strength we report is the highest recorded for any semiconductor material system and is at the theoretically predicted limit," says Sader, who was involved in measuring the strength of the wires using an atomic force microscope.
+"This indicates that these nanowires are near perfect materials." 
+Experts say that such nanowires could one day be used to make electrical and electromechanical devices like environmental sensors or even ultra-precise clocks.
+To built a nanowire
+The nanowires were built from germanium, an element the researchers say has similar chemical properties to tin.
+They built the material on a surface coated with gold nanocrystals, which allowed the germanium to nucleate and grow.
+They then tested the strength by placing it across a small trench and manipulating it sideways.
+They found it could bend and stretch further than any other nanowire anyone had ever made, sustaining 15 gigapascals before snapping.
+This was roughly the same as the predicted ultimate force, compared to many other semiconducting nanowires, which snap at just 15% of their theoretical limits.
+If the wire was one centimetre in diameter it could hold up to 100 tonnes without breaking, he says.
+This resilience will result in failproof nanodevices, says Sader, adding it is not theoretically possible to make a stronger nanowire.
+"This exhibits the theoretical limits, so this is basically it," he says.
+Tuning forks and metronomes
+Professor Paul Mulvaney from the University of Melbourne's school of chemistry, who wasn't involved in the research, says the nanowires could be used as sensors to detect gases, air pollutants or biological agents.
+This is because they function as super-sensitive 'tuning forks' that change frequency when molecules become attached to them.
+"Because the wires are so small, they can detect very small amounts of materials absorbing onto their surface," he says.
+They could also be used as nanoscale metronomes that vibrate in high-frequency timing devices or in computer chips, he says.
+Germanium nanowires are also ideal candidates for making optical devices like light-emitting diodes and tuneable lasers, Mulvaney says.
+
+The batfish has literally emerged from the blue as a potential saviour of dying coral reefs
+A fish that gatecrashed an experiment in Australia's Great Barrier Reef has surprised scientists by emerging as an unexpected weapon against the worldwide decline of coral reefs.
+Scientists from the Australian Research Council Centre of Excellence for Coral Reef Studies (CoECRS) had been studying ways of reversing the effects of coral bleaching at a reef near Orpheus Island in the World Heritage listed marine park.
+Part of the research involved generating a bloom of the tropical kelp sargassum weed and seeing if local weed eating fish would chomp their way through it, says CoECRS director Professor Terry Hughes.
+While herbivorous species like the parrotfish and surgeon fish only nibbled disinterestedly at the algae, the batfish (Platax pinnatus) turned up and cleared the weed within two months.
+"The surprising finding ... was that a different group of fish was responsible for reversing the algal bloom," Hughes says.
+"Batfish are normally considered to be plankton feeders so we were amazed when we captured on video the effects those fish were having."
+Chief investigator Professor David Bellwood of the CoECRS and James Cook University says the batfish's voracious appetite for weed saved the coral from being choked to death.
+"In five days they had halved the amount of weed. In eight weeks it was completely gone and the coral was free to grow unhindered," he says.
+Weed warriors
+Bellwood says declining coastal mangroves serve as nurseries for batfish, which are found in reefs around the world.
+This highlights the need to preserve mangroves and protect these accidental weed warriors, he says.
+Other reef weed-mowers like the green turtle and dugong, are both seriously endangered, he says.
+"If Platax is the last grazer of dense weedy stands on inshore coral reefs and it goes into decline the capacity of these reefs to recover ... could be lost," he says.
+Reporting in the journal Current Biology today, Bellwood describes the batfish as a "sleeping functional group", or a species with a hitherto unrecognised role in reef life.
+Adapting to climate change
+The study is the first extensive demonstration of the role of fish in promoting the recovery of coral reefs, Hughes says.
+He says it shows that reefs can adapt to climate change, which has been linked to coral bleaching and subsequent overgrowth of weed.
+"We're only beginning to scratch the surface in terms of the changes that climate change is already causing," he says.
+"I am of the opinion that coral reefs have already started to adapt ... I think we'll see a shift in the abundance of particular species depending on their ability to respond."
+
+Designers and engineers are sharing information online about how to build a better car, free from patents and profit margins
+The open source movement responsible for software like Linux and the browser Firefox is proving contagious. Now a German entrepreneur is applying the same approach to designing a car.
+Former BMW employee Markus Merz, who now owns an automobile consulting firm in Dingolfing, Germany, calls his project Oscar, shorthand for Open Source Car.
+The idea behind open source development is to allow anyone to copy, modify and redistribute ordinarily secret information about a technology without paying royalties to the original developers.
+The project, which Merz calls his hobby, is bringing together automobile engineers, designers and other experts on online forums to exchange ideas on how to improve mobility, specifically car design. 
+The hope is that, unrestrained by patents and other conventional restrictions such as profit margin, marketing and technology, a community of experts will come up with fresh solutions.
+"We [usually work] in front of the computer to generate stuff that people in front of a computer will use. It's boring," says Merz.
+"It would be a great idea to combine the idea of open source with the idea of hardware, and a car is hardware that is interesting."
+Designers share ideas online 
+A website serves as headquarters for the concept car. Participants interact according to a few simple rules about performance specifications.
+For example, the car will be about 4 metres long and 2 metres wide, and will have four doors. It will be powered by electricity and have a maximum speed of about 150 kilometres per hour.
+Participants discuss their ideas on online forums organised into four main topics: integration, which includes design, package and distribution; modules, which includes discussion of the body, engine and safety systems; tools, which includes conversations about computer-aided design tools and simulations; and network, where participants discuss potential partnerships.
+A group of technicians heads each forum to ensure that the best ideas are moved forward to computer modelling and testing. From there, anyone, including car manufacturers, will be encouraged to build the car.
+There will be no patents, and no proprietary data.
+"The most effective tool you can have to get anything done is passion and creativity and that needs to be unleashed, and then it's much more powerful than money," says Lukas Neckerman, head of automotive business development at a financial services company in Munich.
+Oscar is also a hobby for Neckermann, who is responsible for communications.
+Encouraging creativity
+Mechanical engineer Achim Schillak agrees that people have a desire to contribute their ideas to innovative projects, and if they can't do that in their current occupation, they will find another outlet.
+Schillak wrote a case study about Oscar while he was studying business management at New York University.
+But he believes that there are some limitations applying the open source approach to cars.
+"After design studies and calculations, you have to build a prototype and crash test it and that is a major difference to developing some software," says Schillak.
+And Oscar is not set up to build the car. But Merz has faith that any of several small auto manufacturers could eventually take the concept to its 3D form.
+"The greatest success for me would be if I can ride in this car," says Merz.
+
+Should people take cod liver oil capsules, which are rich in vitamin D, to prevent MS?
+A new study provides the most compelling evidence yet that vitamin D, the so-called sunshine vitamin, may protect against the neurological disease multiple sclerosis (MS). 
+Harvard University researchers who reviewed the medical data of more than seven million US military personnel found the risk of MS fell dramatically as the level of the vitamin circulating in the blood rose. 
+The effect was only seen in Caucasians; the data in the study for African Americans and people of Hispanic descent was inconclusive. 
+The relationship was particularly strong in the under-20 age group, according to the study published today in the Journal of the American Medical Association.
+Individuals who ranked in the top 20% of the sample for vitamin D levels had a 62% lower risk for the chronic autoimmune disease than those in the bottom 20%. 
+The study also found that there was a 41% decrease in risk for MS with every increase of 50 nanomoles per litre of circulating vitamin D. 
+"The study strongly suggests that vitamin D has a protective effect, and one which could potentially prevent thousands of cases of MS," says co-author Alberto Ascherio, associate professor of nutrition and epidemiology at the Harvard School of Public Health.
+The findings add to a growing body of evidence that vitamin D could reduce the incidence of the incurable condition. 
+But Ascherio says it is still insufficient to make the case for an increase in the recommended daily dietary intake of vitamin D.
+"It's important to establish whether it's a true causal relationship," says Ascherio.
+He says the question should be urgently addressed by means of a trial that would enrol volunteers and assign them to take the supplement. 
+MS is a chronic inflammatory disease of the central nervous system that afflicts some two million people worldwide.
+It is more common among people with northern European ancestry, according to the US National Multiple Sclerosis Society.
+The illness can be relapsing and remitting or progressive, with symptoms that range from fatigue and slurred speech to tremors, stiffness, poor coordination and in the most severe cases paralysis.
+Vitamin D, dubbed the sunshine vitamin because it is naturally produced in skin that is exposed to the Sun's ultraviolet rays, is thought to rein in the overzealous immune system cells that cause the condition. 
+For more information on MS, including information for patients and their carers, see the MS Australia website.
+
+Humans may be able to understand a dog's bark because all mammals speak a universal language
+What do dog barks have in common with bird tweets and human baby cries?
+All appear to communicate basic emotions, such as fear, aggression and submission in somewhat the same acoustic way, according to a new study in the journal Applied Animal Behaviour Science.
+The find suggests a primitive communication system may unite virtually all mammals.
+The theory could help explain why previous research has found that many mammals, including humans, understand the vocalisations of different species.
+For example, a study in the journal Language Communication shows young children can identify simple emotions conveyed in macaque calls.
+For the recent research, Professor P&eacute;ter Pongr&aacute;cz and colleagues studied how well people could describe the emotional content of several artificially assembled bark sequences.
+The barks were based on sounds made by a mudi (a Hungarian herding dog) and covered five emotional states: aggressiveness, fear, despair, playfulness and happiness.
+Pongr&aacute;cz, a professor of ethology at E&ouml;tv&ouml;s Lor&aacute;nd University in Budapest, Hungary, and his team then compared the listeners' answers to the barks' acoustic features.
+The scientists discovered that changes in three basic sound qualities - tone, pitch, and the time between barks - determined how listeners perceived the barks.
+In general, high-pitched barks with longer intervals between each bark were rated as less aggressive than lower-pitched barks heard in frequent succession.
+Just like humans
+Human babies make similar changes in sound quality when they cry, except frequency range appears to be more important than pitch when they express their needs.
+This link between pitch or frequency and perceived emotion appears to carry across many different species, according to Pongr&aacute;cz, who cited an earlier theory proposed by avian expert Professor Eugene Morton.
+"His basic argument was that, according to the general physical laws, larger bodies emit sounds characterised by lower frequencies and these are also noisier/atonal. Thus receivers can predict the size of the sender," Pongr&aacute;cz and his team write.
+"This relationship could have formed the basis of an evolutionary ritualisation process whereby low-pitched vocalisations tended to signal aggression because larger animals are more likely to win contests ... and high-pitched vocalisations became predictors of submission or friendly intent."
+Since the people in the dog study also linked barks signifying despair, happiness and playfulness, the researchers suspect dogs and humans share a unique ability to communicate with one another that goes beyond the proposed universal mammal 'language'.
+The scientists believe years of domestication have improved the way that dogs, versus their wolf ancestors, can communicate with us.
+They point out that such communication isn't limited to vocalisations. It also includes visual signals, such as changes in looks.
+Common house cats also appear to have evolved improved means of communicating with humans, according to a study conducted by Cornell University researcher Nicholas Nicastro. Cats, however, seem more intent on manipulating us.
+"Though they lack language, cats have become very skilled at managing humans to get what they want - basically food, shelter and a little human affection," says Nicastro.
+Alan Beck, professor and director of the Center for Human-Animal Bond at Purdue University, says that we have to be careful not to interpret behaviour according to "our projection of intent".
+But he admits dogs might be able to communicate with us through their barks.
+"As dogs and humans share some basic non-verbal communications, it is very possible that verbal ones also exist," Beck says.
+
+Your music would be grouped in 'islands', which you could see on a screen. The more jazz in your collection, for example, the steeper the contours of the jazz island. And when you hover over the island, you'd see a list of songs floating like clouds
+Music fans are downloading digital music and storing hundreds, if not thousands, of songs onto smaller and smaller devices.
+Yet organising those songs remains a throw back to the days of vinyl, an uninspired structure of artist, album or track.
+Researchers have now developed a program that automatically organises a collection of digital music files into a virtual landscape.
+Instead of digging deeper and deeper through categories and subcategories of songs, you fly over an archipelago of sound-specific islands.
+"It could work like a flight simulator," says Peter Knees, a PhD candidate and project assistant at Johannes Kepler University in Linz, Austria.
+"You see landmarks that relate to style. If you dive deeper, it will reveal artists and then deeper to see individual songs."
+Such a visual experience with digital files could fuel the music industry in new ways, says Ichiro Fujinaga, associate professor at the Schulich School of Music at McGill University in Montreal, who is not associated with the research.
+"Good solutions may allow vendors to sell more music," he says.
+So far, the solution Knees and his team propose organises about 500 music files. It's capable of analysing tens of thousands, but the researchers are keeping things simple while they make refinements.
+The software analyses certain features from the audio signal, such as how much bass or treble exists and sound patterns that have to do with rhythm and tempo. Then the program clusters similar sounding pieces into regions of music.
+The more similar pieces the user owns - let's say, Latin jazz - the higher the terrain on the Latin jazz island.
+The user flies over the landscape using a joystick. As she approaches an island, she will hear an auditory impression of the musical style of the region. She also sees song titles, artist names, and even images floating like little clouds above the landscape.
+If she wants to hear a specific song, she simply hovers over it. Or if she wants to hear anything from Latin jazz, she hovers over the region.
+There are some things the software doesn't address, Fuinaga points out, such as the user's profile (is she a teenager or an opera buff?) or the listening context (is the person driving, showering on a date?).
+And as good as any 3D music interface might be, some people are still sceptical about whether it's really necessary. But then, is a US$500 mp3 player really necessary?
+Knees and his team are currently developing the program for a public exhibition at an Austrian science museum that specialises in new media technology.
+Museum goers will be able to play with music files already stored in the computer or download their own files to see what their collection looks like.
+
+Latest image of the first light in the universe
+Fresh evidence of the first objects to emerge after the Big Bang has left scientists debating what these could be.
+Researchers say the cosmic glow could be the first stars or quasars, but are not sure which.
+Dr Alexander Kashlinsky and colleagues at the  NASA Goddard Space Flight Center will report their findings in the 1 January issue of The Astrophysical Journal.
+Using NASA's Spitzer Space Telescope, the researchers analysed infrared radiation from deep space.
+They first removed the bright signal of recent galaxies in the foreground to detect the the ancient background glow.
+The researchers saw clumps in this infrared background radiation they believe comes from the first objects to emerge from the Big Bang.
+"Observing the cosmic infrared background is like watching distant fireworks from within a brightly lit city," says Kashlinsky. 
+"It's as if we have turned off the city lights one by one to see the bursts more clearly."
+Building on their study published in the journal Nature last year, the researchers say they could be picking up light from the earliest stars, stretched to infrared wavelengths by the expansion of the universe.
+Alternatively, they say the distant glow could be from quasars - large black holes that consume enormous amounts of gas and debris and re-emit the materials in powerful burst of energy.
+Less certain the glow comes from stars
+Last year the researchers were reportedly certain the signals from deep space were from the earliest stars.
+Kashlinksy says this was because his team failed to explain that current equipment does not allow the researchers to pinpoint individual sources of the radiation.
+"We did not make this point sufficiently clear in the Nature paper in 2005 and, hence, added a caveat on this in the new papers," says Kashlinksy.
+"While we can't resolve each spark in the fireworks, we can see the large scale structures and their glow."
+
+The way your gut microbes digest food could influence your body weight, scientists say
+Bacteria in your gut may determine whether you are skinny or obese, according to scientists who say that food, exercise and genetics may not be the only things to influence body weight.
+US scientists have discovered that levels of two types of good bacteria in the gut that help to break down foods are different in obese and lean people and mice.
+The finding, reported today in the journal Nature, could lead to a better understanding of why some people may be prone to obesity and help find new ways of preventing or treating it. 
+"Our gut microbial structure should be considered when understanding the elements that might regulate our energy balance and may predispose us to obesity," says Professor Jeffrey Gordon, of the Washington University School of Medicine in St Louis.
+"There is something very startling about the amount of fat you have and the structure of your gut microbial community," he adds. 
+There are trillions of bacteria in the gastrointestinal tract, but two groups called the bacteroidetes and the firmicutes are the most dominant and their proportion varies in lean and obese mice and humans.
+The scientists found that the proportion of bacteroidetes bacteria is lower in obese mice and people than in lean people. 
+But when Gordon and his team studied 12 obese people who followed low-calorie diets for a year, they found their levels of bacteroidetes rose as their weight decreased. 
+"They increased as the weight is lost and in proportion to the amount of weight loss," says Gordon. 
+The results suggest that there may be a microbial component to obesity. But scientists do not yet know if people start out with lower levels of bacteroidetes or firmicutes that may make them prone to obesity. 
+"These are things we are exploring now. What are the signals between the amount of fat and different groups of bacteria that exist in the gut," says Gordon.
+University of Cincinnati researchers, writing in an accompanying commentary in the journal, say:
+"This is a potentially revolutionary idea that could change our views of what causes obesity and how we depend on the bacteria that inhabit our gut. But a great deal remains poorly understood."
+
+This komodo dragon was a 'virgin birth' at London Zoo recently. Another batch is expected at Chester Zoo this Christmas
+Flora, a pregnant komodo dragon living in a UK zoo, is expecting eight babies in what scientists say could be a Christmas virgin birth. 
+Flora has never mated, or even mixed, with a male dragon, and fertilised all the eggs herself, a process culminating in parthenogenesis, or virgin birth.
+"Nobody in their wildest dreams expected this. But you have a female dragon on her own. She produces a clutch of eggs and those eggs turn out to be fertile. It is nature finding a way," says Kevin Buley of Chester Zoo.
+He says the incubating eggs could hatch around Christmas. 
+Parthenogenesis has occurred in other lizard species, but Buley and his team says this is the first time it has been shown in komodo dragons, the world's largest lizards. 
+Scientists at the University of Liverpool discovered Flora had had no male help after doing genetic tests on three eggs that collapsed after being put in an incubator. 
+The tests on the embryos and on Flora, her sister and other dragons confirmed that komodo dragons can reproduce through self-fertilisation. 
+"Those genetic tests confirmed absolutely that Flora was both the mother and the father of the embryos. It completely blew us away because it [parthenogenesis] has never been seen in such a large species," Buley says. 
+A komodo dragon at London Zoo gave birth earlier this year after being separated from males for more than two years. 
+Scientists thought she had been able to store sperm from her earlier encounter with a male.
+But after hearing about Flora's eggs, researchers conducted tests that showed her eggs were also produced without male help. 
+"You have two institutions within a few short months of each other having a previously unheard of event. It is really quite unprecedented," says Buley. 
+The scientists, reporting the discovery today in the journal Nature, say it could help them understand how reptiles colonise new areas.
+A female dragon could, for instance, swim to another island and establish a new colony on her own. 
+"The genetics of self-fertilisation in lizards means that all her hatchlings would have to be male. These would grow up to mate with their own mother and therefore, within one generation, there would potentially be a population able to reproduce normally on the new island," Buley says.
+
+This giant sauropod weighed a massive 48 tonnes, eight times more than Tyrannosaurus rex
+The fossilised remains of a gargantuan plant-eating dinosaur, one of the largest animals ever to walk the Earth, has been found in Spain.
+The giant would have been up to 38 metres long and weighed as much as seven elephants.
+Turiasaurus riodevensis, named after the region and village in Spain where it was found, lived about 145 million years ago, the research team reports today in the journal Science.
+It was a sauropod, the familiar kind of dinosaur with a long neck, long tail and massive body that walked on four stout legs. 
+Sauropods are the largest land animals in Earth's history and this particular one is the largest dinosaur ever found in Europe.
+Previous dinosaurs of this scale have been found mostly in the Americas and Africa. 
+This one is emblematic of a previously unrecognised branch of European sauropod evolution, the scientists say.
+"This discovery is the dream of a palaeontologist," says co-author Dr Luis Alcala of Fundaci&oacute;n Conjunto Paleontol&oacute;gico de Teruel-Dinopolis in Spain. "Really, I'm not dreaming?" 
+The dinosaur came from a time right at the boundary between the latter two periods of the Age of Dinosaurs, the Jurassic and Cretaceous. Relatively little has been known about European dinosaurs dating from then. 
+Scientists believe this dinosaur spent its days munching plants in an area close to the shoreline of the ancient Tethys Sea, forerunner of the Mediterranean Sea. 
+The first bones were found in an abandoned wheat field near the village of Riodeva in northeastern Spain in May 2003, Alcala says. 
+Alcala says it weighed 40-48 tonnes and was 36-38 metres long. Tyrannosaurus rex was a baby by comparison, weighing just 6 tonnes and about 13 metres long.
+The Spanish dinosaur's humerus, the bone in the front leg that extends from shoulder to elbow, was as big as a full-grown man. 
+Turiasaurus rivals the size of the largest known dinosaurs, all sauropods, and its remains were more complete than those of many of them.
+These include the African giant Paralititan, Seismosaurus in North America and Argentinosaurus and Puertasaurus in South America. 
+"It's a tremendously large animal, not quite to the scale of the 'land whales', things like Argentinosaurus and Puertasaurus or Sauroposeidon. But it's pretty darned big," says Dr Thomas Holtz, a dinosaur expert at the University of Maryland who was not involved in the research.
+"This is the first real super-giant from Europe," Holtz says. 
+Other fossils found at the site indicates Turiasaurus lived alongside other dinosaurs, including two-legged meat eaters, other sauropods and plant eaters similar to the armoured Stegosaurus. Turtles and crocodile-like reptiles were also around at the time.
+The researchers say Turiasaurus was more primitive from an evolutionary perspective than other known giant sauropods. 
+The team found 70 pieces of the fossilised remains representing about a quarter of its skeleton, including fragments of the skull, leg, back, toes, ribs, shoulder blade and teeth. 
+Finding most of the key parts, the only vital missing piece was the pelvic girdle, allowed the scientists to ascertain its dimensions and appearance.     
+Other well-known sauropods include Apatosaurus (formerly known as Brontosaurus), Brachiosaurus and Diplodocus.
+
+Researchers have found DNA associated with nanoparticles from kidney stones. Could these strange particles be nanobacteria?
+Researchers who've found strange nanoparticles in a handful of kidney stones say these self-replicating specks may play a role in disease.
+The US researchers are not sure whether these tiny particles, 50 to 100 nanometres across, are living nanobacteria or just some strange non-living self-assembling ball of chemicals.
+"We have some evidence that would support either possibility," says kidney specialist Dr John Lieske of the Mayo Clinic College of Medicine.
+He and colleagues report their findings in the December issue of the Journal of Investigative Medicine.
+At some point in their life about 10% of people will get kidney stones, a painful condition in which calcium deposits clog the kidneys.
+Scientists aren't sure what causes these deposits. But one theory that Lieske and colleagues are investigating is that tiny calcium-covered particles are partly to blame.
+Previous research has found such particles in human serum, urine, renal cysts from patients with kidney disease, as well as in kidney stones.
+Lieske says some researchers dub the particles nanobacteria, and propose they are a new disease-causing agent.
+But Lieske says there is not yet enough evidence these particles are alive.
+Nanoparticle investigation
+Lieske's team isolated the nanoparticles, which have a protein-lipid core surrounded by a calcium phosphate shell, from kidney stones. 
+The researchers grew the nanoparticles in culture over a period of four to eight weeks.
+They found that antibiotics and metabolic inhibitors slowed the particles' growth.
+Then the researchers grew a large batch of nanoparticles, dissolved the calcium shells and extracted proteins and DNA.
+Does all this mean that the nanoparticles are nanobacteria after all? 
+Lieske says it's still too early to say.
+"There definitely is DNA associated with [the nanoparticles]," he says. "But is that a contaminant?"
+He says some fragments of the protein and DNA appear to match known bacteria.
+His team now plans to grow more nanoparticles and see if they can find a unique genetic signature that would prove the nanoparticles are indeed nanobacteria.
+Scepticism
+Geologists and astrobiologists have also considered the possibility of nanobacteria over the years. For instance, understanding the full range of life forms is important in our search for extraterrestrial life.
+Professor Malcolm Walter of the Australian Centre for Astrobiology in Sydney, says there has been much scepticism about nanobacteria.
+

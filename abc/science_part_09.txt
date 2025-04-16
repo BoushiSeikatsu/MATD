@@ -1,0 +1,661 @@
+She questioned 74 children aged between three and eight, half with a current or past imaginary friend.
+The group with imaginary friends reported more mythical content in their dreams, had more frequent and more vivid daydreams and were more likely to play games with a mythical content.
+When imaginary friends turn nasty
+Dr Louise Newman, a child psychiatrist and the director of the New South Wales Institute of Psychiatry, says the study confirms what has long been suspected.
+But she says further research needs to look at the psychological and emotional function of imaginary friends.
+Newman says while some imaginary friends function as sort of "super peers" or the "perfect playmate" they can also be a sign of emotional disturbance.
+"There are some cases in which children have those companions because they might be lonely, distressed or unable to put into words things that are concerning them," she says.
+"Some friends ... can be quite persecutory or frightening, they might torment the child, or express doubts, tell them they're stupid or bad."
+Newman says while imaginary friends are quite common in younger ages, they are more likely to be associated with emotional or family problems in children over the age of about seven.
+Adults with imaginary friends
+Most children grow out of imaginary friends, Newman says. But in some cases an imaginary friend can emerge in adulthood, usually in response to trauma, inability to cope with stress and sometimes psychotic illness.
+ In rare cases some adults develop what's known as Doppelganger syndrome, which occurs when they believe a twin or invisible friend accompanies them.
+"Other people believe in angels and guardian angels, and they don't think there's anything out of the ordinary about that," she says.
+Bouldin says her study suggests children with imaginary friends can readily access fantasy themes and may develop sophisticated information processing skills.
+But she says it could also be that children with imaginary friends are simply more willing to discuss their fantasies than those without.
+
+Genetically modified viruses that line up and conduct electricity could be the basis of a new generation of batteries
+Genetically manipulated viruses could replace standard lithium-ion batteries, packing two to three times more energy than other batteries, researchers say.
+The virus batteries could be thin, transparent, and lightweight, according to a US study published online recently in the journal Science by Professor Angela Belcher of the Massachusetts Institute of Technology and team.
+Because less material is devoted to packaging, more of the battery is used just for generating power. 
+"What we're trying to do is have all of the mass and volume be used for the purpose it is to be used for, which is to power the device," says Belcher.
+The researchers say such a battery should last as long as conventional batteries. And it could power anything from microelectronics, including chemical and biological sensors, 'lab on chip' devices, and security tags to larger items such as mobile phones, computer displays and even electric cars. 
+Building batteries, like building anything, requires assembly. The smaller the battery, the more challenging that is. 
+Current manufacturing techniques involve arranging nanoparticles, nanotubes, or nanowires on surfaces using expensive, high-temperature methods. 
+Belcher and her team decided to capitalise on biology's inherent knack for organising microscopic structures and apply it to battery technology. 
+Viruses acting like wires?
+To make the viruses work like conducting wires, the scientists genetically altered the organisms so that proteins on their surfaces would be attracted to metal particles, including cobalt and gold. 
+Four different solutions went into the battery component: a negatively charged polymer, a positively charged polymer, negatively charged viruses, and charged particles, or ions, of cobalt. 
+The scientists spread the negatively and positively charged polymer solutions onto a glass slide in alternating layers. Next, they dipped the slide into a solution containing millions of the altered viruses. 
+The wire-like viruses automatically spread themselves evenly across the slide, as they have a natural tendency to slightly repel each other. 
+When the slide was dipped into the ion solution, proteins on the surface of the viruses attracted the metal ions, causing the organisms to become, essentially, conducting wires. 
+And because viruses naturally replicate, scientists say that growing more to make many batteries shouldn't be hard. 
+"All you do is grow them in a bigger fermenter and you're done. Once you do, there's no roadblock to scale up to industrial level production," says Brent Iverson, professor of chemistry and biochemistry at the University of Texas at Austin.
+Building anodes and cathodes
+When the polymer solution dries, it becomes a transparent anode, the battery's positively charged terminal.
+A piece of film about 10 centimetres by 10 centimetres contains about a billion conducting viruses.
+Belcher and her team are working next to produce the negatively charged cathode with the viruses and believe they will have a working prototype in about two years.
+
+Melting ice is depriving polar bears of their habitat, says a new report, making them a vulnerable species
+Polar bears and hippos have joined the ranks of species threatened with extinction from climate change, unregulated hunting and other human-made dangers, says a leading environmental agency. 
+The World Conservation Union, or IUCN, says more than 16,000 species of animals and plants are at risk of disappearing, including one in four mammals and one in eight birds. 
+It added 530 species to its 'Red List' of endangered species since the last version released two years ago. 
+Australia, China, Brazil and Mexico are home to large numbers of threatened species, says the IUCN.
+Its members include 81 governments, more than 850 non-governmental groups and some 10,000 scientists from around the world.
+The agency says countries worldwide need to boost efforts to preserve biodiversity through reduced emissions, tighter fishing and hunting controls and other measures. 
+Without a reversal of global warming trends, it predicts polar bear populations would drop more than 30% in the next 45 years as melted ice caps deprive the animals of their habitat. 
+It classifies the polar bear as a 'vulnerable' species, one step down from 'endangered' in its ranking of extinction risk. The polar bear was previously called a less-severe 'conservation dependent' species. 
+The common hippo was also ranked as vulnerable, "primarily because of a catastrophic decline in the Democratic Republic of Congo", the IUCN says. 
+Unrestricted hunting has caused a 95% decline in the central African country's hippo population since 1994, it says. The animal has never before been listed as threatened.
+Critically endangered
+Dama gazelles, once the most populous species of gazelle in the Sahara desert, are now 'critically endangered' as a result of poaching, the report finds.
+More than half of the Mediterranean's 25 endemic species of freshwater fish are deemed to be at risk of extinction, along with one in four of East Africa's freshwater fish. 
+In Malawi, where freshwater fish account for 70% of the animal protein that humans eat, the numbers of lake trout in Lake Malawi have halved in the past decade. 
+"This could have major commercial and dietary consequences for the region," the IUCN says. 
+Ocean life is also cited as vulnerable. Of 547 species of sharks and rays assessed in the report, 20% are found to be at risk of extinction. Bottom-dwelling species also logged huge declines as fisheries have reached into ever-deeper waters. 
+"Populations are destined to decline in the absence of international catch limits," the report says, adding regulations on mesh size and non-fishing areas could help restore stocks. 
+Conservation can work
+World Conservation Union director general Achim Steiner says resurgent populations of white-tailed eagles in Europe shows that protective measures can protect vulnerable species.
+"Conservation measures are making a difference," Steiner says.
+For example, on Australia's Christmas Island, the seabird Abbott's booby was declining due to habitat clearance and was listed as 'critically endangered' in 2004.
+But the booby is recovering thanks to conservation measures and has now moved down a category to 'endangered', the IUCN says.
+
+Scientists say that terrestrial gamma-ray flashes could spark cloud-to-cloud lightning
+The ongoing hunt for the sources of exotic gamma rays inside Earth's atmosphere has taken two strange turns. 
+One is that the powerful radiation flashes are being triggered far closer to the ground than ever suspected.
+The other is that in at least one case a burst of gamma rays appears to have happened before a burst of cloud-to-cloud lightning, like a lightning trigger. 
+Terrestrial gamma-ray flashes are thought to occur when electrons that have been somehow sped to near light-speed slam into air molecules.
+The great burst of energy the collision releases is enough to create gamma rays, one of the most powerful form of electromagnetic radiation. 
+Researchers have thought they were in some way associated with sprites, the enigmatic vertical bolts of lighting that zap upward from very high cloud tops towards space.
+But new US research with an array of ground-based and space-borne instruments has located the gamma-ray sources much deeper in the Earth's atmosphere, in thunderstorms. 
+The finding, reported recently in the journal Geophysical Research Letters, is puzzling because the thicker air of the lower atmosphere gobbles up gamma rays pretty quickly. 
+"Sprites were the logical choice [for a link with gamma-ray flashes]," says lead author Dr Mark Stanley of the Los Alamos National Laboratory. 
+Not only are they flashy and energetic, they are also close to the edge of space, which would easily allow the gamma rays to escape the atmosphere and reach orbiting detectors. 
+"But there's nothing there and that's quite a shock," says Stanley.
+High flashes and low ones
+The researchers took new measurements using the ground-based Los Alamos Sferic Array, which detects electrical changes in the atmosphere, and the gamma-ray detector onboard the orbiting Ramaty High Energy Solar Spectroscopic Imager.
+Their results indicate the terrestrial gamma-ray flashes are coming from much lower down, and come from cloud-to-cloud lighting in much thicker, gamma-ray absorbing air. 
+That means the exact source of the gamma rays has to be putting out a lot more gamma rays so a few can make it up into space and be detected. 
+"If you detect this at any distance that means whatever causes this is incredibly violent," says Stanley.
+Stanley and his colleagues have found terrestrial gamma-ray flashes that appear to come from less than 15,000 metres up, within the range of jet aircraft.
+"I'm getting some even lower than that," Stanley says.
+Perhaps terrestrial gamma ray flashes are created at various elevations, says lightning researcher Assistant Professor Steven Cummer of Duke University.
+Those that are higher can be only detected by the orbiting imager and those that are lower can be detected only on the ground.
+Which came first? The gamma rays or the lightning?
+Stanley and his colleagues also refined the timing of the events and in one case found that the gamma rays detected by the orbiting imager might have preceded the lightning, which was a complete surprise, he says. 
+"In every way this was unusual," says Stanley. 
+Until now it had been assumed that the terrestrial gamma-ray flashes were a product of the lightning initiation process. Now it also appears possible that they could also play a role in triggering lightning. How? 
+"It's really not at all that well understood," says Cummer.
+Despite centuries of research to unlock the secrets of lighting, including Benjamin Franklin's discovery of its electrical nature,  Cummer says "nobody really knows what starts a lightning strike".
+
+Male praying mantises have one of two types of genitalia, say researchers, the first time anyone has seen this type of dimorphism in insects
+Some praying mantises have genitalia that hang to the left and others to the right, says a behavioural ecologist.
+But Greg Holwell, an Australian post-doctoral researcher at Macquarie University, says he doesn't know why.
+Holwell reported this unusual trait at the recent Australasian Association for the Study of Animal Behaviour conference in Sydney.
+Holwell travelled to Queensland hoping to study sexual cannibalism in praying mantises, or mantids. But he got more than he bargained for.
+Rather than finding examples of females eating males, he found a unique case of dimorphism, where there are two distinct forms of a particular species.
+He found the males of the species Ciulfina are identical except they have genitalia that are the mirror image of each another.
+"Their genitalia point in one direction or the other, which is a very unusual phenomenon," says Howell.
+He knows they are both the same species because he's mated left and right-handed males with females and they've produced offspring that have survived. DNA studies also show they are the same species.
+"This is really a big thing," he says.
+A rare find
+Dimorphism is quite common, for example, males and females of the same species. But it is extremely rare within a particular sex, says Holwell.
+"What's even rarer is dimorphism in genitalia," he says.
+This is why so many species distinctions, particularly in insects, normally rely on differences in genitalia.
+Holwell says there are only two other known cases of dimorphism in genitalia, one involving female spiders and other involving male thrips.
+But the mantids are the first to show mirror-image genitalia.
+"It may just be a genetic mutation that's occurred at some point and because left and right-handed males don't have any particular advantage over another, both forms have survived in the population," he says.
+The male mantid's genitals consist of a number of components that enable the male to stimulate the female, attach to her and transfer packets of sperm called spermatophores.
+The females are perfectly symmetrical, says Holwell, which means asymmetrical males must twist their abdomen to mate with the females. 
+The direction of the twist depends on which way they hang.
+More strange behaviour
+Holwell's colleagues have also found that when males transfer a sperm packet to females, some of it is inserted into the female and some is left hanging out.
+"Some time after mating the female does a kind of a yoga twist, pulls her abdomen up to her face, pulls the spermatophore out and eats it," says Holwell.
+The researchers want to find out whether the female eats empty sperm packets, which means she is just 'tidying up'.
+But Holwell says if she removes packets still containing sperm, this might be her way of controlling which male gets to fertilise her.
+
+Comatose patients lose their muscle tone, have feeding tubes and often open their eyes, hardly the stuff of movies
+Portraying coma patients in movies as 'sleeping beauties' misrepresents reality and could skew the way we think and deal with coma in real life, researchers report.
+They say showing people suddenly awakening after years in a coma with no physical or mental problems, or depicting long-term comatose patients peacefully 'sleeping' with perfect grooming and a healthy tan, minus any feeding tubes or loss of muscle tone, is unrealistic.
+The concern is that these images become 'real' for everyday people and may well influence the decisions they would make if faced with a similar situation, researchers report in the journal Neurology.
+Dr Eelco Wijdicks, a fellow of the American Academy of Neurology, reviewed 30 movies from around the world that depict prolonged coma and found that only two characters showed a reasonably accurate representation.
+Wijdicks and colleague then showed clips of scenes from some of the movies to 72 people with no medical training.
+More than a third couldn't identify important inaccuracies in the scenes.
+For example, 31% shown a comedy scene where a comatose person tapped out a message with his finger in morse code believe it could happen in real life. 
+And 39% of those surveyed say they would allow the scenes to influence decisions they make if a family member is in the same situation.
+Australian consultant neurologist Associate Professor Richard Burns, who is based at Flinders University and Repatriation General Hospital in Adelaide, says he takes movie scenes of comatose patients with a pinch of salt.
+"There is this rare instance where someone does recover from prolonged coma and does seem to be all right. But that would be one in 10,000 or even more. But it does make it difficult when you are explaining to relatives that there is no hope," he says.
+Burns says he can't remember a person in a prolonged coma "just suddenly waking up". 
+He believes movie makers have a responsibility to depict coma accurately.
+[But] it's unrealistic to expect them to do it because they like to show the exceptional."
+
+Eggplants and other ingredients of ratatouille become more acidic if you roast them in the oven
+Cooked vegetables can be as acidic as tooth-eroding fizzy drinks, scientists warn. 
+Eggplants, green capsicum and zucchini become more acidic when roasted in the oven, while red capsicum becomes heavily acidic when stewed, according to a study at Scotland's University of Dundee.
+But the acidity of onions or tomatoes does not change with the cooking method.
+Dr Graham Chadwick publishes his findings in the current issue of the European Journal of Prosthodontics and Restorative Dentistry.
+The researchers study was prompted by reports that people on a vegetarian diet may be at risk of dental erosion. This is because the large quantity of foods that they eat, such as fruit and vegetables, tend to be quite acidic.
+So the researchers studied how different methods of cooking a vegetarian dish like ratatouille could affect its acidity. 
+Ratatouille was acidic no matter how it was cooked, but oven-roasting significantly increased the acidity of the dish, compared with stewing. 
+"The acidity of ratatouille prepared by oven-roasting is the same as that of some carbonated drinks that, when consumed in excess, are believed to contribute to the development of dental erosion," says Chadwick. 
+Acid can etch into the thin layer of enamel that protects the teeth and can also affect the underlying dentin.
+Earlier this year, researchers presented research into the corrosive potential of acidic drinks at the American Association for Dental Research annual meeting in Florida.
+The University of Iowa researchers found that drinks including fizzy drinks and apple juice can erode exposed root surfaces.
+
+Saturn's gassy nature makes its difficult for scientists to 'see' the length of a day
+Saturn is spinning slower than expected, scientists report. 
+An international team of researchers has calculated the rotation period is 10 hours and 47 minutes.
+That's 8 minutes longer than estimates from the NASA Voyager results in the early 1980s. 
+It may not sound like a lot but the researchers say it could affect how we calculate the size of the planet's rock and ice core, and provide more insights into how it formed. 
+The team publishes its results today in the journal Nature. 
+"Making this measurement has been one of the team's most important scientific goals," says Professor Michele Dougherty, of Imperial College London. 
+Astronomers have long tried to calculate the length of a Saturn day. William Herschel back in the late 18th century for example, suggested it lasted about 10 hours.
+But the nature of Saturn itself makes measurements difficult.
+Unlike Earth which has a rocky surface, Saturn is made up mostly of hydrogen and helium gases, which complicates how scientists measure the length of a day.
+So rather than take direct measurements, scientists use proxies, or markers, of the planet's rotational period.
+In the 1980s, scientists analysed radio signals from Saturn picked up by Voyager to calculate the length of day.
+Now, Dougherty and US scientists used an instrument called a magnetometer on the Cassini spacecraft, which measures the planet's magnetic field.
+By analysing data collected by Cassini they found a clear period in the planet's magnetic field that they suggest indicates a day lasts 10 hours, 47 minutes and 6 seconds, give or take 40 seconds. 
+"The period we found from the magnetic field measurements has remained constant since Cassini entered orbit almost two years ago, while radio measurements since the Voyager era have shown large variability," says Dr Giacomo Giampieri, the lead author of the study from NASA's Jet Propulsion Laboratory. 
+"By measuring the magnetic field over the rest of the mission, we will be able to solve this puzzle."
+
+Australia can expect a drier east and north if a crucial Pacific current continues to weaken, scientists say
+The vast looping system of air currents that fuels Pacific trade winds and climate from South America to Southeast Asia may be another victim of climate change, scientists say.
+This could mean more El Ni&ntilde;o-like weather patterns in the US, more rain in the western Pacific and less nourishment for marine life along the Equator and off the South American coast.
+And Australia's north and east would probably be drier than normal.
+Known as the Walker circulation, this system of currents functions as a huge belt stretching across the tropical Pacific, with dry air moving eastward at high altitude from Asia to South America and moist air flowing westward along the ocean's surface, pushing the prevailing trade winds. 
+When the moist air gets to Asia, it triggers massive rains in Indonesia. Then it dries out, rises and starts the cycle again, heading east. 
+This important system has weakened by 3.5% over the past 140 years, and the culprit is probably human-induced climate change, scientists report in today's issue of the journal Nature. 
+"This is the impact of humans through burning coal, burning benzene, gasoline, everything," says author Dr Gabriel Vecchi of the US National Oceanic and Atmospheric Administration and an author of the study. 
+"It's principally the greenhouse gases from fossil-fuel burning." 
+The observed slowdown has been more pronounced in the past 50 years, Vecchi says, noting this fits with what theorists and computer models predict should happen as a result of human-induced global warming. 
+It is not consistent with any natural fluctuation in the system, Vecchi says. 
+Even this relatively small weakening in the Walker circulation means a much larger slowing of wind-forced ocean currents, the scientists say.
+This could spur El Ni&ntilde;o-like effects, Vecchi says, and these in turn could have an impact as far as the US, South America and Australia. 
+While these potential effects are being studied, Vecchi says it could mean more rain in the southern US, droughts elsewhere in North America, and more rain in Pacific islands like Kiribati. 
+The slowdown in ocean currents is also expected to cut down on bottom-to-top ocean circulation that brings nutrients up to the surface where marine life can feed on them, the scientists say.
+This could affect fishing in the equatorial Pacific. 
+The weakening of the Walker circulation is projected to continue, and could weaken another 10% by 2100, the scientists report.
+This could mean ocean flow could decrease by close to 20%.
+According to Australia's Bureau of Meteorology, as the Walker circulation weakens, say during an El Ni&ntilde;o event, seas around Australia cool and slackened trade winds feed less moisture into the Australia-Asia region. 
+This means that eastern and northern Australia will probably be drier than normal.
+
+China reportedly has up to 36.8 million blog sites
+China's internet minders have vowed to step up controls of internet content, especially in the most active areas of blogs, bulletin boards and search engines, state media said this week. 
+"As more and more illegal and unhealthy information spread through blogs and search engines, we will take effective measures to put the BBS [bulletin board service], blogs and search engines under control," Xinhua news agency quoted Cai Wu, a government spokesman as saying.
+China was taking steps to make registration mandatory on millions of blog sites and BBSs, or sites where internet users can converse online, Cai said. 
+According to a report by Tsinghua University, quoted by Xinhua, China currently has up to 36.8 million blog sites, a figure that could grow to 60 million by the end of the year.
+The number of search engine users had reached 97 million, or about 87% of all internet users, the report said. 
+"We will speed up the technology development to safeguard the network management and do more research on the internet security issues triggered by the new technologies in blogs and search engines," the report quoted Wang Xudong, Minister of Information Industry, as saying.
+China has for years been waging an online battle to censor the internet of pornographic and violent content, while also stifling political and religious material that it believes could spark social unrest.
+Two years ago all Chinese web portals were required to register with the government, while they also signed on to government issued regulations to self-police their sites for "unhealthy content".
+Rules at the time also required all Chinese internet cafes to register web surfers and not allow them to download or upload any content onto or from personal devices. 
+Human and media rights groups say China's leaders are tightening their control over the internet and traditional press amid increasing social unrest and regularly jail journalists and internet commentators who post anti-government material on the web.
+
+A new domestic windmill could help bring wind power closer to home, and be safer for birds
+People could soon generate their own wind energy with a new type of domestic windmill that plugs straight into the grid.
+The windmill, which is still at the prototype stage, differs from others already available as it needs fewer components to operate and is said to be cheaper.
+Its Australian developer, The SolarShop, in Adelaide says it's also safer for birds compared to larger windmills.
+The company this week received a Commercialising Emerging Technologies grant from the Australian government to develop the product further.
+Current domestic-scale wind turbines produce around 24 to 48 volts and rely on costly inverters to convert this to 240 volts, says Adrian Ferraretto, managing director of The SolarShop.
+The new generator will eliminate the need for an inverter, the company says, and will be cheaper than alternatives on the market.
+Feeding electricity back into the grid enables a householder to turn their electricity meter backwards and get credit on their electricity bill.
+Ferraretto says that over a year, with an annual average wind speed of 6 metres per second, the generator would produce around A$2000 worth of electricity.
+Wind farms typically require an annual average wind speed of 8 metres per second, he says.
+Not quite roof-top
+The windmill needs a windy area, free of nearby trees and buildings, to work.
+"It's really site-specific," says Ferraretto. "You don't want to put it in the wrong spot or you'll be throwing your money away." 
+"We think the main market will be coastal acreages around Australia and the world." 
+He says people will probably prefer to mount the generator on a free-standing tower away from the house.
+"People with beautiful homes wouldn't want one of these on their roof," says Ferraretto.
+
+King Tutenkhamen's penis was there all along, scientists say. It wasn't stolen and sold, as rumours suggested
+King Tutankhamen's rediscovered penis could make the pharaoh stand out in the shrunken world of male mummies, scientists say.
+They've taken a close look at old pictures of the 3300-year-old mummified king. 
+His sexual organ has been just another puzzle in the story of the best-known pharaoh of ancient Egypt.
+Harry Burton (1879-1940) photographed the royal penis intact during Howard Carter's excavation of King Tut's tomb in 1922.
+But it was reported missing in 1968, when UK scientist Professor Ronald Harrison took a series of x-rays of the mummy. 
+There was speculation that the penis had been stolen and sold. 
+"Instead, it has always been there. I found it during the CT scan last year, when the mummy was lifted. It lay loose in the sand around the king's body. It was mummified," says Professor Zahi Hawass, chief of Egypt's Supreme Council of Antiquities.
+At first look, Burton's pictures may seem to indicate that King Tut could have been a little better endowed. 
+But according to mummy expert Dr Eduard Egarter Vigl, the pharaoh was built normally.
+Egarter is caretaker of &Ouml;tzi the Iceman, the world's oldest and best-preserved mummy, and was also a member of the Egyptian-led research team that examined King Tut's CT scan images. 
+"The pharaoh's sex organ is clearly visible in Burton's pictures. All was normal in King Tut. The penis is a highly vascularised organ and shrinks when it is mummified. Actually, King Tut has been flattered by the embalmers' work. There is no comparison with &Ouml;tzi's penis," says Egarter. 
+Mummifying the penis
+&Ouml;tzi's natural mummification and dehydration in an Alpine glacier produced a "collapse of the genitalia", which left the Iceman with an almost invisible member. 
+"He would not make a bella figura today," Egarter says.
+According to the mummy expert, it is not possible to see if King Tut was circumcised.
+Eugene Cruz-Uribe, professor of history at Northern Arizona University and an expert on Tutankhamen, says that some earlier documents mention circumcision at King Tut's time. 
+"It was probably done for hygienic reasons, but some ritual issues may have occurred as well," Cruz-Uribe says. 
+Boy as king
+Tut.ankh.Amun, "the living image of Amun", ascended the throne in 1333 BC at the age of nine, and reigned until his death in 1325 BC, aged 19. 
+He married 13-year-old Ankhesenpaaten, who was probably his stepsister, on his accession to the throne.
+During their marriage, Ankhesenpaaten, who had changed her name to Ankhesenamun, gave birth to two stillborn girls.
+
+This gelatinous zooplankton Athorybia was among the many species scientists found deep in the ocean
+Scientists have found 10 to 20 new species of tiny creatures in the depths of the Atlantic, says an international report.
+The survey, of tropical waters between the eastern US and the mid-Atlantic ridge, used special nets to catch thousands of species of fragile zooplankton.
+New finds included six types of ostracods, a shrimp-like creature, and other species of zooplankton such as swimming snails and worms. 
+Zooplankton are mostly millimeters long but range up to jellyfish trailing long tails.
+They live at lightless depths of 1 to 5 kilometres and are swept by ocean currents.
+"This was a voyage of exploration ... the deepest parts of the oceans are hardly ever sampled," says Dr Peter Wiebe, the cruise's scientific leader and senior scientist at the Woods Hole Oceanographic Institution in the US. 
+"We found perhaps 10-20 new species of zooplankton," he says of the voyage by 28 scientists from 14 nations, including Australia, in April.
+The scientists also found new fish.
+Among 120 types of fish caught, the scientists found what may be a new type of black dragonfish, with fang-like teeth, growing up to about 40 centimetres, and a 20-centimetre-long great swallower, with wide jaws and a light-producing organ to attract prey. 
+Most life, including commercial fish stocks, is in the top 1 kilometre of water, but the scientists say the survey shows a surprising abundance even in the depths.
+The survey will provide a benchmark to judge future changes to the oceans, the scientists say.
+"By 2010, the research ... will provide a baseline against which future generations can measure changes to the zooplankton and their provinces, caused by pollution, over-fishing, climate change, and other shifting environmental conditions," says Professor Ann Bucklin, lead scientist for the zooplankton census project at the University of Connecticut.  
+The expedition was funded by the National Oceanic and Atmospheric Administration.
+The findings are also part of a wider Census of Marine Life trying to map the oceans.
+
+Sitting in silence might be better for your heart
+Turning off relaxing music and sitting in silence is better for your health, say Italian and UK researchers.
+They found while slow meditative music induces a relaxing effect, it's the gap between the music that has greater benefits for your circulation system.
+Dr Luciano Bernardi of the University of Pavia and colleagues report their study in a recent issue of the journal Heart.
+The research was part of a wider look at how heart rate, blood pressure and breathing rate fluctuate in response to music.
+Bernardi and his team asked 24 men, half practising musicians, to listen to a random series of six 2 minute musical tracks.
+The tracks included raga, a type of Indian music; slow and fast classical music; techno; rap; and dodecaphonic, or 12-tone music that lacks a traditional rhythmic, harmonic and melodic structure.
+The researchers then measured their heart rate, breathing, blood pressure and other indicators of arousal or relaxation.
+They repeated the experiment inserting 2 minute periods of silence.
+The researchers found that most of the music increased blood pressure and heart rate, with a stronger effect seen with faster music.
+This effect did not appear to depend on the style of music. So, fast classical music and techno had the same effect.
+Relaxing with music
+Slow music produced a more relaxed affect, especially during the pauses.
+But during the silent interval, study participants' heart and breathing rates and blood pressures fell further.
+"[Therefore] music may give pleasure (and perhaps a health benefit) as a result of this controlled alternation between arousal and relaxation," Bernardi says.
+In musicians, the silent interval also reduced activity of the sympathetic nervous system, which triggers the 'fight or flight' response. 
+The musicians also had more pronounced shifts in heart rate and breathing when they heard the music, which the researcher says is probably associated with their ability to synchronise their breathing with the music phrase.
+Listening to music may have effects similar to that of relaxation techniques, Bernardi and his colleagues note.
+Focus then release
+This generally requires a person to focus his or her attention on something and then release it.
+"Appropriate selection of music, by alternating fast and slower rhythms and pauses, can be used to induce relaxation and reduce sympathetic activity and thus may be potentially useful in the management of cardiovascular disease," the researchers conclude.
+
+A UK government says UFOs may be just glowing clouds of plasma
+British defence authorities have come up with an explanation for UFOs that is bound to disappoint those who are convinced they've seen a flying saucer.
+A Ministry of Defence report, which will be made public later this month, says what UFO watchers may be seeing unusual atmospheric effects like glowing plasma clouds.
+"Considerable evidence exists to support the thesis that the events are almost certainly attributable to physical, electrical and magnetic phenomena in the atmosphere," the report concludes.
+Plasma is an ionised gas described by Sir William Crookes in 1879 as 'radiant matter' because of its tendency to glow.
+A plasma effect is also responsible for spectacular auroras like the northern lights (aurora borealis) and southern lights (aurora australis), says astronomer Dr Paul Francis of the Australian National University.
+Francis says he sometimes investigates reported UFO sightings at the Mount Stromlo Observatory, where he is a fellow, and plasma clouds provide a plausible explanation.
+"It's quite clear that there are lights in the sky that people really do see and it's quite clear they're not aliens," he says.
+Radiant matter
+Plasma clouds are electrically conductive collections of charged particles.
+They form when there's an equal distribution of positive and negative charges, making the overall charge neutral.
+"A plasma cloud is going to be by nature composed of electrons and ions," says Professor Iver Cairns, a space physicist from the University of Sydney.
+"When they recombine to form atoms they're going to release light and therefore they will glow."
+He says plasma clouds tend to stick together but they can be shaped by magnetic forces and factors like winds in the normal atmosphere.
+Lightning can also cause plasma clouds, Francis says.
+"Whenever you get a lot of energy such as a lightning bolt, or an aurora caused by the winds of the Sun, this generates plasma," he says. 
+"Gas has to be pretty hot to turn into plasma."
+Ball lightning
+Professor Bob Vincent from the school of chemistry and physics at the University of Adelaide says UFO observers may also be seeing ball lightning, mysterious orbs of glowing light also attributed to plasma.
+"The cause of ball lightening is still not well known and there's some discussion of whether that's plasma clouds induced by lightning," he says.
+Other explanations for UFOs have included upside-down mirages caused by light over the horizon, meteors and weather balloons, particularly at sunset, Francis says.
+Venus is commonly mistaken for a UFO and a British battleship even fired at it during World War II.
+Does plasma affect your brain?
+Plasmas can also cause "extended memory retention and repeat experiences" of UFO sightings because they generate strong electromagnetic fields which affect the temporal lobes of the brain, one newspaper report quotes the UK defence scientists as saying.
+But Francis says this is unlikely.
+"Electromagnetic fields do have an effect on people but this is a very small effect," he says.
+"If there was a plasma ball sitting three inches in front of your nose it might have some effect ... but these [clouds] are many kilometres away."
+Dr David Clarke and Gary Anthony of Sheffield Hallam University, will present findings from the report Unidentified Aerial Phenomena in the UK Air Defence Region later this week.
+The report, which they obtained under a Freedom of Information request, will also appear on the UK Ministry of Defence's website next week.
+
+Flaws in a digital image, caused by dust on the optics or natural variation between pixels, can be used to say whether a particular camera took a particular image
+A new technique matches a digital image to the camera that snapped it, scientists say, just like matching a bullet to the gun that fired it.
+The method could help bolster investigations that need reliable evidence to tie a suspect's illegal digital photos to their camera, such as in child pornography cases.
+"When a suspect is caught with images on the computer and the suspect has a digital camera in possession, the standard defence is that the images are computer-generated or downloaded from the internet," says Dr Jessica Fridrich, an associate professor of electrical and computer engineering at the State University of New York in Binghamton.
+"Imagine now that you can tie them unmistakably to the camera that is in possession of the suspect."
+Fridich and her colleagues report their method in the June issue of IEEE Transactions on Information Security and Forensics.
+In the past, forensic scientists could link print photographs to analog cameras. For example, they could match unique scratches on the negative film to the mechanical part of the camera that advances the film.
+But until now, scientists have been unable to find a cheap, reliable and robust method for locating subtle flaws in digital images and video created unintentionally by a specific camera.
+It turns out that those flaws - created by such things as dust specks on the optics, interference in optical elements and natural variations between pixels - are captured on the camera's image sensor as a unique pattern of noise.
+Capturing noise
+To isolate the 'pattern noise' created by an individual camera, Fridrich and her team took 320 images with each of nine different cameras.
+They uploaded the images to a computer and, using software they developed, analysed the images pixel by pixel.
+By assigning values to the variations found between pixels, the pattern noise, they came up with a numerical fingerprint unique to each camera.
+Once they had the numerical fingerprint, they used the mathematical process of correlation to compare the numerical fingerprints to the pattern noise from thousands of other images taken with the cameras.
+The higher the correlation number, the more likely an image came from a particular camera.
+In the forensics lab
+When using this method in a real-life situation, forensic scientists would take a bunch of digital images with the camera in question to come up with a numerical fingerprint.
+Next, they would isolate the digital fingerprint extracted from the illegal images and correlate that number with the one from the camera.
+The higher the number, the more likely a conviction.
+In laboratory experiments, Fridrich and her team matched several thousand different images to the correct camera without a single misclassification, even when images were compressed or resized.
+Dr Hany Farid, associate professor of computer science at Dartmouth College in the US, is an expert in digital image forensics.
+"This is one of the first papers out there to have what I think is a realisable, robust and effect technique for doing it," he says. 
+But Farid questions whether the method will work to distinguish a few images from the millions of potential cameras on the market.
+For now, Fridrich's technique works with digital still images, but she is hoping to soon move to scanners and digital video.
+
+Australian backswimmmers have their very own underwater oxygen supply
+Tiny aquatic bugs hitch a ride on air-filled buoyancy bubbles for minutes at a time while they fossick for food, Australian scientists show.
+This means the insects, which are about the size of a grain of rice, can stay still and out of harm's way.
+Details of how the Australian backswimmer Anisops deanei controls its depth are published today in the journal Nature.
+Backswimmers are diving insects that use their broad, oar-like legs to swim on their backs.
+While many air-breathing aquatic insects dive with air bubbles, it appears the backswimmers use haemoglobin to help keep them stationary below the surface while waiting for prey.
+The trick allows them to dive for food in the safer mid-water zone, rather than scavenge at the surface or cling to submerged objects like most other air-breathing aquatic insects, say the researchers.
+This is the ideal hunting zone for tiny aquatic bugs because at a metre below sea level, it's out of the reach of larger predators that hang around the water's surface and those that wait in deeper waters.
+Looking at bubbles
+Researchers from the University of Adelaide used a sensitive electronic balance and fibre-optic oxygen sensors to measure the gas pressure inside the bubble the backswimmer carries.
+They found that the insect uses a strategy much like a diver with a buoyancy vest to control the depth at which he or she hovers in the water.
+Backswimmers breath in a bubble of oxygen they take with them on their dive. 
+And they maintain buoyancy by releasing oxygen from the haemoglobin in their bodies, explains PhD candidate Philip Matthews from the Department of Environmental Biology.
+"The haemoglobin [acts as an] oxygen tank, so the backswimmer can carry oxygen down from the surface in this tank and then breath into their bubble as they need it before resurfacing again," he says.
+Backswimmers, found the world over, are the only insects to inhabit the mid-water zone as adults, and the only ones to possess haemoglobin throughout their entire life, a link that may be explained by the new findings.
+
+Learning a musical instrument can change the way we remember
+Musicians use unique mental processes when it comes to recognising a tune but this trait is learnt rather than inherent, a researcher says.
+PhD student David Brennan from the University of Western Sydney has shown that people with musical training appear to have different memory pathways compared to others.
+He will present his findings at a symposium on memory and the performing arts at the International Conference on Memory in Sydney in July.
+Brennan tested the ability of 72 people, including musicians and non-musicians, to recognise musical themes from popular TV shows, such as Friends, Law and Order and M*A*S*H.
+They were required to differentiate between the original theme and a transposed version where pitch, tempo, or both pitch and tempo had been changed.
+Differences between musicians and non-musicians
+Brennan found both musicians and non-musicians could identify the original theme when it was compared with a version where just the pitch or tempo was changed.
+But musicians did much better at identifying the original theme compared to a version where both pitch and tempo had been changed proportionally, or had been moved up and down by exactly the same degree.
+This suggests that non-musicians remember music as an integrated piece of information. But musicians compartmentalise elements of the music and store them as discreet blocks, Brennan says.
+"I found that non-musicians ... store the sound as a more of a composite picture, they take the entire piece of information and store it relationally between all the different aspects," he says.
+"Musicians store it as individual parameters ... for example, tempo, key and timbre."
+He says storing relational information is more efficient than storing it as separate elements but the compartmentalised approach is more accurate.
+This reflects the fact that remembering musical sequences has a lower priority for non-musicians than for those who make music their craft.
+Are musicians born or made?
+Brennan says the research suggests that learning a musical instrument can change your mental pathways.
+"It suggests that over time musicians' training leads them down particular paths of how to store information," he says.
+"I don't think it indicates any pre-wiring of brains but it certainly suggests that over a period of many years of training they allocate their perceptual resources a little differently than other people."
+The research also sheds more light on the mechanisms that govern how we remember things, Brennan says.
+"This probably represents the fact that ... as you allocate more time and training to dealing with the fine details of information you tend to store it in more separate categories.
+"Conversely, it suggests that for the many things we have to deal with that aren't focal points, we have a very elegantly efficient way of joining them into one single relationship construct."
+
+You called?
+Bottlenose dolphins can call each other by name when they whistle, making them the only animals to do this besides humans, scientists report.
+Scientists have long known that dolphins' whistling calls include repeated information thought to be their names.
+But a new study, published online today in the Proceedings of the National Academy of Sciences,  indicates dolphins recognise these names even when voice cues are removed from the sound.
+For example, a dolphin might be expected to recognise its name if called by its mother. But the new study found most dolphins recognise names, their signature whistles, even when emitted without inflection or other vocal cues. 
+More than that, two dolphins may refer to a third by the third animal's name, says study author Dr Laela Sayigh from the University of North Carolina Wilmington.
+"They are known to produce these individually distinctive signature whistles, like names," Sayigh says.
+The scientists already knew that dolphins responded to whistles, but wondered if something in the actual voice of the whistling dolphin is making the identity clear, or if the name itself is enough for recognition. 
+To find out, they studied bottlenose dolphins in Sarasota Bay, Florida. Instead of playing recordings of actual dolphins making signature whistles, the researchers synthesised signature whistles with the caller's voice features removed and played them to dolphins through an underwater speaker. 
+In nine out of 14 cases, the dolphin would turn more often toward the speaker if it heard a whistle that sounded like a close relative's. 
+"It's a very interesting finding that encourages further research, because they are using whistles as referential signals. That's what words are," says Sayigh.
+"Dolphins appear to be using these arbitrary signals to identify another dolphin." 
+She stopped short of saying dolphins might have a human-like language. 
+"I tend to shy away from using the word 'language' myself, because it's such a loaded term," Sayigh says.
+"I still really feel strongly that there is no evidence for something like our language. [Dolphins] have got the cognitive skills at least to have referential signals."
+
+Bored with khaki? Scientits say new fibres could one-day be used to make camouflage clothing change colour
+A new conductive plastic that changes colour in response to an electric field could be used in products from hue-switching camouflage gear to flexible computer displays, researchers say.
+The electrochromic polymers, developed by Dr Greg Sotzing, an associate professor at the University of Connecticut, are said to be longer and more flexible than other conductive polymers, which are short and brittle.
+"You want them to be long in length to twist them together to make thread or yarn," says Sotzing.
+But it's the rigidity of the chemical structure that helps conductive polymers carry a charge in the first place.
+Until now, that stiff structure has limited how such polymers can be processed into fibres and other useful materials.
+Sotzing and his team devised a two-step method to convert flexible, non-conductive "precursor polymers" into long, conductive fibres.
+Lots of goo
+The first step is to melt or dissolve the precursor polymer into a gooey solution. 
+The researchers then apply a voltage to a special syringe and squeeze the solution through it. This process doesn't charge the polymer, but helps to evaporate solvents.
+As a result, the polymers harden and become tangled together like the strands of a rope.
+Polymers extruded by the new method can be lengthened up to about a metre and potentially much longer, the researchers say.
+At first, the fibres appear white. If the researchers dip them into a chemical solution that removes electrons, the fibres become conductive and darken to a deep blue. If the researchers apply an electric charge to add electrons, the colour changes to bright orange.
+Dr Shawn Williams is vice-president of technology at Pittsburgh-based Plextronics, a company that develops conductive polymer technology for electronic devices.
+"For a long time, people have known about electrochromic polymers, but they haven't figured out how to put them into formats that are useable and practical," he says. 
+What Sotzing has done, says Williams, is create a conductive polymer with the versatile properties of a regular polymer.
+Fabric that changes colour
+The trick for making the fibres useful for colour-changing fabrics, according to Williams, is to control the fibres on the scale of a single pixel.
+Threads with different charges could be woven together with thin metal wires designed to deliver various voltages, with the intersection between a thread and a wire serving as a pixel.
+Changing the voltage with an embedded battery would result in different colours.
+A fabric woven with the polymer fibres could be used, for example, in t-shirts bearing video advertisements or jackets that double as computers. The material could also be used by soldiers to blend into both forested and urban environments.
+Sotzing says he is speaking to both a US and international company about commercialisation.
+
+Some of us are 'extreme dreaders' whose brains register more than simple fear
+Anyone who has ever waited in dread for the dentist may find some comfort in the findings of a new brain study.
+For some people, researchers say, the waiting is indeed the hardest part, and finding a distraction might help.
+Their study, published in the journal Science, used the brain-imaging technique of functional MRI to investigate the neural mechanisms underlying dread.
+The researchers looked specifically at the agony of waiting to have a painful procedure among 32 volunteers who agreed to have a series of electric shocks to the foot.
+Some of them dreaded each shock so much that they repeatedly opted to have a higher-voltage jolt just so they could get it over with more quickly.
+These individuals, dubbed 'extreme dreaders', showed greater activity in a brain region related to both pain and attention.
+The findings, say the researchers, indicate that dread arises not from simple fear, but from the brain's attention to the unpleasant event.
+"The dread is often worse than the event itself," says lead study author Dr Gregory Berns, a professor of psychiatry and behavioural sciences at Emory University School of Medicine in Atlanta.
+He says the brain-imaging results are good news because they indicate that extreme dreaders can do something to alleviate the problem.
+They can find a distraction - such as meditation, exercise or some other activity - to take the focus off the anticipated event.
+Shocking results
+For the study, Berns and his colleagues took brain images of volunteers who agreed to endure electrical shocks to their feet.
+First, each jolt was preceded by a cue that told participants how intense it would be, for instance 60% of their maximum pain tolerance, and how long they would have to wait for it.
+In a second go, participants were presented with choices on how each shock should be delivered, with the voltage and timing of the jolt as the variables.
+For example, they could choose between having a shock at 90% of their maximum pain tolerance delivered in the next 3 seconds, or one at 60% intensity in 27 seconds.
+Extreme dreaders
+Of the 32 volunteers, nine (the extreme dreaders) consistently opted for the stronger shock to avoid the longer wait.
+This may seem illogical to many people, Berns says, but for extreme dreaders avoiding the anguished wait makes sense.
+And it was the extreme dreaders who showed particularly high activity in the brain's so-called pain matrix during the build-up to their electrical shocks.
+Activity was specifically high in areas related to attention, but not in those associated with fear and anxiety.
+In other words, extreme dreaders were giving more attention to their foot than 'mild dreaders' were.
+
+Wheatgrass contains high levels of phytonutrients, which are believed to have antioxidant qualities
+Wheatgrass juice may not be quite the tonic that many people think, according to a review that finds little evidence for many of its health claims.
+The review, published in the Australian Consumers' Association Choice magazine, concludes that while wheatgrass has some nutritional value, it's no miracle drink.
+The review found only "limited supporting evidence" for claims of the anti-inflammatory and wound-healing properties of wheatgrass and little confirmation for claims it builds red blood cells and improves circulation and tissue oxygenation.
+Wheatgrass juice is made of the pulped shoots of grasses from the genus Agropyron, is a relative of wheat and has become a staple of juice bars.
+Marketers and enthusiasts say the benefits of this dark green juice range from purifying blood to preventing cancer and making your faeces less smelly.
+"It's certainly not bad for you, but the claims that are made are perhaps a lot of hype without any real evidence," says Viola Korczak, health policy officer at the Australian Consumers' Association.
+She says larger, controlled clinical trials are needed.
+What the research says
+Choice reviewed the available scientific research on wheatgrass juice, including botanical studies, animal studies and a dozen small human trials.
+It found there are more vitamins and minerals, including calcium, vitamin C and folic acid, in 30 grams of cooked spinach, broccoli or a garden salad than in a shot of wheatgrass juice.
+Some reports link wheatgrass to improvements in eczema, fractures, burns, osteoarthritis and skin cancer, but it is unclear whether wheatgrass is directly responsible, the review says. 
+Other studies report that the green pigment chlorophyll, which makes up 70% of wheatgrass juice, shares molecular similarities with haemoglobin. But this doesn't mean it enhances red blood cell production.
+"As far as evidence goes, there's little to be found," the report concludes.
+A study of 16 patients with the blood disorder beta thalassaemia found wheatgrass juice reduced transfusions in half but not the other half.
+Meanwhile, experiments in labs and on animals showed wheatgrass may work against genetic mutations, Choice says, largely because of the antioxidant activity of some of its compounds, such as flavonoids.
+But there's no evidence for humans and "there's nothing to substantiate claims that wheatgrass can help dissolve tumours", the report says.
+Too early to write off wheatgrass juice
+Professor Marc Cohen, president of the Australasian Integrative Medicine Association and head of complementary medicine at RMIT University, says it's too early to write off wheatgrass juice
+He says it's a minimally processed wholefood with high levels of phytochemicals, which play a role in growth signalling in plants and are associated with reduced blood pressure, reduced cholesterol and cancer prevention in humans.
+"You want to be eating wholefoods so you get as many phytonutrients as possible," he says.
+Dr Peter Clifton, head of CSIRO's nutrition clinic, says wheatgrass is "very trendy ... but it probably isn't any different from any other type of grass".
+He says it may have more polyphenolics, a type of phytochemical, because it is an actively growing plant.
+This may account for one studying showing 100 millilitres of wheatgrass a day over a month reduced symptoms of ulcerative colitis, he says.
+He says claims about the health benefits of wheatgrass have been around for decades but the evidence is still lacking.
+"I guess the wheatgrass juice industry should put its money where its mouth is and test the level of polyphenolics," he says.
+
+Women can just look at a man and tell if he likes children, a new study shows
+Don't bother with months of email courtship, pay only polite attention to the advice of your friends. And as for those Jane Austen-style books on how to select Mr Right, leave them to gather dust on the shop shelves. 
+A more reliable way for a woman to judge whether a man will be a suitable mate is to look at him in the face and to trust her instincts, US scientists say.
+In a study published in Proceedings of the Royal Society B, a journal of the UK's Royal Society, psychologists test a key hypothesis about male attractiveness. 
+In a nutshell, this theory says that women are, frankly, ambivalent. They might fancy men who are hunky and macho but they also like the kind, caring types. 
+These preferences may seem contradictory, but there is a solid genetic cause for it.
+A strong, beefy, square-jawed man represents the best potential for producing a healthy baby, whereas a caring, friendly, sensitive man represents the best potential for protecting and nurturing the offspring. 
+Indeed, studies into female hormones and sex drive say a woman will find a 'masculine' face more attractive when she ovulates but switch to a more 'feminine' preference during the other phases of her menstrual cycle. 
+A team led by Assistant Professor James Roney of the University of California at Santa Barbara, has now put the theory to the test in an experiment combining psychology and hormones. 
+Looking at faces
+They recruited 39 male students aged 18 to 33, who were photographed, with their faces framed in an oval to obscure information about hairstyles, and with a neutral facial expression. 
+The men also gave saliva samples, which were assessed for levels of the key male hormone testosterone, and were asked to look at pictures of babies and to rate how much they liked children. 
+The photos were then individually assessed by 29 undergraduate women students aged 18 to 20. 
+They were asked to rate each man one a one-to-seven scale for 'likes children', 'masculine', 'physically attractive' and 'kind'. 
+They were then asked to rate the men's attractiveness as 'a short-term romantic partner (eg for a brief affair)' and as 'long-term romantic partner (eg for a committed relationship such as marriage)'. 
+The man with the child in this eyes
+The researchers found the women were uncannily accurate in guessing which men liked children and which men were less interested or indifferent to kids. 
+The men who the women considered to be more masculine and a choice for a brief fling also had higher testosterone levels than their counterparts. 
+But the men whom the women preferred for a long-term relationship had a strong affinity for children. 
+Roney says these findings provide the first direct evidence that women track men's hormone concentrations and liking for children when they formulate a judgement about attractiveness. 
+Indeed, "men's interest in children may be a relatively underappreciated influence on men's long-term mate attractiveness", he says. 
+More stereotypes?
+Men may despair about this pigeon-holing, just as women have long despaired about men who stereotype females by placing them into such categories as Mother or Sex Bomb. 
+But they may also find a crumb of comfort. 
+The team saw no correlation between testosterone and liking for children. 
+In other words, Mr Macho may like children and Mr Sensitive may not. But the risk is that a woman may write them off respectively, as a long-term or a short-term mating prospect. 
+"There [may] exist somewhat independent indices of men's genetic and paternal quality rather than a single dimension in which the two aspects of mate quality trade off against one another," says the study.
+
+Flying robots, like this fictional robotic dragonfly, could bypass radar to deliver explosives or bioweapons, experts say
+It may sound like science fiction, but flying robots could make suicide bombers and hijackers redundant, experts say.
+The technology for remote-controlled light aircraft is now highly advanced, widely available, and experts say virtually unstoppable.
+Models with a wingspan of 5 metres, capable of carrying up to 50 kilograms, remain undetectable by radar.
+And thanks to satellite positioning systems, they can now be programmed to hit targets some distance away within a few metres of their target.
+Security services the world over have been considering the problem for several years, but no one has yet come up with a solution. 
+"We are observing an increasing threat from such things as remote-controlled aircraft used as small flying bombs against soft targets," the head of the Canadian secret services, Michel Gauthier, said at a conference in Calgary recently. 
+According to Gauthier, "ultra-light aircraft, powered hang gliders or powered paragliders have also been purchased by terrorist groups to circumvent ground-based countermeasures". 
+Defence on alert
+On 1 May the US website Defensetech published an article by military technology specialist David Hambling, entitled "Terrorists' unmanned air force".
+"While billions have been spent on ballistic missile defense, little attention has been given to the more imminent threat posed by unmanned air vehicles in the hands of terrorists or rogue states," writes Hambling. 
+Armed militant groups have already tried to use unmanned aircraft, according to a number of studies by institutions including the Center for Nonproliferation Studies in Monterey, California, and the Center for Arms Control, Energy and Environmental Studies in Moscow. 
+In August 2002, for example, the Colombian military reported finding nine small remote-controlled planes at a base it had taken from the Revolutionary Armed Forces of Colombia. 
+On 11 April 2005 the Lebanese Shiite militia group, Hezbollah, flew a pilotless drone over Israeli territory, on what it called a surveillance mission. 
+The Israeli military confirmed this and responded by flying warplanes over southern Lebanon. 
+Easy to buy or make
+Remote-control planes are not hard to get hold of, according to Jean-Christian Delessert, who runs a specialist model aeroplane shop near Geneva. 
+"Putting together a large-scale model is not difficult. All you need is a few materials and a decent electronics technician," he says. 
+In his view, "if terrorists get hold of that, it will be impossible to do anything about it. We did some tests with a friend who works at a military radar base: they never detected us ... If the radar picks anything up, it thinks it is a flock of birds and automatically wipes it." 
+Japanese company Yamaha, meanwhile, has produced a 95 kilogram robot helicopter that is 3.6 metres long and has a 256 cc engine. 
+It flies close to the ground at about 20 kilometres per hour and is already on the market.
+Bruce Simpson, an engineer from New Zealand, managed to produce an even more dangerous contraption in his own garage: a mini-cruise missile.
+He made it out of readily available materials at a cost of less than US$5000 (about A$6500).
+According to Simpson's website, the New Zealand authorities forced him to shut down the project, though only once he had already finished making the missile, under pressure from the US. 
+Take them seriously
+Dr Eugene Miasnikov, of the Center for Arms Control, Energy and Environmental Studies in Moscow, says these kinds of threats must be taken more seriously. 
+"To many people UAVs [unmanned aerial vehicles] may seem too exotic, demanding substantial efforts and cost compared with the methods terrorists frequently use," he says.
+"But science and technology is developing so fast that we often fail to recognise how much the world has changed."
+
+A good budget for medical research in the short term, says one expert
+The Australian government should have spent more of its budget surplus on building the nation's future r&d capacity rather than tax breaks, say commentators in the science community.
+The 2006-07 federal budget  has delivered A$5.97 billion for science and innovation and $559.6 million to universities, primarily for capital developments.
+While the government describes the spending on science and innovation as being at record level, and points to a big boost given to medical research, many say the government's spending priorities are leaving Australia behind in terms of future capacity.
+Professor Snow Barlow of the University of Melbourne says the amount spent on science and innovation may be a record in absolute terms, but as a percentage of gross national product it is decreasing.
+"It's actually lower than it's been in 20 years," says Barlow, who is a former member of the Prime Minister's Science, Engineering and Innovation Council.
+He says Australia is still investing less than competitors, including China, India and OECD countries.
+And while he welcomes increased spending on health and aged care he says investment in that area will not spawn new industries.
+"I just don't see any investment in things that might drive the future prosperity of Australia," says Barlow.
+He says there should have been more funding for the Australian Research Council, especially the council's  linkage grants, which have contributions from industry. 
+Innovative capability not addressed
+Bradley Smith, executive director of Federation of Australian Scientific and Technological Societies, agrees medical research is the big winner from the budget.
+"The budget has quite a number of welcome one-off initiatives which support infrastructure at a handful of universities and medical research institutes," he says.
+And he says there is a modest increase in research infrastructure for universities
+But he says there is a lack of commitment to education and skills development.
+"The overwhelming sense is there is still not a concerted effort by government to underpin the serious development of our innovative capability," says Smith.
+Medical research gets 'A minus'
+The budget committed an additional A$500 million over four years to the National Health and Medical Research Council, provided A$170 million for new health and medical research fellowships, A$22 million for stem cell research and over A$200 million in additional funding for medical research institutes.
+"It's a start in the right direction," says Professor Kurt Lambeck, the new president of the Australian Academy of Science.
+"As far as the medical research part is concerned I'd probably give it an 'A minus'," he says. "But other than medical there's really nothing in it that I can find."
+"In particular what I find disappointing is that there is no long-term investment in people."
+Lambeck says the new health and medical research fellowships may help stop the brain drain at the elite level, there is still a major problem for most research scientists once they finish their PhD and post-doctoral training.
+Expenditure on infrastructure is one thing, says Lambeck: "But is it going to provide the intellect to drive that infrastructure?"
+He says there should have been increased funding specifically for mid-career researchers, to provide the transition from the post-doctoral fellowships to long-term commitments.
+Short term
+And even medical researchers have reservations about the budget.
+"Overall, this is a good budget for medical research in the short term," says Professor Bob Williamson of the University of Melbourne and Chair of the National Committee for Medicine of the Australian Academy of Science.
+"The main concern that researchers will have is that, compared to Canada or European countries, we still do not use much of our wealth to create a strategic infrastructure in science, technology and education," he says.
+"The right allocation of resources for the long term should be a high priority not only for the present generation, but to ensure health and wealth for Australia in the future."
+Other allocations in the budget include:
+&bull; A$500 million to restore the health of the Murray-Darling Basin
+&bull; A$98.3 million over four years to deal with illegal foreign fishing
+&bull; A$44.2 million over three years to strengthen defences against bird flu
+&bull; A$16 million over four years to boost pest and disease preparedness
+&bull; A$15.3 million over the next four years to upgrade Questacon national science and technology centre
+&bull; A$3 million to help develop a Research Quality Framework for research funding and
+&bull; A$1.5 million per year funding increase for Australian scientists collaborating on research projects with China.
+
+New research suggests the habitat changed from dry, arid and cold to warm and wet, which led to new types of vegetion mammoths couldn't eat
+The mammoth and other species probably became extinct more than 10,000 years ago because of climate shifts, not over-hunting by humans, new research suggests.
+Radiocarbon dating of 600 bones of bison, moose and humans that survived the mass extinction and remains of the mammoth and wild horse that did not, suggests humans were not responsible. 
+"That is what this new data points out," says Emeritus Professor Dale Guthrie of the University of Alaska in Fairbanks, author of the paper in today's issue of the journal Nature. 
+"It is not that people weren't hunting these creatures. But climate would have reduced the numbers considerably," he adds. 
+Scientists have put forward various theories to explain the disappearance of the mammoth and the wild horse, Equus ferus, which coincided with the arrival of humans from central Asia in North America more than 12,000 years ago.
+One hypothesis suggests a virulent disease was responsible for the extinctions. Another theory was that by killing grazing animals, humans triggered changes in vegetation that resulted in the mass deaths. 
+The Blitzkrieg, or overkill theory, says human hunters devastated most large mammal species and drove some to extinction. 
+"But contrary to that theory, my dates show numbers of bison and [elk] were expanding both before and during human colonisation," Guthrie explains.
+His radiocarbon research shows there was a 1000-year difference between the demise of the wild horse and the woolly mammoth which Guthrie says is inconsistent with other theories.
+Instead, he suggests climate shifts transformed the dry, arid and cold region. The wetter, warmer summers led to changes in vegetation to which mammoths and wild horses could not adapt. 
+"The new patterns of dates indicate a radical ecological sorting during a uniquely forage-rich transitional period, affecting all large mammals, including humans," Guthrie adds.
+
+Triton, pictured here in the foreground, might have once belonged to a pair of passing planets
+Neptune might have nabbed its giant moon Triton from a pair of passing sister planets back when the solar system was young and when planets and their growing brood of satellites were angling for clear orbital slots around the Sun, a new study says.
+Dual systems like Pluto and its large moon Charon are not uncommon among objects in the Kuiper Belt region, located beyond Neptune's orbit, astronomers say. About 10% of the known objects in this region have partners. 
+Dr Craig Agnor, with the University of California at Santa Cruz, was sitting in a lecture about binary Kuiper Belt objects when he had the idea that Neptune may have kidnapped its main moon Triton from such a pair. 
+Triton stands out among all the large moons in the solar system because it orbits Neptune in a direction opposite to the planet's rotation, a so-called retrograde orbit. 
+Most scientists explain the moon's odd orbit and inclination by some variation of a capture scenario, a collision between objects, for example. But Agnor had long been troubled by details that did not fit with any of the interpretations. 
+"It's been this old problem to work on," Agnor says. "The existing answers, there was something just a little unsettling about them." 
+Thinking in twos
+Agnor and University of Maryland astronomer Dr Douglas Hamilton report in today's issue of the journal Nature that they used a binary system rather than a solitary object to generate a computer model of how the relationship started. And they say this solved many of the theories' flaws.
+The most troubling conundrum was accounting for the tremendous amount of speed Triton must have shed to leave itself vulnerable to Neptune's gravitational embrace.
+The collision theory, for example, would have required an impact so powerful that Triton itself should have been destroyed. 
+Scientists also have suggested that Neptune once had an extended gaseous atmosphere, which could have gradually slowed Triton until it fell into orbit around Neptune. 
+But Neptune seemed to have evolved slowly and probably never had much more atmosphere than it has today, says French astronomer Dr Alessandro Morbidelli from the C&ocirc;te d'Azur Observatory in a related Nature article. 
+Ripping off a moon
+Agnor and Hamilton show that if Neptune chanced upon a pair of mini-planets, similar to the Pluto-Charon system, the encounter could have ripped one from its partner. 
+Computer models show that the object closer to Neptune, which in this case would have been Triton, would have lost enough velocity in the process to fall into orbit around its abductor. 
+The partner object would have probably been buffeted by Neptune's gravity, passed along to Uranus and then Saturn until it finally reached giant Jupiter and was booted out of the solar system altogether, Agnor says. 
+The researchers are now curious to see if other eccentric moons in the solar system have similar life stories.
+
+Humans cause the vast majority of the 30,000 to 40,000 fires that occur across Australia each year
+Most people who deliberately light bushfires want some sort of change in their life and don't mean to cause harm, say Australian researchers.
+Dr Colleen Bryant of the Australian Institute of Criminology will present research on deliberately lit fires at the Australasian Bushfire Conference 2006 in Brisbane next month.
+"There are many reasons why people light fires," says Bryant. "People are complex and of course the motives are complex."
+While the community often views arsonists as pyromaniacs, Bryant and colleague Matthew Willis say very few deliberately lit fires are due to pyromania.
+Willis says in the majority of cases people who deliberately light bushfires do not intend to cause harm.
+They don't tend to turn their mind to consequences of lighting a fire, rather are focused on creating some change in their life.
+While some want to relieve boredom by creating havoc and excitement, other arsonists crave recognition or attention, the researchers say.
+Some light fires out of anger or protest while others believe they are being altruistic by clearing what they see as dangerous fuel-loads.
+Sometimes there are multiple motives.
+Targeting fire prevention campaigns
+Understanding the motives of people who deliberately light fires can be useful in designing fire prevention campaigns and treatment programs for arsonists, the researchers say.
+For example, Willis says people who light fires for excitement will often stay around after the fire to view their handiwork.
+He says this suggests fire crews should look around and talk to the people who are there watching.
+Knowing that some people light fires just so they can treated as a hero if they report the fire or put it out is also useful, especially for fire services screening new members, says Willis.
+"Unfortunately some of those people who light those fires do become members of fire services," he says. "So [the fire services] can use that [knowledge] as part of their recruitment exercises."
+Bryant says knowing that a certain proportion of people get a thrill out of lighting fires on extreme bushfire days also helps fire services to look out for such people on those days.
+Different types of bushfires
+As well as deliberately lit fires, there are a small number of human-caused fires that are lit without motive. These include fires due to accidents, people with mental disabilities who lack control over their actions and fires lit by children. 
+Naturally-caused bushfires, such as those that ravaged Canberra in January 2003, are usually larger and more devastating than those lit by humans. But the researchers say these account for less than 5% of all bushfires.
+They say the vast majority of the 30,000 to 40,000 fires that occur across Australia each year are caused by humans, with somewhere around 50% of these being deliberately lit.
+Willis, formerly of the Australian Institute of Criminology, analysed decades of studies including psychiatric assessments of arsonists who had lit building fires in towns and cities.
+He then adapted the findings to the bush and came up with a motive-based classification system for people who deliberately light bushfires.
+
+Rungwecebus kipunji in the wild
+A new species of monkey identified in Tanzania's highlands last year is an even more remarkable find than scientists once thought.
+It belongs to a new genus of animal, the first new living primate genus to be found in Africa for 83 years, scientists report in the journal Science.
+The new monkey, at first called the highland mangabey but now known as kipunji, is more closely related to baboons than to mangabey monkeys, but in fact deserves its own genus and species classification, the researchers report. 
+So they have re-named it Rungwecebus kipunji.
+"This is exciting news because it shows that the age of discovery is by no means over," says William Stanley, mammal collection manager at the Field Museum in Chicago, which has a dead specimen of the greyish-brown monkey. 
+"Finding a new genus of the best-studied group of living mammals is a sobering reminder of how much we have to learn about our planet's biodiversity," adds Assistant Professor Link Olson of the University of Alaska Museum, who worked with Stanley and others on the report. 
+The new African monkey, whose discovery was reported in Science almost precisely a year ago, was originally placed in the genus Lophocebus, commonly known as mangabeys. Rare and shy, it was identified only by photographs. 
+But then a farmer trapped one and it died and scientists could get a close look, including doing some DNA testing. 
+Olson's genetic analysis showed the monkey is most closely related to baboons in the genus Papio, and not to mangabeys. 
+"Had we gotten these surprising results based on a single gene, we'd have been pretty skeptical, but each of the genes we analysed either firmly supported the grouping of kipunji with baboons or failed to support a close relationship between kipunji and other mangabeys," Olson says.
+Almost a metre tall
+An adult kipunji is about 90 centimetres tall with a long tail, long greyish-brown fur, a black face, hands and feet. 
+Adults make a distinctive, loud, low-pitched 'honk-bark' call. They live in mountainside trees at elevations of up to 2400 metres and eat leaves, shoots, flowers, bark, fruit, lichen, moss and invertebrates. 
+The last new genus of African monkey to be named was Allen's swamp monkey, discovered in 1907 but not recognised as a new genus until 1923. 
+"To find, in the 21st century, an entirely new species of large monkey living in the wild is surprising enough. To find one that can be placed in a new genus, and that sheds new light on the evolutionary history of the monkeys of Africa and Eurasia as a whole is truly remarkable," says Professor John Oates, a professor of anthropology at Hunter College in New York. 
+"This discovery also reinforces the view that mountains in southern Tanzania have played an important, and until recently unexpected, role as a refuge for many species long extinct elsewhere."
+
+More than 200,000 cases of Clostridium difficile, seen here, and its cousin C. sordellii occur in the US each year, including a handful in women who have taken the RU486 abortion pill
+The cause of increasing rare but deadly bacterial infections, including a handful of cases in women who have taken the controversial RU486 abortion pill, is still unclear and needs further study, US health experts say.
+Two sometimes fatal bugs - Clostridium sordellii and C. difficile - are a particular worry as antibiotic resistance grows and infections occur in people usually not at risk, doctors and researchers say. 
+While infections have been reported in drug users, surgical patients and accident victims, including men, cases in women who took RU486 drew the most scrutiny at the Centers for Disease Control (CDC) this week.
+Officials from the CDC, Food and Drug Administration (FDA) and National Institutes of Health sought input from outside experts on what research and tracking systems are needed. 
+Dr Paul Seligman, FDA associate director for safety policy, says it is not clear what is causing the spike.
+"What we do know is that in this country we are seeing the simultaneous emergence of two virulent, often fatal illnesses affecting otherwise healthy people," he says. 
+More difficult to treat
+More than 200,000 C. difficile cases occur each year in the US, experts say. The diarrhoea-causing disease is usually manageable but has recently become more difficult to treat.
+C. sordellii is far more rare and previously was not known to be toxic. "Over the past few years the picture has changed," Seligman says.
+Drawing the most scrutiny are cases involving RU486, a drug that is taken with another called misoprostol early in pregnancy to trigger an abortion.
+Six women who took RU486, also known as Mifeprex or mifepristone, have died since 2000. Four died from clostridium infection, one was ruled unrelated, and the other is still being investigated. Officials have not directly linked the deaths to the drug. 
+The CDC says it is investigating another fatal case involving a woman who took misoprostol as part of an abortion procedure. Another fatal infection following medical abortion has yet to be confirmed. 
+Ten other deadly infections have been reported in women who had given birth or who had miscarriages. 
+More study needed
+Several women's groups and others RU486 supporters say the infections need more study, while abortion opponents say the data shows the pill is too risky to stay on the market.
+Two experts also questioned the pill. Dr James McGregor, a gynaecologist from the University of Colorado Health Sciences Center, urged officials to "reduce or eliminate" Mifeprex use. 
+Overall, panelists encouraged further study, especially on women. 
+"We clearly need controlled trials," says Dr Dale Gerding of Hines Veterans Affairs Hospital in Illinois.
+Most also say limited government data make tracking infections tough and urge better reporting systems. 
+Antiobiotics the answer?
+It is not immediately clear what action the FDA might take regarding RU486 or if officials would suggest use of antibiotics to prevent infection. 
+FDA's deputy director of the Office of New Drugs Sandra Kweder says the meeting shows "the picture is much more complicated" than the cases involving the abortion pill. 
+"This is a far more complex medical and epidemiological situation than originally might have appeared to be the case, and we'll be trying to factor that into any actions that we take," she says.
+
+Fragment B of Comet 73P/ Schwassmann-Wachmann 3 and some of the mini-comets that have broken off
+Giant telescopes around the world are capturing more spectacular views of the near-Earth disintegration of Comet 73P/Schwassman-Wachmann 3.
+The comet is now comprised of scores of fragments and zillions of tinier pieces.
+A new infrared image from the Spitzer Space Telescope of the unfolding destruction captures what looks like a line of steam engines following a common cosmic track. 
+Each 'engine' is a comet fragment boiling away plumes of dust and gas as they are blasted by the solar wind.
+The track the fragments are following is a line of Sun-warmed comet debris, dust and fine sand, that the comet left in space on its previous 5.4-year cycles around the Sun. 
+"We hadn't seen that with this comet," says astronomer Michael Kelley, a doctoral student at the University of Minnesota, Twin Cities, and member of the team that made the Spitzer telescope observations.
+"It's been suspected because it's associated with a meteor shower." 
+Comet debris streams linked to specific comets, like that seen in the Spitzer image, are the cause of many regular, predictable meteor showers.
+When Earth ploughs through the debris at the same point of its orbit each year, the debris burns up in our atmosphere, creating a meteor shower. 
+Following the debris trail
+The astronomers are hoping that by measuring the brightness of the extent of the debris trail, which can't be see in visible light, they can find out whether most of the comet vaporises from evaporating ice, the house-sized chunks seen in recent Hubble Space Telescope images, or by way of meteor-sized debris seen in the Spitzer images. 
+"We suspect that every comet goes through an episode like this," says Kelley of those comets that don't die by plunging into the Sun or into a planet. 

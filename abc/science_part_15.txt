@@ -1,0 +1,661 @@
+Greater caution is needed in early stage tests of novel drugs that stimulate the immune system and only one patient should be given active medicine on the first day, a joint industry taskforce says. 
+Its report was prompted after six men were left seriously ill when a clinical trial in the UK using an experimental drug went badly wrong in March.
+The news triggering widespread public alarm, sending shock waves through the pharmaceuticals industry.
+All six healthy volunteers were given the drug, made by German biotech firm TeGenero AG, at the same time. 
+Professor Colin Dollery, a consultant to GlaxoSmithKline who co-chaired the taskforce, says tens of thousands of initial phase I trials are conducted without incident but the TeGenero episode highlightes the need for extra care with potent biotech drugs.
+This is particularly the case when drugs activate biological processes in the body rather than inhibit them. 
+UK regulators earlier this year concluded that TeGenero's drug TGN 1412 appeared to cause an unprecedented biological reaction in humans by stimulating the immune system, a reaction not seen in animals. 
+"The great majority of drugs are antagonists, in other words, they inhibit processes," Dollery says.
+"Only a minority are agonists, which activate a process. If you have a biological drug that is intended to activate the immune system, which TGN 1412 was, then you have to be very much more careful." 
+Other recommendations from the taskforce, which was set up by the Association of the British Pharmaceutical Industry and the UK's BioIndustry Association, include improvements in ascertaining the right starting dose, 'staggered dosing' as levels are increased and only conducting such trials in hospitals with intensive care facilities.
+Privately owned TeGenero filed for insolvency earlier this month as the publicity surrounding the disastrous phase I study made it impossible for the company to attract investment to keep operating. 
+The trial of TGN 1412, which was designed to treat chronic inflammatory conditions and leukaemia, was conducted on behalf of TeGenero by contract research firm Parexel at Northwick Park Hospital in northwest London. 
+The joint industry taskforce has submitted its conclusions to a separate, government-appointed expert committee on first-in-human clinical studies under Professor Gordon Duff, which is due to issue its report later this week.
+
+A loophole in how people set up VoIP accounts for internet telephony is allowing fraudsters to scam people's bank account details
+Fraudsters have been sending people emails asking them to phone their bank as part of a novel way of stealing account details known as 'vishing', security experts say.
+Internet fraud dubbed 'phishing', where email recipients are directed to a fake website seeking their financial details, has been around for several years.
+But government officials and security experts are warning about vishing, after a recent case of attempted fraud against a Californian bank.
+As opposed to phishing, vishing relies on Voice over Internet Protocol (VoIP) telephony, a way of using the net to make cheap phonecalls.
+The perpetrators take advantage of a quirk in VoIP that allows subscribers to have a telephone number that appears to be based in a city, such as Los Angeles, even though they may be anywhere in the world. 
+"It's a fairly new phenomenon. We're aware of reports they have been occurring," says Lisa Hone, the assistant director of the US Federal Trade Commission's consumer protection bureau.
+The perpetrator or group behind the emails sent to customers of the Santa Barbara Bank and Trust in California last month have yet to be caught, but the bank has alerted its customers to the scam.
+The email sent to the bank's customers preyed on potential victims by requesting they call an apparent local telephone number to clear up an account problem. 
+Any customers who called the telephone number would have heard a recorded message urging them to enter their account number, according to internet security firm Websense. 
+Dan Hubbard, vice president for security research at Websense, says the group alerted the bank, a unit of Pacific Capital Bancorp. 
+Pacific Bancorp could not be reached for comment, but the bank's website has alerted its customers to the scheme. 
+"It's definitely a new trend. It is growing, but it is not nearly as big as the threat of [fake] websites or criminal activity through malicious code; we're talking tens of thousands versus a handful," Hubbard says.
+Online auctions affected too
+But he says similar scams have been attempted against users of the online payments company PayPal, and on the online auction group eBay. 
+UK-based internet security firm Sophos issued an alert earlier this month about a vishing scheme targeting PayPal. 
+"As hackers get smarter we are likely to see them increasingly not only set up fake websites, but 'harvest' messages from corporate switchboard systems to appear even more like the legitimate company," says Graham Cluley, a senior technology consultant at Sophos.
+A VoIP-based fraud can be set up fairly simply, according to security experts. 
+There are relatively few companies that currently offer such internet-based telephone services, and fewer checks are generally required compared to opening an account with a traditional telephone company. 
+False voicemail
+Essentially, a fraudster signs up for a VoIP account, sets up a voicemail recorded message system, mimicking that of an actual bank or other company, then mass emails consumers urging them to call the false number. 
+Hone says the scam, as in the California case, can appear legitimate to unsuspecting consumers because VoIP accounts can be set up with local telephone codes of a user's choice in a variety of cities or states. 
+"One VoIP account can have numbers all over the country, the code makes it look more real, and set-up is easy," Hone says.
+
+You can lose weight on a high carbohydrate diet but not all carbs are equal
+There's no difference between a low GI diet and a high protein diet when it comes to losing weight, an Australian study has shown.
+The study, published in the Archives of Internal Medicine today, is the first to directly compare high protein diets and those based on foods with a low glycaemic index or GI.
+But the research shows low GI diets are better than high protein diets in reducing 'bad' or LDL (low density lipoprotein) cholesterol associated with cardiovascular disease.
+"In terms of weight and fat loss [a low GI diet] and [a high protein diet] were exactly the same, there was no difference in terms of weight or fat loss between those two studies," reports lead author Joanna McMillan-Price from the University of Sydney's human nutrition unit.
+Professor Jennie Brand-Miller, who co-authored The Low GI Diet Revolution with McMillan, was also involved in the research.
+Turning carbohydrates into glucose
+Low GI diets were originally used to control diabetes because of their ability to prevent dramatic fluctuations in insulin levels. 
+The body takes longer to convert low GI foods to glucose, which means glucose is released into the bloodstream more slowly, preventing spikes in insulin levels that can leave you feeling hungry and prevent the breakdown of fat.
+More recently, low GI diets gained popularity among dieters, with celebrities like Kylie Minogue reported to favour low GI foods.
+Highly processed, low fibre foods like white bread and soft drinks have a high GI while foods like dark whole grain breads, fruit and legumes have a low GI.
+Fat or cholesterol?
+The researchers put 129 overweight men and women on one of four diets for 12 weeks.
+Of those four, one was low GI and another was high in protein.
+At the end of the study both the low GI and high protein group had lost the same amount of weight.
+A third diet, which was heavy on carbohydrates with a high GI, achieved the slowest rate of weight loss.
+While LDL cholesterol "declined significantly" in the low GI group, it increased among the people on the high protein diet.
+McMillan-Price says the research not only suggests that a low GI diet is the best eating choice, but it also vindicates the consumption of the right kind of carbohydrates for those wanting to lose weight.
+"For so long now we've had hype that it's all about high protein and we must reduce our carbs," McMillan-Price says.
+"It's been a confusing message and it's quite reassuring to hear that yes, I can eat a high carb diet as long as I'm smart about the carbs I choose."
+High protein or low GI?
+Dr Peter Clifton, research director at CSIRO Human Nutrition, says the study shows that both high protein and low GI diets can reduce weight.
+"Certainly [the study] doesn't provide any evidence [low GI diets] are the best, they're an equivalent," says Clifton, who co-authored the bestselling CSIRO high-protein Total Wellbeing diet.
+Clifton says high protein diets also provide more zinc and iron that a high carb diets, and are more likely to leave you feeling fuller for longer.
+"[But the study shows that] if you don't like eating large amounts of protein then choosing low GI products is probably not bad alternative," he says.
+McMillan-Price's study received funding from Meat and Livestock Australia.
+
+Can modern technology help solve the secrets of Egypt's ancient pyramids?
+Archaeologists who measured the Egyptian pyramids at Giza more than 100 years ago were surprisingly accurate, a review of historical surveys has shown.
+The paper, posted online by Australia's Queensland University of Technology, reviews the major surveying projects of the pyramids Cheops, Chephren and Mycerinus, built around 2600 BC south of what's now Cairo.
+"They weren't that far out; their surveys were quite diligent and systematic and we're getting fairly good agreement using modern technology," says the paper's co-author Robert Webb, a lecturer in surveying in the school of urban development.
+But Webb says laser scanning, computer modelling and other modern technology hasn't brought us any closer to answering one of the most intriguing questions about the pyramids.
+This is whether their position and measurements deliberately reflect the alignment of the planets and stars.
+"[Earlier surveys have found] a very close relationship to the planet alignments and what we can measure on the ground," he says.
+"But it's more of a theory and some people have also found while the similarities appear on the surface to be quite close, it's just really one of those mathematical flukes."
+According to the review, the two major historical surveys of the pyramids were made in 1880 and 1925 using wire, steel tape and mahogany rods.
+The most recent attempts to map the pyramids have used laser scanning, GPS, satellite imaging, digital technology and computer visualisation.
+Questions of alignment
+The 1880-1882 survey by Sir William Flinders Petrie concluded that there was no spatial connection between the distances and directions of the pyramids and anything else.
+But theories since then have suggested the spatial relationship of the pyramids reflected the alignment of Orion's Belt and the orbital path of Mercury, Mars and Venus. 
+Other theories have included suggestions that the perimeter of the Great Pyramid, or Cheops, of 36,525 pyramid inches is equal to the number of days in 100 years and the number of books of ancient wisdom credited to the Egyptian god Thoth.
+A pyramid inch, the basic unit used in measuring pyramids, is just a fraction over one inch.
+Webb says initiatives like the University of Chicago's Giza Plateau mapping project have revealed peculiar alignments inside the pyramids that could possibly shed more light on alignment theories.
+"Computer visualisation of the insides of the pyramids and their chambers has the potential to really reveal some relationships we may not know about as yet," he says.
+But he says that mystery still surrounds the pyramids.
+"In reality we will never know what inspired the ancient Egyptians to position the pyramids as they did," the paper concludes.
+
+Exposure to cosmic radiation and microgravity is expected to generate super-seeds and super-plants
+China plans to blast seeds into space in a novel way of boosting the nation's food production, reports say.
+Scientists hope that exposure to cosmic radiation and microgravity will cause genetic mutations in the seeds that will improve crop yield back on Earth.
+Some 2000 seeds will go into orbit as part of a two-week mission aboard a recoverable satellite, Shijian-8, the China Daily newspaper reports.
+This is set to be launched by a Long March 2C rocket in early September.
+The 'seed satellite' will enable scientists to try to cultivate high-yield and high-quality plants, Sun Laiyan, head of the China National Space Administration, told the paper.
+"Exposed to special environments such as cosmic radiation and microgravity, some seeds will mutate to such an extent that they may produce much higher yields and improved quality," the paper says.
+Nine categories of seeds, including grains, cash crops and forage plants will be aboard the satellite, it says. 
+China has been experimenting with space-bred seeds for years, with rice and wheat exposed to the universe resulting in increased yields, the paper says. 
+Space-bred tomato and green pepper seeds have resulted in harvests 10-20% larger than ordinary seeds, while vegetables grown from space-bred seeds have a higher vitamin content, it adds. 
+However the satellite to be launched in September will be the first dedicated specifically for seeds. 
+China's space seed experiments come as the nation seeks ways to feed its 1.3 billion people amid a rapid decline in farming land due to swift industrialisation. 
+The nation has pursued some forms of genetically modified crops, with GMO tomatoes, soy beans and corn already in production.
+China is also mulling plans to approve the production of genetically modified rice. 
+'Scotty' revisits final frontier
+In other space news, the remains of actor James Doohan, who played Scotty on Star Trek, will be blasted into space in October, the company organising the flight says.
+The actor who inspired the catchphrase "Beam me up, Scotty", even though it was never actually uttered on the show, died a year ago at the age of 85. 
+Houston-based company Space Services originally planned to blast Doohan's remains into space last year but the flight was delayed to allow more tests on the rocket. 
+The company previously blasted the remains of Star Trek creator Gene Roddenberry into space in 1997.
+
+An artist's impression of a spacecraft exploring the icy Kuiper belt
+Researchers say they have found the first evidence that the frozen outer reaches of our solar system could be littered with many more objects than we think.
+Astronomers have been trying to get a picture of the region, known as the Kuiper belt, because it is believed to contain debris from the birth of our solar system and so could tell us how planetary systems form.
+About 1000 large bodies, including Pluto and the recently discovered Xena, have been located in the Kuiper belt so far.
+But smaller objects have evaded detection as they are about 15 billion kilometres from the Sun, making it impossible to see them even with a powerful instrument like the Hubble Space Telescope.
+Now an Australian team from the University of New South Wales (UNSW) and the Anglo-Australian Observatory (AAO) has used optical fibre technology to detect signs of smaller Kuiper belt objects for the first time.
+The wink of a star
+They did this by observing split-second 'winking', or darkening, of stars which suggests a Kuiper belt object is passing in front, or occulting the star.
+UNSW student George Georgevits presented his research at a recent workshop attended by international Kuiper belt experts in Italy.
+His colleague Associate Professor Michael Ashley of UNSW says the observations offer the first evidence the Kuiper belt contains many more relics of the infant solar system than estimated.
+"Basically our observation showed that that are many more, maybe five or 10 times as many, of the smaller objects than theory predicted," he says.
+Ashley says Georgevits and fellow researcher Dr Will Saunders of the AAO found evidence of many objects ranging in size from 300 metres to one kilometre across using a 6DF instrument on the UK Schmidt telescope at Siding Spring.
+The 6DF, which uses fibre optics, monitored 100 stars simultaneously over two weeks, the equivalent of 7000 star hours, or watching a single star every night for 3 years.
+"We've got 100 fibres, each one of which is positioned on a star and then we feed the fibres into a high speed camera," he says.
+A fraction of what's out there
+Ashley says it's been suggested there are around 100 billion objects in the belt, but the latest observations suggest this could represent only a fraction of what's there.
+"We saw at least 100 very definite [occultations] and as ... you look for smaller, less significant events we could have seen up to 1000," he says.
+The Kuiper belt community has greeted the news with some scepticsm. Some critics say that the apparent dimming of the stars may be due to effects in the Earth's atmosphere.
+Ashley says the scientists took pains to rule out other possible causes for dips in stars, including moths in the telescope.
+
+But this research won't turn a pot belly into a flat stomach
+Stem cells taken from human fat can be transformed into smooth muscle cells, offering a way to treat diseases of the heart, gut and bladder, US researchers report.
+While the experiment does not quite offer a way to turn a pot belly into a flat stomach, the researchers say the transformed cells contracted and relaxed just like smooth muscle cells.
+These cells help the heart beat and blood flow, push food through the digestive system and make bladders fill and empty, the researchers report. 
+Their study, published in the Proceedings of the National Academy of Sciences today, is the latest to show that fat can be a rich source of the body's master cells.
+"Fat tissue may prove a reliable source of smooth muscle cells that we can use to regenerate and repair damaged organs," says Dr Larissa Rodriguez, an assistant professor in the urology department at the University of California Los Angeles medical school.
+Rodriguez and colleagues incubated adipose-derived stem cells in a nourishing mixture of growth factors, human proteins that encouraged the cells to become smooth muscle cells. 
+The researchers say scientists have been looking for sources of smooth muscle for organ repair and treating heart disease, gastrointestinal diseases and bladder dysfunction. 
+"A major obstacle for such an approach has been finding a reliable source of healthy smooth muscle cells that can be safely harvested and that require minimal manipulation," they write. 
+Clean, healthy fat
+One approach has been to take a patient's own cells from an organ. But studies have shown that stem cells taken from a diseased organ are also damaged and do not work well when scientists try to grow them in the lab for a transplant. 
+Transplants grown from a patient's own fat could be used with no need for anti-rejection drugs, Rodriguez says.
+Smooth muscle cells have been produced from stem cells found in the brain and bone marrow, but acquiring stem cells from fat is much easier, she adds. 
+The stem cells found in fat are known as multipotent stem cells. They can produce a variety of cell and tissue types, but are not as flexible as embryonic stem cells. 
+Others also looking at fat
+Many groups have been looking to fat as a source of stem cells. In April, Cytori Therapeutics said it was starting a clinical trial to test whether stem cells derived from fat can be used to regenerate breast tissue. 
+Other researchers have been trying to get stem cells from liposuction specimens. 
+In a second study published in the same journal, UK researchers say they found one important protein that keeps stem cells in a quiescent and non-dividing stage. 
+Dr Fiona Watt of Cancer Research UK and colleagues studied stem cells from human skin and found a protein known as Lrig1 kept the skin cells from proliferating.
+When Lrig1 production was silenced, the stem cells began growing and dividing.
+The finding may not only offer important information to stem cell researchers, but may also offer insights into cancer, Watt's team says.
+In cancer, cells ignore the normal signals from the body and proliferate uncontrollably. 
+The protein is also involved in psoriasis.
+
+The mud in this cave is formed from 340 million year-old clay
+The Jenolan caves west of Sydney date back some 340 million years, making them the oldest known open caves in the world, Australian geologists say.
+Dr Armstrong Osborne from the University of Sydney and colleagues used clay dating methods to show the caves have been open since the Carboniferous period.
+Their results are published in a recent issue of the Australian Journal of Earth Sciences.
+"We've shown that these caves are hundreds of millions of years older than any reported date for an open cave anywhere in the world," Osborne says.
+The oldest previous dating for an open cave was around 90 million years, he adds.
+"Even in geological terms, 340 million years is a very long time. To put it into context, the Blue Mountains began to form 100 million years ago; dinosaurs became extinct 65 million years ago, and Tasmania was joined to the mainland as recently as 10,000 years ago."
+Until recently, scientists had thought the caves were relatively young. But Osborne thought the underground system might be older.
+"It always struck me as weird that in a country where everything is so old, that the caves should be young," he says.
+The challenge was finding something inside the caves that could be accurately dated.
+So when a chance meeting revealed that Dr Horst Zwingmann from CSIRO Petroleum Resources had a technique that could be used to date the clay inside the caves, they set about finding their real age.
+Borrowing from the oil industry
+The researchers used dating methods developed to help oil exploration companies find oil deposits.
+The techniques are based on potassium-argon dating, which can calculate the age of minerals by measuring levels of decay caused by radioactive potassium.
+The results were a complete surprise. 
+"No one imagined that they would be more than 300 million years old. This was totally off the planet," Osborne says.
+"We were able to provide evidence that the clays did form in-situ in the caves and that the sections regularly visited by tourists actually formed in the Carboniferous," Zwingmann says.
+The clay now forms much of the mud in the popular Temple of Baal and Orient caves.
+The discovery opens the possibility that there could be evidence of other ancient geological events in the caves that scientists haven't looked for yet.
+For example, the researchers think the clay in the cave was formed when volcanic ash entered.
+
+Irradiation could be a way of inactivating bacteria used to make vaccines
+Vaccines made with bacteria killed by gamma rays may be more effective than those made using standard heat or chemical inactivation, US government researchers say. 
+Such vaccines do not have to be kept cold, the team at the University of California, San Diego, School of Medicine report in the journal Immunity.
+Dr Sandip Datta and colleagues made a vaccine from Listeria monocytogenes bacteria, a common cause of food poisoning. 
+The listeria were killed with gamma rays and the vaccine protected mice infected with live listeria, unlike vaccines made with heat-killed bacteria. 
+"Although completely inactivated by the radiation, and thus unable to cause illness, irradiated bacterial pathogens evidently retain characteristics that prompt the immune system to mount a full-fledged defence," Datta says.
+Vaccines can be made in three ways: using an attenuated, or weakened, form of live bacteria or virus, using a killed microbe, or using pieces of DNA from a bacteria or virus.
+Most attenuated vaccines must be kept cold, but the researchers found that mice could be protected by vaccination with irradiated listeria that had been freeze-dried into a powder. 
+This might mean that such vaccines could be used in hot places without electricity, the researchers say. 
+Vaccines often protect mice but not people so the idea must be tested more, the researchers note.
+Dr Elias Zerhouni, head of the National Institutes of Health, which funded the study, says:
+"This advance is potentially of great importance in meeting the challenge of creating vaccines that are safe, effective and simple to manufacture and transport." 
+Gamma rays are also used to sterilise medical equipment and, in some countries, to preserve food.
+
+Scientists are still working out how to measure objects accurately at the nanoscale
+Some of the smallest things in the world are so small that not even the scientists making them know how tiny they are.
+The scientists can't seem to agree how to accurately measure these nanotechnologies, which commentators say is an important step in making sure they work properly and their risk is minimised.
+Accurately measuring the size of nanomaterials is crucial because nanotechnology relies on novel properties that emerge at the nanoscale.
+And it's important in safety assessment because particles under a particular size may be dangerous to human or environmental health.
+Dr John Miles, manager of nanometrology at Australia's National Measurement Institute in Melbourne, is one of the scientists trying to work out how to accurately measure nanotechnology, such as nanoparticles.
+"Measurement at this level is an extremely difficult thing to do because it's so much smaller than the things we normally deal with, getting down to almost atomic dimensions," says Miles, who is on an international committee responsible for setting measurement standards for nanotechnologies.
+But if you have an oval-shaped nanoparticle, for example, do you measure its width or length? And how do you measure a nanoparticle with a rough surface?
+The shape and surface smoothness of a particle become important when measuring at the nanoscale, Miles says, because the particles themselves are about the same size as things like surface irregularities.
+Depends on the lab
+Miles says studies have shown that different labs, even using the same measuring technique, have delivered very different measurements of nanoparticles.
+For example, nanopolystyrene spheres, which suppliers say are 80 nanometres in size, have been measured as being 15 nanometres smaller or bigger depending on who is measuring them, he says.
+And measurements of silver nanoparticles have been 10 nanometres smaller or bigger, depending on the lab, says Miles. 
+Nanometrologists don't yet know whether suppliers are producing unreliably-sized particles or whether those measuring them are getting it wrong.
+"There is a need worldwide for a quick, convenient way of measuring nanoparticle sizes," says Miles. "If someone could come up with a way of doing that they would make a lot of money."
+Scattering light
+The most practical machine being developed for the job uses what is called dynamic light scattering (DLS). 
+This technique shines laser light onto a solution of nanoparticles and measures their Brownian motion, the jiggling that happens when nanosized particles are bombarded by other molecules.
+The smaller the particles, the more they jiggle, and the trick is to accurately calibrate their jiggling with standard metric measurements.
+Miles says his institute is working on a DLS device to calibrate nanopowders as reference standards for industry. But he says the instrument is three or four years away.
+Nanorulers
+An alternative in the meantime is to use an electron microscope to image the particles and then a 'nanoruler' to measure them.
+The problem is that this method is time-consuming because it only measures relatively few particles at a time, whereas DLS can quickly measure an entire batch of particles in one go.
+There is currently no regulatory requirement for the billion-dollar nanotechnology industry to use reliable measuring devices.
+
+Drizzle one day, flash floods the next
+It's raining methane on Saturn's giant moon Titan, scientists say.
+It ranges from a persistent drizzle that keeps the surface of Saturn's largest moon damp to fierce storms that could produce huge droplets.
+"We have found the first evidence of drizzly rain on a remote planet, in this case Titan, which consists of liquid methane and a little bit of nitrogen," says Dr Tetsuya Tokano of Germany's University of Cologne.
+Tokano and his colleagues publish their findings today in the journal Nature.
+The researchers used data from the NASA/European Space Agency Cassini-Huygens mission to measure the atmospheric chemical composition, temperature and pressure on Titan. 
+The Cassini craft was launched in 1997 and reached Saturn in 2004 after cruising past Venus and Jupiter. 
+Information from the probe showed Titan, which is larger than the planet Mercury, is cold and windy with a dense atmosphere of methane and nitrogen.
+According to the team's findings, much of the surface of Titan could experience a drizzle for the next few years. 
+Fierce storms too
+In a separate report in the journal researchers from Spain modelled Titan's atmosphere.
+They predicted clouds over the south pole would produce fierce storms that would pound the surface and could help explain the formation of its river valleys. 
+Dr Ricardo Hueso and Dr Agustin Sanchez-Lavega of the University of Pais Vasco in Bilbao say under the right conditions the storms could produce methane raindrops up to 5 millimetres across that would pound the surface similar to flash floods seen on Earth.
+Tokano says although the Spanish researchers reached a different conclusion he believes both types of rainfall could occur on Titan depending on the conditions.
+"We do not rule out the presence of such heavy rainstorms because such clouds have been observed near the south pole," he adds.
+
+Adult (top) and juvenile (bottom) Umoonasaurus, one of two new species of ancient marine reptile
+Scientists have identified two new species of ancient marine reptile that swam in an Australian outback sea 115 million years ago.
+The reptiles, named Umoonasaurus and Opallionectes, belonged to the plesiosaurs group which included a predator like a killer whale from the Jurassic period, says palaeontologist Dr Benjamin Kear from the University of Adelaide.
+Kear, whose team studied 30 opalised fossils mainly from around the outback mining town of Coober Pedy in South Australia, publish their research in the latest issue of the journal Palaeontology and online in the journal Biology Letters.
+Kear says the long-necked marine reptiles swam in the shallow water of an inland sea that once existed in central Australia.
+Freezing polar water covered large parts of Australia 115 million years ago when the island continent was much closer to Antarctica. 
+The Umoonasaurus was about 2.4 metres long and had three crest-like ridges on its skull.
+"Imagine a compact body with four flippers, a reasonably long neck, small head and short tail, much like a reptilian seal," Kear says. 
+The team named the reptile after the Aboriginal name for Coober Pedy, Umoona.
+The Opallionectes was 6 metres long, with masses of needle teeth used to trap small fish and squid.
+Its name means 'the opal swimmer from Andamooka', the scientists say.
+Kear says most of the fossils found were of juvenile creatures, leading the scientists to believe they had discovered a seasonal breeding ground for the ancient reptiles.
+
+Light-detecting fibres could one-day be used to capture images from space
+Move over digital cameras. Imaging with special light-detecting fibres may be on its way.
+Researchers from the Massachusetts Institute of Technology (MIT) have developed a crisscrossing web of transparent fibres that senses the direction, intensity and phase of light in 3D.
+It does this without lenses, filters or detector arrays typically used for the task.
+The lightweight fibres could be used to make space telescopes that unfurl sail-like imagers, say the scientists.
+Alternatively, interactive computer screens made with the fibres could respond to light instead of mouse clicks.
+And fibres in electronic clothing could one-day sense the environment better than the wearer.
+"We have shown already that these very simple fibre arrays can extract images without a lens," says Yoel Fink, an associate professor of materials science at MIT.
+Fink, with postdoctoral associate Ayman Abouraddy and colleagues, publish the results in the latest issue of the journal Nature Materials.
+In conventional imaging systems, the lens is a crucial component, as it focuses the light onto the detector surface, whether that is a light-sensitive film or computer chip.
+But in Fink's system, a software algorithm does the work of the lens after light hits the photo-detecting fibres.
+"It's a completely new way of doing things," says Eli Yablonovitch, professor of electrical engineering at University of California, Los Angeles.
+Fibres have three elements
+The fibres are 1 millimetre in diameter and have three elements: a semiconducting core flanked by metal conductors, all encircled in an insulating shell of a polymer.
+Weaving the fibres together produces a screen-like product with unique coordinates for each location where two fibres intersect.
+With this method, scientists can pinpoint where on the grid light is shining.
+Placing one screen in front of another, or forming one screen into a sphere as the team did in laboratory tests, provides even more detail.
+Light passes through a coordinate on the facing screen and through another coordinate behind. So the scientists determine where the light came from by drawing an imaginary line through the two coordinates.
+At the same time, the fibre is collecting information about the light, including its intensity and the frequency of the light waves. 
+A software algorithm then calculates how the light would change if it passed through a lens and uses the answer to generate a picture of the light's source.
+Light from all directions
+Whereas conventional imaging systems have a limited field of view, Fink's system can sense light coming from all directions.
+"The beauty of this is that they are able to make this three-dimensional detection and to do so with an object that is essentially transparent," says Malvin Teisch, professor of physics and electrical and computing engineering at Boston University.
+Fink's team is working on fibres that can sense a wider range of light wavelengths, to produce colour images, as well as ones that can read heat and sound.
+
+Sensitive tastebuds may explain why your kids won't eat broccoli, carrots or cucumbers
+Picky kids who won't eat vegetables may be particularly sensitive to bitter flavours, a new study shows.
+These preschoolers turn up their noses at not only bitter vegetables, like broccoli and olives, but sometimes also sweeter vegies like carrots and red peppers. 
+The findings suggest that innately sensitive tastebuds help explain why some children are so staunchly opposed to vegetables, the study authors report in the latest issue of the American Journal of Clinical Nutrition.
+In recent years, scientists have identified a gene, dubbed TAS2R38, that controls a receptor for bitter flavour. 
+A study published last year found that children with certain variations of that gene are particularly sensitive tasters, able to detect a very small amount of a bitter-tasting compound in water. 
+The 65 preschoolers in the current study were tested the same way.
+A total of 37% said the water tasted "yucky" or bad, while the rest couldn't taste anything and were considered "nontasters". 
+When the children were given free range to snack on bitter-tasting vegetables (broccoli, olives and cucumbers) and sweeter ones (carrots and red peppers), the sensitive kids ate significantly fewer bitter vegetables.
+And while only 8% of nontaster children refused all of the vegetables, 32% of the sensitive tasters did so.
+At the dinner table
+So what should parents make of all this? According to the researchers, parents of fussy eaters should recognise that their children may not be having the same taste experience that they are. 
+"Parents should try not to project their own food preferences onto their children," says study co-author Dr Beverly Tepper, a professor of food science at Rutgers University.
+A nontaster parent who loves broccoli, for instance, may have a more bitter-sensitive child who simply doesn't enjoy the greens in the same way, she says. 
+But that doesn't mean that bitter-sensitive kids are destined to shun vegetables their whole lives, a potential comfort to parents who regularly engage in mealtime struggles. 
+"We do change our food preferences as we grow and learn," Tepper says, noting that the "impact of genetics isn't set in stone". 
+Whether there's a more immediate fix to the bitter-sensitivity issue is unclear.
+A tasty sauce might make vegetables more palatable to a sensitive child, but dousing veggies with toppings may not be the most nutritionally sound choice, Tepper says. 
+Serving vegetables cooked rather than raw might help, she says, as cooking takes some of the bite out.
+
+One day we may be able to make stronger nylon by starting at the nanoscale
+A US scientist has made the world's smallest fragment of nylon and hopes to make more by harnessing the self-assembling properties of DNA.
+Professor Nadrian Seeman of New York University says the long-term plan is to make ultra strong nylon.
+He gave a paper on his work at the recent International Conference on Nanoscience and Nanotechnology in Brisbane.
+"The same properties of DNA that make it such a wonderful genetic material can be utilised in other ways," says Seeman, a pioneer of what is called structural DNA nanotechnology.
+In nature, DNA's bases enable it to pair up with and attach to another strand of DNA to form a linear double helix.
+Seeman is exploiting this ability of DNA to self-assemble to make his nano-nylon.
+But he is using synthetic DNA that can form branches rather than linear lines.
+"You can make lattices, you can make networks, you can make objects, you can make all sorts of things with branched DNA whereas with linear DNA you're just making a long line," he says.
+Seeman has been working on a synthetic version of a related molecule, RNA, which also self-assembles.
+So far, he's attached chemical groups used to make nylon to fragments of synthetic RNA to make the equivalent of a single molecule of nylon.
+"That's about the shortest piece of nylon you can make," he says.
+He is now working on making larger pieces of nylon using DNA. The plan is to knit the nano-nylon into a form of molecular chain mail, which would make a much tougher and stronger fabric than currently exists.
+But, says Seeman, this is a long-term project.
+"This is very hard chemistry," he says, revealing that it took seven years to work out how to attach the nylon components to DNA.
+Bottom-up assembly
+Nearly 20 years ago scientists amazed the world by writing the world's tiniest corporate logo in atoms.
+The tiny IBM logo was made using a large machine that laboriously placed each atom in place. 
+Seeman's research is part of a different approach to assembling things at the atomic or molecular level. 
+"We're talking about making things from the bottom up," he says, "unit by unit".
+The approach involves mixing synthetic DNA molecules in a solution to assemble vast amounts of desired molecular structures.
+Seeman says molecular self-assembly can also be used to organise nanoelectronics, an idea he first raised in 1987.
+This would involve attaching molecules that conduct electricity, such as carbon nanotubes, to DNA.
+So far, Seeman has demonstrated the concept by attaching gold nanoparticles to DNA.
+He says his work could also be used as a tool in the imaging of biological molecules, including drug receptors, which in turn will be useful in drug design.
+Seeman is funded by the National Institutes of Health, the National Science Foundation, Nanoscience Technologies Incorporated and the US military.
+
+The vehicle combines the best of a helicopter and fixed wing aircraft, say researchers. It stands 1.5 metres high and has a wingspan of 2.4 metres
+A new unmanned aerial vehicle (UAV) that takes off vertically like a helicopter and then flips over to fly forward like a conventional plane is being developed by Australian researchers.
+The T-Wing could provide cheaper and more efficient surveillance and reconnaissance, says Dr Hugh Stone of the University of Sydney whose team has been carrying out test flights.
+"It can take off and land like a helicopter," says Stone, an aeronautical engineer who began the research as a PhD project. "It doesn't need a runway." 
+While helicopters can take off and land vertically and can hover, they are not as efficient at forward flight as conventional aircraft, which means they don't tend to fly as fast or as far.
+This is why 'convertiplanes' were developed, aerial vehicles that convert from helicopter to plane mode.
+Other UAV convertiplanes use helicopter type propeller blades and more complex and expensive technology to control the movement of the vehicle, says Stone.
+But the T-Wing uses fixed propellers, like a standard aircraft.
+Moving flaps that sit in the airstream behind the propellers are responsible for changing the direction of the aircraft and allow it to hover.
+These flaps are controlled by an onboard computer system that detects and changes the plane's location and orientation.
+"We can basically tell it a set of points in space and we upload those to the vehicle and then it will fly through those points," says Stone. "It doesn't need any intervention from us."
+Unstable
+Like other similar vehicles the T-Wing is quite unstable and the flaps have to move 50 times a second to keep the vehicle hovering.
+While it is not possible to fly the aircraft by radio control from the ground, it is possible to communicate with the onboard computer system in an emergency.
+"We can intervene if something starts to go wrong," says Stone.
+So far the team has successfully tested a prototype that is 1.5 metres high with a 2.4-metre wingspan and weighs 30 kilograms.
+In the tests, the aircraft flew autonomously, except while landing when it had some assistance from radio control on the ground. The team plan to do further testing in December.
+Surveillance
+Stone says UAVs are generally equipped with cameras and used for surveillance and reconnaissance.
+The research has been funded by the Australian Research Council, the University of Sydney and a US$30,000 grant (A$39,000) from the US Air Force.
+Stone says his team is working with Australian technology company Sonacom to develop a commercial version of the aircraft for surveillance applications.
+
+New research into how HIV replicates in the gut may help to explain why antiviral therapy doesn't work for all patients
+HIV replicates in the lining of the gut and does much of its damage to the immune system there, researchers say.
+Professor Satya Dandekar, at the University of California Davis Health System, and colleagues report their findings in the latest issue of the Journal of Virology.
+Dandekar says the study is the first to explain why the drug cocktails that HIV patients take so often fail to work completely. 
+"The real battle between the virus and exposed individuals is happening in the gut immediately after viral infection," she says. 
+"We need to be focusing our efforts on improving treatment of gut mucosa, where massive destruction of immune cells is occurring.
+"Gut-associated lymphoid tissue accounts for 70% of the body's immune system. Restoring its function is crucial to ridding the body of the virus."
+HIV cannot be cured but the drugs, known as highly active antiretroviral therapy, or HAART, can keep the virus under control. 
+At first, doctors had hoped that years of treatment might eventually eradicate the virus. 
+But, 25 years on from the advent of AIDS, it is clear that cannot happen. That is because the virus can hide out quietly in reservoirs, which include certain immune cells. 
+The gut is clearly important too, Dandekar's team says. 
+"We found a substantial delay in the time that it takes to restore the gut mucosal immune system in those with chronic infections," Dandekar says.
+"In these patients the gut is acting as a viral reservoir that keeps us from ridding patients of the virus." 
+The mucosa are the wet tissues that line the nose and throat, the genitals and the inside of the gut. HIV often infects people via the mucosa.
+Long-term survivors
+Dandekar's team has been studying HIV-infected patients who, even without treatment, have survived more than 10 years with healthy immune systems, including the T-cells that the virus attacks. 
+"We looked at their gut lymphoid tissue and did not see loss of T-cells there. This correlated with better clinical outcomes," Dandekar says. 
+So they started the current study, following 10 patients being treated with HAART, taking blood and gut samples before and after three years of treatment. 
+They found evidence of inflammation, which disrupts tissue function, promotes cell death and upsets the normal balance of gut bacteria. 
+Dandekar say these findings suggest anti-inflammatory drugs may help HAART to work better.
+
+The Australian velvet worm Euperipatoides rowelli is a living fossil that has been puzzling researchers for years
+The soft and elusive velvet worm might look like a pretty caterpillar. But its brain is strikingly similar to that of a spider, new international research shows.
+The architecture of the worm's brain has more in common with a spider's brain than with the brains of other arthropods, researchers report in the journal Proceedings of the Royal Society B: Biological Sciences.
+Velvet worms have a body formation between that of a worm and an insect and for many years scientists believed they were the 'missing link' between the two.
+This view was supported not only by the way they look, but also by the fact that they date back 540 million years.
+Researchers including Associate Professor David Rowell from the Australian National University in Canberra were interested in finding out whether this was true.
+They found out that the worms are not a sister group of the arthropods, but lie within the arthropods and share a common ancestry.
+The team catalogued aspects of the microanatomy of various arthropod brains and then loaded the information into a computer program designed to sort out molecular lineages and create a 'family tree'.
+"We found the [worms] did actually fall within the arthropods and are very similar to the chelicerates [spiders and scorpions]. The brains of the velvet worms looked strikingly like spider brains," Rowell says.
+"That's interesting for a number of reasons. Firstly because it's not something we've seen before, and secondly because the worms don't carry many of the body characteristics of the chelicerates and yet their brain structure suggests that they are [similar].
+"We can only assume that [over time] they lost a lot of the characters that identified them as chelicerates."
+Velvet worms, or onychophorans, are extremely rare and are only found along the east coast of Australia, Tasmania, New Zealand, South Africa, South America and along the tropics. 
+Contrary to the way they look, they are vicious carnivores that "eat almost anything that moves", Rowell says. 
+They trap their prey by firing a sticky goo over them.
+
+Are we literally flushing away a potential source of extra drinking water by saying 'no' to recycled sewage?
+Australians will one-day come to terms with the need to drink recycled sewage, despite the recent decision of a Queensland town to veto it, experts say.
+The residents of Toowoomba voted in a weekend referendum against the plan to introduce treated sewage into the local water supply.
+But advocates of recycling say rather than killing off the debate, the 'no' vote marks the opening shot in a new debate.
+Professor Nick Ashbolt, head of civil and environmental engineering at the University of New South Wales (UNSW), says recycling sewage is inevitable given Australia's swelling population and looming water shortage.
+"Basically it's essential," he says.
+"We don't have enough water to go around. If you do the growth predictions of major cities, based on current water usage we'd be sucking our rivers dry and still not supplying enough water."
+Associate Professor Greg Leslie, of the UNESCO Centre for Membrane Science and Technology at UNSW, says if Toowoomba residents had been given more information before the referendum they would have voted differently.
+"What we need to do is make sure that when the next vote comes along there's a more informed debate," he says.
+"The next town that makes this decision would probably do it in a more enlightened environment rather than one that was dominated by [the belief] you'll be drinking turds from your toilet."
+The best drinking water in Australia
+Leslie says the proposed treatment would have given Toowoomba residents the cleanest drinking water in the country.
+"The water that would come out of that plant at Toowoomba, had it been built, would have been the best quality water in Australia," he says.
+This is because it would have been more highly treated than normal drinking water.
+Under the Toowoomba plan sewage would have passed through two membrane barriers including a 0.2 micron microfilter and a reverse osmosis membrane.
+Reverse osmosis, which is also used in desalination, reduces the total organic carbon content from 8 milligrams per litre to 0.1 milligrams per litre, he says.
+After passing through the filters the water would then have been treated with a combination of UV light and peroxide to "polish the water at a molecular level".
+Drinking water generally only passes through a sand or carbon filter and isn't subject to reverse osmosis, he says.
+While Toowoomba has been portrayed as a national landmark, Leslie says residents of one New South Wales town have been drinking treated sewage since 1985.
+He says people in Richmond, west of Sydney, drink treated sewage because the effluent is released into the Hawkesbury River near the local water treatment plant, which also draws its water from the river.
+"The level of treatment that [the plant] provides to the water before it puts it into the river is much less than they were proposing at Toowoomba," he says.
+Ashbolt says up to 70% of the water that goes into the treatment plant is tertiary treated effluent, or effluent that been treated to the standard level to allow it to be released into the environment.
+The Toowoomba plan would have involved 25% of its water coming from highly treated effluent.
+"We're already doing in Sydney what they said they wouldn't do in Toowoomba," he says.
+But Professor Don Bursill, retired former chief executive officer of the Cooperative Research Centre for Water Quality and Treatment, says there will always be some risks when sewage is turned into drinking water.
+He says the chance of some pathogens and chemicals slipping through even the most sophisticated filtering systems can't be ruled out.
+Bursill also says water workers would need to be specially trained and the regulatory system beefed up to cope with the new recycling technology.
+"I'm glad the community in Toowoomba rejected it because I don't think we're ready for it," he says.
+Australia also needs to concentrate on using its existing water resources more efficiently before turning to solutions like recycling, he says.
+Toowoomba's vote came ahead of the pending release of draft guidelines into the use of recycled sewage being developed by the Environment Protection and Heritage Council and the National Resource Management Ministerial Councils.
+The first half of the guidelines, dealing with recycled sewage for non-drinking purposes, is expected by September.
+The second half, which will deal with a range of issues including recycled drinking water, is scheduled to be released for public consultation in the middle of next year.
+Project Manager Ian Newbery says the documents don't recommend whether or not effluent recycling should be adopted as a source of drinking water.
+But he says the issue was included in the guidelines in response to Toowoomba.
+"When the guidelines were first mooted recycled drinking water wasn't actually on the priority list," he says.
+"It's because of the activity in Toowoomba and other places that it's actually now inserted.
+"It may be that once people get a handle on the risks involved and the treatment processes that you can go through there may be less angst about it."
+
+Scientists found this cyanobacteria in sandy and muddy marine sediments near Broome, Western Australia
+The oceans are teeming with 10 to 100 more types of bacteria than previously believed, many of them unknown to science, according to a new study.
+Using a new genetic mapping technique, US, Dutch and Spanish scientists say they found more than 20,000 different types of microbe in a single litre of water from deep sites in the Pacific and Atlantic Oceans. 
+"These observations blow away all previous estimates of bacterial diversity in the ocean," says lead author Dr Mitchell Sogin of the Marine Biological Laboratory at Woods Hole, Massachusetts.
+He says past studies have suggested that one litre of water would contain 1000 to 3000 types of microbe, the oldest form of life on the planet.
+Microbes make up more than 90% of the total mass of life in the seas, from bacteria to whales.
+"We've found 10 or maybe 100 times more diversity in sea water than anyone imagined was present," he says.
+The study is part of a global Census of Marine Life and is published today in the Proceedings of the National Academy of Sciences.
+Sogin says the findings suggest there might be more than 10 million types of bacteria in the seas alone.
+"If you're interested in new frontiers, things to discover, all you have to do is go to the ocean," Sogin says. 
+Until recent years, estimates of the total number of species on Earth were below a million.
+The new findings suggest that a swimmer swallowing a mouthful of sea water may be consuming perhaps 1000 types of bacteria.  
+The report says that many of the types of bacteria found at the sample sites,  including a hydrothermal vent at a subsea volcano off Oregon, are present in very low numbers, in what the researchers call a "rare biosphere".
+"Not only are they diverse from each other but they are very diverse from anything we have in the molecular database," Sogin says.
+The variety could upset normal understanding of the make-up of life in the oceans, and how it evolved. 
+One possibility is that some types of microbe are rare in some parts of the oceans but common in others, challenging traditional views of the seas as a homogenous bacterial soup.
+"There might be a 'biogeography' of microorganisms in the sea, something that microbiologists have been debating for perhaps hundreds of years," Sogin says. 
+Another possibility is that rare bacteria are tolerated in a habitat because they produce something, perhaps an enzyme or vitamin, that more common species need.
+A side-effect of tolerating scarce types of bacteria is that they might prove to be a reserve of spare parts to help ocean life rebound after some cataclysm such as a giant asteroid or an ice age, Sogin says. 
+Some rare species, for instance, might have genes allowing them to thrive if large tracts of the oceans freeze.
+Bacteria can exchange genetic material relatively easily, speeding adaptation and recovery of the total ocean population. 
+Sogin says the variety of life might also benefit pharmaceutical and biotechnology firms.
+"If you have a business plan based on drugs from diverse microbes the study should be very encouraging," he says.
+
+The latest study provides more evidence that men, like women, have a biological clock
+The risk of a miscarriage appears to rise along with the father's age, regardless of how old the mother is, researchers report. 
+Their study looked at nearly 14,000 women who were pregnant in the 1960s and 70s.
+The researchers found that the risk of miscarriage was 60% greater when the father was age 40 or older than when he was 25-29 years old. 
+What's more, age made a difference even for men in their 30s. Miscarriage risk was about three times greater when the man was 35-39 years of age than if he were younger than 25.
+These risks were all independent of the mother's age, a well-known factor in miscarriage, the researchers report in the latest issue of the journal Obstetrics & Gynecology. 
+The findings add to evidence showing that, like women, men have a biological clock. 
+Although men continually produce new sperm and can father children late in life, research shows that their fertility gradually declines starting at a relatively young age.
+Also, as with women, older fathers are more likely to have children with birth defects. 
+One recent study found that a man's ability to have a child fades after the age of 40, similar to a woman's fertility decline after age 35.
+Another confirmed that genetic abnormalities in sperm steadily become more common as men age. 
+Why does it happen?
+Miscarriages, particularly those in the first trimester, often occur because of genetic anomalies in the foetus, which may explain the risk tied to paternal age.
+The current findings strengthen the belief that people planning a family should consider not only the woman's age, but the man's as well, according to the study authors. 
+"As child-bearing is increasingly delayed in Western societies, this study provides important information for people who are planning their families," write the researchers, led by Dr Karine Kleinhaus, who was with the Columbia University School of Public Health in New York at the time of the study. 
+Back in the 60s and 70s
+The findings are based on data from a large study of women in Jerusalem who were pregnant between 1964 and 1976, about 1500 of whom suffered a miscarriage. 
+These women were compared with the more than 12,000 study participants who delivered a baby. 
+Older paternal age was linked to a higher miscarriage risk, regardless of both the woman's age and a range of other factors that contribute to miscarriage, such as smoking during pregnancy and maternal diabetes. 
+Still, the researchers point out, despite this generally higher miscarriage rate, older paternal age may only slightly raise the risk to any one couple.
+
+Jupiter's Great Red Spot, with its smaller cousin Red Spot Junior, seen through a special filter that samples thermal radiation from deep in the cloud layer
+Astronomers have taken images of Jupiter's lesser known red spot, a smaller landmark called Red Spot Junior.
+The smaller spot is about as wide as Earth and formed from the merger of three white spots sometime between 1998 and 2000.
+Red Spot Junior only turned red in December 2005, astronomers say.
+Using the Keck II telescope on Hawaii's Mauna Kea, scientists from the University of California, Berkeley, and the WM Keck Observatory captured a high-resolution picture of both small and large red spots late in July.
+Both are located in the same area and appear to be racing each other around the planet.
+The larger Great Red Spot rotates westwards, in the opposite direction to the planet, the scientists say.
+As alternating bands on the surface of Jupiter move in opposite directions, the nearby smaller spot moves eastwards.
+The two spots are about the same colour when seen in visible light, but Red Spot Junior is much darker when viewed at infrared wavelengths, the scientists say.
+That difference could mean the smaller storm's cloud tops are lower than the big storm's. 
+Astronomers have known about Jupiter's Great Red Spot, a high-pressure storm on the big planet's surface, for centuries.
+This better known spot is nearly twice its smaller companion's size and has been circling Jupiter for at least 342 years.
+
+Genes that control head size are puzzling researchers who say they may also play a role outside the brain
+The genes that are thought to have helped humans evolve big brains don't appear to play any role in how intelligent we are, according to a DNA study.
+This backs separate research that has failed to come up with a link between head size and intelligence, except in extreme congenital abnormalities.
+The Queensland Institute of Medical Research (QMIR) study is the first to specifically look at genes, head size and intelligence in a normal population.
+The Australian study found that people who scored highly in intelligence tests didn't necessarily possess versions of the genes that were expected to code for big heads and intelligence.
+And people who did possess the suspected 'smart' versions of the genes weren't necessarily the most intelligent or the ones with the biggest brains.
+The study will be presented at the 11th International Congress of Human Genetics in Brisbane next week.
+Head space
+The researchers tested 4395 teenagers for head size and intelligence.
+They also looked at the genes ASPM, MCPH1 and CDK5RAP2, which regulate brain size and activity.
+When mutated, these genes result in an abnormally small brain, a condition known as congenital microcephaly.
+"Normal variation in these genes has not yet been investigated in relation to head
+size and intelligence," says Dr Michelle Luciano, a research fellow at QMIR.
+She says the only comparable previous study used MRI imaging to measure brain volume in relation to two microcephaly genes.
+"Their findings [about a relation to brain size] were negative and they didn't find a relationship with two of the genes we were looking at," she says.
+"We decided to take it a step further and look at intelligence and lo and behold we find a similar negative result."
+Ancestral or evolved?
+We all carry the three genes the QMIR team investigated but some of us carry 'ancestral', or less evolved, versions and others carry 'derived' or more recently evolved versions. Some of us carry one of each.
+Researchers had expected that people with evolved versions of the gene would be smarter and have bigger heads, but were surprised to find this wasn't the case, Luciano says.
+"We would predict that if you've got the more recent version you should have a higher IQ," she says.
+"We actually found that not to be the case.
+"It is unlikely then that selective pressure for these genes is related to the evolution of intelligence in humans."
+Rather, she says the genes might be important for a neurological function outside the brain.
+Are humans getting smarter?
+Professor Colin Groves, an expert in human evolution from the Australian National University, says human brains began getting bigger after our earliest ancestors like Homo habilis appeared.
+But our brains have stopped growing and have actually started getting smaller, or at least more 'compact'.
+"[Our brains] have got bigger but they're not getting bigger," he says. "In fact since the late Pleistocene in general they've got smaller."
+While brain size appears to be related to intelligence between species, this doesn't seem to be the case within a species, Groves says.
+And despite the development of technological advances, he says there's no evidence that Homo sapiens has become more intelligent in the last 50,000 years.
+
+Nacreous clouds seen as the fading light passes through tiny ice crystals blown along on strong jets of air
+Rare, mother-of-pearl coloured clouds caused by extreme weather conditions above Antarctica are a possible indication of climate change, Australian scientists say.
+Known as nacreous clouds, the spectacular formations showing delicate wisps of colours were photographed in the sky over an Australian meteorological base at Mawson station on 25 July. 
+Australian Antarctic Division scientist Dr Andrew Klekociuk says such clouds are occasionally produced by air rising over Arctic and Antarctic mountains in high polar latitudes during winter.
+"You have to be in the right part of the world in winter, and have the Sun just below your horizon to see them," he says. 
+Nacreous clouds can only form in temperatures lower than -80&deg;C.
+Australian Bureau of Meteorology officer Renae Baker says a weather balloon in the vicinity of the clouds in the stratosphere about 20 kilometres above the Earth's surface measured temperatures as low as -87&deg;C. 
+"That's about as cold as the lowest temperatures ever recorded on the surface of the Earth," says Baker, who photographed the clouds.
+Klekociuk, an atmospheric scientist, says the rarely seen clouds, also known as polar stratospheric clouds, are more than just a curiosity. 
+"They reveal extreme conditions in the atmosphere, and promote chemical changes that lead to destruction of vital stratospheric ozone," he says. 
+Klekociuk says temperatures in the stratosphere, between 8 and 50 kilometres above Earth, would be expected to drop as the planet warms.
+Data collected over the past 25 years has reflected this, he told ABC Radio.
+"Over that time there has been a small decrease in temperature and that change is actually occurring faster than the warming at the surface of the Earth," he says. 
+The delicate cloud colours are created at sunset when fading light passes through tiny water-ice crystals blown along on strong jets of stratospheric air. 
+Winds at the same height were measured blowing at almost 230 kilometres per hour, the scientists say.
+Klekociuk says his colleagues and US researchers at the Davis station, 900 kilometres to the east of Mawson, are working together on research into what the strange clouds reveal about the atmosphere.
+
+Humpback whales shed skin in the water, which scientists scoop up in a kitchen sieve and analyse
+Researchers may one-day be able to tell how old a whale is by looking for clues in its sloughed-off skin.
+News of this noninvasive method, which relies on examining the tips of chromosomes, is published today in the journal Nature.
+Scientists are interested in finding out the age of individual whales to assess the impact of decades of commercial whaling and to learn about mating tactics and behaviour.
+Some whales can be aged by studying their teeth. But humpback whales don't have any so are aged by counting layers in their ear wax instead, a procedure that can only be performed on a dead whale. 
+Now researchers from the Whale Research Centre at Australia's Southern Cross University are developing another method.
+They trail behind the mammals in a boat. They then use a kitchen sieve tied to the end of a stick to scoop up flakes of skin, which can be the size of a hand.
+The skin is shed naturally when the whales soar out of the water or slap their tails onto the surface.
+The researchers believe they may be able to develop a system to work out a whale's age by removing genetic material from the skin samples. 
+Clues in the chromosomes
+They are studying the tips of chromosomes known as telomeres, which whittle away over time in some animals, like a countdown timer.
+By measuring the length of these telomeres and comparing that with a known rate of shortening, the researchers hope to estimate a whale's age.
+There are many hurdles to overcome, researchers admit. For instance no-one knows for certain whether all whales have telomeres that shorten with time. And not all skin flakes yield enough genetic material to analyse. Then the researchers have to calibrate their methods against whales of a known age.
+But the Nature report indicates that preliminary reports are encouraging.
+"If they are right, one of the key arguments in favour of killing whales for scientific purposes will be dead in the water," the report says.
+The researchers say the need for humane methods to age whales is now urgent, since Japan has declared it will increase its annual catch of whales for "research purposes", the report says. 
+The International Whaling Commission imposed a moratorium on commercial whaling in 1986 but Japan has continued hunting for what it calls scientific research.
+
+Scientists are analysing bone marrow from a frog that lived 10 million years before this one
+The first fossilised bone marrow has been found in the bones of 10-million-year-old frogs, salamanders and tadpoles, scientists say.
+Palaeontologist Maria McNamara says the find could tell us more about whether ancient creatures hibernated or whether they were cold-or warm-blooded. 
+McNamara, a researcher from University College Dublin, says her international team found the fossils in ancient lake deposits in the Libros area of northeastern Spain. 
+McNamara says one of the most exciting aspects of the discovery is what the marrow will be able to tell scientists about creatures that lived during the later Miocene period.
+"The original organic material is still there," according to McNamara, whose research was published in the latest issue of the journal Geology.
+"It is still organic in composition, whereas most traces of soft tissues you find in the fossil record, which are very rare anyway, have rotted away and just the shape of the tissue is preserved in mineral," she says. 
+"Tissue like bone marrow carries a lot of physiological information. It can tell you the state of the organism when it died, was it healthy, did it hibernate, where did it produce its red blood cells and whether it was warm-blooded or cold-blooded," she says. 
+"They would be pretty important to find for some other fossil groups like dinosaurs. It could help to resolve some debate about whether they were warm-blooded or cold-blooded," McNamara says. 
+She says researchers are now doing tests to see if any biomolecules, like amino acids or proteins, are preserved.
+McNamara, who is undertaking the research as part of work for a doctoral degree, says there are a number of reasons why fossilised bone marrow has never been found before. 
+"Because bone marrow rots away so quickly when people die, people never thought that it could be preserved," she says.
+"Also, because you have to fracture the bones before you can see inside, obviously if you have nice fossil specimens in a museum you are not going to get permission to break them up." 
+The researchers were able to access the marrow from the fossils because they were found in rock that had split and some of the bones had fractured as a result. 
+McNamara says the original red and yellow colours of the marrow have been preserved.
+"The fatty bone marrow is yellow and is a sort of energy reserve in terms of starvation or something and you also have red bone marrow and that is where your blood cells are produced," she says.
+"In the fossil bone marrow the original structure is preserved showing where the red and yellow marrow would have been but also the original colour is preserved and there are some cells preserved as well."
+
+Weather made the Earth wobble on its axis, like a wonky spinning top, in a rarely recorded event
+Scientists have confirmed that weather makes the planet wobble on its axis after exploiting a rare opportunity to detect and measure the most subtle shifts in the Earth's spin.
+The wobbling at the poles was in the order of centimetres, from the size of a 20 cent piece to the size of a DVD, says astronomer Thomas Johnson of the US Naval Observatory.
+"These loops are on the order of two or three days," says Johnson of the timeframe in which weather tugs and varies the direction Earth's axis is pointed in space.
+To see the weather wobbles, Belgian researchers took advantage of an unusual period from November 2005 to February 2006 when two better known, larger components in Earth's wobble cancelled each other out and no longer drowned out the signal of the smaller wobbles.
+The two larger components are a 433-day wobble thought to be caused by deep ocean current changes and annual wobble that corresponds to seasonal changes. 
+These change the position of the poles on about the scale of a baseball diamond, says Johnson. Every 6.4 years they cancel each other out.
+"It was basically now or never," says S&eacute;bastien Lambert of the Royal Observatory of Belgium of their well-timed measurements, which used GPS data to ferret out the weather effects.
+"We would have to wait more than six years for another chance."
+Lambert and his colleague V&eacute;ronique Dehant publish their findings in the journal Geophysical Research Letters.
+Lambert was also able to connect the specific wobbles seen during that period to atmospheric pressure systems over Asia and Europe. 
+This connection makes it possible to use weather forecasts to also forecast the smaller variations in Earth's wobble.
+Measuring these smaller wobbles is critical for navigational, timing and communication systems, says Richard Gross of NASA's Jet Propulsion Laboratory.
+"We have to know how the Earth's rotation is changing in order to track a spacecraft," Gross explains.
+At distances of tens of millions of miles, a few centimetres on Earth can make the difference between communicating with the spacecraft and losing contact altogether. 
+"It's most important when you are trying to land something on another planet," he says.
+On Earth the weather wobbles are also important because they can throw off models that are used to predict and correct for the larger wobbles, multiplying errors in GPS and military navigational systems.
+"The accuracy would be orders of magnitude worse" without these wobble corrections, says Johnson. 
+"At the latitude of Reagan National Airport [near Washington DC], the variation could be the difference between a plane landing on the runway or hitting the Potomac River."
+The wobbles also have to be accounted for when finely tuning clocks and the timing of satellite communications.
+"They all require Earth orientation data nowadays," says Johnson.
+
+A GM corn that could soon be approved for human consumption in Australia and New Zealand might produce similar toxins to those of concern in cooked red meat, say some scientists
+Australia and New Zealand's food regulator is failing to apply its own safety standards, or those of international guidelines, in assessing a new-generation GM corn for human consumption, critics say.
+But Food Standards Australia New Zealand (FSANZ) defends its so-far favourable assessment of the high-lysine corn, which it says is intended for animal feed and is unlikely to enter the human food chain.
+The Centre for Integrated Research on Biosafety at the University of Canterbury has twice formally notified FSANZ of its concerns about the GM corn, LY038, which has been engineered to contain a bacterial gene that allows the accumulation of high levels of lysine.
+"Among the types of potential hazards that this food poses are the creation of compounds that are known to be associated with important diseases like diabetes, Alzheimer's, heart disease and cancer," says centre director Associate Professor Jack Heinemann.
+Heinemann says while the compounds, advanced glycoxidation endproducts (AGEs), are also produced when cooking conventional foods, he is concerned about potential levels in LY038 corn.
+He says corn is normally extremely low in the compounds that combine to create AGEs. 
+But he says higher-than-normal levels of lysine in the LY038 and high sugar levels, combining under heat, have the potential to raise AGE levels.
+"[LY038] has the potential to produce 100 times more [AGEs] than normal corn," says Heinemann.
+Draft approval by FSANZ
+In March this year FSANZ recommended LY038 be approved as safe for human consumption in a report to its board.
+"Food derived from corn line LY038 is as safe and wholesome as food derived from other corn varieties," the report says.
+But the necessary tests to prove the corn is safe for humans have not been done, says Heinemann, a geneticist and former US National Institutes of Health scientist.
+He says LY038 is the first of a new-generation of GM foods being specifically designed to be nutritionally different from their conventional counterpart. And FSANZ's decision could set a precedent on how such foods are assessed.
+Tests of cooked corn?
+Heinemann says FSANZ only considered safety tests that looked at raw and not cooked corn.
+But the international standards-setting body Codex Alimentarius recommends heating, cooking and processing conditions be applied to GM material in an assessment of their safety for human food, says Heinemann.
+He also says FSANZ only considered 21-day animal studies and not longer ones, which might have picked up diseases like cancer. Heinemann says FSANZ should also look into human feeding studies.
+Lastly, Heinemann criticises FSANZ's decision to compare the composition of the corn to another GM corn rather than its non-GM parent variety, as recommended by its own advice, and by Codex.
+Safety assessment defended
+FSANZ says testing was adequate.
+"We are satisfied that we have all the scientific information necessary to make a sound decision on the safety and nutritional adequacy of high lysine corn LY308," it says.
+"We have considered the potential for production of AGEs, but have no concerns."
+FSANZ says Codex only asks regulators to consider testing heated or processed GM foods. But as the raw corn has much lower levels of lysine compared to other foods regularly consumed, FSANZ did not consider the tests necessary. 
+It also says the GM corn used for comparison was a "better comparator than the non-GM parental line".
+FSANZ says it assessed the corn as if it was any other GM food.
+"The safety assessment conducted on LY038 is as rigorous and thorough as for any GM food product, and assumes that if approved, corn from line LY038 could be routinely entering the food supply and not present just as an occasional inadvertent ingredient," states FSANZ's report.
+Will it enter the human food supply?
+FSANZ also says the corn is "unlikely" to end up in human food and is only being assessed as a precaution in case of an accidental mix-up.
+One such mix-up occurred in 2000, when Starlink GM corn, also intended for animal feed, became mixed in the US food chain.
+Because it was not registered for human consumption the contamination affected exports and cost the manufacturer a $100 million in lost sales.
+Canada approved the use of LY038 in the human food supply last month.
+The FSANZ board is due to consider the corn in late September.
+
+Could Epstein-Barr virus be transmitted via sex as well as kissing?
+Sex may increase the odds of contracting the glandular fever virus, a UK study suggests.
+This means that doctors and patients may have to rethink what they currently call the 'kissing disease'.
+The findings would also have implications for the vaccines now being tested against Epstein-Barr virus (EBV), which causes the disease.
+The study into this common condition in young people, also known as mononucleosis, is published in the journal Clinical Infectious Diseases.
+Of 510 college students who were initially free of EBV, nearly half became infected with the virus over the next three years, with sexually active students being at greater risk.
+Students who said they'd had intercourse during the study were more likely to become infected than those who reported no romantic relationships, as well as those whose relationships were limited to kissing and petting. 
+The findings suggest that sexual intercourse itself makes EBV transmission more likely, according to the study authors, led by Dr Dorothy Crawford of the University of Edinburgh.
+Most adults worldwide are infected with EBV, which, after first infecting a person, remains dormant in the body for life.
+Most of the time, the initial infection causes no apparent symptoms, especially when it's contracted in childhood.
+But in developed countries infection often doesn't occur until adolescence or young adulthood, when it's more likely to make people sick.
+Glandular fever is marked by often prolonged fever, fatigue, sore throat and swollen lymph nodes.
+According to Crawford's team, the new findings suggest that sexually active teens and adults may be exposed to a larger dose of EBV through particularly 'deep' kissing, or possibly through genital fluids, which can carry the virus. 
+If a large viral load increases the odds of developing glandular fever, the researchers note, then an EBV vaccine may be successful even if it merely decreases the amount of EBV in the body rather than providing complete immunity. 
+"We suggest that a vaccine that reduces the level of viral infection and/or replication during primary infection could be sufficient to prevent [glandular fever]," the researchers conclude.
+
+The Hawaiian Islands have a rich cultural history, as evidenced by these prehistoric etchings in lava rocks. Now archaeologists have discovered more about the rise and fall of civilisations on the island of Maui
+An ancient temple system on the Hawaiian island of Maui is about 400 years older than previously thought, according to an extensive archaeological study.
+The finding contradicts a prior theory that Maui's temples were built within a span of just a few decades around the year 1600.
+Some researchers now think the temples were built over the course of 500 years, with construction cycles peaking during periods of significant political change.
+"We see construction phases that parallel shifts in political control," says Associate Professor Michael Kolb, who led the study, which has been accepted for publication in the journal Current Anthropology.
+"Chiefs likely wanted to mark their territory. Whenever a new leader came into power, he would probably seek to validate his new political and ideological ideas through modification or expansion of the temple system," adds Kolb, a professor of anthropology at Northern Illinois University.
+Radiocarbon dating of charcoal from beneath the building foundations formed the basis of the new research. The charcoal remains were left behind after ancient builders cleared vegetation with controlled fires.
+Usually archaeologists rely on dating of ceramics, but ceramics did not exist in early Hawaiian history.
+"There is not a lot of soil formation on the islands, so the Polynesians who settled on Maui lacked clay and therefore pottery," Kolb says.
+Dating charcoal
+The charcoal dating determined that the Pihana temple, located in Halekii-Pihana State Park, is Maui's oldest temple. According to the new data, the existing ruins date to 1214.
+One of the island's best-known temples is Pi'ilanihale Heiau, which means The House of Pi'ilani, who was a popular chief.
+It is Maui's largest temple, covering more area than a football field and standing 12 metres in height. Pi'ilanihale was dated to 1294.
+The scientists believe this initial 13th century building phase was followed by subsequent periods of construction in the 14th century and again, during a particularly active phase, near the turn of the 17th century.
+Kolb explains that although Polynesians inhabited the Hawaiian Islands as early as the year 300, their settlements were initially small, spreading out over time. 
+Ancient Polynesians were once interested in ancestor worship and built small places of worship by paving off land and stacking rocks, according to archaeological evidence from early shrines in Hawaii and Tahiti.
+Over time, Polynesian culture shifted toward sacrificial worship, which led to the enormous platform temples, some built on cliff faces or other prominent spots.
+The most elaborate temples featured altars, oracle towers, offering pits, palisades, drum houses, and god or ancestral images carved from wood or stone.
+"The shock value of these temples for religious ceremonies must have been tremendous," says Kolb.
+"At some events there would have been human sacrifice, the killing of hundreds of pigs, the sounds of music and drumming, and the smell of burning fires. 
+"Members of the chiefly class were allowed into sacred areas of the temples, but they had to get in prostrate positions or lie down, sometimes for hours, as a sign of submission and respect for the chief."
+Contact with westerners
+The first westerners arrived with British explorer Captain James Cook in 1778. When Christianity was introduced to the islands in 1820, most of the temples were destroyed or abandoned. Maui has some of the best remains, with more than 120 remaining sites.
+Timothy Earle, a professor of anthropology at Northwestern University, agrees with the conclusions of the new study, which he says "involved the broadest set of carbon dates. They appear to be good and valid."
+Both Earle and Kolb believe the new findings suggest early Hawaiian monumental architecture was comparable to that of other famous ancient civilizations, such as the Maya or the early Egyptians, since all appeared to have linked temple construction to economic, political and ritual development.
+
+A robot army won't look like what we have come to expect from the movies
+A robot army could never be held morally responsible for committing war crimes, says an Australian ethicist, and so any wars they fight could be considered unjust.
+Dr Robert Sparrow of Monash University, who specialises in the ethics of new technologies, will lay out his argument in the Journal of Applied Philosophy.
+"To fight a war properly you must always be able to identify somebody who is responsible for the deaths that ensue," says Sparrow, who is also with the Centre for Applied Philosophy and Public Ethics at the University of Melbourne.
+"As this condition cannot be met in relation to deaths caused by an autonomous weapon system it would therefore be unethical to deploy such systems in warfare."
+Sparrow's article was triggered by his discovery that the military is the largest funder of robotics research. 
+For example, he says, the US military is developing an army that places autonomous machines in key roles on the front line.
+Currently, the army uses semi-autonomous robots in mine clearing and bomb disposal. And for any machine that kills people, there is always a human being that can be held morally responsible, says Sparrow.
+He says this applies, for example, to unmanned combat aerial vehicles that are programmed to help locate specific targets and fire on them, currently used in the Middle East conflict.
+But, asks Sparrow, what would happen if machines themselves were given the decision about who to kill?
+Autonomous killing machines
+Having killer robots on the front line instead of young men and women may be more politically acceptable, but will this mean any war crimes could be blamed on the machines, asks Sparrow?
+
+Radio tags have been used to track cattle for decades, where a security glitch is hardly a matter of national security. But how secure are the RFID tags in your passport?
+High-tech passports, touted as advances in national security, can be spied on remotely and their identifying radio signals cloned, computers hackers were shown at a weekend conference. 
+Radio frequency identification technology, or RFID, used in cash cards and passports, can be copied, blocked or imitated, says Melanie Rieback, a privacy researcher at Vrije University in the Netherlands. 

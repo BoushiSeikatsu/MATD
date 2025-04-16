@@ -1,0 +1,661 @@
+"You may have a distant relationship with your father [and] a closer relationship with your uncle," Dominguez says.
+"This could bias the way in which the way brain develops because the parts that modulate emotions may be engaged in certain ways."
+He'll test this by showing the subjects photographs of relations and monitoring their brain activity with magnetic resonance imaging.
+"We think that there will be patterns of activity that will be different," he says.
+How does experience shape our brain?
+Dominguez says the human brain is 'plastic' and responds to its environment in the way connections form between brain cells.
+These connections are influenced by repeated patterns of thought, emotional reinforcement and even the influence of chemicals associated with stress and pleasure on the brain.
+"The brain is an experience acquisition device that goes beyond genetic constraints," he says. "It is always engaged in generating and pruning connections."
+Lewis says the constant process of wiring and rewiring makes every brain unique.
+"The number of potential connections between neurones in the neocortex alone exceeds the number of atoms in the physical universe," he says.
+"That means there are potentially that many brains ... and we're looking at certain groups or clusters."
+The principle can apply to peer groups and sub-cultures as well.
+"If you're hanging out with the hip-hop scene ... you're going to pick up patterns of thought, ways of thinking, expectations of other people's behaviour that are different from your next door neighbour who's a retired factory worker," he says.
+
+Textiles made from feathers may be lightweight, good insulators and cushion impact
+Chicken feathers and rice straw are being turned into fabric fibres that resemble wool, linen and cotton, scientists say.
+The textiles may help reduce not only agricultural waste but also our reliance on petroleum-based synthetic fabrics.
+"[Some] 50% of all fibres are from petroleum, and we have an oil issue," says Yiqi Yang, a professor of textile science at the University of Nebraska-Lincoln, who is collaborating with doctoral candidate Narendra Reddy.
+Yang and his colleagues think that agricultural waste could offer an alternative source.
+Rice straw is made up of the bits and stems left over after a rice harvest and, like cotton and flax, is composed mostly of cellulose. It now accounts for about 526 million tonnes of waste worldwide.
+Chicken feathers, which are composed of keratin, like wool, make up about 1.8 billion kilograms in waste each year in the US. Much of this material ends up in landfill.
+According to Yang, even processing a small fraction of this agricultural waste and turning it into textiles could have a significant impact on world demand, which totals about 63 million tonnes of fibres a year.
+Yang's team has already conducted research on developing fibres from rice straw.
+"He's a leader in this kind of research," says Jonathan Chen, associate professor at Louisiana State University in Baton Rouge.
+First, collect your rice straw
+Just like cotton, the rice straw is harvested, baled, shipped to a plant and broken down into tiny pieces.
+The straw is treated with a combination of chemicals, heat and enzymes, and washed repeatedly.
+The process breaks down the straw, separating the cellulose fibres from other natural materials.
+These materials include hemicellulose, a carbohydrate, silica, a hard mineral substance, and lignin, a polymer that hardens and strengthens plant cell walls.
+The process of extracting the fibres is under patent review and so Yang is reluctant to describe it in too much detail. But he says that it is not complicated or expensive.
+"The number one challenge is the cost-effectiveness for utilising these kinds of waste materials," says Chen.
+"If you can compete with current available products, you will have a chance."
+Fluffy feathers 
+Research for processing fibres from the chicken feathers is not as advanced as the rice straw research.
+So far, Yang and his team have characterised the fibre properties of feathers to determine the best applications.
+They have focused on the thin, filamentous parts that form the fluffier parts of the feather. These parts have microscopic air pockets interlaced within a honeycomb architecture.
+Those properties could offer fibres that are lightweight, good insulators and cushion impact.
+The biggest hurdle may be getting the textile industry to accept chicken and rice fibres.
+Yang expects the driving force to come from the clothing industry, where people are always looking out for durable, inexpensive, natural textiles.
+
+She might be laughing but her brain is really picking out mismatches
+Laughter involves a unique form of consciousness, says an Australian researcher who is trying to unravel the thought patterns that underpin humour.
+Ann Hale, a medical anthropologist from the University of Sydney, spoke about the social and cultural context of laughter at a recent conference of the Australian Anthropological Society in Cairns.
+She believes jokes rely on the juxtapositioning of two mismatched or incompatible concepts.
+For example, she tells the joke about the prisoner who plays cards with his wardens. But the prisoner cheats, so they kick him out of prison.
+"Prisons have rules that they lock you up," Hale says. "But if you cheat you get kicked out. So you have two concepts there."
+The same applies to slapstick humour, she says.
+When we laugh at someone falling over, it's not the process of falling that tickles our funny bone but the attempt to stay upright.
+"What makes people laugh at slapstick is not falling off the tightrope, but what you do to stay on," she says.
+"We've got an idea that this is what you look like when you're upright and here's somebody trying to stay upright.
+"It's within the same concept but it's incongruous, it's the mismatch ... it's not the fact that you've fallen onto your backside."
+Even babies do it
+Research has shown we instinctively recognise these "incompatible contexts" in the first year of life, Hale says.
+"Research shows that if a mother crawls towards the edge of the cot the baby will laugh because it interferes with the convention that babies crawl, mothers walk," she says.
+It also suggests that we respond to contextual mismatches without having to "get" the joke.
+Hale says these thought processes have been compared to the reactions of highly trained sportspeople, like the tennis player who is in position to return a serve "before the brain kicks in".
+Laughter is essential because it provides a cognitive respite, Hales says.
+"Laughter offers a temporary respite from the everyday clutter of thought. It's a different sort of consciousness with is uncluttered by the everyday 'shoulds' and 'buts'," she says.
+Hale believes laughter is a uniquely human talent that operates within a cultural context but also transcends culture.
+"It's a kind of perception, a recognition," she says.
+"Understanding laughter and humour might get us closer to looking at what consciousness is and [providing] another paradigm."
+
+RNA interference silences genes and so stops DNA from encoding genetic information
+RNA interference, whose discovery brought US scientists Professors Andrew Fire and Craig Mello the Nobel Prize in Medicine, is one of the hottest new areas of biotechnology and has spawned its own mini-industry. 
+The two researchers discovered that certain types of RNA could silence genes, turning them off and altering a cell's functions.
+RNA or ribonucleic acid is the molecule that transmits the genetic information encoded in DNA. 
+Plants use the RNA interference, or RNAi, mechanism to fight off viruses and the discovery is being exploited by labs and companies around the world to try to find cures for cancer, certain types of blindness, and even bird flu. 
+"It's a classic example of basic research which has turned out to uncover a biological mechanism which now has tremendous potential for ... really impacting human health," says Dr Jeremy Berg, head of the US National Institute of General Medical Sciences, which funded Fire and Mello's work. 
+Mello, a professor of molecular medicine at the University of Massachusetts Medical School, and Fire, a professor at Stanford University School of Medicine, made their discovery in the late 1990s.
+In 1998 the pair published their discovery in the journal Nature and in 2002 the journal Science named RNAi as the breakthrough of the year.
+Clinical trials
+Trials using RNA interference to treat people are already under way.
+"It has led to clinical trials on age-related macular degeneration but also there are trials for diabetes and HIV and influenza and most anything you can imagine where we know enough to know that overexpression of particular genes is important," Berg says. 
+"Cancer, for example, is often caused by overactive genes, and quelling their activity could halt the disease," his institute says. 
+RNA interference can also stop HIV, polio, hepatitis C, and other viruses. 
+"It is also an incredibly powerful research tool," Berg adds. Researchers can use it to turn off or turn down a gene and see what happens. 
+Flipping the 'off' switch
+Every cell in the body carries the complete genetic code, written in DNA. These genes cannot all be firing full blast at the same time, so in each type of cell some genes are turned on, or expressing, and most of the others are off. 
+"If you can think of a flood coming out of your kitchen sink to the kitchen floor, today's medicines simply act like a mop and mop up the water. With RNA interference we can shut off the [tap]," says Dr John Maraganore, chief executive of Massachusetts-based Alnylam Pharmaceuticals.
+Alnylam is working with Merck and Co, Medtronic, Novartis, Biogen Idec and the US government to develop RNAi to treat high cholesterol, respiratory syncytial virus, which can endanger infants, H5N1 avian influenza, the Ebola virus and some types of pain. 
+At least 23 different companies are focusing on RNA interference, either for therapy or research.
+But analysts caution that technical problems and safety concerns remain to be resolved before RNAi therapies enter the medical vocabulary. 
+One problem faced by researchers is how to get the interfering RNA molecules into the body effectively, and different companies are taking different approaches.
+Dublin-based company Research and Markets estimated the total value of the RNAi industry at US$1 billion in 2004.
+
+Websites are changing the way musicians promote music and network with other artists
+Musicians tend to hang out with artists who play in a different style rather than those from the same genre, an international study of online social networks has found.
+The study tells us how musical genres evolve and the part that online networking plays in how people produce, promote and listen to music.
+Researchers reporting on the arXiv physics website created two datasets based on information from the music website allmusic.com.
+The first group, which they call the collaboration network, consists of artists who have worked together, such as Mick Jagger and Keith Richards.
+The second group, or similarity network, includes artists who share an element of musical similarity, and puts Mick Jagger in with Tina Turner and David Bowie.
+An analysis of the groups shows little correspondence between artists who play together and artists who make the same sort of music, suggesting that musicians are more likely to collaborate with others from different musical genres.
+"Collaboration is not the mechanism for similarity spreading [and] playing similar music is not an ingredient to predict collaboration links," the authors, from the University of Michigan, the Universitat Pompeu Fabra and the Universidad Rey Juan Carlos in Spain conclude.
+Collaboration networks
+Jean Burgess is an Australian PhD student at the Queensland University of Technology (QUT) who has researched online and offline musician communities.
+She says the study's collaboration network reveals something about the nature of how musical genres evolve.
+"There's no necessary relationship between the style of music you play and who you play music with," Burgess says.
+"Music has always been a really social practice and musicians will tend to work together on more of a social basis.
+"This is how new genres have formed and re-formed throughout history, on the basis of people from different musical styles playing together."
+Burgess says online networking has had a big impact on musicians and how their work is produced, promoted and consumed.
+For example, websites like MySpace and YouTube allow artists to promote their work and network at the same time.
+"The way other MySpace users consume that content feeds back into the formation of social networks," she says.
+Folksonomies
+The second network identified in the study, which is based on musical similarities, reflects another internet-driven development, used commercially by websites like Amazon, says Dr Axel Bruns, also of QUT.
+The authors of the study say this can make it easier for consumers to discover new music.
+But Bruns says it can also potentially result in less choice for consumers.
+"You might end up with a situation where everyone who's a female singer songwriter might get compared to Joni Mitchell [rather than] a lesser known artist who may be a closer comparison," he says.
+Bruns says categorising music by similarity, rather than genre, ties into the new phenomenon of folksonomies.
+"Rather than having a pre-defined ranking which says these singers are rock or alternative or classical ... the categories derive from a broad user base interacting with the data," he says.
+"It's a democratic form of taxonomy which is more in tune with public perception."
+
+This year's ozone loss can be explained by the temperatures above Antarctica reaching the lowest recorded in the area since 1979
+Antarctica in 2006 suffered its highest recorded single-year loss in ozone, says the European Space Agency.
+Ozone measurements made by the agency's Envisat satellite shows a loss of 40 million tonnes on 2 October, exceeding the previous record of 39 million tonnes set in 2000.
+Ozone loss is calculated by measuring the area and depth of the so-called ozone hole in the stratosphere, about 25 kilometres above Earth's surface.
+This year's ozone hole measures 28 million square kilometres, which is nearly as large as in 2000, and the depth of the ozone hole is 100 Dobson units, a measurement of the thickness of the layer, which rivals a record set in 1990, the agency says. 
+Ozone filters out dangerous ultraviolet rays from the Sun that damage vegetation and can cause skin cancer and cataracts. 
+The layer has been badly damaged by industrial chemicals, especially chlorine and chlorofluorocarbons (CFCs), scientists say.
+The chemical reaction that thins ozone reaches its peak with colder high altitude temperatures in the southern hemisphere winter.
+"Such significant ozone loss requires very low temperatures in the stratosphere combined with sunlight," says the agency's atmospheric engineer Dr Claus Zehner. 
+"This year's extreme loss of ozone can be explained by the temperatures above Antarctica reaching the lowest recorded in the area since 1979." 
+Last week, the World Meteorological Organization (WMO) gave notice that the seasonal ozone hole in 2006 was heading for a record. 
+The ozone level globally has lowered by 0.3% a year over the past decade. 
+CFCs, mainly aerosol gases and refrigerants, and other ozone destroyers were  controlled by an international treaty, the Montreal Protocol signed in September 1987. 
+But there is already so much of the pollution stored in the atmosphere that large ozone holes are expected to persist for the next couple of decades, the WMO says. 
+The ozone layer over the Antarctic will only be completely replenished 15 years later than predicted, by 2065, according to the WMO and UN Environment Programme. 
+Ozone in the stratosphere is protective. At ground level, though, ozone, as a chemical reaction between exhaust fumes and sunlight, is a pollutant that can be dangerous for people with bad respiratory or heart problems.
+
+The discovery of cosmic ripples just after the Big Bang explains why the universe is lumpy and not a smooth sheet of matter or energy
+US scientists Dr John Mather and Professor George Smoot have won the 2006 Nobel prize for physics for finding the background radiation that finally nailed down the Big Bang theory of the origin of the universe. 
+The discovery of these 'cosmic ripples' was lauded in 1992 by cosmologist Professor Stephen Hawking as "the greatest discovery of the century, if not of all time".
+While most physicists do not go that far, they are universal in their praise of the experiment, in which the pair and their team designed a satellite and used it to find proof of the Big Bang. 
+Mather, from NASA's Goddard Space Flight Center, and Smoot, from University of California, Berkeley, found faint variations in microwave radiation that dated back to just 300,000 years after the fiery birth of the universe. 
+These ripples in the microwave radiation, they say, were the primordial framework on which the galaxies, stars and other stuff of the universe took shape.
+It explains why the universe is lumpy and not a smooth sheet of matter and energy. 
+"The discovery changed everything," says Professor Lawrence Krauss, a theoretical physicist at Case Western Reserve University in Ohio. 
+"It produced a revolution in what we know about the universe. We know it is expanding, we know it is flat ... and we can measure that to an incredible accuracy," Krauss says. "Cosmology now is a precision science." 
+Until then, theoretical physicists had cobbled together small pieces of evidence that the universe and everything in it had appeared suddenly about 14 billion years ago from an infinitesimally small point in a vacuum of nothingness.
+"There was very strong theoretical prejudice against the Big Bang," Mather says. "The Big Bang was in opposition to the steady state theory." 
+But after the discovery "the adherents of the steady state theory had to give up", he says. 
+Professor Michael Turner, an astronomer and astrophysicist at the University of Chicago says, "It cemented what we call the hot Big Bang model ... It opened the door to this golden age of cosmology that we are now in."
+The findings fit the theoretical models so perfectly that they impressed even astronomers when they saw the first data in 1992, says NASA's Dr Mary Cleave.
+"He actually got a standing ovation when he announced his results," she says. 
+Scientists have since followed up on those measurements to try to understand, for instance, dark matter.
+This is mass that no one has been able to see or measure but which must exist because of the amount of gravity measured in the universe.
+
+Some of the rock art on the Dampier Archipelago
+The public is being asked to comment on plans to protect what's been called the world's largest art gallery, a collection of ancient Aboriginal rock art on the Dampier Archipelago.
+Federal environment and heritage minister Senator Ian Campbell has called for submissions on a proposal that would see most of the area, which is in northwestern Australia, placed on the National Heritage List.
+The proposal would hinder the development of the A$50 billion Pluto Gas natural gas project by Woodside Energy on the Burrup Peninsula.
+The Australian Heritage Council report on the Dampier Archipelago, which the minister released this week, describes the density of rock carvings, or petroglyphs, and stone arrangements on the Dampier as "exceptional".
+It says the depictions of animals, human figures, human-animal figures and geometric designs "provides an outstanding opportunity to develop a scientific understanding of the social functions of motifs".
+And it says the engravings, which date back 30,000 years, provide an "unusual and outstanding visual record" of Aboriginal people's responses to the rise of sea levels at the end of the last ice age.
+During its assessment of the Dampier Archipelago the Council received 20 submissions from industry and state government authorities generally opposed to heritage listing.
+There were only two submissions in favour of listing. One of these was from the local Wong-Goo-Tt-Oo Aboriginal group,  the other from the Australian Rock Art Research Association (AURA).
+"What the minister, basically, in my opinion is looking for, is more support from the public," says Robert Bednarik of AURA, who has been advocating on behalf of the rock art for over 30 years.
+Senator Campbell said last week he was keen to "get the balance right" between allowing industrial development and preserving the rock art.
+"I want to make sure that all of the major stakeholders, particularly the economic stakeholders are very happy with the process and we get what I call a win-win-win," he told ABC Radio.
+In calling for public submissions on the proposed listing the minister drew attention to where the boundary for the protected area should be drawn.
+"Agreeing to the right boundary is a key element of ensuring the heritage and economic values of the area can coexist in to the future," he said.
+But some people are concerned about any compromise that would see some of the rock art sacrificed.
+Bednarik, who is also convenor of the International Federation of Rock Art Organizations, says he spent three years surveying the art on the Dampier Archipelago.
+"You can fairly describe it as the world's largest art gallery," he says.
+Bednarik says the rock art must be preserved as a whole, likening it to the UK's Stonehenge.
+"What if a petrochemical plant said 'Look, you've got here 24 columns, couldn't we take a few out because it's in our way?'"
+The World Monuments Fund has put the Dampier Archipelago on its list of 100 of the world's most endangered sites.
+Opposition to the listing
+Woodside Energy says it welcomes the opportunity to comment on the proposal but will oppose heritage listing.
+"As a general principle we don't doubt that the Burrup is a special place," says a company spokesperson.
+But he says the listing will create uncertainty for industry in the area, which could be held liable for damage to the rock art through pollution. 
+"It wouldn't only hinder our project, it would hinder everything," the spokesperson says.
+He describes the heritage listing as a "blunt instrument" because it fails to consider the economic values of the area that is the gateway to the A$20 billion North West Shelf liquefied natural gas project.
+"This is probably the most productive part of the Australian land mass," he says.
+The spokesperson says the company prefers a management plan for the area produced by a coalition of state and federal government, Indigenous groups, conservationists and industry.
+Comments on the proposal to list the Dampier Archipelago are to be made to the Heritage Assessment Branch of the Department of the Environment and Heritage by 28 November.
+
+A new type of paper made from nanowires withstands temperatures to 700&deg;C
+Tough paper that won't burn, is resistant to bacteria and can be written on time and time again has been developed by US researchers.
+The paper could be used in a range of applications, say scientists from the University of Arkansas in Fayetteville.
+It could be used to make products from reusable bacteria filters to flame-retardant wallpaper that automatically decomposes airborne toxins.
+Alternatively, it could be used to make rewritable, erasable, heat-resistant billboards along highways.
+Its core ingredient is the key to the paper's resilience. While most paper is made from cellulose fibres, the new material is made from nanowires of titanium dioxide, a chemical compound common in white pigment.
+"The starting materials are simple, non-toxic and inexpensive," says Dr Z Ryan Tian, assistant professor of chemistry and biochemistry at the university.
+"The assembly is a room-temperature casting process, as simple as drying paper pulp."
+To make the nanowires, the researchers first mix powdered titanium dioxide with an alkaline solution and place it in a teflon-coated container.
+Then they heat the mixture in an oven at 150-250&deg;C for one to several days.
+As the alkali evaporates, it leaves behind long, white fibres.
+The nanowires are washed in distilled water and, when still the consistency of wet pulp, cast into 3D shapes such as tubes, bowls and cups.
+After the paper dries, it can be bent, folded or trimmed with scissors.
+The finished product can withstand temperatures of 700&deg;C, which makes it flame-retardant. It also makes it possible to sanitise the paper with a torch flame or ultraviolet light.
+The paper's properties also make it ideal for a reusable filter membrane in gas masks, the researchers say.
+The pore size of the paper can be adjusted during the casting process so that the holes are big enough to let oxygen in but small enough to block toxins.
+"This [research] shows a novel way of fabricating membranes made of titanium dioxide nanowires," says Professor Zhong Lin Wang, director for the Center for Nanostructure Characterization and Fabrication at the Georgia Institute of Technology in Atlanta.
+In addition, when photons of light hit the nanoscale fibres, a charge is created that works to zap and destroy any toxins on the surface.
+The team has applied for a patent on the process and is looking for industrial partners to license and commercialise applications of the nanopaper technology.
+
+RNA polymerase, a crucial molecule in the multi-step process that encodes genetic material into proteins. Roger Kornberg published its structure in 2001
+US scientist Professor Roger Kornberg, the son of a Nobel laureate, has won the 2006 Nobel chemistry prize for showing how genetic information stored in genes is copied and then transferred to parts of the cell that produce proteins.
+This process, known as transcription, is essential to how cells develop and life itself.
+Kornberg's prize came 47 years after he watched his father Arthur accept the medicine Nobel in Stockholm for his own gene work.
+The Swedish Academy of Sciences says Kornberg junior's research into how RNA or ribonucleic acid moves genetic information around the cell was of "fundamental medical importance".
+"[It] is a key mechanism to the biological machinery. If it does not work, we die," says Professor Per Ahlberg, a member of the Nobel Committee for Chemistry at the Academy. 
+Dr Elias Zerhouni, director of the US National Institutes of Health, which has helped fund both Kornbergs' work, says understanding the process may help fight disease.
+"Illnesses like cancer, heart disease, and various other kinds of inflammation are linked to disturbances in the transcription process," he says. 
+"Understanding this process in more detail may provide researchers with the needed tools to develop new treatments for diseases." 
+And because the transfer of information helps explain how a cell becomes a nerve or liver or muscle cell, understanding transcription is crucial for the development of various therapeutic applications of stem cells. 
+X-ray crystallography
+If DNA is the blueprint for life, RNA is the builder that has to make something out of it, and Kornberg figured out how this happens.
+He used a process called x-ray crystallography, in which molecules in a chemical reaction are 'frozen' into crystals and photographed using x-rays, to capture transcription in action and in incredible detail.
+These images showed the complex structure of RNA.
+But work was slow, says Kornberg, who is now at Stanford University School of Medicine.
+"It was only possible because of advances in computing."
+Kornberg made an image of a molecule that RNA uses to read and transcribe the DNA code. 
+It took close to 20 years to find a way to first see and then understand the molecule, known as RNA polymerase. 
+"[The process of transcription] is one of the most fundamental biological processes," says Dr Jeremy Berg, director of the National Institute of General Medical Sciences, which helped fund Kornberg's work. 
+"The DNA double helix is a very beautiful structure but it is a challenge to deal with because all the information is inside," Berg says.
+"What RNA polymerase has to do is somehow find the right spot and then pull the two strands of the double helix apart in the right region. 
+"It has to copy the sequence very accurately. It has to stop and start in the right places. It has to turn on the right genes under the right circumstances," Berg adds.
+Kornberg senior was honoured for advancing understanding on how genetic information is transferred from a mother cell to its daughters.
+The award makes the Kornbergs the sixth father-son pair to win Nobels since the prizes were first awarded in 1901 and the eighth set of parent and child laureates.
+
+Artist's impression of an ultra-short period planet circling its star
+Astronomers have discovered a new class of planets outside the solar system that hug their parent stars so tightly they take less than a day to complete an orbit. 
+Using NASA's orbiting Hubble telescope, astronomers found between eight and 16 new planets near the centre of the Milky Way that orbit their parent stars in as little as 10 hours.
+They were looking at part of the Milky Way known as the 'galactic bulge', so-called because it is rich in stars and in the gas and dust that go to make up stars and planets. 
+The scientists publish their findings today in the journal Nature. 
+At 26,000 light-years away, they are the most distant planets yet found and a further indicator others are probably scattered throughout the Milky Way, the researchers say.
+"This allows us to say with a high degree of confidence that there are billions of planets in our galaxy," says Dr Mario Livio, an astronomer at the Space Telescope Science Institute in Baltimore.
+Scientists have long conjectured that planets exist outside our solar system but they have only been able to locate them since 1993. 
+About 200 planets have been discovered so far, many of them gas giants similar to Jupiter locked in a close orbit to their parent stars. 
+Those 'hot Jupiters' can be eight times closer to their parent stars than Mercury is to the Sun. 
+The newly discovered planets fit within that category, except they move even more quickly around their parent stars, which are smaller than the Sun. 
+Surface temperatures on those "ultra-short period planets" are about 1650&deg;C, says Dr Kailash Sahu, a Space Telescope Science Institute astronomer who led the team.
+Their parent stars are so nearby they fill up one-third of the sky from the horizon to the zenith, Sahu says. 
+Sahu's team found the 16 possible planets by looking for stars that dim when planets pass in front of them.
+The researchers confirmed two of those as planets by examining the slight wobble of the parent star caused by the orbiting body's gravity. The other objects were too distant.
+Using other tests, the team was able to say with certainty that "at least a large fraction of our candidates must be planets", Sahu says.
+
+The flowers on this dress open and close by themselves
+A dress with animated flowers on its neckline, shirt sleeves that make sounds in tune with your body language, and a hemline with a mind of its own have been developed by a Canadian researcher.
+Professor Joanna Berzowska and international colleagues will discuss these and other examples of 'wearable technology' at a workshop in Australia next year called reSkin.
+Berzowska's flowery dress, named Kukkia, has a neckline with felt and silk flowers that open and close according to a special electronics embedded in the dress.
+"I really wanted to make these dresses that have personalities, that move and behave almost like animals," says Berzowska, who teaches computation art at Concordia University in Montreal.
+The flower petals are made of silk and felt, and contain thin wires of Nitinol, an alloy of nickel and titanium.
+Nitinol is a 'shape memory alloy', which can be programmed to have different shapes at different temperatures.
+When the wire heats it shrinks and pulls the petals together, closing the flower. As it cools down, the wire relaxes and the petals open.
+A custom electronics board is connected by embroidered conductive thread to the flowers and makes each one open and close every 15 seconds.
+The system is run on rechargeable lithium polymer batteries, originally designed for use in model aeroplanes, which are embedded in pouches in the dress.
+Another dress with a mind of its own is Vilkas, which has a hemline that goes up and down on its own.
+We tend to think of consumer electronics as something we can control. But Berzowska says once you turn on the microcontroller in these dresses, you have to surrender control.
+"I like how perverse it is to have a piece of wearable electronics that you can't control," she says.
+"Perhaps they don't do what you want them to do and they behave in unexpected ways on your body. Maybe they move at inappropriate times."
+Musical pants and sound sleeves
+Berzowska also has musical clothes including musical pants that make a sound every time you take a step.
+"As you're walking through public space you can leave a whole trail of sounds behind you based on how you're walking," she says.
+She also has 'sound sleeves' that produce different sounds to reflect the wearer's body language.
+The sleeves produce a higher frequency sound the harder you squeeze your arms together.
+If someone is feeling angry or threatened they cross their arms causing the sleeves to generated an almost painfully high pitch.
+"But when you relax your arms the pitch goes down," says Berzowska. "It almost sounds like a cat purring."
+Intimate memories
+Berzowska has another outfit called Intimate Memory that record acts of physical intimacy using a microphone and a series of light-emitting diodes (LEDs) stitched in a curved line across the front. 
+The LEDs light up when someone touches the skirt, whispers something in the ear of the wearer, or blows on their neck.
+"The number of lights represents the intensity of the intimacy event similar to the volume indicator on a stereo," says Berzowska.
+"Over time, the lights turn off, one by one, to show time elapsed since the event took place."
+
+The bus-sized monster catching a smaller plesiosaur
+Scientists have found a fossil of a monster fish-like reptile in a 150 million-year-old Jurassic graveyard on an Arctic island off Norway. 
+The Norwegian researchers discovered remains of a total of 28 plesiosaurs and ichthyosaurs at a site on the island of Spitsbergen, about 1300 kilometres from the North Pole.
+At the time these were the top marine predators, when dinosaurs dominated on land.
+"One of them was this gigantic monster, with vertebrae the size of dinner plates and teeth the size of cucumbers," says Dr Joern Hurum, an assistant professor at the University of Oslo.
+"We believe the skeleton is intact and that it's about 10 metres long," he says of the pliosaur, a type of plesiosaur with a short neck and massive skull. The team dubbed the specimen The Monster. 
+Such pliosaurs are known from remains in countries including the UK and Argentina but no complete skeleton has been found, Hurum says.
+The skull of the pliosaur, perhaps a distant relative to Scotland's mythical Loch Ness monster, is among the biggest on record. 
+Scientists will return next year to try to excavate the entire fossil, buried on a hillside. 
+Plesiosaurs, which swam with two sets of flippers, often preyed on smaller dolphin-like ichthyosaurs. All went extinct when the dinosaurs vanished 65 million years ago. 
+The scientists rate the fossil graveyard "one of the most important new sites for marine reptiles to have been discovered in the last several decades". 
+"It is rare to find so many fossils in the same place. Carcasses are food for other animals and usually get torn apart," Hurum says. 
+He thinks the reptiles did not die at the same time in some Jurassic-era cataclysm but died over thousands of years in the same area.
+They then become preserved in what was apparently a deep layer of black mud on the seabed. 
+At that time, the area of Spitsbergen was under water several hundred kilometres further south, around the latitude of Anchorage or Oslo. 
+Hurum says the presence of fossils is also an interesting pointer for geologists hunting for oil and gas deposits in the Barents Sea to the east.
+"A skull we found even smells of petrol," he says.
+
+A healthy start to the day? The way your breakfast cereal is processed may mean you can't properly extract nutrients from it
+The same chemical process that makes breakfast cereal tasty can also make it less nutritious, according to a recent study.
+As a result puffs contain less nutritionally available protein than flakes, researchers report in the journal Food Chemistry.
+The difference is in the cooking technique, the Spanish study suggests.
+In the future, the researchers say their findings may lead to healthier preparation methods for cold cereals and other processed foods.
+Dr Francisco Morales, who led the research, says that a chemical process called the Maillard reaction affects both flavour and nutrition in cereals.
+In the reaction, which is usually induced by heat, sugars and amino acids interact to produce odour and flavour molecules.
+It's what gives many foods their characteristic toasty, golden brown qualities.
+"But it also reduces bioavailability of nutrients and it can lead to the formation of contaminants," says Morales, a scientist at the Instituto del Fr&iacute;o in Madrid. 
+He and his colleagues studied 60 packaged cold cereals, measuring the amount of a chemical produced during the Maillard reaction, furosine. More furosine means less nutritionally available protein.
+The researchers found no significant differences among wheat, rice and corn-based cereals. 
+But flaked cereals tended to have less furosine than puffed varieties. 
+The manufacturing process for flakes and puffs is similar, boiling ingredients followed by drying and toasting.
+But puffs need to be cooked at higher temperatures to get their characteristic airy texture. The higher temperatures fuel a stronger Maillard reaction.
+Surprisingly, cereals with added dietary fibre had the highest furosine levels. 
+Just a sprinkle
+A separate paper published in the same journal hints at a way consumers might compensate if their favourite cereal leaves something to be desired, nutritionally.
+A sprinkle of cinnamon might not improve its protein content, but it might raise its antioxidant levels.
+Antioxidants help the body rid itself of free radicals, which can damage cells. Prior studies have linked free radicals to heart disease, cancer and other health problems.
+Lucy Yu, a professor of nutrition and food science at the University of Maryland, and colleagues looked at the antioxidant properties of several spices and flavourings.
+Cinnamon ranked first in antioxidant strength among the tested flavourings. 
+Rong Tsao, one of Yu's research assistants, says, "Our findings could potentially be used for dietary supplement developers to help determine what spices and herbs could be used in their products for improved antioxidant properties."
+
+You can make music just by flexing your fingers in the air
+Musicians can jam together by making gestures with their fingers in the air, says an Australian researcher.
+Dr Alistair Riddell at the Australian National University has developed a system that allows groups of people to make music with a sensor system that translates finger movement into sound.
+"It's a form of wearable instrument," says Riddell, who will help facilitate a workshop on wearable technology in Canberra next year called reSkin.
+Riddell has already given performances with other musicians using the system.
+"It was a very strange kind of performance because people just looked at you and you were moving your hands in front of them and just basically staring at them," he says.
+Each musician has flexible sensors strapped to both thumbs and six of their fingers.
+As the sensors bend, this changes their electrical resistance, which in turn communicates changes in sound properties such as the type of sound, its pitch, volume, and effect such as echo.
+Each finger involved has between 2 and 100 different positions that corresponded to different parameters, Riddell says.
+Signals are sent to a microcontroller on the musician's back and then on to other computers that build the composition and create the sounds.
+While the idea of creating sound with gesture has been explored previously, Riddell's system is the first to enable more than one person to be involved.
+"We shared the same computational space," he says of the peformances. "It wasn't like we were three musicians with three guitars, we were actually three musicians with one guitar."
+During the performance Riddell hid the technology to maximise dramatic potential.
+"What you really saw were three people standing in front of you with their hands raised in front of them and they were bending their fingers," he says.
+And at the end of the performance the group extended their fingers, brought their arms down by their side and the music stopped.
+Challenges
+Riddell says one of the challenges was attaching the sensors and microcontrollers to the musicians.
+"It's really tricky to put any type of technology close to the skin," he says. "There seems to be some incongruity between technology and our biological wrapping."
+In the end he had special jackets made up to carry the equipment.
+Riddell describes performing with the hand sensor system as enjoyable but very exposing, sometimes embarrassing and surprisingly physically demanding.
+"After 20 minutes or so your hands would really get very sore," he says.
+One of Riddell's collaborators, sound and media artist Somaya Langley, is now working on a similar system that uses accelerometers instead of flex sensors attached to arms instead of fingers.
+As you move your arms in space, their acceleration in time and space is measured. This is linked to sounds produced by a computer that are played through a quadraphonic sound system.
+She says the aim is to be able to throw your arms around in space and be seen to be throwing around a sound.
+"It's kind of like having a virtual sound-object like a beach ball," she says.
+
+The camel, an ancestor of the dromedary, was four metres tall and roamed the Middle East thousands of years earlier than anyone expected
+Remains of a 100,000-year-old giant camel new to science have been found in the Syrian desert, scientists say.
+"It was not known that the dromedary was present in the Middle East more than 10,000 years ago," says Swiss researcher Professor Jean-Marie Le Tensorer of the University of Basel.
+"Can you imagine? The camel's shoulders stood three metres high and it was around four metres tall, as big as a giraffe or an elephant," he says.
+That makes the ancient camel twice as tall as today's dromedaries, or one-humped camels.
+"Nobody knew that such a species had existed," he says. 
+Tensorer, who has been excavating at the desert site in Kowm since 1999, says the first large bones were found some years ago.
+But they were only confirmed as belonging to a camel after more bones from several parts of the same animal were recently discovered.
+"We found the first traces of a big animal in 2003, but we were not sure it was a giant camel," he says. 
+The scientists also found 100,000-year-old human remains nearby.
+Humans apparently killed the camel while it was drinking from a spring, says Tensorer.
+Neanderthal or Homo sapiens?
+"The bone is that of a Homo sapiens, or modern man, but the tooth is extremely archaic, similar to that of a Neanderthal. We don't know yet what it is exactly. Do we have a very old Homo sapiens, or a Neanderthal?" says Tensorer. 
+"We expect to find more bones that would help determine what kind of man it was." 
+Humans have been present in what is now modern Syria for 1.5 million years. The area played a key role in the migration of the first human beings towards Asia and Europe, he says. 
+Kowm, the site where the remains were discovered along with flint and stone weapons, is a 20 kilometre-wide gap between two mountain ranges that had a number of springs.
+The site was first surveyed in the 1960s and evidence of a 1 million-year-old human settlement has been found there.
+Basel University researchers say it is considered a "reference for early prehistory in the Near East".
+It attracted migrating herds, such as antelope, and humans.
+Archaeological layers covering a period of several hundreds of thousands of years were discovered, which is unusual for such an open site, Tensorer says. 
+"It was a savannah more or less," he says. "The camels then ate probably what they eat today."
+
+An active galaxy with a supermassive black hole near its centre spewing out matter across the cosmos
+Our cosmic neighbourhood is flush with supermassive black holes busily devouring nearby stars and other matter, say scientists who have unveiled the first complete census of black hole activity in the local universe.
+The survey, which took nine months of observations with NASA's Swift satellite, was presented at a recent American Astronomical Society meeting in San Francisco.
+The survey uncovered more than 200 supermassive black holes within 400 million light-years of Earth, says Dr Jack Tueller with NASA's Goddard Space Flight Center.
+These objects, also known as active galactic nuclei or AGN, are millions or even billions times as large as the Sun and occupy a region of space about the size of our solar system.
+As they gobble up nearby matter, the black holes generate x-rays and many other forms of energy.
+Other black holes also spew out jets of particles, which a related research project has determined are made up of protons and electrons.
+Despite their violent activity, many AGN are obscured by surrounding gas and dust.
+Swift, a satellite whose main mission is to track gamma-ray bursts, spends its off-hours scanning the sky for high-powered x-rays.
+This radiation can be detected despite light-absorbing material that often hides the black holes.
+"It's hard to believe the whole sky is peppered with black holes," says University of Maryland researcher Dr Craig Markwardt.
+Scientists know that nearly every massive galaxy, including our own Milky Way, has a supermassive black hole near its centre.
+But they do not know why only a few percent appear to be actively consuming matter.
+Most black holes, including our own, are dormant and were not surveyed in the Swift census. But those black holes that are active play a key role in the universe.
+The survey will help scientists understand one of the fundamental processes by which energy is distributed in the universe.
+"You can't understand the universe without understanding black holes," says Dr Richard Mushotzky, also with NASA's Goddard centre.
+"Perhaps as much as 20% of all of the radiated energy in the universe arises in one way or another from AGN activity."
+High-energy jets
+Another phenomenon of black holes is the jetting of highly energetic particles, which are commonly seen radiating from quasars and other objects at nearly the speed of light.
+Scientists have long debated whether the long streams, which can flow for hundreds of thousands of light-years across the sky, contain electrons, their antimatter partners positrons, or a mix of electrons and protons.
+New research concludes the streams are made up of protons and electrons. The jets are believed to be one of the primary methods for redistributing matter and energy in the universe.
+"Black hole jets are one of the great paradoxes in astronomy," says NASA's Dr Rita Sambruna, also with Goddard.
+"How is it that black holes, so efficient at pulling matter in, can also accelerate matter away at near light speed? We still don't know how these jets form. But at least we now have a solid idea about what they're made of."
+
+South Korean protesters burn anti-North Korean banners at a rally in Seoul on 9 October denouncing North Korea's reported nuclear test
+Scientists are taking a wait-and-see attitude after North Korea said it had successfully conducted a nuclear test. 
+Only careful analysis of data returned by seismic or atmospheric sensors will say whether the blast was a success or a damp squib, they say. 
+Nor could they rule out the possibility of a scam, in which North Korea blew up a huge stock of conventional explosives to bolster its claim to have joined the nuclear club. 
+James Acton of Vertic, an independent non-governmental organisation in London that specialises in verification research, notes enormous discrepancies in the estimated size of the blast. 
+The Korea Earthquake Research Centre in South Korea says there was a 3.58-magnitude tremor from North Korea's North Hamgyong province that translated into the equivalent of 800 tonnes of TNT. 
+But Russian defence minister Sergei Ivanov, quoted by the ITAR-TASS news agency, says the strength was 5-15 kilotonnes.
+By comparison, the US atomic bomb that destroyed Hiroshima during World War II released the equivalent of about 12,500 tonnes of TNT. 
+"I've heard from three different sources that [the North Korean blast] was less than one kilotonne," says Acton, a nuclear physicist by training. 
+"This [Russian figure] is not a difference of 10-20% [in the yield]. It's huge. We should wait to see if that Russian statement is confirmed," he says. 
+Acton says that going for a 15 kilotonne yield was "the natural size" for a country trying to test a nuclear weapon.
+Paradoxically, it is easier to make and test a Hiroshima-sized weapon of this size rather than to make a smaller one, which requires mastery of miniaturisation techniques.
+"If it turns out to be less than a kilotonne, it could look very much like a fizzle," a bomb that failed to detonate properly and achieve a full chain reaction, Acton says. 
+Could it be a fake?
+Another theoretical possibility is that North Korea stashed lots of TNT underground and blew it up. 
+"It is possible to tell the difference between a conventional explosion and a nuclear test," says Acton. "The differences are very fine and subtle, and you need time to analyse the signatures." 
+Bruno Seignier, in charge of the analysis and monitoring department at France's Atomic Energy Commission, says a nuclear explosion "has a more instant shockwave than a chemical one". 
+He says that "in a small [seismic] event", picking out such differences would take time.
+"The analysis is complicated because the energy that radiates out is weak compared with the subterranean background noise picked up by detectors. You really have to make a very detailed analysis when you look into such an event." 
+To stage a hoax
+As for the scenario of a hoax, Acton cautions that to detonate a huge quantity of TNT to simulate a nuclear blast is in itself quite difficult.
+It would entail digging a large cavity underground, which would be visible to spy satellites, and requires detonators to be triggered at the same time. 
+In addition to seismic sensors run by national governments, the UN's Comprehensive Nuclear-Test-Ban Treaty Organization in Vienna also has a network of 189 seismic and hydroacoustic monitoring stations designed to detect  nuclear tests. 
+The body is not qualified to make public statements on the nature of the incidents registered by its monitoring systems, and therefore has not confirmed whether or not a nuclear explosion had taken place as claimed by North Korea.
+But the raw data has been passed on to the organisation's 176 member states and to 770 institutions around the world. 
+Telltale signs
+Radioactive particles and gases that can vent from an underground nuclear blast are also telltale signs, providing clues as to the type of material (uranium or plutonium) that was used and to the size of the weapon. 
+Sniffer planes and ground sensors can be used to monitor this airborne evidence. In the case of a totally sealed site, nothing may emerge, though. 
+A third monitoring technique is to use satellites with ground-scanning radars, which record the topography of a test site before and after an event. 
+Movement or subsidence of the soil would be the sign of a big blast.
+
+While the rodent study appears to be successful, many safety tests would be needed before the liquid is used on humans having surgery
+Biodegradable liquids that control bleeding during surgery could dramatically reduce time in the operating theatre, a study says.
+Researchers at the Massachusetts Institute of Technology (MIT) and the University of Hong Kong have developed a liquid composed of small protein fragments that can stop bleeding in wounded rodents within seconds.
+The researchers say this is the first time that nanotechnology, technology at the atomic or molecular scale, has been used to achieve complete haemostasis, the process of stopping bleeding from a damaged blood vessel.
+They say that if this success could be repeated in humans, doctors could have a new tool to combat bleeding, one of the hardest problems in surgery.
+"The time to perform an operation could potentially be reduced by up to 50%," says lead author Dr Rutledge Ellis-Behnke, a research scientist at MIT.
+The findings are reported in the journal Nanomedicine.
+The research shows that when a liquid composed of peptides is applied to open wounds, the peptides assemble into a nanoscale protective barrier gel that seals the wound and halts bleeding.
+Once the injury heals, the gel is broken down into molecules that cells can use as building blocks for tissue repair. 
+Doctors currently have few effective methods to stop bleeding without causing other damage. Current tools include clamps, pressure, cauterisation and sponges.
+In their experiments on hamsters and rats, the researchers applied the liquid to wounds in various types of tissue, including the brain, liver, skin, spinal cord and intestine. 
+"In almost every one of the cases, we were able to immediately stop the bleeding," Ellis-Behnke says.
+The researchers do not know exactly how the solution works. But they suspect that the peptides interact with the extracellular matrix around the cells rather than inducing clotting.
+They say the bleeding stopped too quickly for clotting to be the cause and there were no signs of clotting, including aggregation of platelets.
+
+The Milky Way is about one and a half times more massive than Andromeda, pictured here
+The Milky Way may be the most massive galaxy in the local group and not Andromeda, according to research that overturns decades of thinking.
+University of Cambridge astronomer Dr Mark Wilkinson and colleagues looked at several small dwarf galaxies in the local group, which includes Andromeda, the Milky Way and dozens of smaller galaxies.
+When they estimated Andromeda's mass, they found it less than previously thought, making the Milky Way the heftiest.
+Astronomers determine the mass of galaxies by looking at how fast the stars and the gas in the inner disk are rotating. The faster they move, the more massive the galaxy.
+Until now precise measurements of the rotation of the galaxy's dark halo, which extends for thousands of light-years beyond the galaxy's visible starry disk, have not been possible because there are few visible objects that can be measured. 
+But with the high resolution of the European Southern Observatory's Very Large Telescope, Wilkinson measured the velocities of stars in several extremely faint dwarf galaxies orbiting Andromeda to determine the mass of its dark halo.
+"Although Andromeda's inner disk is moving faster than the Milky Way's, further out in the halo, which is almost exclusively made up of dark matter, the opposite is true," he says.
+"The best fit for the data showed that the Milky Way is about one and a half times more massive than Andromeda." 
+Wilkinson and colleagues posted their findings recently on the arXiv physics website and have submitted the data to the journal Nuclear Physics B.
+Largest but not heaviest
+Last year astronomers suggested that Andromeda might be three times larger than previously thought. But the results are not necessarily contradictory.
+Data from the WM Keck Observatory in Hawaii was used to indicate the extent of the visible disk rather than the mass of the whole galaxy. 
+"We need more data to work out the point at which the mass starts falling off," says Wilkinson.
+"That could tell us more about the profile of dark matter. However this [latest research] is a very small sample, only two out of billions of galaxies, so we need to reduce the error bars."  
+Australian researcher Dr Jeremy Bailin, from Swinburne University of Technology, agrees.
+"It's notoriously difficult to measure the mass of astronomical objects. You can't put a galaxy on a scale," he says.
+"But reducing the uncertainties on mass is important for understanding the history of the local group and will help us better understand how it compares with other groups of galaxies."
+
+A component of the micro gas-turbine engine
+A tiny gas-turbine engine that fits on a 20 cent piece could replace batteries that power laptops, mobile phones, radios and perhaps home generators, its developers say.
+The microengine is being developed by a team led by Alan Epstein, a professor of aeronautics and astronautics at the Massachusetts Institute of Technology.
+He says the engine could provide five times as much power as a laptop battery for the same cost.
+"My laptop battery now runs my computer for about three hours before recharging. A microengine power system, engine plus fuel, with the same weight as the battery should run the laptop for 15 to 20 hours before refuelling," says Epstein.
+The engine works on the same principle as a jet engine. 
+A compressor sucks in air from the outside and compresses the air. Fuel injectors add fuel to the compressed air and the mixture gets ignited.
+Epstein's engine will run on a variety of fuel, including kerosene, propane, ethanol, methanol or hydrogen.
+The hot gas produced expands rapidly to turn a turbine, which turns a coil inside a magnet to generate electricity.
+A jet engine has thousands of parts assembled into the few components that comprise the compressor, combustion chamber and turbine.
+Epstein's microengine only has two parts: a moveable rotor and a stationary structure that together function as the compressor and combustor.
+And this jet engine would fit into a matchbox. The compression chamber is about the size of a pencil eraser, the fuel injectors are pen-point holes and the turbine is about the size of a 10 cent piece.
+Manufacturing on a small scale
+Such teeny components require a much different manufacturing process than large-scale jet engine parts.
+Epstein and his team, like other researchers in this field, turn to the field of microelectromechanical systems, or MEMS, which is used to fabricate miniature devices ranging from computer chips and biological sensors to chemical processors.
+They etch out the parts from wafers of silicon. The etching requires incredible accuracy with little or no room for error.
+"They are bringing the field of MEMs to levels that a few years ago would have seemed impossible," says Carlos Fernandez-Pello, a professor of mechanical engineering at the University of California, Berkeley.
+Like a car engine
+Pello's team is working on a similar micro system that works like a car engine.
+A bigger challenge for Epstein may be getting the individual components to work as a single engine, says Pello.
+At that tiny scale, the heat produced can spread across the whole device, causing parts to expand and not work well.
+But if they can find a way to insulate the combustor from the other components, a final working product would be about the size of a cigarette lighter, with the engine on top and the fuel below.
+"The size of that [cigarette] lighter is the size of two AA batteries. But the time it would give you power, it's potentially 100 times more ... maybe 50 or 60 hours," says Pello.
+Such a microengine would be as safe as a pocket lighter, too, he says.
+How about emissions?
+Epstein says that his microengine will produce one-hundredth the emissions that a rechargeable laptop battery produces indirectly during the recharging stage, as it draws electricity from the grid.
+So far, the microengineered components have been micromachined, tested individually and assembled into the 20 cent piece-sized test engines.
+Now the team has to add fuel and demonstrate a working engine, something Epstein thinks can be accomplished within the next 12 months.
+
+Scientists have used computers to analyse how Shakespeare used certain words and phrases and have come up with a unique linguistic signature
+A computational fingerprint that uniquely characterises William Shakespeare's writing style is helping to dispel any lingering doubts that he penned his own plays.
+The method could analyse not only plays attributed to Shakespeare but anonymous or controversial writings by other authors.
+"People will take these programs and use the design to go to the 19th century and talk about Lord Byron," says Professor Arthur Kinney, director of the Massachusetts Center for Renaissance Studies at the University of Massachusetts, Amherst.
+Kinney leads the research with Australia's Professor Hugh Craig, director of the Centre for Literary and Linguistic Computing at the University of Newcastle.
+The researchers built a massive database containing tens of thousands of words from Shakespeare's works as well the works of other playwrights of his time.
+Then they used a method called computational stylistics to analyse the usage, occurrence, spelling and placement of phrases, as well as common and rare words.
+For example, the word 'gentle' appears almost twice as frequently in works by Shakespeare than in works by other writers. And Shakespearean drama frequently finds the word 'farewell' preceded by 'hail'.
+A computational fingerprint is created from known works and then compared with the fingerprints of unknown works to see if there is a match.
+Doubts
+Controversy over whether Shakespeare, an ordinary, working class man from the countryside, could have authored such remarkable writing began percolating in the middle of the 19th century.
+Those who doubt his ability suggest that another, more educated man, such as the Earl of Oxford, Edward deVere, penned the plays. Why would the Earl attribute them to Shakespeare? To deflect criticism, some claim.
+During the early part of the 1600s, the gathering of a large crowd at a theatre signalled political unrest and made government officials nervous. And Christian groups, such as the Puritans, found the theatre immoral.
+But there has been plenty of evidence to suggest that Shakespeare did write the plays.
+For one, Shakespeare apparently wrote plays until 1611; the Earl of Oxford died in 1601. 
+Also, at least four different publishers put Shakespeare's dramas to print. If he had not been the author, they would have all had to keep the secret.
+"The more people you had to have involved [in the conspiracy], the more likely it would have been that somebody would have blown the whistle," says Professor Gary Taylor, director of History of Text Technologies at Florida State University.
+Kinney and Craig's computational method adds scientific credence to the mix.
+"The more different kinds of data you have pointing to the same conclusion, the more confidence you have in that conclusion," says Taylor.
+The team is writing a book By Me, William Shakespeare, which will be available in late 2007 and will contain their findings.
+
+Fusion reactors rely on plasma, the gas produced by very high temperatures or pressures, such as in the heart of the Sun or in lightning
+Australia is running out of time to be part of the global research effort on nuclear fusion, say experts.
+Dr Matthew Hole of the Australian National University says Australia should be a partner in the International Thermonuclear Experimental Reactor (ITER) in southern France, which is a testbed for a commercial fusion power reactor.
+"The ITER project itself is the world largest science experiment," says Hole, a plasma physicist who is chairing a workshop on fusion and the ITER in Sydney this week.
+Hole says ITER is driving the international agenda in fusion energy research and  Australia should be involved so that it keeps its research capacity in the area, and does not end up having to buy the technology back at great cost.
+He says the seven ITER partners could ratify the final reactor plan as early as December and once these plans are signed off on Australia will be "locked out" of any opportunity to contribute to the reactor construction.
+"It's a very urgent issue," says Hole. "The deadline, if not missed, is approaching being missed."
+"The next opportunity will might be in 10 years time by which time Australia will have no research capability in this area."
+An Australian discovery
+Fusion power reactors have been a dream of many since Australian Sir Mark Oliphant discovered nuclear fusion, the process that powers the Sun and other stars, in 1934.
+Fusion involves the release of energy from the combination of two light atomic nuclei, typically isotopes of hydrogen.
+And it is this energy that scientists hope to harness as a safe, greenhouse-friendly and economic form of power.
+Hole says nuclear fusion would produce energy at a cost comparable to nuclear fission but with an environmental impact comparable to wind power.
+But there are many challenges. Significant energy is required to force two positively charged atomic nuclei together and a plasma gas of the charged particles must be kept hot and dense for long enough to undergo fusion.
+One challenge is how to confine the plasma that must be kept at temperatures around the heat of the Sun.
+Doughnut-shaped magnetic fields
+The ITER will be a fusion reactor called a tokomak, originally designed in Russia but pioneered in the west by Australia.
+The tokomak fuses ions of hydrogen (deuterium and tritium) that are confined in a doughnut-shaped magnetic field at temperatures of up to 100,000,000ºC. 
+Hole says that unlike previous plasma physics experiments, the ITER will produce more energy than it consumes. Under special conditions it will even produce 30 times more energy than it consumes.
+He says various technologies being developed in Australia could contribute to the ITER but despite Australia's early leadership in fusion science, it now risks missing out unless it is officially part of the French-based project.
+Hole says relevant Australian expertise includes the ability to diagnose what is going on in the reactor, including measuring temperatures.
+"Measuring temperatures at 100 million degrees, for example, is no simple exercise," he says.
+Australia also has expertise in developing materials that can handle the high temperatures involved, says Hole.
+Currently, Hole says only A$1.3 million is spent on fusion research in Australia and this should be increased to A$16 million to be competitive with the US and UK commitment.
+Concerns
+But energy commentator, Dr Mark Diesendorf of the Sustainability Centre in Sydney, is concerned that the government could invest in fusion at the expense of other low-greenhouse energy sources that are likely to deliver more quickly.
+Diesendorf says while there could be a big pay-off from fusion, the technology is very risky, with the chance of plasma becoming more unstable the more energy you try to get out of the system.
+
+Anti-North Korea protesters chant slogans at a protest denouncing both the North's nuclear device test, which scientists now say looks like a dud
+More than two days after North Korea claimed to have exploded a nuclear weapon, scientists edged towards the conclusion that the test, if indeed nuclear, was a failure. 
+But a failure is unlikely to derail North Korea's nuclear program and could even help Pyongyang's bomb makers, they warn. 
+Two main sources of scientific evidence are needed to confirm that a blast is nuclear.
+One is the shockwave sent back by ground detectors.
+The other is fallout, radioactive particles or gases, that often escape from an underground test site, even if the tunnel or shaft is sealed tight. 
+But North Korea's blast was so tiny that the seismic wave is almost indistinguishable from routine subterranean background noise, experts say. 
+That means it will take a long time, harnessing supercomputers and the minds of top physicists, to find any telltale spikes that confirm the blast was nuclear, and not say a stockpile of TNT blown up as a hoax. 
+"There is a series of differentiations to be done" to sift out the blast from background noise, says Xavier Clement for France's Atomic Energy Commission. 
+"It is possible that this cannot be done, given the weakness of the signals compared to the background noise," he says. 
+In the absence, so far, of any known radiological evidence, scientists also note the very small size of North Korea's explosion. 
+Only Russia has described the blast as a full-fledged nuclear event, equivalent to 5-15 kilotonnes of TNT.
+Meanwhile the Norwegian institute of seismology Norsar describes it as a "medium-sized bomb" at 1-10 kilotonnes.
+But other national monitors put it at less than 1 kilotonne, with one figure as little as 200 tonnes.
+Such low yields are feasible with a nuclear warhead, but they are traditionally reserved for established members of the nuclear club that have mastered arts of miniaturisation.
+"The easiest size of weapon to build is 10-20 kilotonnes. It's harder to build one that's smaller, and it's harder to build one that's larger," says James Acton of Vertic, an independent UK watchdog that carries out research into the verification of international treaties.
+"It seems to me technically unlikely and politically unlikely that North Korea would have tried to do anything other in its first test than in the 10-20 kilotonne range," says Acton, a Cambridge-educated nuclear physicist.
+"If it was a nuclear test and the yield was less than a kilotonne, it seems to me the evidence is that this test was a fizzle, it was a partially unsuccessful test." 
+Clement agrees. "If it turns out to have been a nuclear test, it's clear that the weakness of the energy release corresponds to an explosion that fell short of what could have been expected," he says. 
+If the test failed, what went wrong? 
+The assumption among experts is that North Korea used plutonium rather than uranium to make its bomb, given the plutonium-making reactor and fuel rods known to be in its possession. 
+Uranium bombs, like Little Boy dropped on Hiroshima in 1945, are bombs that are relatively easy to make, in which a uranium slug is fired into a ball of uranium to achieve critical mass. 
+But plutonium bombs are more complicated. They entail a small ball of plutonium that, like the centre of an onion, is swathed by conventional explosives. 
+These explosives compress the plutonium and fire a neutron into the mass to initiate a chain reaction. 
+But the explosives must be "very, very carefully shaped", and the detonation must be precisely timed to ensure that the neutron is fired at the right time, says Acton. 
+Another possibility, again, still in the realm of hypothesis, is that the material used in the test had impurities of plutonium isotopes that emit neutrons and this caused the chain reaction to start prematurely. 
+Whatever happened, "none of the problems are in any way terminally fatal to the program", cautions Acton. 
+"They will almost certainly have gained information from this test which will have enabled them to build a better weapon next time around."
+
+The way the Earth wobbles on its axis, like a poorly balanced spinning top, influences our climate and therefore species' survival
+Climate change, naturally induced by tiny shifts in Earth's rotational axis and orbit, periodically wipes out species of mammals, a study says.
+Palaeontologists have long puzzled over fossil records that, remarkably, suggest mammal species tend to last around two and a half million years before becoming extinct. 
+Climate experts and biologists led by Jan van Dam at the University of Utrecht in the Netherlands, overlaid a picture of species emergence and extinction with changes that occur in Earth's orbit and axis.
+The Earth's orbit is not a perfect circle. It is slightly elliptical, and the ellipticality itself goes through cycles of change that span roughly 100,000 and 400,000 years. 
+Its axis, likewise, is not perfectly perpendicular but has a slight wobble, rather like a poorly-balanced child's top, which goes through cycles of 21,000 years.
+In addition, the axis, as schoolbooks tell us, is also tilted, and this tilt also varies in a cycle of 41,000 years. 
+These three shifts in Earth's pattern of movement are relatively minor compared with those of other planets. 
+But they can greatly influence the amount of heat and light the Earth receives from the Sun.
+The effect can be amplified, causing global cooling, affecting precipitation patterns and even creating ice ages in higher latitudes, when two or all the cycles peak together. 
+Van Dam's team looked at 132 species of mammal fossils recovered from three sites in Spain, in layers of soil that dated from 24.5 million years ago to 2.5 million years ago. 
+What the researchers looked for were the fossilised teeth of rodents, mainly because these could be spotted and identified much quicker than the remains of other animals.
+They found that rodent species bit the dust in two regular waves.
+One wave of extinction was roughly every 2.4 million years or so and the other was about every million years or so, coinciding with extremes in the cycles of ellipticality, wobble and tilt.
+These were not swift, massive die-outs of the kind that famously wiped out the dinosaurs 65 million years ago, but rather a fade-out of species that could not cope with habitat loss or competition, especially when ice ages kicked in.
+As they became extinct, other species emerged. 
+"At any given time, there would be around 15 [rodent] species in residence," says van Dam.
+"During the extinction waves, about five or six species would disappear over a period of about 100,000 years or so." 
+The paper, which appears today in the journal Nature, is confident that the species turnover among rodents also happened to other mammals and possibly other biological groups too. 
+Astronomical impact "provides a crucial missing piece in the puzzle" of regular species turnover, it says.
+
+Charles Dickens wasn't a doctor but he learned from them, and they learned from him
+Charles Dickens was so good at describing neurological disease in his characters that the symptoms were used word-for-word in medical text books of the day, says an Australian neurologist.
+The 19th century novelist's interpretations of diseases of the nervous system even predated formal medical classification, some by more than a century.
+In a paper to be published in the Journal of Clinical Neuroscience, Dr Kerrie Schoffer of the Austin Hospital in Melbourne says his observations have helped develop our modern understanding of neurological disorders.
+"In Dickens's day, they didn't really understand much about these disorders, things like Tourette syndrome; there was no name for that and no understanding of the biological basis of it," she says. 
+Yet Dickens described details in his novel David Copperfield.
+His description of the tics, teeth grinding and grimaces of the character Mr Bell, now known as symptoms of Tourette syndrome, was published more than 40 years before Gilles de la Tourette clinically described the disorder in 1885.   
+In The Pickwick Papers, Schoffer notes that Dickens links Parkinson's disease and dementia in an old man whose "limbs were shaking with disease and the palsy had fastened on his mind". 
+Restless legs syndrome, a disorder characterised by the compelling need to move the legs, Schoffer observes, is strongly suggested in the sleepy waiter in David Copperfield.
+He had "the fidgets in his legs, and was twisting them, and hitting them and putting them through all kinds of contortions in his small pantry". 
+Schoffer says Dickens also had a keen eye for people unsteady on their feet, with involuntary muscle movement, tremors and sleep problems.
+Dickens had little formal education let alone clinical training. But Schoffer says he had access to people with movement disorders through leading physicians of the day. 
+"Dickens's rise to prominence as an author meant he interacted with high society, which tended to be prominent physicians," Schoffer says.
+"If there's one thing that doctors and writers have in common it is that we both have to observe people very closely. I think Dickens's work is a great model for the interaction between medicine and literature."
+
+Fiddler crabs with blue shells are vulnerable. So when hungry birds are around, they turn muddy brown
+Tiny blue-shelled fiddler crabs change their colour to avoid being eaten by predatory birds, researchers have discovered.
+Scientists have long been intrigued by the crabs' ability to change the colour of their top shell from bright blue to a more subdued, muddy shade.
+But exactly why the crabs change their colour hasn't been clear.
+"When you catch them, for instance, they go dull," says Dr Jochen Zeil from the Australian National University, whose research appears in the Journal of Experimental Biology.
+To find an answer, Zeil and his colleagues studied a particular species of fiddler crab, Uca vomeris, on the mud flats of Australia's northeast coast, south of Townsville.
+"Some populations of these crabs are all very dull, but in other places they are very colourful," Zeil says. "We wanted to understand how this happens."
+The scientists looked at variations between crabs from three different areas: one group was dull coloured, another was colourful and a third group mixed.
+They found differences in the numbers of crab-eating birds near the dull coloured populations.
+"In the places where the crabs were colourful, there were few birds," Zeil says. "But in the others there were more birds actively hunting crabs."
+To confirm these findings, the scientists set up an experimental model to test whether the crabs changed their shell colour in direct response to the threat of being eaten.
+They found two very colourful crabs living close together and set up a kind of wooden screen between them.
+One crab was left to go about its life as normal. But the other was subjected every couple of minutes to the attentions of a pretend bird. In reality, it was a small foam ball suspended on fishing wire.
+Crabs have poor vision, so the approach of the black ball was enough to convince it a bird was coming, Zeil says.
+Within days, that crab had changed its colour to the muddy shade, while the other remained colourful.
+"We could observe that over a couple of days, the crabs did change their colour when they are confronted with this dummy bird," the researcher says.
+Scientists suspect the blue colour of the crabs is normally used to help them identify others living close by, and avoid fights, Zeil says.
+The next step in his research will be to see whether staying dull all the time has any effect on neighbourly relations.
+
+Insect brains might be small but they're inspiring robotics researchers
+An electrical engineer turned biologist, who now spends his time unravelling the workings of insect brains, has won one of Australia's top science prizes.
+Professor Mandyam V Srinivasan of the Australian National University has won the Prime Minister's Prize for Science for work that has applications in the field of robotic vision, for example for autonomous aerial vehicles.
+For over 20 years, Srinivasan has been designing experiments to work out what information honey bees use to take off, land on flowers swaying in the breeze, navigate the world without bumping into things, and find targets.
+"If we can find out what the neural circuits underlying those things are, maybe we can build machines that are much more cognitive," he says.
+Srinivasan says insect eyes are too close together to allow them to use stereovision to work out how far away objects are. 
+Instead he says they rely on measuring how fast objects are moving relative to their eye to work out how far away they are.
+It is this relatively simple strategy, says Srinivasan, that can be reproduced in robotic vehicles.
+So far, aspects of his work have been used to develop autonomous aircraft that can track terrain and keep level as they are flying.
+The research has also helped develop wheeled robots that can navigate down narrow corridors, and a panoramic imaging and surveillance system which, like an insect eye, can capture almost the entire environment around it.
+Angry bees
+Srinivasan says that over the next five years he wants to shift his focus to studying how angry honeybees that are defending their hive rapidly track down moving targets to sting them.
+"We find it a fascinating example of an exquisitely honed system to chase and intercept moving targets," he says.
+He will use high-speed video cameras to track in 3D how angry bees approach and intercept their target.
+Srinivasan hopes the information on bees' visual cues will help him develop an experiment in which one model aircraft can detect, track and intercept another.
+About half of Srinivasan's funding comes from the Australian Research Council and half from military sources, including the US Defense Advanced Research Projects Agency.
+Other prizes
+Another prize goes to CSIRO-based astronomer Dr Naomi McClure-Griffiths, who wins the Malcolm McIntosh Prize for Physical Scientist of the Year.
+McClure-Griffiths has been studying the shape of the Milky Way and has discovered a new spiral arm, changing many long-held ideas about the evolution of our galaxy.
+The Science Minister's Prize for Life Scientist of the Year goes to Dr James Whisstock of Monash University for his investigation of serpins, which control the break down of damaged cells by proteases.
+Anna Davis of Casimir Catholic College in Sydney and Marjorie Colville of Perth Primary School near Launceston win prizes for excellence in science teaching.
+
+Siberian lakes with peatlands
+Massive peat bogs in Siberia and elsewhere may have helped spur global warming at the end of the last ice age some 12,000 years ago, scientists report. 
+The ice was already melting when the bogs formed, but the fact that they emitted the greenhouse gas methane accelerated the warming trend, says Professor Glen MacDonald, a climate change expert at the University of California Los Angeles. 
+But this does not take humans off the hook, given that the amount of methane sent into the atmosphere since the start of the Industrial Revolution is far higher than what occurred naturally from decomposing material in the old bogs, he says. 
+"The amount of methane that we have added to the atmosphere is even more extreme than the rate of this change that happened at end of the last ice age," says MacDonald, the lead author of a study published today in the journal Science.
+"Over the last 200 years we have more than doubled the amount of methane in the air." 
+At the close of the last ice age, some 12,000 years ago, the bogs "really turned on", says MacDonald, whose collaborators included those from the Russian Academy of Sciences.
+The bogs caused a rise in the atmosphere's methane level from 450 to 750 parts per billion by volume. 
+But from the year 1750 until the present, he says, methane levels went from 750 to 1700 parts per billion.
+How much is down to humans?
+"About 60% of the methane going into the atmosphere is anthropogenic," or human-caused, MacDonald says.
+"Natural sources today aren't really capable of producing the spike that we're seeing. Methane has reached levels that are unprecedented." 
+Methane occurs widely in nature when bacteria help decompose plant and animal material, without the benefit of oxygen.
+This happens in big bogs, which are made up of a thick layer of incompletely rotted dead organic matter beneath a layer of living vegetation. 
+By taking core samples of peat bogs in Siberia, and adding that data to samples of other peat bogs, the scientists determined that these peatlands formed a bit before the end of the last ice age, but really grew explosively as it ended.
+Methane is said to be up to 23 times more potent as a greenhouse gas than carbon dioxide, so knowing a potential source of methane is important, the researchers say.
+
+Dragonflies were as large as seagulls 300 million years ago, just before the dinosaurs came on the scene
+The enormous dragonflies, millipedes and other insects that lived 300 million years ago grew so large because of Earth's rich oxygen supply at the time, according to a new study.
+"Why isn't there a cockroach that ate Dallas from recent history?" asks co-author Professor Jon Harrison of Arizona State University. "We can answer that question without a time machine."
+Harrison and his team analysed how modern insects are designed for the fact that air today is 21% oxygen.
+They focused on the tracheal system, the interconnected tubes that transport oxygen throughout bug bodies.
+By extension, the researchers envisioned what insects would have looked like millions of years ago when the air was 35% oxygen.
+Their findings help to explain the remains of millipedes over a metre long, 10 centimetre cockroaches and dragonflies with 75 centimetre wingspans dating to the late Palaeozoic period, just before dinosaurs came on the scene.
+Using x-ray imaging, the scientists compared the tracheal dimensions of four modern beetles ranging in size from 3 millimetres to 3.5 centimetres.
+They found that the tracheal system took up 20% more of the insect's body in larger beetles. In other words, the bigger an insect, the more it must invest in air tubing.
+And "more tracheae ... mean less space for everything else in the body, such as the brain and reproductive system", Harrison explains.
+In the oxygen-rich world of the Palaeozoic era, insects needed less air to meet their oxygen needs. As a result, they could afford smaller trachea than modern insects. 
+The researchers conclude that although Palaeozoic insects had the same basic body structure as modern insects, their maximum body size was larger because smaller trachea left more room for the other essential body parts necessary to sustain their weight.
+The findings were presented at this week's American Physiological Society conference in Virginia Beach.
+Dr Steve Heydon, curator and collections manager of the Bohart Museum of Entomology at University of California, Davis, says that the new explanation is plausible.
+But there are other possible explanations for why insects grew smaller, such as competition pressure from birds.
+"Remember that there weren't any birds in the sky when the giant insects were out," says Heydon. "When flying dinosaurs and birds came around, the insects lost their exclusivity."
+

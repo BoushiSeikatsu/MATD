@@ -1,0 +1,661 @@
+Hacked chips could be used to launch attacks on software in computers linked to scanning devices, the doctorate student says.
+Rieback demonstrated a device she and colleagues built to hijack the RFID signals that manufacturers say can't be read by anything other than proprietary scanners. 
+The device is also designed to block scanners, legitimate or illicit, reading a tag.
+The researchers expect to have a reliable portable version of their device finished in six months and have "no plans to immediately mass-produce these things". 
+A cheer rose from the legion of hackers in the conference room when Rieback announced that the schematics and the computer codes for the device would be made public. 
+"The industry and government needs to not be scared of us," Rieback says. 
+She says RFID equipment makers would be wise to ramp up encryption and other security. 
+"If you are using RFID [to track] cows, who cares?" Rieback asks. "But with a passport, it only takes one breach at the wrong time and it could wreck it for the RFID industry." 
+RFID tags consist of a computer chips wrapped with tiny radio antennas. The chips store financial, identity, or other data that can then be sent to scanners by radio signals. 
+US retail behemoth Wal-Mart about two years ago embarked on a campaign to use RFID to track inventories and shipments from suppliers, and the devices are used to track cargo in shipping containers. 
+RFID tags have been used for decades to track cattle or wild animals. 
+Pet owners also have chips, about the size of grains of rice, implanted under the skin of their dogs or cats so they can be identified and returned if they run away.
+The European Central Bank has talked of putting RFID technology in euro currency, and such tags were used in World Cup Soccer tickets, according to the researcher. 
+Smart chips are being put into passports. Stores have experimented with using the tags not only to track inventory, but to bill shoppers for purchases invisibly as they leave.
+"It has been ... creating quite a stir," Rieback says of RFID use.
+
+A page from The Archimedes Palimpsest viewed by x-ray showing the hidden text
+Ancient writings by the legendary Greek mathematician Archimedes have been revealed for the first time in 1000 years.
+Scientists at the Stanford University Linear Accelerator Center used an intense x-ray to reveal the text as part of an ongoing study of the famous scholar's hidden work.
+The writings were recently revealed as part of a live webcast, which has been archived and can be viewed here.
+"We're getting a vastly better understanding of one of the greatest minds of all times," says Uwe Bergmann, a scientist involved in the project.
+"We are also showing it is possible to read completely hidden texts in ancient documents without harming them," Bergmann adds.
+The document in this case is The Archimedes Palimpsest, a goatskin parchment upon which a scribe copied seven important treatises of the Greek scholar, who lived from 287-212 BC.
+The hidden text was part of a work Archimedes called The Method of Mechanical Theorems, which proved to contain diagrams, equations and previously unknown letters.
+Historians are surprised that the manuscript even exists. Someone may have rescued the original papyrus version when the Royal Library at Alexandria, which contained monumental works by scholars from the ancient world, suffered a series of fires beginning around 89 BC.
+Many scientists believe that if all of the works of early scientists and mathematicians had survived, greater progress would have been possible during the Renaissance, as  academics wouldn't have had to rediscover principles already documented.
+It will take some time to determine, exactly, what the newly unveiled text means.
+But the rest of the document contains some of the earliest known references to geometry, physics and the concept of infinity, which later contributed to the invention of calculus.
+It also describes a puzzle game that was somewhat similar to Rubik's cube.
+In the 13th century, Greek monks recycled the parchment into a prayer book. Then 10th century forgers painted gold foil imagery onto the recycled pages in an effort to increase the manuscript's value.
+As a result, Archimedes' original text is buried beneath both the gold image and the prayers. Only the underside of the parchment hints at its original content.
+The manuscript's owner, who wishes to remain anonymous, paid U$2 million for the document at auction in 1998. Two conservators recently brought the rare text to California for the x-ray scan.
+"To my knowledge, this is the first time the Stanford equipment will be used for such an application," says Mary Miller, a science producer at San Francisco's Exploratorium museum, which hosted the event.
+Miller says that the high-tech equipment is often used to study photosynthesis in leaves at the molecular level. The powerful device is now tuned to read iron, which was in the ancient scribe's ink.
+Iron atoms have 26 electrons orbiting around a nucleus. The x-ray beam literally knocks out one of the electrons in the iron atom's innermost orbit.
+Another electron then replaces the missing one, but it has less energy because the nuclear bond is not as tight. The lost energy emitted by the replacement electrons results in the signature x-ray glow.
+
+Last year's Lockhart Review recommended that Australia's ban on therapeutic cloning be lifted. But the federal government has ruled out a conscience vote. So where does that leave research?
+The head of the UK genetics institute that produced the world's first cloned human embryo has accused Australia of damaging the international research effort by refusing to allow therapeutic cloning.
+Professor John Burn, medical director of the Institute of Human Genetics at the University of Newcastle upon Tyne, was commenting after Prime Minister John Howard ruled out a conscience vote on whether therapeutic cloning should be allowed in Australia.
+"It's a cost to the international research effort because Australia's a very important component of it and it's a shame that that position's been adopted," says Burn, who is in Brisbane for the 11th International Congress on Human Genetics.
+Therapeutic cloning, which involves the creation of an embryo for research and to  harvest stem cells, is distinct from reproductive cloning, which results in a human being.
+Both practices are currently banned in Australia although the independent Lockhart Review last year recommended the ban on therapeutic cloning should be scrapped.
+Burn's unit received Europe's first cloning licence in 2004 and researchers announced the following year that they had created a cloned embryo by somatic cell nuclear transfer.
+This year his team reported they had produced mice from sperm grown from embryonic stem cells.
+A shadow over stem cell research
+But the UK's 2005 cloning achievement was overshadowed by South Korean Professor Woo Suk Hwang.
+Hwang had apparently beaten Burn's team by claiming just months before that this  team had cloned human embryos and produced stem cell lines from them.
+Hwang later admitted fabricating that claim.
+The scandal was a major setback for embryonic stem cell research, Burn says.
+He says it damaged the credibility of the field and had made it harder for scientists to do their work because it had brought about increased regulation and requirements.
+"Although we were very pleased to have actually been the first, it did cast a huge shadow over the whole field and every paper submitted now has to be backed up with endless evidence," he says.
+Prime Minister John Howard ruled out a conscience vote on therapeutic cloning over the weekend but says he is still happy to have a party room debate on the matter.
+Forcing a brain drain
+Burn says the Australian government is making an ill-informed and "too cautious" decision not to adopt the recommendations of the Lockhart Review.
+The decision will continue to force Australia's top scientists offshore, he says.
+"Clearly if people feel unable to work on a topic they will move," he says.
+He says the University of Newcastle upon Tyne has formed an alliance with Melbourne's Monash University to work on embryonic stem cell research.
+"It may well be that by strategic alliance the Australian scientists will find a way around the federal obstruction," he says.
+Burn says the promise of stem cell research is "absolutely undeniable".
+"I think if the Prime Minister approaches this in a democratic way then the vast majority of Australians would want this research to go ahead," he says.
+"And I think the vast majority of Australians would say if it's OK in Britain we can't see why it's not OK in Australia."
+
+Canada geese fall sick when they eat designer grass laced with fungus
+Designer strains of grass could one day be used to keep birds away from golf courses and airports, New Zealand scientists say.
+Research into these smart grasses is discussed this week at the Agricultural Biotechnology Industry Conference in Melbourne.
+Chris Pennell and his colleagues at Ag Research New Zealand have been working on particular types of fungi that co-exist with grass.
+These fungi, called endophytes, live in the spaces between plant cells.
+By choosing the right combination of endophyte and grass, the researchers hope to produce turf with unique properties.
+Some endophytes repel insects and others are toxic to livestock that graze on them, Pennell says.
+Over the past two decades, he and his colleagues have been working to find the right combinations of grass and fungus to offer the benefits without the toxic side-effects.
+"We've been looking for the friendly endophytes," Pennell says of the research, which has mostly been for the livestock industry.
+More recently, the researchers have also begun designing grass and fungus combinations to keep birds away.
+Insects can't eat these grasses, which deprives some birds of their food source. 
+They can also give grass-eating birds such as Canada geese an illness the researchers call "post-ingestion malaise". 
+"When herbivorous birds eat this grass they get sick and then they don't come back again," says Richard Curtis, business development manager at Ag Research New Zealand.
+The idea is that for airports, planting grass that keeps insects and birds away could help reduce dangerous birdstrikes where our feathered friends collide with aircraft.
+In the past few months, the team has planted test plots of the grasses at Christchurch International Airport. The early results are promising, Curtis says of the research, which the airport helped to fund. 
+"It won't solve all the problems with birds around airports, but it'll be a part of the overall bird management armoury," he says. "There is a lot of interest from airport companies around the world." 
+Meanwhile, the scientists are also applying the technology to golf courses, where fouling from birds like Canada geese can spoil a day on the greens.
+Early trials on New Zealand golf courses shows that planting a 10 metre strip of the smart grass around waterways keeps geese and other birds away, Curtis says.
+"They just packed up and went to other parts of the golf course."
+
+Is this an accurate representation of actor Nicole Kidman? Or is she fatter or thinner in real life? These questions are the basis of new research into body image
+People who are unhappy with their own body are likely to think celebrities are thinner then they really are, new Australian research shows.
+The study is more evidence that being dissatisfied with your body is likely to distort your perception of other people's bodies. 
+Lead researcher Amy Willinge, who is undertaking a doctorate of clinical psychology at the University of Sydney, reports the findings online in the International Journal of Eating Disorders.
+She asked 118 normal weight university students, mostly aged 17 to 22, to study actual photographs of thin female celebrities and computer-altered images showing them as thinner or heavier. 
+Participants chose the image they thought was the actual size of each celebrity and which they thought was the 'ideal' size for a female.
+The five 'underweight' celebrities were Nicole Kidman, Kylie Minogue, Holly Valance, Angelina Jolie and Sarah Jessica Parker.
+Each had one full-length photo of their true size and six others which were 10%, 20% and 30% thinner and heavier than reality, displayed randomly on the same screen.
+When trying to identify the actual photos, body-dissatisfied males and females chose images that were significantly thinner than in reality.
+They also chose an ideal size thinner than the celebrity's real size.
+People who were satisfied with their body were more realistic and accurate in judging celebrities' actual sizes.
+While body-satisfied females picked ideals that were larger than the celebrity's real size, males viewed thin as the female ideal.
+"The research suggests that if people are not satisfied with their own body, it may lead them to distort their perceptions of others' bodies, and forge unrealistic attitudes towards ideal body sizes, setting themselves up for an increased risk of eating disorders, low self-esteem and depression," Willinge says.
+"The finding that body satisfied and dissatisfied males identified a very thin body size as ideal for women indicates there is increasing pressure from society on women to be thin.
+"Media presentation of thin female images is affecting males' attitudes towards female bodies, putting increasing pressure on females to obtain the idealised body image."
+But she says the findings absolve the media of some blame as it is not just presentation of thin images that results in body dissatisfaction but the way body-dissatisfied people view images.
+
+But it's still not clear how this research relates to brain development in humans
+Ultrasound disrupts the brain development of unborn mice, US researchers say in a study that adds to growing evidence that too many scans could also affect human foetuses.
+Prolonged ultrasound scans of the brains of foetal mice interfered with a process known as neuronal migration in which neurones move from one place to another, the team at Yale University reports. 
+"Proper migration of neurones during development is essential for normal development of the cerebral cortex and its function," says Dr Pasko Rakic, chair of the Department of Neurobiology at Yale.
+"We have observed that a small but significant number of neurones in the mouse embryonic brain do not migrate to their proper positions in the cerebral cortex following prolonged and frequent exposure to ultrasound." 
+Writing in the Proceedings of the National Academy of Sciences, Rakic's team says the findings do not necessarily mean that ultrasound of human foetuses is dangerous.
+But the researchers say doctors and pregnant women should probably keep the scans to a minimum.
+The pros and cons
+Ultrasound scans give parents a peek at the unborn child and doctors a chance to see if there are any serious defects that might be corrected before or right at birth.
+But several studies suggest that ultrasound may affect the developing brain, not necessarily adversely.
+For instance, a 1993 study published in The Lancet journal found that foetuses exposed to ultrasound in the womb were more likely to be left-handed.
+A separate study found a possible decrease in weight in newborns who were scanned, while a third found delayed speech. 
+But another study showed that children who had received ultrasound exams before birth actually did better on language tests when they were older, says Dr Verne Caviness of Massachusetts General Hospital.
+More study is clearly needed, Rakic says.
+"We do not have any evidence ourselves that ultrasound waves cause behavioural effects in mice or have any effect on the developing human brain," he says.
+"Therefore I want to emphasise that our study in mice does not mean that use of ultrasound on human foetuses for appropriate diagnostic and medical purposes should be abandoned.
+"On the contrary. Ultrasound has been shown to be very beneficial in the medical context," Rakic adds. 
+He says the study suggests that pregnant women should not get multiple ultrasound scans for fun or out of curiosity.
+The mouse study
+For their study, Rakic and colleagues did scans of pregnant mice on the 16th day of gestation. 
+This is the last week of gestation and a time when, in mice, neurones move to a new position in the brain.
+After prolonged, multiple scans, some of these cells went to the wrong place. 
+"Does this study indicate that we should be concerned about human foetal ultrasound?" Caviness asks in a commentary published in the same journal. 
+He says the implications are not known and notes a human foetus has a much larger and denser brain, and that scans usually just pass over the brain for a few seconds. 
+"The corresponding neurones in the human brain would probably be formed in the 16th week and continue to migrate for at least 1-2 weeks," Caviness writes.
+No one knows how sound waves might disturb a developing foetus or embryo, both Caviness and Rakic say.
+
+The project aims to collect DNA and other health information from 2 million volunteers
+Researchers plan to collect blood samples and health information from every living member in Western Australia over the next few years in a move they say will create the world's biggest human genetic databank.
+Professor Lyle Palmer, from the University of Western Australia Centre for Medical Research, is leading the team that will hopefully collect samples from 2 million volunteers.
+Next year, the scientists hope to collect some 3500 pieces of information per person from the first 60,000-80,000 people.
+Palmer told the 11th International Congress of Human Genetics Congress in Brisbane it will be the first step in the proposed Western Australia Genome Health Project, one of a number of so-called biobanks that are being established around the world.
+Palmer estimates such a project would cost "several hundred million dollars" and the team will be seeking support from the federal government along the way.
+"The obvious thing to do ... is to study the whole population," he says.
+"We'll be doing things like full body scans on everyone, full respiratory and cardiovascular work-ups, we'll  be taking pictures of everyone's retina, [doing] hearing assessments, we'll be scanning thousands of brains.
+"It's about three days of data collection on each person, some of which will happen at schools, some at home, some at central facilities."
+Everyone including children will be asked to participate, Palmer says. 
+Data will also be collected from indigenous Australians, although this will be done under a separate umbrella with indigenous input.
+The perfect population
+Palmer says Western Australia is well suited to this kind of study because it's an isolated yet outbred population with a relatively low migration rate and historically large families.
+It also has extensive existing records, much of the necessary infrastructure, including the Western Australian DNA bank, and what he says is the biggest linked health database in the world.
+Palmer says the rising incidence of chronic disease together with an increasingly unsustainable health system and the growth of new tools and technology has made the project not only possible but necessary.
+He says national privacy legislation and beefed up genetic data protection laws, in line with the recommendation of the Australian Law Reform Commission's Essentially Yours report, will ensure privacy is safeguarded.
+"You're asking people to donate their sample for ever and ever so of course you have to very carefully work through those issues and that's what we're doing at the moment," he says.
+However, information will be linked to individuals via a code to ensure they can be followed up, he says.
+
+Pressure to have predictive genetic testing is coming from a surprising source, a new study shows
+People are coming under more pressure from family members than doctors and even insurance agencies to have genetic tests, an Australian study reveals.
+The findings are contained in the final report of the community component of the long-awaited Genetic Discrimination Project, which was presented at the 11th International Congress of Human Genetics in Brisbane today.
+Chief investigator Associate Professor Sandra Taylor of Central Queensland University told the conference that 32% of respondents reported feeling as if their family had forced them to undergo predictive genetic testing, the type that gauges a person's chance of developing a disease.
+"We asked people had they experienced coercion, or felt coercion in terms of undertaking testing, and most respondents answered no they had not," she says.
+"When reported, however ... the category most frequently reported was within the context of the family itself, follow by doctors, genetic clinicians, researchers and insurers."
+But she says family pressure doesn't necessarily refer to "coercive events", but rather people's perceptions of what's expected of them.
+"So in the family context, people may feel coerced just because they want to help establish the risks of other people in the family without necessarily other family members applying pressure."
+Discrimination
+The study surveyed 951 adults who had tests for inherited conditions including neurological conditions, cancer and the blood disorder haemochromatosis between 1998 and 2003.
+A total of 11%, or 107 of the 951 respondents, reported one or more incidents of discrimination.
+Of those that had experienced discrimination, most said they experienced negative treatment by life insurers and bosses; some felt family and personal relationships were adversely affected and others felt discriminated against by healthcare providers.
+The report also found that most people either didn't know where to go to complain about negative treatment or didn't want to, citing red tape and concern about consequences.
+"We would think that there's a need for increased education ... about consumers rights regarding seeking review or making complaints about negative treatment," Taylor says.
+However, people also said there were considerable benefits from having a test.
+Genetic tests in the workplace.
+Meanwhile, a separate section of the report looking at discrimination by employers and life insurance agencies found that in 92% of the cases investigated between 1999 and 2003, insurance companies had acted reasonably.
+There were only three cases of apparently "unreasonable" insurance underwriting relating to people who tested positive to the breast cancer genes BRCA1 and BRCA2.
+The first national study of its kind, the third-party survey also found "negligible evidence" that genetic tests were being used by the 381 employers surveyed.
+None had asked for a genetic test to be done and only one employer had asked for a previous test.
+However, there is strong potential for the use of genetic test information to increase in future, investigator Professor Margaret Otlowski of the University of Tasmania told the conference.
+"In order for ... consumers to feel confident about that future clear guidelines must be in place," she says.
+
+Carp make up to 90% of fish biomass in some Australian rivers, putting pressure on native fish
+Australian carp may have originated from Germany, according to preliminary results from a genetic study.
+The researchers say their findings, from the largest and technically sophisticated genetic study of carp in Australia, is also beginning to shed light on what caused them to become the cane toads of the country's rivers.
+University of Sydney PhD student Gwilym Haynes has been working with the New South Wales Department of Primary Industries and CSIRO to sample carp from every major river in the Murray-Darling basin, as well as coastal rivers, and from Japan, Russia and Germany.
+By analysing nuclear and mitochondrial DNA he's tracing the history of the freshwater pest's invasion.
+The preliminary results were presented at the 11th Congress of Human Genetics in Brisbane this week.
+"The Australian carp cluster to the German carp which indicates they have mostly German ancestry," he says.
+Boolarra carp
+Carp, Cyprinus carpio, were first introduced to southeastern Australia in the late 1800s but didn't become a problem until a fish farmer released a particularly robust strain in the town of Boolarra, in Victoria, in the early 1960s.
+Haynes' research suggests the Boolarra strain bred with existing koi, or Japanese carp, from earlier releases and began their colonisation of the southeastern waterways.
+The study could also resolve the question of whether the Boolarra strain was illegally imported or obtained locally from a population in the Prospect Reservoir in New South Wales.
+"The official story is that they came from Prospect but other people say they were imported from Europe," Haynes says.
+"It does look like the strain which is supposedly responsible for the carp being so widespread was European and didn't need a lot of input from the Asian carp to do well.
+"It implies that the carp were probably well adapted when they got to Australia and didn't need to breed with the other Australians to do well."
+Almost everywhere
+Carp are currently established in every Australian state and territory except the Northern Territory. 
+They pose a serious problem in Australian waterways, where they can make up to 90% of fish biomass in the rivers, putting pressure on native fish.
+Haynes says carp are likely to remain a pest and "will certainly establish themselves in new regions".
+Understanding their genetics will make them easier to control, he says.
+"There is significant genetic differentiation within regions in Australia, and this has implications for carp management," he says.
+"These regions should probably be managed separately to get the best result."
+
+Forget Mars this month, say astromomers. Look for Jupiter instead
+A repeat of last year's spoof email promising that Mars will look as large as the Moon later this month is causing headaches for astronomers and science educators.
+They say that the Mars hoax appears to be just as resilient as the Moon hoax, which denies the Moon landings ever happened. 
+For instance, Jennie McCormick, education officer at Auckland's Stardome Observatory, says Stardome, like many other astronomy education centres, has been fielding numerous calls for the past fortnight from people wanting more information about the bogus event.
+"The email originally dates from the 2003 opposition of Mars when the Red Planet was very bright and spectacular because it was closer to Earth than it had been for about 60,000 years," she says.
+"But it certainly didn't and couldn't look as big as the Moon. You need to read the email carefully to notice that Mars would only look as big as the Moon through a telescope which had magnified it 75 times."
+She says that Mars does vary in brightness as its distance from Earth changes.
+"[But] without a telescope it will never look much bigger than an ordinary star."
+Contrary to the email, this month Mars will be very low in the sky and only just visible in the west after sunset.
+Teachers have also been fooled by the hoax.
+"We've had several calls from children whose homework has been to find out what planet is going to be bigger than ever before," says McCormick.
+"The hardest thing is having to disappoint children who are clearly excited by what they think they are going to see. That is the sort of thing that turns them off science, when astronomy is something that usually turns them on to it." 
+However, she takes the opportunity to tell them although Mars may be disappointing this month, the giant planet Jupiter is well placed for observing.
+"It's actually much more spectacular than Mars because it is bright and easy for them to find and, with good binoculars, they can see the planet with four of its moons," she says.
+McCormick also tells them to check out the Bad Astronomy website, which uses science to debunk hoaxes like this.
+Not everyone is as concerned as McCormick about the Mars email, like Alan MacRobert, a senior editor of Sky & Telescope magazine.
+"I see it as a good thing, not a bad thing. It's an immunisation. If you make a fool of yourself by sending it to your friends and family, you'll be less likely to send them the next email chain letter you get, which may not be so harmless," he says.
+
+Is the culture that produced this wood carving predisposed to violence? A new genetic study says 'yes'. But how much do social issues explain the crime statistics?
+A New Zealand scientist says the country's indigenous Maori people have a 'warrior' gene which makes them more prone to violent and criminal behaviour.
+Dr Rod Lea revealed his theory this week at the 11th International Congress of Human Genetics in Brisbane, Australia, acknowledging that it is controversial to suggest an ethnic group is predisposed towards criminal behaviour. 
+Maori leaders immediately panned his claims.
+Maori Party co-leader Tariana Turia told The Press newspaper that while she had heard of Maori having a genetic predisposition towards alcoholism, it was a big leap to include violent tendencies. 
+"I realise that violence is an issue to us, but there are very common factors as well with violence which are not really related to race." 
+Lea, a genetic epidemiologist at the Institute of Environmental Science and Research in Wellington, says that Maori men have an over-representation of monoamine oxidase, dubbed the warrior gene, which is associated with aggressive behaviour. 
+The gene was discovered by US researchers but has never been linked to an ethnic group.
+He told New Zealand's National Radio that the gene appeared to feature in about 60% of Maori men compared with 30% men of European descent. 
+"I believe this gene has an influence on behaviour of humans in general, but I also believe that the influence is rather small," he says. 
+"We have to be clear that behavioural traits such as susceptibility to addiction, aggressive behaviour, risk taking, all those sort of things are extremely complex and they are due to numerous factors including non-genetic environmental factors like upbringing and other lifestyle factors." 
+Lea says the gene explains some of the issues involving Maori.
+"They are going to be more aggressive and violent and more likely to get involved in risk-taking behaviour like gambling," he says, although he believes other, non-genetic factors might also be at play.
+"There are lots of lifestyle, upbringing-related exposures that could be relevant here so, obviously, the gene won't automatically make you a criminal."  
+Maori MP Hone Harawira believes social issues, including high unemployment, poor educational achievement and in many cases severe poverty, to be the main contributors to Maori violence rather than a warrior gene. 
+"If you put any group in that situation ... I dare you to point at the group that wouldn't be aggressive as a result of being treated that way." 
+National Urban Maori Authority chief executive John Tamihere says he is open to research-based evidence on whether there is a genetic reason for the over-representation of Maori in violence statistics.
+
+The chromosomes we have today may not be the ones we'll have in 15 million years. So, what will this mean for the future of our species?
+The pending demise of the Y chromosome could give rise to a whole new species of human, a professor of comparative genomics says.
+Scientists have been speculating about the demise of the Y chromosome for some years now but Professor Jenny Graves of the Australian National University in Canberra has come up with a bold new twist on the theory.
+Graves, who has been working on sex chromosomes in marsupials, will present her theory at the 11th International Congress of Genetics in Brisbane today.
+She will tell the conference that new 'male making' genes on other chromosomes could step up to do the job of the Y chromosome's SRY gene, which is the key to making males male.
+But this could mean men without Y chromosomes would split off from those with, eventually evolving into a new species of hominid.
+"It's quite possible that you could make new hominid species that way," she says.
+When two populations become two species
+Graves says men without a Y chromosome would be largely infertile. But a small number would reproduce and pass the new sex determining gene to their children.
+Eventually the group with the new gene would separate from the Y gene group, potentially evolving into a new species, she says.
+"[The two groups] couldn't mate with each other so they'd get gradually different, just like chimpanzees and humans gradually became different 5 million years ago," she says.
+"When two populations become two species there's generally there's some sort of wedge driven between them so they can't mate with each other.
+"It might be a mountain range ... but it might be something fundamental like the way they determine sex has flipped to some new way."
+15 million years and counting
+Graves says there are only 45 working genes left on the Y chromosome from "a grand total" of 1400. 
+It also contains a lot of 'pseudo genes', which look like they should work but don't, suggesting they've recently become defunct.
+According to her projections the Y chromosome will disappear altogether in 15 million years.
+This will occur because unlike the other coupled genes, the single Y chromosome can't recombine with a matching partner and is less able to refresh itself.
+Mutations will build up and the mutated genes will eventually drop off the chromosome because they no longer perform any useful function.
+Graves says this has already happened in the case of the mole vole, an aggressive little rodent that appears male and is able to reproduce despite having lost its Y chromosome.
+XX men
+Australian researcher Professor Andrew Sinclair, of Murdoch Childrens Research Institute, is researching so-called XX men, or the roughly one in 150,000 men who are born without a Y chromosome.
+"What it's pointing to is the presence of new genes we haven't yet discovered to replace the ones on the Y chromosome," Sinclair says.
+Alternately, the "volume" of previously existing genes may have been "turned up" in the absence of the Y genes, he says.
+Sinclair's team is the first in the world to use new high-density gene chips to examine XX men in the hope of finding out which genes these are.
+About 10% of affected men also have a tiny portion of the Y chromosome stuck on their X chromosome which carries across the testis determining gene, he says.
+Sinclair says Grave's theory about a new human species could make sense "in a theoretical way" but is unlikely in reality.
+"I don't know about a whole new species of human but if you lost the Y chromosome completely males would have to evolve in some way to deal with it," he says.
+"If you have males without a Y chromosome I don't think I'd go as far as calling them a new species, but a new type of individual."
+
+The study relied on over 50 ice cores collected from a range of locations around Antarctica
+A new study that shows Antarctic snowfalls have changed little in 50 years, despite global warming, could be evidence that the worst is yet to come, says one of the authors.
+A study published today in the journal Science reports that, contrary to expectations, snowfall in Antarctica has not increased over the past 50 years.
+This contradicts the predictions of most climate models that are based on the assumption that warming air can carry more moisture and produce greater snowfalls at the poles.
+"The models predict that Antarctic snowfall should be increasing with a warming atmosphere," says Australian team member and palaeoclimatologist Dr Ian Goodwin, of the University of Newcastle.
+Goodwin doesn't challenge this basic climate physics. But says the recent evidence supports the idea, not recognised in climate models, that there is a lag between global warming and Antarctica's response to it.
+The reason is that Antarctica and the southern hemisphere are surrounded by large oceans that take a long time to heat and therefore act as a buffer to climate change.
+Recent evidence suggests the lag time could be up to 60 years, says Goodwin.
+"We can be relatively complacent about the effects of climate change in the Southern Hemisphere because we haven't seen dramatic changes," he says.
+"But the frightening thing I think is that we are not yet seeing the full impact of global warming in the southern hemisphere. But it's just around the corner."
+Natural cycles
+Goodwin and colleagues published a study in 1991 that showed an increase in snowfall in east Antarctica.
+But, the new study shows that since then, the amount of snow falling in that area has decreased.
+Goodwin and colleagues used direct measurement of snowfall and more than 50 ice cores to reconstruct annual snowfall over the past 50 years.
+He says the study demonstrates a previously unknown natural climate cycle, affecting the whole of Antarctica.
+"On one side of Antarctica in some decades we see an increase in accumulation [of snow] and on the other side of Antarctica we see a decrease and so it balances out to zero net gain," he says.
+Goodwin says this variability is so great it could mask any changes due to global warming.
+But, he says, it could only be a matter of time before the natural cycle becomes dwarfed by the changes brought about by global warming.
+And this is where he says the lag time becomes important.
+"If we were to rewrite this paper in say 10 years time the likelihood is that we will be actually be writing a paper that says 'significant change in Antarctic snowfall over the last 10 to 15 years'," says Goodwin.
+"In all likelihood we're about to see, in the next couple of decades, a very large response to global warming in Antarctic and Southern Ocean regions."
+Goodwin says that the new research should now feed into climate models and make them more accurate.
+
+Embryo of the penis worm (Markuelia), showing the embryo as a whole (top) and the part of the embryo that would have developed into the digestive tract (bottom)
+The first 3D images of the dawn of life have been made possible using a new technique allowing virtual dissections of half-billion year old fossil embryos, scientists say.
+The images, including those of ancient penis worm embryos, are published today in the journal Nature.
+Among the images were those of fossils from the genus Markuelia, found in China and Siberia, which date from the Cambrian period.
+The new imaging method reveals a universe of detail impossible using previous methods, from the first splitting of cells to just before hatching.
+The researchers, including those from the UK's University of Bristol, say their technique pushes back the frontiers of science much as the scanning electron microscope did half a century ago.
+"We are looking at the dawn of life," says lead researcher Dr Phil Donoghue.
+"Because of their tiny size and precarious preservation, embryos are the rarest of all fossils.
+"But these fossils are the most precious of all because they contain information about the evolutionary changes that have occurred in embryos over the past 500 million years."
+Until now, if scientists had wanted to study fossil embryos, they had to look at them from the outside or cut narrow slices of the embryos, which obviously destroys them.
+But this new method, known as synchroton-radiation x-ray tomographic microscopy or SRXTM, leaves the tiny fossils untouched, yet gives graphic details of their structure.
+Accelerating particles
+The researchers used a 500 metre wide particle accelerator in Switzerland to deep-scan the minute fossils.
+They then fed the information into a computer to generate complete 3D images of the internal structures in fine detail.
+"The best analogy is with a medical CT scan ... but at 2-3000 times the resolution," Donoghue says.
+"We can see details less than 1000th of a millimetre in dimension.
+"We can look at any and every part of the fossil, inside and out, without harming it and then virtually dissect it however we like."
+The team says its discovery could roll back the evolutionary history of arthropods like insects and spiders.
+In one case they had found hitherto hidden details of the interior structure of an ancient relative of the living penis worm, and in another they had seen embryonic worm segments unlike those found in living specimens today.
+
+The new study supports the idea that an infectious cell line is threatening to wipe out the Tasmanian devil
+Dogs can 'catch' cancer by having sex with infected dogs, or perhaps by licking, biting or sniffing them, UK researchers show.
+The evidence for infectious tumour cells lends weight to a new form of cancer transmission, which some researchers believe is how Tasmanian devils catch their deadly facial tumour.
+Dr Claudio Murgia of University College London and colleagues report their findings in the current issue of the journal Cell.
+The researchers studied unrelated dogs worldwide with the canine transmissible venereal tumour (CTVT), also known as Sticker's sarcoma.
+They found that the DNA sequences isolated from tumour and blood samples were different.
+"We saw the tumour cells didn't belong to the dogs," Murgia says.
+Instead, the team says, the tumours from the dogs were closely related and had all come from single cancer cell that had evolved into a parasitic form.
+This had been passed on from dog to dog through sexual contact and possibly through licking, biting and sniffing tumour-affected areas.
+Murgia and colleagues say the cancer arose at least 200, and possibly 2500, years ago in either a wolf or a closely related ancient dog breed, making it the oldest cancer known to science.
+Tasmanian devil tumour
+Earlier this year Australian cytogeneticist, Anne-Maree Pearse of Tasmania's Department of Primary Industries and Water and colleagues reported preliminary evidence to support their theory that an infectious cancer cell line was responsible for the debilitating facial tumour killing endangered Tasmanian devils.
+Pearse found that the chromosomes in the cancer were so complex they must have taken a long time to evolve. 
+She found the same chromosome types in tumours from both males and females. And she found a devil that was born with a chromosomal abnormality did not have that abnormality in its tumour cells.
+"There's no other explanation for my results," Pearse says.
+"It shows absolutely that it is the cell itself that is being transmitted from animal to animal," she says. "It is the cell that's the parasite."
+
+Position of the Sun at different times of day, as depicted in Monet's Houses of Parliament
+Claude Monet's renditions of foggy London could be the earliest coloured record of the notorious 'pea souper' smog that wrapped the British capital at the turn of the 20th century, according to a scientific analysis of the artist's London series.
+The study, published in the current issue of the Proceedings of the Royal Society A, show that Monet's paintings of the House of Parliament were not created from his imagination.
+On the contrary, they were firmly based on actual observations made during the artist's visits to London.
+A founder of impressionism, Monet (1840-1926) made three trips to the city between 1899 and 1901, producing hundreds of paintings.
+Showing the Sun struggling to filter through the mist and smoke of Victorian London, the paintings depict the most famous global meteorological phenomenon of the 19th and 20th centuries.
+The paintings show three views of central London engulfed by fog.
+Two southward views are from the Savoy Hotel, where the French artist had a room, and one westward view is of the House of Parliament taken from St Thomas' Hospital.
+Among the 95 paintings of the series still existing, only 12 are dated between 1899 and 1901. A total of 61 are dated between 1902 and 1905, and 22 are undated.
+This has suggested that Monet dated his works to the time they were completed or sold, when he had already returned from London to his home at Giverny in Normandy, northern France.
+"There is some uncertainty as to whether the paintings are reasonably accurate depictions of observations, one of the tenets of impressionism, or whether the final paintings were rather creations of Monet's imagination in his studio in Giverny," says Dr Jacob Baker, of the University of Birmingham.
+Where's the Sun?
+To establish whether Monet's paintings are a fair rendering of what he observed, Baker and his colleague Dr John Thornes, from the School of Geography, Earth and Environmental Sciences, analysed the position of the Sun in nine of Monet's paintings showing the Houses of Parliament.
+The researchers turned to astronomical data from the US Naval Observatory to trace the Sun's position over Parliament during the artist's stay in London. They compared this data to the position of the Sun in the paintings.
+Along with information in Monet's letters to his wife, the results revealed that Monet painted his Parliament pictures all in the afternoon, between 14 February and 24 March 1900.
+Further calculations made it possible to discover the exact spot from which the French artist painted the pictures: a second floor covered terrace of the former Governor's Hall at St Thomas' Hospital.
+"We are confident that these paintings show an accurate visual record of the urban atmosphere of Victorian London," Thornes says.
+Great fog
+London's 'great fogs' reached a peak in the late 1880s, then gradually declined. 
+But little is known about the nature and causes of the phenomenon, due to the absence of air quality monitoring at the time.
+"The Victorian fogs tended to be associated with industry, employment and wealth to the minds of Londoners at that time. Air quality and health-related issues tended to be neglected," Baker says.
+Baker and Thornes are now planning further detective work on Monet's colours to determine the size, density and composition of Victorian fog particles.
+
+The invasive red corals are crowding out the native cream ones 
+Polluted water helps exotic species to invade marine areas, an Australian scientist has found.
+These exotics can become tolerant to metals like copper, which gives them a selective advantage over native species.
+Marine ecologist Dr Emma Johnston, of the University of New South Wales, presented her team's research at the recent Australian Marine Sciences Association conference in Cairns.
+Scientists know that ships inadvertently transport marine organisms all over the world, allowing a relatively small number of 'weedy' exotic species to crowd out more diverse communities of native species.
+"There's a problem with the homogenisation of the world's biota where places such as harbours and bays are becoming more and more similar to each other," says Johnston.
+But what helps these alien species to take root in their new found home? 
+What evolutionary advantage do they have over the natives?
+Studying polluted waters around Sydney, Johnston and team have found that exotic invaders, like the notorious red bryozoans (lace corals), thrive in copper-polluted water.
+"We've now got the first data that some of these introduced species are really highly tolerant of copper," says Johnston.
+Copper pollutes waterways from urban and industrial run-off, mining activity and sewage.
+But interestingly, copper is also the main component of anti-fouling paints that are on the bottom of ships.
+And Johnston says this is acting as a selective pressure to deliver tough pollution-adapted exotics around the world.
+This is because creatures that survive the anti-fouling paint have an advantage over the natives. 
+Copper is the key
+In laboratory experiments Johnston and team showed that exotic species from polluted waters are more tolerant of copper than native species.
+But the same exotic species living in non-polluted sites don't have the copper tolerance, says Johnston.
+"They seem to be able to switch the tolerance on and off," she says, adding that the findings apply worldwide.
+Johnston is now teaming up with the Australian Antarctic Division (AAD) to study the effect of pollution from Antarctic bases on marine organisms.
+In cleaning up pollution from previous less-environmentally conscious days the AAD has found contaminated sediments, says Johnston.
+Separately, she says the scientists have been looking at potentially invasive species and have studied alien species, taken from on the hull of the Aurora Australis research vessel.
+Lab experiments have shown that up to seven of these species can survive down to 0°C, says Johnston.
+She now wants to see if these species are invading polluted sites in Antarctica.
+
+Bomb-making ingredients could be hidden in small bottles and carried on planes. Alternatively, toiletries themselves could be used to make explosives
+Hair gels and lotions may have been banned from carry-on luggage as they could be assembled on board a plane to make a bomb, a US criminologist says.
+Professor Alfred Blumstein from Carnegie Mellon University in Pittsburgh, who helped write a government report on threats to airlines from explosives, was speaking after UK police say they had foiled a plot to blow up aircraft flying to the US.
+This prompted authorities to ban liquids, including drinks, hair gels and lotions, from carry-on baggage.
+"My hunch is that the reason they are prohibiting this stuff is that it does obviously have the potential of being assembled on board so that it doesn't look like a bomb going through the x-ray machine," says Blumstein. 
+Such mundane items as nail polish remover, disinfectants and hair colouring contain chemicals that can be combined to make an explosion and are not detectable by "sniffing" machines, which detect plastic explosives but are not used with all baggage. 
+Explosive ingredients can be concealed in bottles or other innocent-looking containers that would pass through x-ray machines. 
+That does not mean they are easy to make into bombs, cautioned Dr Neal Langerman, a San Diego consultant who is former chair of the American Chemical Society's Division of Chemical Health and Safety.
+"Many of the ingredients like acetone are household chemicals," Langerman says.
+But some kind of expertise is usually needed to buy peroxide that is concentrated enough to work in an explosive, he says.
+Bombers who attacked London Underground trains and a bus in July 2005 used homemade peroxide-based explosives carried in backpacks. 
+On-board explosives
+People have tried several times to use such easily concealed explosives on aircraft.
+UK-born Richard Reid was tackled by passengers in December 2001 while trying to detonate explosives stuffed in his shoes in an aircraft lavatory. 
+In 1994, Islamic fundamentalists set off liquid explosives on a Japan-bound Philippine Airlines plane, killing a Japanese passenger and injuring 10 others. 
+Dr Mark Ensalaco, an international terrorism expert at the University of Dayton in Ohio, says Thursday's foiled operation appears to be identical to the Japan attack. 
+"I stress identical with the explosives in liquids, which appear to be assembled on the plane," Ensalaco says.
+
+Can technology solve airport security issues? Or is a permanent ban on hand luggage the answer?
+New technology to screen passengers and hand luggage for explosives is needed, say analysts after last week's airport security alert.
+"Quite frankly, metal detectors and x-ray don't cut it," says Chris Yates, aviation security expert at Jane's information group.
+"We need to invest. We need to get money into the checkpoint. We need to reassess how we do it ... Perhaps this is the final wake-up call to actually shake the decision makers from their lethargy." 
+Current airport security typically involves a five-layered process of screening checked-in luggage, with multiple x-rays and CT scans. 
+That is too unwieldy and time-consuming to apply to passengers and their hand luggage.
+Instead travellers pass through a metal detector gateway and their bags through an x-ray machine, with a random sample also checked for explosives residue using trace particle detectors. 
+What would it take to be able to check all passengers and bags for explosives? 
+"It's something which I would imagine could only be solved with either sniffer dogs or electronic sniffers and hand searching. It's a very significant undertaking to do that at somewhere like Heathrow Airport," says David Claridge, managing director of Janusian Security Risk Management in London. 
+Jane's analyst Yates says new technology is becoming available, such as quadrupole resonance scanning developed by Australian-based QR Sciences, which uses radio waves to stimulate certain atoms such as nitrogen, present in explosives.
+Its scanner, with a traffic-light display to indicate all-clear, further investigation or danger, has already been trialled internationally, including at Manchester Airport. 
+Rolling out such technology universally would require time and a huge reallocation of investment which until now has gone into other areas, such as deployment of sky marshals on planes. 
+Liquid explosives
+An al Qaeda plot to blow up airliners with liquid explosives was uncovered as far back as 1995.
+But authorities have never previously banned people from carrying fluids, such as toiletries, onto planes as happened last week.
+Though police have given no further details, security analysts say there were indications they were concerned about militants setting off a liquid explosive such as nitroglycerine with some form of non-metal detonator, or combining otherwise harmless liquids on board a plane to produce an explosive mix. 
+The future of hand luggage
+In the meantime, Yates says he expects the current restrictions on hand baggage to continue, at least for flights into and out of the UK, possibly for months.
+He says a permanent ban on hand luggage would be untenable, not least because of the risk of theft from luggage carousels. 
+But not everyone rules out such radical solutions. 
+"I reckon the days of carry-on luggage are gone," says Maxim Worcester, managing director of Control Risks consultancy in Germany.
+"It's the easiest way of solving the problem, isn't it?"
+
+Is this embryo destined to develop into a woman with breast cancer? Image: iStockphoto)
+Australian IVF clinics are offering a test that enables parents to discard embryos that will develop into women at risk of breast cancer.
+The tests pick up mutations in the BRCA1 and BRCA2 genes, Dr Leeanda Wilton, head of the Genetic and Molecular Research Lab at Melbourne IVF, told a recent international conference in Brisbane.
+But the tests have sparked ethical concerns about whether an embryo should be destroyed on the basis of a risk factor.
+Most current tests on embryos are based on detecting those that carry a known genetic disease.
+PGD, or preimplantation genetic diagnosis, enables genetic abnormalities to be diagnosed in a very early IVF embryo before it is implanted into the mother.
+Originally tests used fluorescent in situ hybridisation (FISH) to determine an embryo's gender and detect whole chromosome disorders that may have made an IVF embryo unlikely to 'take' once implanted.
+But newer polymerase chain reaction (PCR) techniques have made it possible to test for a range of single-gene disorders, such as cystic fibrosis, haemophilia and muscular dystrophy.
+This technique can also detect mutations in the BRCA genes, which confer an estimated 65-85% risk of the carrier developing breast cancer by the age of 70.
+How is PGD done?
+A woman with a family history of breast cancer, or who carries the BRCA mutation, can ensure her baby doesn't inherit it by undergoing IVF to create an embryo and testing that embryo before implantation.
+To do this, scientists make a tiny hole into the shell around the embryo, gently remove one cell and test it.
+If a mutation is found the embryo is discarded. If no mutations are picked up it is implanted in the woman to establish a pregnancy.
+While at least three Australian clinics offer the breast cancer tests, demand doesn't yet seem to be high, although experts expect this to change.
+Dr Wilton says Melbourne IVF has the technology to test for the breast cancer mutation but hasn't yet done such tests.
+"That's predominantly because we haven't been asked to do it," she says.
+Dr David Cram, director of molecular genetic services at another large Victorian clinic, Monash IVF, says two patients have requested BRCA screening in the two or three years it's been available.
+He expects demand to grow as more young women of child-bearing age find they carry the gene.
+"Once systems are in place to identify these mutations more readily, women of a younger age will consider this option when they want to have children," he says.
+"I think we'll see some patients take up the technology in the future."
+James Marshall, PGD laboratory manager at Sydney IVF, says about three patients have asked for testing and a number clinical geneticists have inquired about it.
+"The first patient requests have only been in the last nine months," he says.
+Queensland Fertility Group hopes to be able to test for a range of single-gene conditions, probably including breast cancer, by the end of the year, says scientific director Keith Harrison.
+"Once you've got a monogenic PGD program then we'd do [all the tests] as long as the gene defect is characterised," he says.
+"But it would be an interesting one to run past the ethics committee, because when you're testing for say cystic fibrosis or Huntington's, you're discarding or destroying embryos because they actually carry a moderately lethal defect.
+"But the BRCA gene ... isn't a total guarantee you're going to get the disease."
+Ethical concerns
+Dr Wilton acknowledges there are ethical issues in testing an embryo for breast cancer risk but defends a woman's right to have the test.
+"It's not straight forward ethically, that's for sure. But I think what we see is that the patients who come for PGD certainly don't do it on a whim," she says.
+"Usually the ones who end up in PGD have usually had a very tragic history of breast cancer.
+"If there is a way that her daughters can avoid that it's very easy to understand why patients would want to take that path."
+Dr Domenico Coviello is an Italian medical geneticist and head of the Laboratory of Medical Genetics, in Milan.
+Coviello, who raised concerns about the practice at the 11th International Congress of Human Genetics earlier this month, says PGD is banned by law in Italy and other European countries including Austria and Germany.
+"Medical geneticists and doctors in general have the aim to help people and cure people ... but I am a little concerned about taking tests, especially on predisposition, and BRCA is only a risk," he says.
+
+Local maize (left) and introduced variety (right) from Baucau, East Timor's second largest city
+Looting and security threats during recent civil unrest haven't deterred an initiative that's helping East Timorese farmers increase their crop yield.
+The Australian government-funded Seeds of Life (SoL) program aims to improve crop yield and resistance to pests and disease through the use of improved varieties of five staple crops: maize, cassava, sweet potato, rice and peanuts.
+Early results have been encouraging, staff say, with a 50% increase in grain yields on research station trials and on farmers' fields.
+Months earlier, civil unrest in the capital Dili, including the looting of the SoL office by people queuing for rice, threatened to slow the program.
+"[But] nothing stops the planting of crops," says Alex Dalley, the program's research and extension officer.
+Dalley says despite a number of Timorese nationals working on the program losing family members in the violence, and other staff members being forced to move from the capital due to threats and lack of security, it is business as usual for the program.
+"[We're] working full days and farming is carrying on in the districts. Due to the good geographic spread of the program, all the staff have been able to continue their work in areas of the country which they feel comfortable in," Dalley says.
+Food insecurity is a major issue in East Timor. It affects an estimated 64% of the population, with many rural households experiencing food shortages from November to February.
+Food insecurity is partly the result of low levels of food production, a consequence of poor land and the generally low levels of technology, combined with high crop losses, both pre- and post-harvest. 
+SoL's work is a mix of research training, trialling with farmers, setting up research stations and applying social/economic research.
+
+These healthy mice were conceived using sperm from fathers that been sitting in the freezer for years
+Sperm extracted from mice and testes that have been frozen for as long as 15 years have yielded normal, healthy offspring in a study that researchers say heralds fresh hopes for bringing back extinct species.
+Frozen sperm is now preserved with cryoprotectants, substances that protect it from freezing damage. But defrosted sperm cannot always fertilise an egg.
+Researchers from Japan, the UK and Hawaii have now found that sperm can be frozen safely for much longer than previously thought, so long as it is kept in organs or whole carcasses and cooled slowly to -20&deg;C or lower. 
+They publish their findings online today in the Proceedings of the National Academy of Sciences.
+The scientists used sperm from whole mice and testes that had been frozen for between one week and 15 years and managed to fertilise eggs via microinsemination to obtain healthy offspring.
+"Many people thought that sperm integrity could be retained for several months at most ... but the sperm nucleus is stronger than we expected," says Dr Atsuo Ogura of the Japanese government-funded Riken Bioresource Centre.
+"[Sperm nucleus] is good for at least 15 years," he says, adding that offspring of the mouse that had been frozen for 15 years did not appear any different from the others. 
+Anyone can do it
+The scientists used very simple freezing methods. The mouse that was frozen whole for 15 years was merely kept in a conventional freezer at -20&deg;C, Ogura says.
+"This cryopreservation technique is probably the simplest and anyone can do it. Liquid nitrogen is not necessary. Any conventional freezer or dry ice will work very well." 
+He says this method of freezing would work for many other mammals because mammalian sperm has special DNA that "retains nucleic activity and keeps the nucleus alive". 
+"We can apply this method to many other mammals, it is very simple. Just put the testes or dead body into a freezer." 
+But he cautions that carcasses must be allowed to cool slowly, for about two to three hours to reach -20&deg;C. Sperm frozen at lower temperatures would be better preserved.
+"Degradation is minimal in liquid nitrogen [-196&deg;C]. Molecules in the cells stay still in this condition, so the degradation will be minimal," he says. 
+Hope for IVF, extinct species?
+The experiment may also have implications for freezing sperm for future cycles of IVF. 
+"This experiment proves that immotile sperm is just as good if frozen in good condition," Ogura says.
+Looking ahead, Ogura says this advance gives fresh hopes that extinct species may roam the Earth again.
+"Restoration of extinct species could be possible if male individuals are found in permafrost," he says, through injecting the sperm into eggs from females of closely related species.
+
+The new teddy is designed to recognise you, respond if you cuddle it and tell medical staff if anything's wrong
+An electronic teddy bear inspired by therapeutic companion animals could offer hospital and nursing home patients a meaningful form of treatment without the worry of allergies, bites or maintenance.
+The Huggable, designed by researchers at the Massachusetts Institute of Technology (MIT), is based on a traditional stuffed animal but is actually much more.
+It will be loaded with full-body sensors, motors, microphones, a video camera, software and wireless communication technology to produce an engaging response to humans.
+The bear is also designed to monitor the patient, alert nearby nurses when the person may need help or more intensive, long-term care and even gather information about the interaction that can be used to better understand the relationship later.
+"We are designing the Huggable to be much more than a fun, interactive robotic companion, but rather to function as a team member that works with both the patient or resident and the hospital or nursing home staff with the ultimate goal of promoting the wellbeing of the person," says Walter Dan Stiehl, a PhD candidate at MIT and the team leader for the project.
+The first Huggable prototype, which Stiehl and his team plan on finishing in the next few months, will have more than 1000 sensors beneath the fur and a soft layer of silicone skin.
+The temperature, force, and electric field sensors will work together to distinguish the presence of a human, pick up some of the physiological signs of the patient's condition and discern whether the person is petting, scratching, slapping or hugging the bear.
+Cameras in the eyes will be used to scan the room, while face recognition technology in the robot's computer will help the Huggable detect familiar people. Microphones in the ears will allow it to hear and face the direction of a sound.
+Senses pain then acts on it
+Stiehl and his team are programming the bear to exhibit different behaviours based on what it sees, hears and senses.
+If it sees someone familiar, it can raise its eyebrows in an expressive greeting and say hello. While being rocked it will wear an expression of happiness and when being cuddled, it will nuzzle into the person.
+But the concept for the Huggable does not focus on simply providing companionship.
+The technology will be designed to work with a separate computer located at a nurse's station, where video, audio, or other data collected by the bear's sensors could alert caregivers in times of potential crisis.
+For example, if a patient is hugging the bear and then it falls to the floor, that action could prompt a nurse to check that all's well.
+Long-term care
+The Huggable can also collect information about the patient-bear interaction over a long period of time.
+Any changes, such as the patient suddenly becoming aggressive or showing far less activity, may offer subtle indications of more serious problems.
+"We've not adequately used technology to help older people and this is one potential in which we could do that," says Rebecca Johnson, professor of aged care nursing at the University of Missouri in Columbia.
+Stiehl's group is finalising the first prototype and hopes to have at least 10, if not 20, Huggables available for pilot trials in about a year's time.
+
+The whale had enourmous eyes and, unlike today's baleen whales, teeth to rip apart prey
+A bizarre whale fossil found on a beach in southern Australia suggests that baleen whales, the filter-feeding gentle giants of the sea, were not always gentle, or giants, a researcher says.
+Erich Fitzgerald, a PhD student of Monash University in Melbourne and a research associate at Museum Victoria, describes the 25 million year old discovery in the latest issue of the journal Proceedings of the Royal Society B.
+The fossil, which includes a complete skull of a whale and other bones, was found in the late 1990s by teenage surfer Staumn Hunder, Fitzgerald explains.
+"Luckily for science, he saw these dark brown slithers of fossilised bone," protruding from a boulder on a beach near the town of Jan Juc in coastal Victoria.
+Hunder and his father delivered the boulder to Monash University more than six years ago, but little long-term research was done on it until Fitzgerald began studying it in 2003.
+"Even when I'd only completed half of it, it was pretty obvious this was groundbreaking," he says.
+Fitzgerald found that the fossil had specific features in the facial region and the base of the skull that marked it as a member of the baleen whale group, which today includes the enormous blue whale.
+But unlike modern baleen whales, which eat by filtering tiny krill and plankton from water, the fossil whale had teeth. It also had enormous eyes.
+"This animal was capturing big, single prey, which is unusual for a baleen whale," Fitzgerald says. "It used the front of its mouth to grip its prey and rip it apart."
+He says it was impossible to fit the fossil whale into existing branches of the evolutionary tree based on its shape, size and characteristics.
+For one thing, it was only about 3.5 metres long, roughly the same size as a bottlenose dolphin.
+The smallest living baleen whale, the pygmy right whale, is normally around 7 metres long, Fitzgerald says.
+"This is something completely new. This was an entirely new family, which is a rare occurrence."
+This new family of small, highly predatory, toothed baleen whales has been named in honour of the town of Jan Juc and its discoverer Staumn Hunder. It is called Janjucetus hunderi.
+"This essentially opens up a window on what the earliest baleen whales were like," Fitzgerald says.
+"It tells us that they were truly bizarre, and living in ways completely unlike any baleen whales that have existed over the past 20 million years."
+
+You want me to do what?
+People whose cheeks turn red at the thought of speaking to a stranger have similar blood flow to everyone else.
+It's just that their blushing takes longer to subside so it's more obvious to them and others, Australian research suggests.
+A team of researchers led by Professor Peter Drummond from Murdoch University in Western Australia rated facial blood flow in people frightened of blushing as they performed everyday, but potentially squirm-worthy tasks.
+These included speaking to a stranger, giving a speech and listening to the taped speech afterwards.
+The researchers then compared the results with a group of people who weren't frightened of blushing who performed the same tasks.
+They found embarrassment and self-reported blushing intensity was greater in the fear-of-blushing group than in the control group throughout the experiment.
+While increases in facial blood flow were similar in the two groups during each task, blushing took longer to subside in the fear-of-blushing group than in controls.
+The researchers report online in the journal Behaviour Research and Therapy how this resulted in an incremental increase in facial blood flow over the course of the experiment.
+Drummond says the differences in blushing behaviour could come down to a number of factors. 
+"It may be that there is a difference in the way the facial blood vessels respond during social encounters [in fearful blushers] which prolongs the increase in facial blood flow; or a difference in the way people cope in slightly stressful situations," he says. 
+"Or it may be that people who are frightened of blushing are simply more anxious than those who aren't, and this anxiety then persists for some time afterwards, so it takes them a little longer to recover and get back to normal."
+It may also be that because the blush response lingers longer there's more opportunity for the person and others to notice it, he says.
+What can you do about it?
+Either way, Drummond says the research has its silver lining for people worried about blushing.
+"During these social encounters they are blushing no more strongly or more frequently ... than people who don't feel they blush very much. They just take longer to recover."
+And that, according to Drummond, could simply be the result of the blusher's thought process.
+"[They're] going over all the possible ways that they could have embarrassed themselves during the social encounter," he says.
+If the research helps people come to terms with that it could help them lose their fear of blushing, he says.
+
+The terrorism alert caused chaos at Heathrow Airport last week. But could new security technology prevent a repeat performance?
+No matter how sophisticated airport security technology becomes, it will probably never remove the need for sniffer dogs and bag searches, experts say.
+The alleged foiled terrorist plot that affected flights between the UK and US  last week has led to calls for newer, smarter security technology. 
+Devices on the horizon include insect-based sensors, wallpaper that sniffs out explosives as you walk past and smart closed-circuit TV that can pick a suspect out from a crowd or tell if you've left a bomb under a seat.
+But Martin Cebis, whose company will present its all-in-one chemical sensing and surveillance system at an international military technology conference in the US next week, says would-be terrorists will probably always be one step ahead of technology.
+"Ultimately you're dealing with human ingenuity [and] you're fighting a moving target and need to be able to adapt," says Cebis, chief executive officer of Western Australia's Embedded Technologies.
+"I think you'll still need searching and those kinds of things to occur."
+Cebis is also among a number of speakers who will brief security advisors and researchers in Canberra on the latest developments today.
+Chemical sensing
+One of the emerging areas of security, particularly in light of the alleged plot to carry liquid explosives onto planes, is in chemical sensing.
+Associate Professor Adam McCluskey of the University of Newcastle is an Australian researcher developing chemical sensors based on drug design technology.
+The sensors are can be "screen printed" onto fabrics, paper, plastics and even wallpaper.
+"It's basically a synthetic antibody," he says.
+"We're applying drug design technology to generate polymeric scaffolds that specifically recognise the shape and electronics of the targeted molecule."
+The technique has been used to identify cocaine and heroin and is being developed to pick up chemicals like TNT and triacetone triperoxide, the chemical used in last year's London Underground bombings.
+"Instead of metal detectors we would have a bank of these sensors sucking the vapours off as you walk through," he says.
+He says while sniffer dogs will still be able to go places electronic noses can't, sensing technology will be better able to detect specific substances.
+Dr Michael Borgas, is an atmospheric scientist at CSIRO, which is developing an electronic nose to detect chemicals. 
+He says the future of airport chemical sensing lies in miniaturised devices.
+Researchers at CSIRO are also looking to insects like fruit flies for inspiration.
+"If you can understand how insects sense and act upon various volatile chemicals you'd hopefully be able to mimic that with electronic devices," he says.
+"What you want is a hand-held device that can suck in tiny bits of air and detect the molecules that are in that air. In airports you'd just stick it in a [passenger's] bag."
+Smart surveillance
+Cebis says it will take more than high-tech chemical sensors, no matter how sensitive and discriminating they are.
+"It's fine to have sensors all over the place but you've got to be able to make intelligent decisions," he says.
+"The research challenge is to make cheap, sensitive, ubiquitous sensors coupled with smart surveillance technology."
+Cebis says closed-circuit TV will eventually be replaced by "smart" digital video technology that uses biometric identification and motion recognition to hone in on specific individuals and behaviour.
+"They look at a scene and if there's no motion they don't film anything," he says.
+"Or a person may wander into a scene, deposit something and then move away. The fact that something was moving and now isn't [will be picked up]."
+Ting Shan of National ICT Australia (NICTA) will outline advances in face recognition technology at a security technology conference in Canberra next week.
+Shan says new face recognition algorithms have been developed by NICTA and University of Queensland that aren't befuddled by lighting, expression or angle of the face.
+"It can synthesise a realistic frontal face image," he says.
+Impact of a new security environment
+Borgas says while the events in the UK have highlighted advances in security technology, he doubts they will be implemented overnight.
+McCluskey hopes it will give governments an impetus to provide the research and development funds to allow some of the more promising ideas to bear fruit.
+"Sometimes it takes an event of this nature to provide a significantly high profile and the government willing to take a chance on the technology," he says.
+Cebis say all the technology in the world will never completely replace the most humble of checks.
+"But whether they need to be as intrusive and time consuming as they currently are depends on the technology," he says.
+
+Long before Gondwana existed it would have been possible to surf in Central Australia, in areas that now look like this
+Northern Australia was once a separate land mass to the rest of the continent and it crashed into central Australia, wedging underneath it, researchers say.
+Kate Selway, a geophysicist and PhD student at the University of Adelaide, and colleagues, have been studying the collision that is estimated to have happened 1.64 billion years ago.
+"If you looked south from Alice Springs before that time, you would have seen an ocean," Selway says.
+Most scientists have long suspected that the Australian continent we know today is formed from pieces of land that were previously attached to other continents.
+For example, comparison of different rock types, ages and chemistry suggest that, long before eastern Australia existed, northern, western and central Australia were all discrete landmasses, says Selway.
+When they collided, some time less than two billion years ago, mountains were formed, which have long since eroded away, she says.
+But Selway says no one has really known where exactly the boundaries of these separate plates were and how exactly they collided.
+"People had theories that these boundaries are there but they've been hard to see because they're largely covered by dirt and sediment," she says.
+Which edge under which?
+When continents collide, the edge of one can wedge under the other in a process called subduction.
+The prevailing theory has been that central Australia subducted under northern Australia, says Selway.
+But she says there was never much data to back this up.
+She and colleagues used a technique called magnetotellurics to peer hundreds of kilometres beneath the Earth's surface in the vicinity of the presumed boundary between northern and central Australia, just south of Alice Springs.
+The technique relies on the fact that the Earth's magnetic field causes current to flow through rocks.
+It measures the strength of the current as it changes with the electrical conductivity of different rock types.
+Selway and colleagues plotted the changing profile of electrical conductivity along a 380 kilometre track north of the Northern Territory-South Australian border, down to a depth of 200 kilometres.
+The profile shows that the northern plate was more conductive than the central one. And it also shows that the northern plate is wedged under the central one, and not the other way around.
+Because boundaries between plates can be places where minerals concentrate, this kind of "big picture geology" helps the narrow down places to explore for minerals, says Selway.
+Some of the research, which was funded by the Northern Territory Geological Survey, was reported in Geophysical Research Letters earlier this year. The rest has been submitted to the journal Geology.
+Selway is one of 16 young scientists presenting their research to the public for the first time under the Fresh Science program.
+
+The discovery of Xena sparked the debate about the definition of a planet. Now the world's astronomers are set to decide on which celestial body we invite into the planetary club
+The solar system may soon be home to a dozen planets, with three new additions to the club and more to come, if astronomers approve a new definition of a planet.
+The proposal before the 26th general assembly of the International Astronomical Union (IAU) in Prague distinguishes between planets and smaller celestial bodies such as comets and asteroids. 
+It leaves Pluto's status as a planet intact, but modified. 
+The proposed new definition of a planet would result in a 12-planet solar system with eight classical planets; three plutons, a new growing category of Pluto-like objects, including Pluto, 2003 UB313 (dubbed Xena) and Charon; and Ceres, a former asteroid.
+Powerful new telescopes that have discovered large objects in the outer regions of the solar system present a challenge to the historically based definition of a planet, which comes from the Greek word meaning wanderer. 
+"Recent new discoveries have been made of objects in the outer regions of our solar system that have sizes comparable to and larger than Pluto," says IAU president Professor Ron Ekers. 
+"These discoveries have rightfully called into question whether or not they should be considered as new planets." 
+The planetary debate blasted off in July 2005 when a US team of astronomers announced that Pluto was much smaller than an enigmatic object, 2003 UB313, which its discoverers said was the solar system's 10th planet. 
+UB313, found some 15 billion kilometres from Earth, ignited a huge row as Pluto's defenders said UB313 was not a planet, just a rock, or KBO, a Kuiper belt object.
+A KBO is one of about 100,000 pieces of icy, primeval debris encircling the Sun on the outskirts of the solar system.
+"Had astronomers realised in 1930 that Pluto was smaller than our Moon and with a mass well under 1% that of the Earth, perhaps some special designation would have been devised for it," say Professor Owen Gingerich, head of the IAU committee that came up with the proposed definition.
+Since it was founded in 1919, the IAU has been the arbiter in astronomical debates and after two years of work a committee has come up with a new planet definition to present to some 2500 astronomers gathered in the Czech capital. 
+According to the draft definition, a planet must orbit a star, while not being itself a star, and it must be massive enough for its own gravity to pull it into a nearly spherical shape. 
+"Our goal was to find a scientific basis for a new definition of planet and we chose gravity as the determining factor. Nature decides whether or not an object is a planet," says Professor Richard Binzel, a member of the defining committee.
+That puts about a dozen "candidate planets" on the IAU watchlist, which means even more planets could be named in the future. 
+If the current proposal is passed by the IAU assembly, the solar system would consist of the planets Mercury, Venus, Earth, Mars, Ceres, Jupiter, Saturn, Uranus, Neptune, Pluto, Charon and 2003 UB313 (a 'real' name to be chosen later).
+The new plutons are distinguished from classical planets in that they reside in orbits around the Sun that take longer than 200 years to complete, meaning they are in orbit beyond Neptune.
+The draft planet definition will be discussed and refined during the meeting and put up for a vote on 24 August.
+
+Our Moon may qualify for the title of 'planet' if it continues to move away from the Earth
+The proposed new definition of a planet has got scientists talking, some saying it means even our Moon could one day be labelled a planet.
+Astronomer Dr Charles Lineweaver of the  Australian National University says he is generally in favour of the draft International Astronomical Union (IAU) definition, but it has some potential problems.
+"According to the new definition of planets, our Moon ... will become a planet in the future," says Lineweaver.
+Under the draft definition, which astronomers will vote on next week in Prague, a planet must orbit a star, while not being itself a star, and it must be massive enough for its own gravity to pull it into a nearly spherical shape.
+Under this definition, Charon would no longer be a satellite of Pluto. Rather both would qualify as planets, of the pluton type.
+Central to this double-planet system is a common centre of gravity, or barycentre, that exists in free space above the surface of Pluto.
+By contrast, our Moon would remain a satellite under the new definition because the barycentre of the system is located below the Earth's surface.
+But Lineweaver says as the Moon is moving further away from the Earth, this means the barycentre will one day be above Earth's surface.
+"The Moon will have to be about 40% further away than it is now for it to become a planet," he says.
+"Based on an extrapolation of the current recession of the Moon, this will happen in about 5 billion plus or minus 1 billion years."
+
+Dust devils, or willy willies, can't be explained by wind alone, scientists say
+It's not just wind that raises sand and dust devils, say physicists, powerful electrical fields created by wind, sand and dust also levitate more dust into the air.
+The discovery could have implications for global climate modelling and even help explain what makes Mars such a dusty world.
+More than 100,000 volts per metre of natural, 'static' electricity have been measured in desert dust storms and the mini-tornado-like dust devils or willy willies. 
+Now, under laboratory conditions, Jasper Kok, a graduate student at the University of Michigan in Ann Arbor, has reproduced the electrical fields found near the ground in desert wind storms and shown that they can also lift sand grains.
+"We were very surprised," says Kok of the power of electrical fields to raise dust and sand.
+He and his faculty advisor Associate Professor Nilton Renno are publishing their results in a coming edition of Geophysical Research Letters.
+The process starts with a little dry wind in a dusty, arid place that kicks up small dust grains so they collide with larger sand grains, Kok explains.
+When this happens the smaller grains steal electrons from the larger grains, giving the smaller grains a negative charge and the larger grains a positive charge.
+"It's very similar to rubbing your feet on a carpet to become charged," says Kok. In that case you are the smaller grain and the carpet is the larger grain.
+Next, the negatively charged smaller grains are lifted above the ground by breeze, creating a negatively charged region in the air above the positively charged ground. That separation of charges is an electrical field.
+Once that field is in place, as Kok shows in the lab, more grains can be lifted up by the electrical forces, making for even dustier conditions than wind speed alone could create.
+The phenomenon could have significant impacts on how much dust gets into the air worldwide, which means it's a matter that global climate modellers need to study more closely, says Dr Ron Miller of the NASA Goddard Institute for Space Studies in New York.
+The many properties of dust
+Dust is an 'aerosol', which can reflect sunlight back into space and cool the Earth's surface, as well as just influence the quality of the air.
+"For a given wind that's already kicking up dust, you'd get more dust," says Miller.
+It could also affect areas downwind of a dust source, he says, by transporting the electrical fields to other areas and also more readily mobilising dust there.
+That matters a lot in places like China, where dust from the northern deserts whips south across industrial regions, picking up a lot of pollutants that can then be blown east as far as the European Alps.
+Dust on Mars
+Electrical fields may help explain how dust gets around on Mars, says Renno.
+"On Mars the wind required to lift dust from the surface is very large," he says, because the atmosphere of Mars is very thin. 
+"Winds of the magnitude required have never been measured, but there's dust everywhere."
+Kok says he's already working on a new laboratory experiment with Mars-like conditions to see if electrical fields may be at work on the Red Planet.
+
+This doesn't smell familiar. I think I'm lost
+Italian researchers may have solved the puzzle of what makes homing pigeons such legendary navigators - they simply follow their noses.
+In a real-life homing experiment, Dr Anna Gagliardo of the University of Pisa and colleagues tested the birds' magnetic sensing and olfactory systems to establish how they make their extraordinary navigations across hundreds of kilometres.
+The research, published in the 1 August issue of the Journal of Experimental Biology, followed a 2004 laboratory study by Dr Cordula Mora and colleagues from the University of Auckland, New Zealand.
+In this research, Mora conditioned pigeons to detect an anomaly in a magnetic field.
+She showed that pigeons detected a magnetic stimulus in their upper beaks by using the ophthalmic branch of the trigeminal nerve, the largest cranial nerve.
+The 2004 study reinforced the theory that homing pigeons navigate by using tiny magnetic particles in their beaks to map changes in the Earth's magnetic fields.
+But Gagliardo says they don't always use this method to find their way.
+"They do have the ability to detect magnetic fields, but this doesn't mean they use it to navigate," he says.
+To test how much the birds use this sense, Gagliardo cut a section of the olfactory nerve in 24 homing pigeons and a section of the opththalmic branch of the trigeminal nerve in another 24.
+A third group of 24 birds underwent sham operations and served as a control group.
+Gagliardo then released the three different groups of inexperienced homing pigeons about 50 kilometres from their loft.

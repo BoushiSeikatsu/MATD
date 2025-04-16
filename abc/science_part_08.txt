@@ -1,0 +1,661 @@
+"People could just put on the cap and have a wireless connection from these electrodes to a computer and they can play video games." 
+Measuring brainwaves
+That vision, says M&uuml;ller, will require advances in electrode technology that allow the tiny, metal sensors to pick up electric signals from brainwave activity without making contact with the skin. 
+For now, M&uuml;ller and his colleagues are still somewhat constrained by the conventional electrode cap, which looks like a swimmer's cap embedded with 64 or 128 contact points and a web of wires leading to a computer. 
+Each electrode embedded in the cap must be smeared with a conductive gel before the cap is fitted properly to a person's head, a process that can take 30 minutes to an hour. 
+M&uuml;ller and his team's technology involves special software. 
+Once the electrode cap is in place, the person must calibrate the computer to their individual brainwaves. 
+Whereas other research projects may require a person to spend 100 hours practising with the machine before calibration is finalised, the Fraunhofer system takes only 5 minutes. 
+"The Berlin group is very strong and focused on the computer learning the pattern," says Robert Leeb, a brain-computer interface researcher at Graz University of Technology in Austria. 
+Leeb works in a team developing a machine that propels a person through a virtual environment based on brain signals. 
+Imagine moving your hand
+During calibration with the Berlin group's technology, the person imagines moving his left or right hand.
+The signals picked up by the electrodes are processed in a specially written computer program that filters out signals from thoughts not related to moving the object and homes in on the brain activity responsible for the imagination of movements. 
+Once the person is in sync with the computer, he can imagine moving his hands or feet or rotating an object to trigger an action on the screen. 
+"In the brain, there is one specific area on the cortex that is active during left hand motor imagery and another one that is active during right hand motor imagery," says team member Dr Benjamin Blankertz. 
+"These mental tasks are discriminated by their brain activity patterns and can thus be used for brain-computer interface control."
+Additional computer screens present various data indicating brain activity, which the team monitors closely. 
+The researchers' goal is to capture and display many more psychological measures, such as those that reveal cognitive workload, attention, stress and vigilance. 
+The work could open the door on a wealth of information about how the brain functions, not to mention improve how it controls images on-screen with just a thought, the researchers say.
+
+Banning the fluoroquinolone class of antibiotics in animal feed means humans are more likely to respond to these powerful antibiotics if they need them
+Reducing the use of antibiotics in food-producing animals leads to less drug resistance in humans, an Australian study confirms for the first time.
+Researchers examined samples from 585 people with gastroenteritis due to the nation's most common bacterial cause of foodborne disease, Campylobacter jejuni.
+Tests identified a low level of resistance to the fluoroquinolone group of antibiotics, which Australia has banned in food-producing animals like poultry.
+One investigator, senior lecturer in epidemiology at the Australia National University in Canberrra, Dr Mahomed Patel, says flouroquinolones are powerful, newer generation antibiotics that should be reserved for "pretty severe infections in humans".
+The study found that only 2% of the Australian-acquired campylobacter infections were resistant to ciprofloxacin, a type of flouroquinolone. 
+In countries that allow fluoroquinolones to be used in animals, ciprofloxacin resistant strains are up to 15 times more common in humans, studies show.
+Drug resistance could make these infections hard to treat, lengthen bouts of diarrhoea and increase risk of serious or fatal illness.
+"The very low level of ciprofloxacin resistance in C. jejuni isolates likely reflects the success of Australia's policy of restricting use of fluoroquinolones in food-producing animals," researchers say in a paper to be published in the journal Clinical Infectious Diseases.
+Those tested were from Queensland, South Australia, Victoria, Tasmania and Western Australia, states that require reporting of patients infected with the bacteria, and were hospitalised with gastroenteritis or remained in the community.
+Patel says it is unknown why ciprofloxacin resistance ranged from 0% among Tasmanian patients to 8% in infected Victorians.
+But as expected, there were much higher rates of resistance to other antibiotics among Australian-acquired infections, especially those more commonly used by people in the community.
+International evidence
+He says this is the first Australian study to support evidence seen in countries such as Sweden and Norway that banning use in animals means low rates of fluoroquinolone-resistant campylobacter infections in humans. 
+"It confirms Australia has remained relatively free of problems because we've never used these antibiotics in animals; avoiding animal use has prevented resistance in humans," Patel says.
+Those infected outside Australia were more likely to have a resistant strain, especially if they had travelled to Asia. 
+Reasons could include contact with an infected person or eating meat from an animal with the resistant bacteria, Patel says.
+In Australia causes could include medical treatment with the antibiotics, eating imported contaminated food or acquiring resistance in hospital.
+
+The newly discovered dinosaur looked like T-rex, pictured here, but had a longer, narrower skull and shorter, blade-like teeth
+Remains of an enormous species of carnivorous dinosaur, longer than all other previously identified meat-eating dinos, have been found in Argentina, scientists say.
+Researchers announced that the newly discovered meat muncher Mapusaurus roseae belongs to a group of gigantic carnivorous dinosaurs called carcharodontosaurids.
+This group includes Giganotosaurus, the largest meat-eating dinosaur to ever walk the Earth. 
+The discovery of the new dinosaur in western Patagoniais is published in the latest issue of the journal Geodiversitas. 
+Palaeontologists say Mapusaurus was more than 12 metres long and had a shinbone that was longer than that of Giganotosaurus.
+But the current record-holder retains its "largest" title because Giganotosaurus would have been wider and heavier than Mapusaurus. 
+Nevertheless, the new dinosaur would have been an intimidating creature, especially when it was part of a group.
+Hundreds of bones
+Researchers found hundreds of Mapusaurus bones dating to 100 million years together in a pack that would have included 5 metre long juveniles and adults which were more than 12 metres long. 
+"This is arguably the nastiest thing ever found, as it is the first pack found for giant meat-eating dinosaurs," says 'Dino' Don Lessem, who participated in the dig and helped to fund it.
+Lessem, a dinosaur expert who was a consultant on the film Jurassic Park, says that Mapusaurus would have lived at the same time as the largest animal that ever lived, Argentinosaurus, which was a 38 metre long plant-eating dinosaur. 
+"In a pack, [Mapusaurus] could take down this herbivore despite its weight - 10 times [more than] even this largest of meat eaters," he says. 
+Like T-rex
+Philip Currie, who also worked on the excavation and is a professor of biological sciences at the University of Alberta, says the new dinosaur somewhat resembled Tyrannosaurus rex. 
+"Mapusaurus looked something like T. rex but had a longer, narrower skull," Currie explains.
+"Its teeth were shorter and more blade-like. The teeth and long skull were better adapted to biting big chunks of meat out of sauropod dinosaurs. T. rex, on the other hand, had longer, thicker teeth for biting through the bones of its prey." 
+The palaeontologists therefore think the newly discovered carnivore both scavenged and hunted for meat. 
+Hunting in packs
+Dr Rodolfo Coria, who also worked on the excavation and is a palaeontologist at the Carmen Funes Museum in Argentina, says that Mapusaurus may have been unique among carnivores in that it seemed to live a more social life as it was found in a pack.
+T. rex and virtually all other carnivorous dinosaurs usually are solitary specimens, suggesting they mostly lived and hunted alone. 
+Coria says it is possible the big meat eaters evolved different habits for each species, and Mapusaurus simply may have been more social. The pack even appears to have passed away together in a mass die-off. 
+Dr Michael Ryan, curator and head of vertebrate palaeontology at the Cleveland Museum of Natural History, examined the dinosaur bones on a recent trip to Patagonia. He agrees with the other palaeontologists. 
+"This new discovery helps us better understand the diversity of giant carnivorous dinosaurs," says Ryan.
+"Even more interesting is the fact that the find contains the remains of multiple individuals of different sizes and ages."
+
+The new ground-based telescope will give images 10 times crisper than the Hubble Space Telescope
+Australian astronomers have joined a consortium building the world's largest telescope, which from 2015 will help scientists understand the evolution of the universe.
+The Australian National University has become equal partners with eight US institutions to design the US$500 million (A$671 million) optical and infrared Giant Magellan Telescope.
+The new telescope is to be built in Chile and will consist of six mirrors surrounding a central mirror, with each mirror 8.4 metres across.
+At an overall diameter of 21 metres, the new telescope will be the first of a generation of so-called Extremely Large Telescopes designed to probe the depths of the universe.
+"The largest telescopes that astronomers have access to right now have diameters between 8 and 10 metres," says Professor Penny Sackett, director of the university's Research School of Astronomy and Astrophysics, based at Mount Stromlo in Canberra. 
+"Extremely Large Telescopes have diameters of 20 to 30 to 50 metres."
+Sackett says the light-gathering power increases with the square of the diameter of a telescope.
+"When you go from an 8 metre to a 24 metre [telescope] you've actually increased your light-gathering power by a factor of nine not by a factor of three."
+Light from distant stars
+She says the telescope's enormous diameter will allow it to detect light from the most distant stars in the universe.
+The light has taken so long to reach Earth it is almost the age of the universe which means it gives astronomers a picture of the universe right after it was born, says Sackett.
+She says the Giant Magellan Telescope will be the first telescope to directly detect light from planets that are just forming around other stars.
+The telescope will also allow astronomers to study dark matter and dark energy, which influence the geometry of the universe.
+"Dark matter and dark energy are the forces that tug and pull on the fabric of space-time. They determine how the universe evolves over time," she says.
+Clear focus
+Sackett says the telescope will have "adaptive optics", new technology that undoes the blurring effects of the Earth's atmosphere. 
+"The mirrors move very quickly to put the light rays back in the right place by bouncing them at slightly different angles," she says.
+"The Giant Magellan Telescope should be able to take pictures that are 10 times crisper, 10 times sharper, 10 times more detailed that the Hubble Space Telescope."
+Partnership in the new telescope will give Australian astronomers access to an Extremely Large Telescope, which, according to the decadal plan for astronomy, is one of the two items Australian astronomers say are the most important to their future a decade from now.
+Sackett says that Australian industries and academic institutions could also benefit from contracts to design and build instruments for the new telescope.
+Other members of the consortium are the Carnegie Institution of Washington, Harvard University, Massachusetts Institute of Technology, University of Arizona, University of Michigan, Smithsonian Institution , University of Texas at Austin and Texas A&M University.
+
+When black holes collide, they spiral towards each other then shed vast amounts of energy as space-ripping gravity waves
+Powerful ripples that rend the fabric of space as black holes collide have been simulated for the first time by a supercomputer, finally giving astronomers something specific to watch for with new gravity wave telescopes. 
+Black holes, collapsed stars tens to billions of times more massive than the Sun, are believed to merge fairly often in the cosmos, as they get trapped by each other's gravity. 
+When it happens, they spiral towards each other and shed up to 40% of their energy in the form of powerful, space-torturing gravity waves, according to the new simulation. 
+These waves propagate through the universe and researchers say the waves ought to be detectable with the right equipment.
+"For years we didn't know what to expect," says Dr Joan Centrella, chief of the Gravitational Astrophysics Laboratory at NASA's Goddard Space Flight Center in Maryland. 
+The researchers used the world's fourth-fastest computer, NASA's Columbia supercomputer, to crunch the numbers in some of Einstein's toughest equations regarding black holes.
+They've come up with a basic gravity wave signature of a black hole merging process from start to finish. 
+"Now we have Einstein's prediction," she says. "This is a conceptualisation that we didn't have until now." 
+Computer power
+The new gravity wave simulation is the culmination of three decades of research that, until recently, required more computer power than was available.
+The results are being published in the journals Physical Review Letters and Physical Review D. 
+"For a long time they'd just crash and burn," she says of earlier computerised attempts to run Einstein's equations on the theory of general relativity. 
+In the end, it took a fifth of Columbia's parallel computer processors about 80 hours to crunch the complex 90-year-old equations.
+Added up processor-by-processor, the calculations took more than 18 years of processor time, Centrella says. 
+The researchers were pleased to discover one of their results.
+Regardless of the different possible orbits and speeds two black holes have when they begin to merge, they end up producing the same signature wave patterns as they near the end of their collision, Centrella says.
+That should make them pretty easy to identify. 
+The next step will be to detect some actual gravity waves and see if they match the simulation. That will be, in effect, one tremendous test of Einstein's work on black hole theory, says Centrella. It will also mark the genuine birth of a whole new field of astronomy.
+"Black holes play a key role in gravitational wave astronomy," says astronomer Professor Peter Saulson of Syracuse University in New York. "They will be the primary source of gravity waves." 
+Searching for gravity waves
+Saulson works on the Laser Interferometer Gravitational Wave Observatory (LIGO) in Hanford, Washington, which started searching the skies for gravity waves late last year. 
+LIGO, with its 4 kilometre-wide antenna, ought to be able to detect gravity waves from the collisions of smaller black holes, says Saulson. 
+As for the far larger supermassive black holes found at the centres of galaxies, their gravity waves will require a space-borne observatory that can detect much lower frequency gravity waves, he says. 
+That's the goal of NASA's Laser Interferometer Space Antenna, which will have three spacecraft 3 million miles apart and linked by lasers, due to be launched in 2015.
+
+Huge underground Antarctic lakes, like Lake Vostok pictured here, are connected by fast-flowing underground rivers that stretch for hundreds of kilometres
+Scientists have found huge, powerful rivers that may connect subglacial lakes deep under the Antarctic ice.
+UK researchers who discovered the plumbing system that moves water hundreds of kilometres say it challenges the notion that the lakes under the Antarctic ice evolved independently and could support ancient life. 
+"Previously, it was thought water moves underneath the ice by very slow seepage," says Professor Duncan Wingham of University College London (UCL) who headed the research team. 
+"But this new data shows that, every so often, the lakes beneath the ice pop off like champagne corks, releasing floods that travel very long distances." 
+Scientists had plans to drill through the ice to take samples from the lakes but were worried about contaminating them with new microbes. 
+"We had thought of these lakes as isolated biological laboratories. Now we are going to have to think again," Wingham says.
+The research, reported today in the journal Nature, also means that water from the Antarctic lakes, which were first discovered in the 1960s, could have flowed into the ocean in the past and could do so again. 
+About 150 subglacial lakes have been discovered in Antarctica but researchers believe there could be thousands. 
+Lake Vostok, at 15-20 million years old, is thought to be the oldest.
+Looking at satellite images
+Scientists from UCL and the UK's Natural Environment Research Council Centre for Polar Observation and Modelling found the rivers by examining changes in measurements taken by the European Space Agency ERS-2 satellite of a region in East Antarctica known as the Dome Concordia. 
+They noticed that the ice surface was 3 metres lower over one subglacial lake but it bulged by 1 metre at two other subglacial lakes about 290 kilometres away.
+They suspect these changes show a flow of water from one subglacial lake to the others and calculate 1.8 cubic kilometres of water would have moved over 16 months.
+"The lakes are like a set of beads on a string, where the lakes are the beads connected by a string or river of water," says Wingham. 
+The scientists believe when the pressure in one of the lakes increases, a flood fills the next bead down the string.
+But they do not know whether the flow of water that melts ice causes a chain reaction down the string.
+A mere drop
+Iceland has underground lakes that fill quickly and flush out, says Canadian researcher Professor Garry Clarke, from the University of British Columbia.
+But Clarke says, in the same issue of Nature, they discharge water 100 times faster than in Antarctica. 
+"The actual discharge [in Antarctica] was hardly catastrophic," he writes.
+And the Antarctic outflow is "miniscule" compared with the megafloods of the last Ice Age.
+Clarke writes how outflows from glacial Lake Missoula in what is now North America was 200,000 times more powerful than the UK researchers found in Antarctica.
+
+Young children are being medicated for an illness that some psychiatrists say doesn't exist
+Children as young as two years old are being inappropriately diagnosed and medicated for bipolar disorder, says a UK psychiatrist.
+Professor David Healy of Cardiff University told the Inaugural Conference on Disease-Mongering recently in Newcastle, Australia, that increasing numbers of children are being treated for the condition with drugs that carry serious side-effects, without evidence the condition exists in that age group.
+Healy says bipolar disorder is a condition in which someone's mood swings between highs and lows and in its most serious form this can lead to acts of suicide.
+He says until recently most people believed the illness only affects older teenagers or adults but the diagnosis is now being applied to young children, particularly in the US.
+He says children as young as two who are "tricky to handle, overactive or difficult in some way" are being diagnosed with bipolar disorder.
+And he says they are increasingly prescribed drugs known as mood stabilisers, which are used to treat the condition in adults and have serious side-effects.
+He says American Psychiatric Association (APA) diagnostic guidelines specify that periods of highs and lows should last for weeks at a time at least.
+But he says children being diagnosed as having bipolar disorder have moods that go up and down during the course of a day.
+"Every kid's mood goes up and down during the course of the day," he says.
+Healy says advocates of using the diagnosis on children say the APA guidelines should be changed.
+"The response from most of the rest of the world is that the Americans have gone hysterical."
+Expanding treatment
+Healy believes that the diagnosis of children with bipolar disorder is part of a general trend towards increasing the number of people treated with mood stabilisers, which he says have risks that are downplayed and benefits that are overplayed.
+He says while a very small percentage of people have the serious form of bipolar disorder that might warrant medication, recently people with relatively mild mood swings have been treated, and this is now including children.
+Healy says this spread of diagnosis is reflected in the increasing number of books on bipolar disorder aimed at clinicians, parents and children.
+What he describes as a "watershed" book called The Bipolar Child: The Definitive and Reassuring Guide to Childhood's Most Misunderstood Disorder sold 70,000 hardback copies in its first six months, indicating huge support for the diagnosis, he says.
+"[And books for children] look for all the world like versions Little Red Riding Hood or Cinderella or whatever," he says.
+"They come in the same pastel colours, they show scenes of a kid who was getting into trouble and then being helped out by a kindly doctor who explains they've got a chemical imbalance and that medication will help."
+Healy is paid by the pharmaceutical company AstraZeneca to give talks on mental illness.
+Australian psychiatrists also concerned
+Chairperson of the Royal Australian and New Zealand College of Psychiatrists' Faculty of Child and Adolescent Psychiatry, Dr Phill Brock, is also concerned about children being inappropriately diagnosed with bipolar.
+"We do not endorse that diagnosis in children," he says.
+Brock runs the inpatient service of the Women's and Children's Hospital in Adelaide and says he is aware the diagnosis is being made, both by GPs and psychiatrists.
+"We would contend that because of the developmental context we're not able to say categorically that this is an illness that can be applied to children."
+He says he is aware of advocates for diagnosing bipolar in children and found it alarming when a US organisation approached the faculty he represents 18 months ago to set up a support group for infants and children with bipolar disorder.
+Healy says while a child might be hard to handle because they've moved house or school, because they've been bullied at day-care or because their parents aren't getting on it is "easier to locate to the problem in the child".
+Brock is similarly concerned.
+"We know that children and teenagers frequently have changes in mood. That's part of growing up," he says.
+For more information on bipolar disorder, including fact sheets and referrals, see beyondblue, Australia's national depression initiative.
+
+More than half of the authors of the DSM, the manual used to diagnose mental health problems, have had ties with the pharmaceutical industry. But not everyone agrees this is a bad thing
+Most of the experts who wrote the manual widely used to diagnose mental illness have had financial ties to drug makers such as research funding or stock holdings, US researchers report.
+They call for full disclosure of the relationships between companies and the medical experts on panels that craft future editions of the Diagnostic and Statistical Manual of Mental Disorders, known as the DSM. 
+"Transparency is especially important when there are multiple and continuous financial relationships between panel members and the pharmaceutical industry, because of the greater likelihood that the drug industry may be exerting an undue influence," the researchers write in a study to be published in the journal Psychotherapy and Psychosomatics.
+The American Psychiatric Association, which publishes the DSM, says it will require financial disclosures for the next version, due out in 2011.
+The study found 56% of 170 psychiatric experts who worked on the most recent edition, published in 1994, had at least one financial link to a drug maker at some point from 1989 through 2004. 
+The relationships included speaking or consulting fees, ownership of company stock, payment for gifts and travel and funding for research. 
+All the experts who developed sections defining mood disorders, schizophrenia and other psychotic disorders had such links, the study says. 
+"The connections are especially strong in those diagnostic areas where drugs are the first line of treatment for mental disorders," the study says. 
+Critics say psychiatric drugs are overprescribed. 
+Drug company links fruitful, say some
+Dr Darrel Regier, director of the American Psychiatric Association's research division, says the study is "an attempt to develop probably some guilt by association with the pharmaceutical industry". 
+He says he does not believe financial connections to companies influenced development of the manual.
+If none of the experts were involved with the industry, "that would mean they were really out of step with the major advances in the treatment of mental illness", he says. 
+The authors of the new study, researchers from the University of Massachusetts and Tufts University, say they based their findings on searches of various databases, financial disclosures in medical journals and other records. 
+They say they could not determine if the experts had ties to the companies while they were working on the manual.
+After the update
+But Dr Lisa Cosgrove, one of the study's authors, says the associations could raise questions even if they occurred after the experts update the DSM. 
+"They can certainly leverage their participation on the DSM, which is very prestigious, into lucrative consulting contracts," says Cosgrove, a clinical psychologist at the University of Massachusetts in Boston. 
+A spokesperson for the Pharmaceutical Research and Manufacturers of America, says the industry group has not yet reviewed the study.
+"But it is important to note that the physicians and other health care professionals who sit on expert medical advisory panels have impeccable integrity and base their decisions on independent judgments and research," he says.
+
+The weight of a saddle and rider can cause a horse's back to extend and in extreme cases cause vertebrae to grow together
+When a horse bears the weight of a rider it adjusts the position of its back and alters its limb movements, which could contribute to back pain and injury, researchers say.
+The finding adds to a growing body of evidence that horses used for recreation or sport are at risk of health problems.
+Many scientists, such as Patricia de Cocq, who led the recent study, hope the findings will improve future conditions for horses. 
+"The goal of this study is to advise horse trainers and saddle fitters on how to prevent injuries," says de Cocq, a researcher in the Experimental Zoology Group at Wageningen University in the Netherlands. 
+For the study, de Cocq placed special infrared light reflective markers on horses that were on treadmills.
+Infrared cameras used the reflected light to generate 3D images that focused on horse back vertebrae, joints and limbs as the animals walked with and without loads.
+The maximum total weight was about 75 kilograms. 
+She found that while all weight caused a horse to adjust its back position, the saddle with a rider led to the greatest adjustment. 
+"During walk, trot and canter, the position of the [horse's] back is more extended in the situation with a saddle and weight," de Cocq says.
+"Although the back is more extended during the complete stride cycle, total movement, expressed as range of motion, stays the same."
+The findings were presented at the Society for Experimental Biology's annual meeting in England earlier this month. 
+Kissing spines, and other ailments
+The back extension, according to de Cocq, is consistent with probable causes for the condition of 'kissing spines', when loads and repeated undulations push parts of the horse's back close together. 
+This usually happens between the withers and the loin, or in the region that involves the 10th -18th vertebrae. In advanced cases, sometimes parts of the spine grow together.
+"It is thought that the process is only painful in [this] acute phase," she says. 
+Horses with longer backs are more likely to suffer from back problems associated with riding, probably because of uneven weight distribution, de Cocq says.
+It is possible that horses bred to bear heavy loads, such as Icelandic horses, may be less vulnerable, but she says she has not studied these horses yet. 
+On the racetrack
+Back problems are not the only risk to horses that carry human riders. 
+A recent Journal of the American Veterinary Medical Association study found that some racehorses experience haemorrhaging from the pulmonary artery into the bronchial tubes and windpipe during intense exercise. 
+The disorder is most commonly found in horses that lost races and trailed the winner by an average of about 4 metres. 
+Half of all thoroughbreds experience this problem, called exercise-induced pulmonary haemorrhage, according to lead author Kenneth Hinchcliff, a professor of veterinary clinical sciences at Ohio State University.
+He says a number of treatments, including drugs and herbal products, are often administered before racing, but it is not clear if they always work. 
+For horse riders, de Cocq offered this advice: "Riders should pay attention to the signals a horse can give. For example, 'cold back' [when a horse stiffens its back or negatively reacts after bearing weight], problems with saddling, girthing and mounting the horse may be an indication that there are problems with the saddle or the riding technique."
+
+Electromagnetic radiation from mobile phones may affect how fast you brake or turn while driving
+Electromagnetic radiation from your mobile phone may impair your ability to make snap decisions, say when driving a car, an Australian study shows.
+The study, which will be published in the journal Neuropsychologia, found evidence of slowed reactions, on both simple reactions and more complex reactions, such as choosing a response when there is more than one alternative.
+The researchers found these effects after people were exposed to electromagnetic radiation equivalent to spending 30 minutes on the phone.
+Lead researcher Professor Con Stough, director of the Brain Sciences Institute at Swinburne University of Technology in Melbourne, says the reactions tested experimentally have real-life equivalents, such as making braking decisions when driving a car. 
+"If you are driving a car and somebody runs out in front you, your simple reaction time is the time it takes to brake, while your choice reaction time could be the time it takes to decide between braking, turning left, turning right or hooting the horn to avoid the collision," he says. 
+The study's 120 volunteers received either active or 'sham' radiation emissions for 30 minutes before swapping for a further 30 minutes. This meant a total active exposure of 30 minutes, equivalent to a long phone call.
+The researchers then tested the study participant's reaction times and memory using a battery of neuropsychological tests.
+As well as the effect on reactions times, the study found that radiation from mobile phones seems to improve working memory, used for example when remembering a phone number long enough to dial it.
+But Stough says this memory finding should be interpreted with caution because the underlying biological mechanism is not known.
+A small effect
+Stough emphasises that while the study raises the possibility that short-term exposure of mobile phone emissions affect brain activity, the effect is small. 
+"Further investigations such as functional magnetic resonance imaging are needed to confirm the neuropsychological changes associated with mobile phone emissions," he says.
+"Whether the results will affect the way in which people make decisions about using mobile phones I don't know. Mobile phones are such a part of how we operate these days that it is unlikely." 
+Researchers are still debating about whether mobile phones have a carcinogenic effect. But the World Health Organization says there is insufficient evidence to support this argument and studies are ongoing.
+Sleep studies, however, lend support that mobile phone emissions alter brain activity.
+Recent findings show that that electromagnetic radiation received after making a mobile phone call stimulates the brain during the early stages of sleep.
+
+Erosion can affect the rate at which mountains in New Zealand grow, says a researcher
+Mountains eroded by the wind and rain can actually grow larger, according to a Canadian geophysicist.
+Associate Professor Russell Pysklywec of the University of Toronto says he is the first to predict that events on the Earth's surface can affect geological processes hundreds of kilometres below.
+Pysklywec publishes his research on how erosion affects the way tectonic plates collide to form mountains in the current issue of the journal Geology.
+Mountains form in a number of ways, including subduction, when two plates collide and the edge of one plate slides under the other, pushing up the crust in the process.
+Eventually these mountains "clog up" the subduction zone, Pysklywec says, and change the way the plates collide so the subduction zone shifts elsewhere.
+Over time, the original mountains start to erode as new mountains form elsewhere in the new subduction zone.
+But when wind and rain wash away the material pushed up at the subduction zone, Pysklywec says the subduction zone does not get clogged up and this makes it easier for the mountains to keep growing there.
+He says this is a paradox. After all, you'd expect erosion to wear down mountains, not build them up. 
+He says the rate of erosion is critical.
+"Erosion doesn't really lower mountains very much because typically the erosion occurs at the same rate or less than the rate of plate convergence," says Pysklywec, who has developed a computer model to simulate what happens.
+Natural laboratory
+Pysklywec studied the Southern Alps of New Zealand, which have been forming with the collision of the Pacific and Australian plates, a process that began 5 million years ago.
+He says these mountains are the perfect "natural laboratory" for studying mountain-building because they are relatively young, which makes it easier to decipher the geological processes that are going on.
+But, Pysklywec says, his findings apply to any area of the world where plates  collide and mountains form.
+He says the effect of erosion on deep earth processes has been ignored because it is hard to imagine how erosion, which typically removes 1 centimetre of surface soil per year can affect 100-kilometre-thick tectonic plates.
+"But you have to multiply that by 5 million years," he says. "And all of a sudden it's not 1 centimetre of material, it's tens of kilometres of material that you're taking away."
+A hot topic in tectonics
+Australian geophysicist, Dr Wouter Schellart of the Australian National University in Canberra says researchers have been studying the effect of erosion on tectonic processes. But geologists are debating what effect it has.
+Previous research has focused on the first 30 kilometres of the Earth's crust, he says. But Pysklywec's research shows erosion can impact processes deep down as far as a few hundred kilometres.
+Yet Schellart wonders whether this latest research applies to mountains other than those in New Zealand.
+And he says the model doesn't account for where eroded sediment is deposited.
+"In real life it's normally deposited right in front of the mountain belt," he says, adding that this will push both plates downwards.
+He also says the rocks making up the Earth's crust in Pysklywec's model are weaker than they should be, which potentially overestimates the effect of erosion.
+
+GM cotton fights back against the Helicoverpa armigera caterpillar. But this transgenic cotton has its drawbacks, say some scientists (see Related Stories below)
+Research that led to genetically modified cotton, Australia's first transgenic broadacre crop, has been awarded a prestigious award.
+Three CSIRO scientists were last night presented with an ATSE Clunies Ross Award for their work on Bt cotton.
+They were among researchers in the fields of environmental science, metallurgy, information technology and physics to be presented with an award, in recognition of their "outstanding achievements in the application of science and technology for the social and economic benefit of Australia".
+CSIRO's plant molecular biologist Dr Danny Llewellyn, plant breeder and agronomist Dr Greg Constable and entomologist Dr Gary Fitt were awarded jointly for their work in combating the moth Helicoverpa armigera, the most destructive pest to broadacre crops.
+CSIRO licensed a gene from US biotechnology company Monsanto that produced a toxin from the bacteria Bacillus thuringiensis or Bt. The researchers then introduced the gene into Australian cotton plants.
+When the H. armigera caterpillar eats the transgenic cotton plant, the toxin attaches to its gut and poisons it.
+This alternative approach to pest management has reduced the use of chemical pesticides by 90%, saving farmers about A$180 million a year on spraying, the researcher say.
+"It used to cost A$200 million annually to spray cotton crops with pesticide to control the moth but now they only use about 10% of the insecticide they used to use," says Constable, the team leader.
+"The main issue was insecticide could contaminate land, air and water so this is safer for the environment and everyone as it only kills the moth, without harming other helpful insects, creatures or humans."
+Other award winners were:
+* Environmental scientist Dean Cameron from Biolytix Technologies in Brisbane for developing a waste treatment system that uses worms, beetles and microscopic organisms to recycle sewage and household waste into safe irrigation water and compost.
+* Professor Ron Sacks-Davis from Melbourne information technology company InQuirion, which creates information retrieval and text database management programs that searches tens of millions of pages per second. The programs have been used by US and Australian intelligence agencies for antiterrorism purposes and for drafting legislation
+* Perth metallurgist Dr Gerald Roach from Alcoa World Alumna for reducing the cost of alumina production, environmental impacts and energy use and improving product quality. His research improving ore extraction efficiency has reduced bauxite waste by hundreds of thousands of tonnes annually.
+* A lifetime achievement award was presented to Perth physicist Emeritus Professor Dr John de Laeter, AO, whose career began as a high school teacher. He was instrumental in developing five research centres in Western Australia, and in raising A$28 million for the scientific community and research.
+Former Clunies Ross award winner, joint winner of the 2005 Nobel Prize in Physiology or Medicine Professor Barry Marshall, who discovered that the bacteria Helicobacter pylori, rather than stress, causes stomach ulcers, was guest speaker at the awards ceremony.
+
+Choosing the racy red shoes over the sensible loafers relates to how your brain assigns values to items or goods
+Can't choose between the racy red shoes and the sensible loafers? 
+Scientists say this indecisiveness relates to how your brain cells assign values to different items.
+Researchers at Harvard Medical School in Boston have identified neurones that seem to play a role in how a person selects different items or goods.
+Scientists have known that cells in different parts of the brain react to attributes such as colour, taste or quantity.
+Now Dr Camillo Padaoa-Schioppa and Associate Professor John Assad describe in the journal Nature how neurones involved in assigning values help people to make choices.
+"The neurones we have identified encode the value individuals assign to the available items when they make choices based on subjective preferences, a behaviour called economic choice," Padoa-Schioppa says. 
+The scientists say this research is part of the emerging field of neuroeconomics.
+The scientists located the neurones in an area of the brain known as the orbitofrontal cortex (OFC) while studying macaque monkeys that had to choose between different flavours and quantities of juices. 
+They correlated the animals' choices with the activity of neurones in the OFC with the valued assigned to the different types of juices. 
+Some neurones would be highly active when the monkeys selected three drops of grape juice, for example, or 10 drops of apple juice. 
+Other neurones encoded the value of only the orange juice or grape juice. 
+"The monkey's choice may be based on the activity of these neurones," says Padoa-Schioppa. 
+Earlier research involving the OFC showed that lesions in the area seem to have an association with eating disorders, compulsive gambling and unusual social behaviour. 
+The new findings show an association between the activity of the OFC and the mental valuation process underlying choice behaviour, according to the scientists.
+"A concrete possibility is that various choice deficits may result from an impaired or dysfunctional activity of this population [of neurones], though this hypothesis remains to be tested," says Padoa-Schioppa.
+
+They're in here somewhere
+Researchers have made a new kind of fabric bag that can detect its contents and alert the owner when something is missing.
+The Ladybag, aimed at young professional women, could put an end to leaving the house without the mobile phone, house keys or wallet.
+"We are a group of six women on the team. We came up with the bag idea because we thought that all of us would use it," says team member Ginny Mesina, a student from Canada's Simon Fraser University. 
+Mesina and the team developed the idea as part of a course project, which placed students from the university's interactive arts degree and the information technology degree together. 
+To design the bag, the students used off-the-shelf technology.
+They embedded a radio frequency identification (RFID) reader, which is powered by a 9 volt  battery, into the bottom of the bag.
+They then wired the reader to a screen-like panel in the front of the bag, which contains three patterns of light-emitting diodes. 
+Each pattern is an icon representing an essential item that the owner does not want to leave home without. In the prototype, these items are a set of keys, a wallet, and a mobile phone. 
+They then attached an RFID sensor to each of those items. 
+As long as each item is missing from the Ladybag, its corresponding icon lights up. As the keys, phone, and wallet are each placed into the bag, the icon blinks off. 
+"I always forget my phone, but always remember my handbag. This is a great solution," says industrial designer Rosanna Kilfedder, a master's degree candidate at Scotlands Heriot-Watt University in Edinburgh. 
+Kilfedder designed the Suntrap Handbag, a solar-powered bag that absorbs sunlight by day and then lights up when it's dark to help search for items inside. 
+"I believe because people have seen how technology can make their everyday lives easier, they now want more traditional products updated to offer the same benefits," says Kilfedder. 
+And for their younger sisters
+The Ladybag team aims their product at 20-something women, but another version is designed to appeal to the preteen and teenager. 
+That Ladybag is equipped with a light-emitting diode screen that contains seven different expressive face patterns. 
+Five sensors located in different areas on the bag pick up various force and motion generated by the bag's owner and then translate that into one of the seven different light patterns. 
+For example, if the person fiddles frantically with the bag, the face with a worried look will light up. If the owner hugs the bag, a happy face emoticon will light up. 
+According to Mesina, the team has had a wave of unexpected attention and will be talking with the university's technology transfer department about patenting the Ladybag.
+
+Andy Roddick has the world's fastest serve at 240 kilometres an hour but the sky's the limit. Researchers say physics doesn't set an upper limit for service speed
+You can reduce the number of stupid mistakes you make on the tennis court by applying the laws of physics, a US researcher says.
+Professor Howard Brody of the University of Pennsylvania shows knowledge of the laws of matter and motion can lift your game in one of three main ways.
+It can cut errors of latitude (hitting the ball wide), depth (hitting the net) and force (hitting the ball too hard), says Brody in the current issue of the British Journal of Sports Medicine.
+Ball angle
+Brody says you can reduce the risk of the ball going wide by not changing the angle when returning a shot.
+"Changing the ball angle by attempting to return a cross-court shot down the line, or returning a down-the-line shot cross court is asking for lateral problems," he says.
+But this doesn't mean you have to return the ball where it came from every time, he says.
+If a player chooses to change the ball angle, the margin for error can be reduced by hitting the ball harder.
+Graphs charting ball angle relative to force show the ball leaves the racquet at a larger angle if the swing is slow, Brody says.
+"The ... statement that the angle of reflection equals the angle of incidence holds for light reflecting from a plane mirror, but not for tennis balls rebounding from a racquet," he says.
+Clearing the net
+A good groundstroke needs to clear the net while landing in the right place on the other side.
+And there is a maximum and minimal ball angle that allows this to happen.
+Using the laws of physics, a good stroke will therefore have an optimum vertical angular acceptance, which is maximum angle versus minimum angle, Brody says.
+Computer analysis shows that the harder you hit the ball, the smaller the angular window of acceptance.
+As ball speed increases from 80 to 96 kilometres an hour the acceptance window shrinks by 43%. The window increases as ball speed decreases.
+In other words, don't hit the ball too hard if you want to get it over the net.
+But this leaves players in a bind. Should they go for a fast shot, which is harder to hit but more prone to error, or a slower shot, which is likely to be more accurate but easier to return?
+"The player is fighting against both geometry and Sir Isaac Newton, as well as the opponent!" Brody says.
+Brody says adding spin to a fast shot can open the angular window of acceptance, because the spin acts like a downward, or Magnus force, helping gravity pull the ball onto the court.
+He says physics can also be applied to improving your serve and in identifying so-called sweet spots on the racquet that will achieve minimum vibration, minimum shock and maximum ball rebound speed.
+Putting it into practice
+Australian Associate Professor of physics Rod Cross of the University of Sydney has written a book on the science of tennis with Brody.
+He says physics can more accurately describe what happens when a player hits a ball than the player is aware of.
+"The idea is that a physicist can tell a coach what the player's supposed to be doing and why, and the coach can translate that to a player," he says.
+"I tried it myself. I phoned up [professional tennis player] Jelena Dokic and told her she wasn't serving properly.
+"She didn't hang up straight away."
+
+This composite image shows a vast cloud of hot gas (red), surrounding high-energy bubbles 10,000 light years across (blue) on either side of the bright white area around the supermassive black hole
+Black holes, the monstrous matter-sucking drains in space, are the most fuel-efficient engines in the universe, researchers say.
+Just how efficient? If a car could use this kind of engine, it could theoretically go about 1.6 billion kilometres on 4.5 litres of petrol, says Dr Steve Allen, an assistant professor at Stanford University.
+Unfortunately, no earthly car could do this, as black holes are fuelled by matter lured by the holes' vast gravity. Their pull is so strong that nothing, not even light, can escape. 
+Most of the energy released by this matter as it gets close to the black hole's point of no return, or event horizon, shows up in the form of high-energy jets, which spew forth from magnetised discs of gas. 
+These jets speed away from the black hole at speeds up to 95% of the speed of light, which is 300,000 kilometres per second, and create huge bubbles in the hot cosmic gas of the galaxies.
+These bubbles can measure hundreds or even thousands of light-years across. A light-year is about 10 trillion kilometres, the distance light travels in a year.
+To come up with their fuel-efficiency estimate, Allen and his colleagues used NASA's orbiting Chandra X-Ray Observatory to peer into the inner regions of nine giant elliptical galaxies.
+This view gave the scientists an idea of how much matter, the black holes' fuel, was available. 
+Other Chandra observations were used to figure out how much power would be required for the jets to produce the big bubbles.
+The scientists calculated that the energy in the jets is equivalent to about trillion trillion trillion watts. 
+The fuel reservoirs for these high-efficiency black hole engines are so big, the scientists say, they could keep things going for hundreds of billions of years.
+This is many times the current estimated age of the universe, which is 13.7 billion years. 
+How about other galaxies?
+This fuel-efficient phenomenon may be common to giant galaxies like the ones the researchers observed, which are about 10 times as massive as ours. 
+But they are probably not common to the Milky Way, the scientists say.
+Dr Kim Weaver of NASA's Goddard Space Flight Center says these supermassive black holes also appear to limit star formation and galactic sprawl.
+The heat coming from the black hole jets is believed to heat up the gas around the galactic centre. Without this source of heat, the gas would cool down and form new stars, Weaver says.
+"This is one way to keep the stars from forming and letting the galaxies grow bigger," she says.
+
+The UK's mainstream power providers have caught onto wind power, technology they once dismissed
+Environmental activists are driving commercial innovation and seeding new mainstream industries, a UK study says.
+University of Sussex researchers carried out the study for the UK's Economic and Social Research Council.
+The study says rather than putting up hurdles to economic progress, radical activist groups and proponents of a greener lifestyle are driving developments in mainstream businesses like wind energy, organic food and eco-housing.
+"Activists often struggle to keep projects going and fail to produce the radical transformations they originally envisaged," says author Dr Adrian Smith.
+"This lack of breakthrough inclines them (and others) to underestimate the effect of their ideas.
+"But we found that although their influence is more subtle and beyond their control, it is still hugely significant in many cases."
+Australian sustainability pioneer and engineering lecturer at the University of Technology Sydney, Michael Mobbs, says the report rings true for him.
+The environmental lawyer was renovating his Sydney home in 1996 when he decided to put in sustainable features, including a water tank, a reused sewage system and solar panels.
+At the time people thought he was "frothing at the mouth or somehow abnormal", he says.
+Ten years later, 17,000 people have toured his home and he advises policy makers, developers, builders, architects, engineers and "mainstream, middle class Australians".
+"There are now laws requiring rain tanks and many of the things I did that were regarded as weird and stupid are now in red tape," he says.
+"The engineers who were once critical of me are now describing themselves as sustainability experts."
+Mobbs is currently helping Western Australia's Department for Planning and Infrastructure design a sustainable village at Gracetown.
+Tamra Lysaght is the managing director of Australia's National Invention Centre, which helps innovators commercialise their ideas.
+Australia may be lagging behind Europe in taking up the ideas of fringe groups because she says Australia's environmental problems aren't as pressing and there's less government support for sustainable projects.
+She says while the centre doesn't usually deal directly with activists, aspiring inventors often put an environmental spin their product as a "selling point".
+Lysaght says no one single group can be credited with driving change and a move to more sustainable industries is a response to a network of social and economic factors.
+She also says environmental activist groups can sometimes be an impediment to the development of potentially beneficial technologies, such as nuclear power.
+"The environmental movement has certainly been a key player in curtailing the nuclear power industry in Australia and globally," she says.
+"But whether you view that as good or bad depends on which side of the fence you're sitting on."
+The report Supporting and Harnessing Diversity? Experiments in Appropriate Technology can be downloaded from the research council's website.
+
+Leo the Lion and his 11 other signs of the zodiac don't define your personality, a new study shows
+One of the largest studies of the possible link between human traits and astrology has found little, if any, connection between the traditional Sun signs of the zodiac and people's characteristics. 
+The study adds to the growing body of evidence that there is no scientific basis for star signs, like Aries and Taurus, signs that are based on the place of the Sun in relation to someone's date of birth. 
+But the researchers leave open the question as to whether other, more detailed and personal forms of astrology hold any validity.
+"When considering the current scientific standing with respect to Sun signs, it becomes clear that there is little or no truth in [them]," says Dr Peter Hartmann, who led the study in the May issue of the journal Personality and Individual Differences.
+"This does not necessarily mean that all astrology is without truth, but only that the independent effect of Sun signs is most likely to be irrelevant," says Hartmann, a researcher in the Department of Psychology at Denmark's University of Aarhus.
+"As for the weekly horoscope based on mere Sun signs, then according to the current scientific standing, there is probably more truth in the comic strips." 
+Hartmann and his colleagues used computer analysis and statistical methods to study possible astrological connections between over 15,000 individuals. Their test subjects came from two sources. 
+The first was the Vietnam Experience Study, which gathered information about intelligence, personality and date of birth for male military veterans.
+The second was the 1979 National Longitudinal Study of Youth, which included intelligence and date of birth information for males and females aged between 15 and 24 years. 
+If connections existed over a rate of 5%, they were considered valid and not the result of random links. 
+No link in Vietnam
+The scientists could find no relationship between the time and date of a person's birth and their personality traits, which the Vietnam study categorised using terms such as psychoticism, extraversion, neuroticism and social desirability. 
+The researchers, however, did determine that individuals from the Vietnam test who were born between the months of July and December were slightly more intelligent, by less than one IQ point, than those who were born between January to June. 
+That finding was reversed for the 1979 youth study. In that case, people who were born January to June had the minute intellectual edge. 
+And in the real world?
+Hartmann says that although the information about intelligence passed the non-random restriction, he views the connection as irrelevant. 
+"Assuming that you could buy a pill that would increase your IQ with one point, but it would cost you $10,000, would you do it? Probably not, but if you could buy a pill that would increase your IQ by 15 points that would be something else, simply because you get more value for your money," he says. 
+"The essence here is that there is a difference in determining whether a result is significant, hence whether it is a true effect, or just random occurrence, and then whether this significant effect is relevant and of any interest." 
+The Australian connection
+Geoffrey Dean, a former astrologist based in Australia who researches the possible scientific validity of astrology, tracked over 2000 people who were born within minutes of each other. 
+The study, which spanned several decades, covered over 100 different characteristics, like marital status, IQ, anxiety and temperament was published in 2003 in the Journal of Consciousness Studies.
+Dean came to a similar conclusion as Hartmann and his team, that date of birth does not affect an individual's personality.
+
+There's no motivation to put up Arabic content on the web as there's no dedicated search engine to find it, commentators say. But that may be about to change with the launch of a new search engine later this year
+Plans for a dedicated Arabic language search engine could boost the number of Arabic webpages, its developers say.
+The Saudi-German search engine, called Sawafi, is planned to be launched in the last quarter of 2006.
+And it could set a tough challenge for international search giants such as Google, MSN and Yahoo, which currently offer a basic Arabic search. 
+"There is no [full] Arabic internet search engine on the market. You find so-called search engines, but they involve a directory search, not a local search," says Hermann Havermann, managing director of German internet tech firm Seekport.
+Sawafi, working with Saudi partner Integrated Technical Solutions, is hoping to copy the success of local Chinese language search engine Baidu, which has made huge strides in a market with over 100 million users.
+Everything is to play for in the Arabic speaking world of 280 million people, where internet penetration is low. There are also large communities Arabic speakers internationally.
+"There are only 100 million webpages right now in Arabic, and that's nothing. It's only 0.2% of the total worldwide," Havermann says. 
+Research commissioned from Dubai-based Internet researcher Madar shows the number of Arabic speaking internet users could jump to 43 million in 2008 from 16 million in 2004, Havermann says.
+According to Madar, 65% of Arabic internet users in 2005 could not read English, which accounts for 70% of the material on the internet. 
+Better search engines are key to a turnaround. 
+"There is not enough Arabic content available on the internet. But there's no motivation to put more Arabic content on the internet as long as you don't have a system to find the content," Havermann says. 
+Saudi Arabia, with an affluent population of 24 million, and Dubai in the United Arab Emirates would be key places for winning online advertising to fuel Arabic search engines. 
+"Search engines are dependent on income from advertising, and for this you need partners and marketing agencies. They are in Dubai," Havermann says. "On the other side, the Arabic user market is in Saudi Arabia."
+
+Microbiologists have found the bacteria resonsible for preparing fart-free beans
+Beans cooked with a pinch of bacteria means diners can tuck in without the explosive results, scientists say.
+Researchers from Venezuela say two strains of bacteria are the key to producing fart-free beans.
+They show how Lactobacillus casei and Lactobacillus plantarum can be added to beans so they cause minimal distress to those who eat them, and to those around them.
+Marisela Granito of Simon Bolivar University in Caracas and colleagues report their results in the Journal of the Science of Food and Agriculture.
+Flatulence is caused by bacteria that live in the large intestine that break down food not already digested higher in the gut. The gas the bacteria produce is emitted from the body as a fart.
+Granito and colleagues found that adding these two gut bacteria to black beans, or Phaseolus vulgaris, before cooking makes them even less likely to cause flatulence.
+"Legumes, and particularly Phaseolus vulgaris, are an important source of nutrients, especially in developing countries," Granito's team writes.
+"In spite of being part of the staple diets of these populations, their consumption is limited by the flatulence they produce." 
+Smart cooks know they can ferment beans, and make them less gas-inducing, by cooking them in the juices from a previous batch.
+But Granito's team wanted to find out just which bacteria were responsible.
+Cooking up a storm
+When the researchers fermented black beans with the two bacteria, they found it decreased the soluble fibre content by more than 60% and lowered levels of raffinose, a compound known to cause gas, by 88%. 
+They fed the beans to rats and then analysed the rats' droppings to ensure that the beans were digested and kept their nutritional value. 
+When pre-soaked in L. casei, the beans stayed nutritious and produced few gas-causing compounds, the researchers report. 
+"Therefore, the lactic acid bacteria involved in the bean fermentation, which include L. casei as a probiotic, could be used as functional starter cultures in the food industry," the researchers write. 
+"Likewise, the cooking applied after induced fermentation produced an additional diminution of the compounds related to flatulence."
+
+Space explorers have been urged to consider the implications of exploring the cosmos before taking another leap for mankind
+We will need an intergalactic police force to keep order in space and protect the interests of the vulnerable, says a US ethicist.
+Dr Patrick Lin, of the The Nanoethics Group in Santa Barbara, California, says we should be thinking about the ethical implications of future space exploration. And some kind of government or police force should be considered.
+He will tell the International Space Development Conference in Los Angeles next week that it is not clear that an Earth-based government would be the most effective.
+"Space has been long called 'the final frontier', but have we taken the time to consider what our responsibilities are as 'frontiersmen'?" says Lin.
+Lin's recommendations are part of a call for space explorers to look before taking another leap for mankind.
+Commercial space travel is becoming a reality, he says, and the public needs confidence that governments, scientists and astronauts are considering the consequences of exploring space.
+For instance, Lin says we need a fair process for commercialising or claiming property in space to avoid what he calls the kind of "chaotic land-grab" that occurred with internet domain names.
+"We would not rush to develop the south pole without a well-thought plan, so the same reasonable precaution would seem to apply to colonising space," he says.
+There he says there are legal disputes already.
+Despite UN treaties declaring space as commonly-owned, he says lawsuits have been filed to lay claim to asteroids.
+Why are we doing it anyway?
+Lin says it is important to have a justifiable reason for exploring space.
+"Are reasons such as for adventure, wanderlust or 'backing up the biosphere' good enough to justify our exploration of space?"
+He says we should question the idea that space may provide an escape for us if our world becomes overpopulated and uninhabitable.
+"Does having a safety net, such as a back-up planet, make it more likely that we take more chances and treat our current planet less carefully?"
+Lin says issues such as polluting space, the proliferation of military technologies in space and the safety of space travellers should also be considered.
+"We have already littered our outer atmosphere with floating space debris that rockets and satellites need to track and navigate around, not to mention abandoned equipment on the Moon and other planets," he says.
+"Have we learned enough about ourselves and our history to avoid the same mistakes as we have made on Earth?"
+Finally, says Lin, some critics suggest it may be better to spend money on alleviating poverty and hunger, providing access to clean and affordable water and energy, and addressing other issues including human rights violations.
+Plenty of real estate in space
+Australian cosmologist and space exploration advocate, Professor Paul Davies, agrees space exploration is a "free for all" but doesn't think regulation is needed.
+He says he supports the views of US physicist and futurologist Emeritus Professor Freeman Dyson, of the Institute of Advanced Studies in Princeton, who sees space as "an escape from the straightjacket of an over-regulated Earth".
+"We could find whole new ways of organising society," says Davies of the Australian Centre for Astrobiology at Macquarie University in Sydney.
+Davies says space is not finite in the same way Earth is, which means there is less need to control development there.
+"In a sense, space is unlimited," he says. "There's a lot of real estate out there and no possibility I think within a thousand years of any sort of territorial conflict."
+But Davies believes we should be regulating exploration of Mars, if we find life there, to ensure scientists can study it.
+He also says we need to take the issues of space junk and militarisation of space seriously.
+But he does not think it's fair to say money spent on space exploration should be spent on solving problems on Earth.
+"Let's stop sport and spend that money on alleviating poverty in Africa," he says. "You never hear that argument."
+
+Gravity and not colliding space rocks made Neptune and the other giant planets tilt, according to a new hypothesis
+An early gravitational dance made the giant planets tilt, an astronomer suggests.
+The shift probably happened billions of years ago when the bigger planets in our solar system were closer together than they are now, and the gravity of each one pulled on the others, writes Argentinian researcher Dr Adrian Brunini today in the journal Nature.
+This "neutral gravitational interaction" caused Jupiter, Saturn, Uranus and Neptune to have tilted axes that were determined as they moved through the solar system to take their current positions far from the Sun, says Brunini, from the Facultad de Ciencias Astronomicas y Geofisicas in Buenos Aires.
+This is a departure from an earlier theory that holds that the massive planets' tilts, or obliquities, were caused by collisions with Earth-sized space rocks during the early period of the solar system. 
+"This model has some problems that were not clear how to solve," Brunini says. "For example, we believe that such a big object never existed in the outer solar system." 
+Gravity on gravity
+Brunini used numerical models to show that the outer planets' obliquities could have been created by gravitational interactions. 
+All the planets in our solar system have tilted axes but the bigger ones have axes that lean at a constant angle, while the smaller ones like Earth have obliquities that can change. 
+Despite the potential for change, Earth's axis has been leaning at about 23&deg; for millions of years and is almost completely stabilised by the Moon's gravitational pull, Brunini says.
+But Mars' axis might change over tens of millions of years. 
+Earth's tilt stable but crucial
+For humans, the reliability of Earth's tilted axis is important as it is responsible for the change of seasons. At the point in its annual orbit where Earth's northern hemisphere leans away from the Sun, it's winter; when the southern hemisphere tilts away, it's winter south of the equator.
+While the more massive planets have stable obliquities, they range in size from a nearly perpendicular 3&deg; for Jupiter to about 97&deg; for Uranus, Brunini says.
+
+It took an average of 3 to 4 months for men to regain their fertility after stopping the 'pill'. But some men had to wait as long as 2 years
+Worries that the male contraceptive 'pill' may wreck a man's chance of fathering a child are unfounded, says a new study.
+Men given a hormone-based contraceptive can regain their fertility about four months after stopping the treatment, researchers report today in The Lancet journal.
+Drug companies have been working on a male pill or injection to inhibit sperm production and give couples a greater choice of family planning methods. 
+The three main male contraceptive methods - the condom, withdrawal and vasectomy - are regarded by many as insufficiently reliable or difficult to reverse. 
+The male pill uses the hormone androgen, or a mixture of androgen and progestogen, to suppress sperm production to zero or negligible levels. 
+US and Australian scientists analysed studies involving men who had been given the contraceptives in trials and found the treatments were highly effective but reversible. 
+"Hormonal male contraceptive methods could soon become widely available," says Dr Peter Liu currently at the ANZAC Research Institute at the University of Sydney. 
+"These findings thereby increase the promise of new contraceptive drugs allowing men to share more fairly the satisfaction and burden of family planning."
+Large-scale trials of male hormone-based contraceptives are being conducted in China and Europe, the scientists say.
+Liu and his team analysed data on 1500 men who had taken part in 30 trials that had been published between 1990 and 2005. 
+All participants recovered fertility after they stopped taking the hormones. On average, it took 3.4 months to achieve this, defined as a threshold of 20 million sperm per millilitre.
+But some men took as long as two years to regain their fertility.
+The researchers say various factors, including age, original sperm count, duration of treatment and ethnic origin, could influence the recovery rate.    
+Two of the study authors are employed by pharmaceutical companies.
+
+The researchers compared the DNA from different types of banksia and other woody plants around the world
+Tropical plants evolve twice as quickly as their cousins from more temperate regions, researchers say. 
+That could provide the answer to one of the most puzzling questions about evolution - why there are so many more species in tropical regions than there are in temperate zones.
+A New Zealand study, published online today in the Proceedings of the National Academy of Sciences, measured the rate of change that had occurred over millions of years in the DNA of 45 closely paired species of woody plants.
+"For each pair we used two closely related species, one from the tropics and one from a temperate zone," says co-author Dr Len Gillman from Auckland University of Technology. 
+The study compared plants included conifers, kauri pine, grevilleas and wattle from tropical areas of Australia, Papua New Guinea and the Amazon with their counterparts in temperate zones in countries including New Zealand, the US and Australia's island state of Tasmania.
+By sequencing a particular region of DNA in each pair and comparing it to the same region in an equivalent common ancestor, the team were able to measure the rate of evolutionary change.
+"We found that there was double the molecular change in the tropical species," says Gillman.
+"If you've got twice the rate of evolution occurring you've got twice the opportunity for species to be generated and accumulate over time."
+The study suggests that the faster rate of evolutionary change in tropical plants is due to higher metabolic and productivity rates. A higher metabolic rate leads to more cell division and increases the opportunities for mutation. 
+Although it was suspected that more energy was responsible for the greater species diversity towards the equator, the New Zealand team is the first to demonstrate a mechanism - a faster rate of evolution.  
+The researchers say that this is unlikely to be caused by rapid genetic drift in the generally smaller populations of plants in the species-rich tropics, though it warrants further investigation.
+They suggest that the greater rate of speciation seen in the tropics is a consequence rather than a cause of the faster rate of molecular evolution.
+
+People have until 1 May to have their say in Australia's national nanotechnology strategy
+The Australian public is being left out of crucial decisions on nanotechnology that will affect their future health, environmental, social and economic wellbeing, says an environmental group.
+The Friends of the Earth (FOE) says the government taskforce charged with developing a national nanotechnology plan is treating public input as a "tokenistic add-on" rather than something that should help shape Australia's response to the technology.
+The government has given the public the month of April to make submissions to its nanotechnology strategy. But FOE says this is not enough.
+"Public awareness of nanotechnology is so low that this is a really inappropriate way for [the taskforce] to be seeking public involvement," says  Georgia Miller of FOE's nanotechnology project.
+FOE wants a public education campaign on nanotechnology, public meetings and consensus conferences or other processes to involve a broader range of the public.
+Miller says the process should be independently funded and run by a steering group of representatives from all parts of society likely to be affected by nanotechnology.
+"This isn't a radical suggestion," she says. "This is something along the lines of what the UK government has already set up to oversee its public engagement process on nanotechnology."
+Miller says unions, environmental, public health, farming, disability rights, consumer and civil liberties groups should be involved in developing the strategy. But she says the taskforce has had only "ad hoc" contact with groups other than those from science and industry.
+Discussion paper lacking
+The National Nanotechnology Strategy Taskforce, the body within the federal industry department charged with developing Australia's nanotechnology plan, issued a discussion paper for public comment.  
+But Miller says this discussion paper "trivialises" the potential risks of nanotechnology, which she says is already widely used unlabelled and untested in commercial products.
+She says bodies like the UK Royal Society have recommended nanomaterials be assessed as new products but the paper makes no mention of legislation to manage any risks.
+Miller also says the paper should have mentioned efforts by researchers to enhance humans, by combining nanotechnology with biotechnology, information technology and cognitive science.
+And she says it should have recognised the economic impact of nanomaterials.
+"Carbon nanofibres may displace cotton but this isn't even mentioned and this would have huge impacts for Australia," she says.
+Extensive consultation
+David Gallagher, general manager of the National Nanotechnology Strategy Taskforce, says surveys show there is a low level of public knowledge about nanotechnology but that is not surprising.
+He agrees the discussion document is limited, for example on health and safety issues, but says it was only designed to be a starting point for public comment.
+"The point of the public process is to determine if people believe health and safety is an issue, and if it is why," he says.
+A spokesperson for industry minister Ian Macfarlane says the taskforce is undertaking "extensive consultation" with industry, science and community groups to develop the strategy.
+"The government recognises that public engagement is not a 'one off' process," the spokesperson says. 
+"It is likely that options for a national nanotechnology strategy will place priority on the need for ongoing effective public engagement, awareness and debate - much in the same way as has been done with biotechnology."
+Balancing act
+Nanomaterials researcher Professor Chennupati Jagadish, who convenes of the Australian Research Council Nanotechnology Network and has also advised the taskforce, says public engagement is "absolutely essential".
+But he says it's a "balancing act" because Australia needs the national strategy so it can be competitive internationally.
+"Time is also of the essence," says Jagadish, who is based at the Australian National University in Canberra.
+Australian Council of Trade Unions occupational health and safety officer Steve Mullins says he sees the strategy discussion paper as the beginning of the process to raise public awareness about nanotechnology, not the end.
+"There is a very real risk that environmental and health and safety concerns will be sidelined by government and business in their enthusiasm to develop the industry in Australia," he says.
+The taskforce is due to report to the minister in June.
+
+Controversy over GM crops continue but a new report recommends no changes to the law
+Calls for changes to the laws governing gene technology in Australia have been largely rejected in a new report, despite ongoing controversy over genetically modified crops.
+A review of the Gene Technology Act 2000, by a government-appointed review panel, found there should only be minor changes to the Act, which it outlines in a report released this week.
+The review also calls for states to end their moratoria on genetically modified (GM) crops.
+"It was the issue that was raised at every forum - it was the hot issue," says review panel chair, environmental lawyer Susan Timbs.
+The review rejects calls for the Act to be changed so that economic, social and marketing impacts of GM crops could be considered.
+And it agrees with GM researchers and industry that GM and non-GM crops can co-exist.
+The review also disagrees with some farming and consumer groups, that people releasing GM organisms (GMOs) be made strictly liable for any detrimental effects of their products.
+More time to assess risky applications
+But the review recommends some changes in the way the Office of the Gene Technology Regulator (OGTR) assesses applications for the release of GMOs.
+The review recommends the regulator be given more time to assess applications for the commercial release of organisms deemed to be of "significant risk".
+Timbs says under the proposal this would provide more time for public consultation.
+But the time limit for assessing field trials would be reduced and industry and researchers conducting low risk work with GMOs would have less requirement to report their activities, Timbs says.
+The review also recommends the Gene Technology Technical Advisory Committee (GTTAC), which advises the OGTR on risks, should include people with specific expertise in public health and environmental risk assessment.
+Responses
+Senator Natasha Stott Despoja, Australian Democrats' spokesperson on science and biotechnology, says the review makes few recommendations to improve the system.
+"The report found a 'high level of transparency in relation to the regulatory system', which appears to be contradicted by the lack of information made available to the public on GM trials by the Office of the Gene Technology Regulator," she says.
+"The report also found the states' moratoria on GM crops to have 'detrimental rather than beneficial impacts (on markets)'. Given the evidence of GM contamination of non-GM crops, and the lack of research into the impact of human consumption of GM products, the states are showing an appropriate level of caution in regard to this technology."
+Professor Sue Serjeantson of the Australian Academy of Science says the Act has provided a climate of community confidence about GMO assessment.
+But she says the moratoria are a disincentive for research and means the Act has failed to "capture the benefits of biotechnology for the Australian community, industry and the environment".
+She says the moratoria may not be in place if the community had "access to quality information about biotechnology, the potential risks and benefits of its application".  
+"This highlights the necessity for the OGTR to be involved in increasing public awareness of GM technology, to assist the regulator applying the Act."
+
+NASA engineers have made minor tweaks to the design of Discovery's external fuel tank. But they are waiting until after the next launch to redesign small foam wedges of insulation
+The US space agency says it will not make any more changes to the design of the shuttle's fuel tank until after the next flight, despite ongoing concerns about foam insulation breaking off and damaging the shuttle during launch.
+NASA's shuttle program manager Wayne Hale acknowledged a slight risk that a small chunk of foam could break off from a newly exposed part of the external fuel tank and critically damage Discovery's heat shield during its proposed July launch. 
+The insulation prevents ice from building up and breaking off during launch. 
+Shuttle Columbia and its crew of seven astronauts were lost during atmospheric re-entry in February 2003, due to wing damage from a piece of foam insulation that fell off and hit the shuttle during launch. 
+The tank was redesigned, but foam from another part of the tank was lost during the first post-Columbia launch of Discovery last July. 
+Engineers then removed two aerodynamic ramps of foam that had protected a box of cables and two pressurisation lines from the tremendous winds and turbulence created by the shuttle's supersonic climb to orbit. 
+Hale says the ramps' removal was "the largest aerodynamic change that we have made since the shuttle first flew". 
+Tests to determine if the new design is safe to fly remain under way.
+After much debate, Hale decided making more than a major change in the tank's design was riskier than the slight chance of a critical impact by the small foam wedges. Those chunks cover metal brackets that attach the cable tray and pressurisation lines to the outside of the tank. 
+"We had to ask whether it's appropriate to make more than one change to the outer shell of the vehicle," Hale says. "If we go fly and have another accident that will be the end of the program." 
+Upon Discovery's safe return, engineers will redesign the small foam wedges, Hale adds. 
+NASA wants to fly the shuttle another 16 or 17 more times to complete construction of the International Space Station and possibly service the Hubble Space Telescope before the fleet is retired in 2010. 
+Managers expect to make a decision about whether the shuttle's redesigned tank is safe to fly at a review scheduled for mid-June. 
+NASA's next opportunity to fly a shuttle to the space station under its post-Columbia safety protocols, which include a daylight launch, is 1-19 July.
+
+You're more open to suggestion with a cup of coffee in your hand, research shows
+If you want to bring someone around to your way of thinking you should make sure they've got a cup of coffee in their hand, according to research showing that caffeine makes us more open to persuasion.
+The Australian researchers say a caffeine hit improves our ability to process information and increases the extent to which we listen to and take on board a persuasive message.
+They tested this by quizzing people about their attitudes to voluntary euthanasia and abortion before and after either the equivalent of about two cups of coffee or a placebo.
+They were also given a persuasive argument to read after having the caffeine.
+The experiments showed that "caffeine increases persuasion through instigating systematic processing of the message".
+But caffeine also puts people in a better mood, which makes them more likely to agree with a message, the researchers say.
+The research is posted on the Queensland University of Technology website and is submitted for publication in the European Journal of Social Psychology.
+What does this mean for advertising?
+Co-author Dr Blake McKimmie says the research suggests that caffeine increases our ability to scrutinise the content of a message.
+The study has implications for advertisers, he says, because it suggests that they should schedule adverts for times when people are likely to be consuming caffeine, such as breakfast time.
+Drinking too much coffee, however, means we're more likely to be distracted by peripheral factors, rather than the strength of the argument.
+"So if you're looking at an advertisement you may be more distracted by the attractiveness of the person selling it than the actual product," he says.
+Caffeine on the brain
+Associate Professor Pradeep Nathan of Monash University, an expert in behavioural neuroscience who was not involved in the research, says caffeine stimulates the central nervous system including the brain, where it affects several neurotransmitters.
+The Melbourne-based researcher says it improves memory and makes us pay closer attention to tasks at hand.
+"It does improve attention and it can improve memory so by being more attentive and remembering your attitude to a particular thing may change," he says.
+"If you're more attentive, yes [it does have implications for advertising]. Advertising works on the principle of getting people's attention, you want to get as many people interested in your ads as possible."
+But will it last?
+Geoff Kelly is the chief executive officer of an Australian consultancy that advises governments and corporations on how to get people to buy a particular message.
+He says there are different levels of persuasion and the key to success lies in whether the persuasion is long term.
+"Many things can be instrumental in persuasion but will they last in the long term?" he says.
+"If I have the magical technique to take you out to dinner it might work, but it doesn't mean I can get you to go out with me."
+
+Resting your forearms on a soft support as you type seems to reduce your chance of pain in the neck, shoulders, arm, wrist or hand
+Office workers who use a simple forearm support might avoid the pain that can come with long days at the computer, new research suggests.
+In a year-long study of 182 workers at a call centre, researchers found that those who received forearm supports for their desks were less likely to suffer pain in the neck, shoulders, arm, wrist or hand.
+They were also less likely to be diagnosed with a musculoskeletal injury in the neck or shoulders, according to findings published in the latest issue of the journal Occupational and Environmental Medicine. 
+The forearm support used in the study was a padded board that attaches to the front edge of workers' desks.
+The support is placed right under the "meaty part" of the forearm, positioning computer users' arms in a way that releases tension in the shoulder muscles, says lead author Professor David Rempel from the University of California, San Francisco.
+Based on these findings, employers should consider providing forearm supports to workers who spend substantial time in front of a computer, Rempel says.
+The results were less positive, though, for a trackball, a large ball installed next to the computer keyboard that takes the place of the mouse.
+While it did ease some workers' discomfort, others found it hard to use, Rempel says. 
+The study included employees at a large insurer's call centre, all of whom spend their workday at a computer.
+Some workers received a forearm support for their desks, while others received a trackball. 
+All employees were also given ergonomics training so they could learn how to make their entire workstation more comfortable. 
+Over the next year, Rempel's team found workers who used a forearm support were half as likely as those who received only ergonomics training to be diagnosed with a neck or shoulder injury.
+They also reported less pain in the neck, shoulders and right arm. 
+The cost of forearm supports is not negligible, Rempel says. But in a cost analysis, he and his colleagues found that the supports could be a worthwhile investment, considering the potential savings in medical and workers' compensation expenses. 
+"They would pay for themselves in about 10 months," Rempel says. 
+But forearm supports alone are not sufficient, according to the researchers.
+Rempel says all employees should receive proper safety and ergonomics training to reduce their chances of on-the-job injuries.
+
+Be careful what you write in your blog. The boss could be watching
+Bosses are considering putting specific provisions in employment contracts that could regulate what you put in your private blog or even prevent you from blogging at all, according to a new book.
+A chapter on blogging and the law, written by two Australian experts, says such clauses could stop employees from referring to their workplace even when they are writing personal blogs from their own home.
+"Employers are now considering including specific blogging provisions in employment contracts," the authors write in Uses of Blogs, a book to be published later this year.
+"Some employers have even taken the steps to ensure that employment contracts disallow employees from blogging at all."
+Co-author Damien O'Brien from the Queensland University of Technology law faculty says some workplaces have specific policies against blogging in the office but "it can get a bit blurred whether [it's] in the workplace or at home".
+"Certainly some of the provisions that would be put in contracts would cover when people are blogging outside their work," he says.
+The trend comes after a recent spate of cases in which employees have run into trouble over personal blogs, including a US flight attendant who was sacked for allegedly posting images of herself in uniform.
+The practice of sacking people because of their blog has even got a name, doocing, after a US woman who was allegedly dismissed for writing satirical accounts of her workplace in her private blog at dooce.com.
+Changing technology?
+Stephen Price is the workplace relations practice leader at the Australian law firm Corrs Chambers and Westgarth and advises a number of large corporations on workplace issues.
+He says concerns about blogging are related to issues like disclosure of confidential information or defamation of bosses, clients or colleagues, which originally focused on email.
+"As technology has moved on that concern has highlighted new areas and one of those new areas is blogging," he says. 
+Price says none of his clients has attempted to restrict employees blogging and he isn't aware of a blog-related case coming before an Australian court.
+"But in the future it wouldn't surprise me," he says.
+"It's pretty hard to draw up a contract that says you can't blog at home privately and have that upheld unless the person was distributing confidential information or defaming or harassing somebody, which would be covered by other provisions of the contract."
+Making policy clear
+Professor Brian Fitzgerald, head of law at Queensland University of Technology and a co-author of the chapter on blogging and the law, says as a so-called "disruptive technology", all parties may have to adapt to the fact that blogging is here to stay.
+"Yes the law will need to adapt, yes bloggers will need to adapt but also the big players will have to adapt," he says. 
+"The blogging issue is a bit like accessing websites, every workplace needs a protocol."
+Uses of Blogs, to be published by the Peter Lang Publishing Group in New York, is due for international release this year.
+
+Imaginary playmates are a sign of a rich fantasy life, but can also hint at problems, researchers say
+Children with imaginary friends have more vivid daydreams than other children, a new study shows for the first time.
+Australian researcher Dr Paula Bouldin of Deakin University shows that children with imaginary friends also tend to have more "mythical content" in their dreams.
+They spend more time daydreaming and have an ability to "almost ... see and hear the contents of their daydream in front of them".
+It may appear obvious that children with imaginary friends have a richer fantasy life than those without, but to date there has been little specific research into the area.
+Bouldin says her work, reported in the Journal of Genetic Psychology, finally provides evidence of this.

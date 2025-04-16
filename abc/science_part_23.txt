@@ -1,0 +1,661 @@
+Picture books help 2-3 year olds learn about the world. But are some books better than others?
+Toddlers can re-enact what they see, hear and learn from picture books, new research shows.
+The finding suggests that picture books may play a much greater role than simply entertaining toddlers and may help them understand the world.
+Researchers from the University of Queensland and the University of Virginia publish their findings in the latest issue of the journal Developmental Psychology.
+Researchers know that picture books can help 4-5 year old preschoolers with a range of literary and 'life' skills.
+But it is harder to assess what 2-3 year olds learn simply because they don't have the language skills to tell us.
+"So what we did in our study was to let toddlers show us what they know using a re-enactment, or imitation paradigm," says Australian author Dr Gabrielle Simcock, a postdoctoral fellow at the University of Queensland.
+Researchers read toddlers a picture book that described how to make a toy rattle.
+They then asked the toddlers to make a rattle using the objects supplied: a green wooden ball, a stick attached to a plastic lid and a clear plastic jar.
+Some 36 children in each of three age groups (18 months, 24 months and 30 months) were read either a picture book featuring colour photographs of a rattle being made, a picture book with coloured pencil drawings of a rattle being made, or not read a book at all.
+Overall, children across all groups shown the colour photograph book were more successful in their attempts to make a rattle than those shown a colour drawing book or no book.
+Toddlers aged 24 months and 30 months did equally well with both versions of the book.
+But the 18 month toddlers shown the colour photograph book did much better than those shown the colour drawing book.
+"The 18 month children needed the representation in the book to be highly realistic and to match very closely to the real world before they could understand, while the older children were much more flexible in their ability to use the pictures."
+The control group was least likely to be able to make the rattle.
+Simcock says the findings are exciting, but don't mean that parents should only read their children only picture books with real-life photographs.
+"I think it's through cumulative exposure to a wide range of different types of books and illustrations that children begin to abstract that the pictures in the books can represent real world things," she says.
+"And not all books are informative about the real world; often they might be animals talking and doing things ... [simply to] entertain."
+
+The idea is you would be able to recharge your laptop without plugging it in
+You may one day be able to recharge your laptop or mobile phone without having to plug it into the wall, says a US physicist.
+But others say there are many hurdles before such transfer of energy means we can say goodbye to wires.
+Assistant Professor Marin Soljacic, of Massachusetts Institute of Technology, will present his team's work at the American Institute of Physics forum in San Francisco this week.
+Today's wireless transfer of energy, such as the transfer of light energy from the Sun for solar power or the transfer of microwaves from transmitters for communication, involve relatively low levels of energy.
+But recharging devices like laptops requires a much higher level of energy. And if this was routinely zapped through the air it could 'fry' any living organisms that get in the way.
+But Soljacic says he's found a way of transmitting energy so that only the devices that it is recharging will pick it up, so it will not affect humans.
+Instead of using traditional radiation, he wants to use the part of the electromagnetic field that is 'non-radiative'.
+He says devices can be tuned to the frequency of this field and thus act as a sink for all the energy the transmitter gives out.
+Soljacic says this would prevent energy radiating out to areas it doesn't need to go to providing an efficient and safe method of wireless energy transfer.
+"The team calculates that an object the size of a laptop could be recharged within a few metres of the power source," he says. "Placing one source in each room could provide coverage throughout your home."
+Soljacic also thinks the technology could be used to power freely roaming robots in a factory.
+Finding a 'magic' frequency
+But Australian physicists, yet to see the full details of Soljacic's work, are sceptical of his claims.
+They say the challenge is finding a 'magic' frequency that doesn't also affect with living organisms and thus pose possible health risks.
+"You would be reintroducing all the problems that we went through with mobile phones," says Dr Geoff Anstis of the University of Technology, Sydney, referring to the uncertainty surrounding any long-term health effects of using mobiles.
+"And it wouldn't be until a couple of decades that you may be happy that there isn't a significant problem."
+His colleague Professor Geoff Smith agrees and says there are also technical challenges to keeping the devices tuned with the transmitters, thus preventing the general release of stray energy.
+"I think this is nice physics but there's a way to go before it would be possible," says Smith.
+He says any changes in the surrounding environment could "de-tune" the system and stop the safe and efficient transfer of power.
+Electrical engineer, Dr Trevor Bird of CSIRO's ICT Centre says attempts so far to develop wireless power transfer have not been very successful.
+He agrees that safety and technical barriers to wireless power systems are huge and would like further details on Soljacic's proposal.
+Bird also says that, depending on the frequency of the field, the antenna on the device being recharged may have to be very large.
+
+Eye of the storm
+Saturn has cooked up a sizeable storm that scientists say is the first in the solar system besides Earth to feature a hurricane-like eye and well formed towers of clouds.
+The storm is smaller than the famed Great Red Spot churning away on Saturn's giant neighbour Jupiter, but is still formidable.
+It sprawls for about two-thirds the diameter of Earth across Saturn's southern pole.
+"It looks like a hurricane, but it doesn't behave like a hurricane," says Dr Andrew Ingersoll, a Cassini scientist at the California Institute of Technology in Pasadena.
+The NASA Cassini spacecraft spent three hours on 11 October observing the beast and clocked its winds at 550 kilometres per hour, twice as strong as Hurricane Katrina at its peak. 
+The spacecraft also imaged a shadow cast by clouds stacked above and ringed around the south pole, as well as two spiral arms of clouds protruding from the central ring.
+Scientists estimate the tower of clouds spans 30-75 kilometres above the clouds in the centre. That's between two and five times taller than the clouds that surround the eye of a hurricane on Earth.
+The Saturn storm can grow much taller because the planet's hydrogen-helium atmosphere is much less dense than Earth's at comparable pressures.
+Also unlike hurricanes on Earth, the storm is not moving around, but appears locked at Saturn's south pole.
+And with a temperature of around minus 170&deg;C, there is no ocean, nor warm tropical water to pump its strength.
+At the base of the eye, scientists can discern, but not explain, dark clouds. They do know Saturn's south pole is warmer than the rest of the planet.
+"The winds decrease with height and the atmosphere is sinking, compressing and heating over the [planet's] south pole," says Dr Richard Achterberg of NASA's Goddard Spaceflight Center.
+Additional observations are planned as the seasons change on Saturn and the south pole transitions from summer to autumn.
+"Whatever it is, we're going to focus on the eye of this storm and find out why it's there," Ingersoll says.
+
+Dr Richard Helmer plays air guitar
+It could make an ideal Christmas present in years to come. Australian scientists have built a t-shirt that lets you play 'air guitar' for real.
+Dr Richard Helmer and his CSIRO colleagues stitched wearable sensors into an ordinary long sleeved t-shirt to create a prototype of what they're calling a 'wearable instrument shirt'.
+Simply by moving one arm to choose chords and the other to strum some imaginary strings, home rockers wearing the shirt could make actual music.
+The tunes come courtesy of a pair of small but resilient sensors placed in the elbows of the t-shirt.
+The sensors bend when you move your arm, sending wireless signals to custom software that turns them into audio samples.
+"When you move your arm it bends a filament in the sensor, which changes its resistance," says Helmer. "It's a bit like a volume control."
+One of the smart things about the technology is the sturdiness of the interface, Helmer says.
+The materials can all stand up to ultraviolet light, moisture and movement, so working up a sweat is less likely to cause problems.
+"It allows you to jump around and the sound generated is just like an original mp3," he says.
+The shirt is part of a wider CSIRO program on intelligent fabrics that aims to tackle more serious applications like health monitoring or 3D computer interfaces.
+So why design an air guitar?
+"I thought we needed to do something that was a little less serious that people could have fun with," Helmer says.
+In the meantime, the researchers aren't deaf to the possibility that their experiment could have commercial potential.
+"It depends on how much people want it," Helmer says.
+The price might start out relatively high, but over a year or two could drop down to "Christmas present level", the researcher says.
+At this stage, no-one knows exactly how much it might retail for, but it would probably be in the hundreds of dollars, Helmer suggests.
+A small price to pay, perhaps, for turning rock star fantasies into reality.
+
+Seabirds and migratory birds are early responders to changes in climate, according to a new report
+Nearly three quarters of all bird species in northeast Australia and more than a third in Europe could become extinct unless efforts to stop global warming are stepped up, a report says. 
+Up to 72% of bird species in northeastern Australia and 38% of bird species in Europe could disappear completely if the planet's temperature continues to rise, according to the international environmental group WWF.
+"This report finds certain bird groups, such as seabirds and migratory birds, to be early, very sensitive responders to current levels of climate change," says WWF's director of climate change policy Hans Verolme. 
+"Large-scale bird extinctions may occur sooner than we thought," he says in Bird species and climate change: the global status report, released today on the sidelines of the UN climate change conference in Nairobi.
+"If high rates of extinction are to be avoided, rapid and significant greenhouse gas emissions cuts must be made," WWF says. 
+Rising sea levels, changes in vegetation and altered temperatures are among the effects of climate change linked to greenhouse gas emissions that impact negatively on bird species worldwide, it says. 
+In the Great Plains of North America, where up to 80% of the continent's ducks come to breed, three quarters may face extinction because of adverse global warming-related changes to their habitat, the report says.
+While the effects would be most significant if the Earth's surface temperature rises 2&deg;C above its pre-industrial level - it is currently 0.8&deg;C above - some birds are already feeling the heat.
+The penguin population of the Galapagos Islands has decreased by half since the early 1970s, due to starvation and an inability to reproduce resulting from the effects of the El Ni&ntilde;o climate pattern.
+While migratory, mountain, island, wetland, Artic, Antarctic and seabirds are all at high risk from climate change, other species that are able to move easily to new habitats will not be as badly effected, it says.
+Scientists also point out that existing conservation programs do not provide sufficient protection, as bird species often shift into unprotected zones, the report says.
+
+Psychologists says the secret of good batting is being able to anticipate the intent of the bowler
+The best batsmen can predict the sort of ball a bowler's going to deliver before it even leaves his hands, a new study into the psychology of cricket shows.
+Less successful batsmen aren't so highly attuned to subtle visual clues, reports Dr Sean Müller of RMIT University in the latest issue of the Quarterly Journal of Experimental Psychology.
+Müller's study shows that a top batsman can predict how a ball will swing and where it will bounce well before it's airborne.
+"[Experienced players] can pick up ... cues that the intermediate and novice players don't or aren't sensitive to," he says.
+A less skilled batsman can only make these judgements once the ball is in flight, giving him less time to get in the right position.
+Time is critical as it can take just half a second from when the ball leaves the bowler's hand to it reaching the crease.
+Video simulations
+Müller put members of the Australian cricket team through a number of tests, which were also repeated on intermediate and novice cricket players.
+Participants included former captain Steve Waugh and Ricky Ponting, who'll skipper Australia when it faces England in the first Ashes Test in Brisbane next week.
+In one test, the subjects were shown a video of a bowler running up, from the batsman's point of view.
+The video was stopped at various stages of the run-up and delivery, and subjects were required to make a prediction about the ball based on this limited information.
+They were also shown a video with various parts of the bowler's body blocked out, for example, with just a hand.
+"We occluded all of the bowler ... so you'd see this little hand running in all the way from the start and then it'll stop, the screen will go black at the point of ball release," he says.
+Experiments were also carried out on the field with batsmen wearing goggles that blacked out parts of the bowler's body.
+Inherent or learnt skill?
+Müller says it appears that movement-related cue-reading is subconscious, because even the batsmen who were best at anticipating the bowler's intention couldn't specify why.
+Müller says while some people may be naturally more attuned to picking up visual cues, it's likely this can be taught and learned.
+"You need to be exposed to different types of bowlers, different ways the ball spins, in order to learn the relationship between a cue and what will actually happen," he says.
+"It takes time to develop [this skill] and practice is needed."
+Can we improve batting?
+His next study will look at whether videos and goggles can be used to refine predictive ability and improve batting.
+"If a player is going through a slump you could use this method to pick up if they need remedial work in picking up particular cues," he says.
+The study has other practical implications.
+Müller says honing our skills of predictive judgement can make us better drivers or help us cross roads more safely.
+He says humans probably developed predictive judgement as an evolutionary skill to help avoid injury or attack.
+Müller was a PhD student at the University of Queensland when he conducted the research.
+
+This false colour image reveals a large dust cloud in the globular cluster M15 (in red), the first time that dust has been seen there
+Dawdling old stars, and not just the spectacular explosions of massive supernovae, may create much of the cosmic dust that builds generations of new stars and planets like our own, say astronomers.
+The NASA Spitzer Space Telescope has spied loads of dust in what was expected to be a dust-free stellar cluster of old stars, known as M15, in the distant Pegasus cluster.
+The surprising observations are pointing to a new way of looking at how the galactic star-making factories work.
+It also may help explain why there's so much more cosmic dust than can be accounted for by supernovae alone.
+"[It] was very surprising to see the dust there," says Chick Woodward, an astronomy professor at the University of Minnesota.
+Woodward and graduate student Martha Boyer led a study of the dust, which appears in the Astrophysical Journal.
+"In a sense it's a very simple observation," but one that had never been made so clearly before, says astronomer Professor Christopher Sneden of the University of Texas at Austin.
+Now there is no doubt that the dust is coming from the old stars. That could help balance the galactic dust equation.
+But before the researchers can even get to that, they need to explain a more fundamental mystery of M15's dust, says Woodward.
+Lots of dust
+According to the accepted theory, cosmic dust needs to be seeded by heavier elements like silicon, oxygen and carbon, which tend to be products of bigger, short-lived stars.
+But M15's big old stars are poor in heavy elements, and there's still lots of dust.
+"How do we form dust when we don't have the metals around to condense them?" says Woodward. Astronomers call all elements heavier than hydrogen and helium 'metals'.
+The fact that dust could be forming in space without metals could mean astronomers may have to revise their basic theories on where and out of what sort of dust newer stars and planets form.
+As for how much dust there ultimately is in the galaxy, for decades astronomers figured the dustiest places are where stars are forming as it's cosmic dust that makes stars in the first place.
+They also suspected that aged stars like those in M15 lose mass to space, but had not witnessed it taking the form of dust until now.
+One reason the dust from old stars has been elusive, says Woodward, is that the stars are in clusters that formed at the same time as the Milky Way, 12.5 billion years ago.
+That's an awful lot of time for the clusters to bob up and down like a dolphin through the galactic plane.
+Spring cleaning the cosmos
+On each pass the clusters probably get a good scouring, a sort of spring clean in which the galactic wind clears away the dust.
+"[The periodic cleaning] helps explain why people haven't seen it in the past," says Sneden of the dust around old stars.
+One of the next steps, says Sneden, will be to look for more cases like M15, just to make sure it's not a fluke.
+"I'd like to know how common this is," he says.
+
+Films not only depict environmental concerns, they can contribute to them, according to a new report
+Scientists say Hollywood is responsible for creating an unwanted special effect in the skies above Los Angeles: pollution.
+A study by the University of California Los Angeles (UCLA) Institute of the Environment says the film industry is responsible for sending 140,000 tonnes of pollutants into the atmosphere every year. 
+Ozone and diesel emissions from trucks and generators used on movie sets as well as pyrotechnic explosions for special effects contribute to the layer of smog that hangs over Los Angeles. 
+"Many industries are moving toward more environmentally sustainable operations, and it's important that we monitor their progress," says institute director and law professor Mary Nichols. 
+Nichols says researchers note that although several studios and production companies are taking steps to minimise damage, the industry's lack of a unified environmental strategy is a barrier to improvement. 
+Two UCLA professors who conducted an analysis as part of the study conclude that Hollywood could be doing more, the report says. 
+"Our overall impression is that, with a few notable and inspiring exceptions, environmental considerations are not high on the agenda in the film and television industry, and that more could be done within the industry to foster environmentally friendly approaches," the professors say.
+The researchers cite the example of the makers of The Day After Tomorrow, who paid for a US$200,000 (A$260,000) package of environmental measures to offset damage caused by vehicles used in the 2004 blockbuster. 
+The makers of the last two Matrix films were also praised for arranging for more than 97% of set materials to be recycled.
+The study found the problem is attributable to the transient nature of production companies.
+"The degree to which work is controlled by short-lived ever-changing production companies ... [makes] it difficult to institutionalise best practices," it says.
+Business groups warn against using the report to crack down on the film and television industry, which generates around US$29 billion a year in combined revenues and employs around 252,000 people.
+
+The protein soup that makes up semen can trigger serious allergic reactions in some women
+Women can become allergic to their partners or other men, according to new research presented this week at a US conference.
+The culprit is semen, reports Dr David Resnick, acting director of the Division of Allergy at the New York Presbyterian Hospital.
+His research is due to be presented at the annual meeting of the American College of Allergy, Asthma and Immunology in Philadelphia.
+It isn't sperm but its accompanying proteins that can cause an allergic response, a phenomenon that allergy experts are recognising more often, he says.
+While there have been no reported deaths from an allergic response to semen, some women may require hospitalisation after experiencing difficulty breathing, hives and swelling.
+Less severe cases may result in itching, burning and swelling after intercourse. 
+More women may have the reaction than are aware of it, says Resnick. 
+"Some women think there's another problem [such as an infection or condom allergy]," Resnick says.
+"[But] in one survey, out of 1073 women who sought related information from a researcher, approximately 13% were determined to have a semen allergy."
+Sufferers, Resnick explains, produce an antibody that recognises the proteins in a partner's semen.
+The antibody triggers a powerful immune response, similar in mild cases to hay fever. Some women are only allergic to the semen of a certain partner, but others react to multiple men.
+Other allergens can be transmitted through the seminal fluid.
+These include medications such as penicillin, and even some foods and beverages, such as walnuts and soft drinks. Women with other allergies tend to be more prone to semen allergies.
+What can we do about it?
+Two basic types of treatment are available. The first is similar to standard allergy treatments that expose a sufferer to the allergen in diluted doses. 
+The second involves removing other proteins known to sometimes interfere with the desensitisation process from the semen plasma, and then injecting a small amount of the processed semen at regular intervals.
+In both cases, frequent sexual contact is needed after the treatment.
+"We actually had one case where the male spouse was unable to engage in such frequent intercourse, so his wife developed the allergy again," says Resnick. 
+Jonathan Bernstein, a professor of medicine at the University of Cincinnati, and one of the world's leading experts on semen allergies, says he agrees with Resnick.
+But he believes that the processed semen, though a more expensive treatment, would be more effective.
+Bernstein also believes the allergy is probably underreported.
+"It may not be as rare as people think," he says. "The allergy may go unrecognised, yet it can have a significant effect on relationships."
+
+Comets may have caused giant tsunamis much more recently, and much more frequently, than anyone thinks
+Enormous comets may have often bombarded our oceans causing tsunamis that dwarf ones seen today, says a small group of scientists.
+But most critics are yet to be convinced there's evidence to back claims about such recent, frequent mega-impacts.
+Conventional wisdom has it that the Earth suffers such violent hits from space only twice every million years.
+But scientists including Australian geomorphologist Associate Professor Ted Bryant of the University of Wollongong have been studying what they say is evidence of massive objects slamming into the Earth's oceans as recently as 500 years ago.
+They say these kilometre-wide objects are likely to have been comets.
+And Bryant says there have been up to 10 such impacts in the past 10,000 years, based on research with others, including Assistant Professor Dallas Abbott from the Lamont-Doherty Earth Observatory at Columbia University.
+Bryant says these would have caused mega-tsunamis 10 times bigger than the 2004 Asian tsunami, one of the largest earthquake-generated tsunamis the world has ever seen.
+"Aceh was a dimple compared to what we're looking at," says Bryant, who is associate dean of science at the university. 
+Evidence from Google Earth
+Bryant used satellite images from Google Earth to identify inland dunes in the shape of arrowheads that he says are signs of mega-tsunamis.
+The tsunamis would have displaced marine deposits containing marine fossils, he says, dumping them inland as 'chevron' dunes.
+"We've found that chevrons are everywhere, everywhere around the world's coasts," he says.
+Abbot used sea surface altimetry, which measures the height of the sea surface to get an image of the seabed, to identify possible underwater craters, which could be evidence of the impact that caused the tsunamis.
+Bryant says Abbot also looked for melted material in cores from the seabed around the craters to confirm impacts caused them. 
+The chevrons and craters were linked by the direction the chevrons were pointing.
+For example, two chevrons identified 6 kilometres inland from the Gulf of Carpentaria in Australia both pointed north in the direction of two craters found in the Gulf of Carpentaria itself, says Bryant. 
+Dating of sediments to the north of the craters suggests the impact happened 1500 years ago, he says, and the well-preserved chevrons also date to around the same time. 
+Indian Ocean crater
+Bryant says chevrons about 4800 years old around the Indian Ocean are associated with a 29 kilometre wide impact crater located thousands of kilometres to the southeast of Madagascar.
+"There are chevrons around the Indian Ocean that all point back to this one crater site," he says.
+And he says this is supported by evidence from an anthropologist on the team who found 170 myths and legends from the area dating back about 4000 years referring to an event that could have been the impact.
+Bryant says other evidence of a mega-tsunami as recently as 500 years ago has been found on the eastern coast of Australia.
+He and Abbott have linked this one to an impact crater south of Stewart Island in New Zealand.
+None of the research has been published but some of it will be presented at an American Geophysical Union meeting in San Francisco next month
+Mixed reception
+Earth scientist Professor Richard Arculus of the Australian National University says he accepts Bryant's evidence of mega-tsunamis.
+But he says working out what caused them and when will require more evidence.
+His colleague, marine sediment specialist Dr Bradley Opdyke, is also not yet convinced.
+"They're heading in the right direction," he says, but believes more evidence is required to prove the existence of the Indian Ocean crater.
+New Zealand-based tsunami expert Dr Mauri McSaveney of GNS Science says there is pretty good evidence that there are more large craters on our planet than mainstream scientists think there should be. 
+While he says Bryant's claims are "perfectly plausible" and the best available evidence suggests the New Zealand crater is one from the Holocene period, this could still be wrong.
+"He has yet to convince me, and a lot of others," says McSaveney.
+But as Arculus says, Bryant is fighting against a tradition in earth sciences that suggests everything we see around us is the product of slow processes rather than sudden catastrophic events.
+"Geologists are naturally anti-catastrophe," he says. "We're inclined to be conservative."
+
+Size matters, say researchers who are urging more scrutiny of nanotechnology
+Urgent research into the potential dangers of nanotechnology needs to be carried to convince the public of its future value in fields such as medicine and computing, scientists urge. 
+They believe the potential of nanotechnology, which operates on an atom-sized scale, will not be realised without clear information about the true risks and how to avoid them. 
+Dr Andrew Maynard, of the Woodrow Wilson International Center for Scholars in Washington, and 13 other international experts warn that time is running out to get it right.
+"If the public loses confidence in the commitment - of governments, business and the science community - to conduct sound and systematic research into possible risks, then the enormous potential of nanotechnology will be squandered. We cannot let that happen," they say in a commentary in the journal Nature.
+Nanotechnology is the design and use of particles as small as one-billionth of a metre. A human hair is about 80,000 nanometres across. 
+It is already being used in cosmetics, computer chips, sunscreens, self-cleaning windows and stain-resistant clothing. But materials on such a small scale can have different properties to larger versions. 
+The experts say instruments to assess environmental exposure to nanomaterials must be developed in the next three to 10 years and that methods are needed within the next 15 years to evaluate the toxicity of nanomaterials.
+They also stress the need to develop models within a decade to predict the potential impact of new nanomaterials on health and the environment, and strategic programmes for risk-focused research over the next 12 months. 
+"It is about whether governments, industry and scientists around the world are willing to make safe nanotechnology a priority," they add.
+
+Analysis of Neanderthal DNA shows they rarely interbred with our ancestors, as some scientists have suggested
+Researchers have sequenced DNA from the leg bone of a Neanderthal man who died 38,000 years ago and say it shows the Neanderthals are truly distant relatives of modern humans who interbred rarely, if at all, with our own immediate ancestors.
+They estimate that modern humans and Neanderthals split from a common ancestor at least 370,000 years ago, and possibly 500,000 years ago, although we share 99.95% of our DNA. 
+"We see no evidence of mixing 40,000, 30,000 years ago in Europe. We don't exclude it, but see no evidence," says Dr Edward Rubin of the US Department of Energy Joint Genome Institute in Walnut Creek, California, who led one study.
+This conflicts with some evidence from other researchers, including a team who said earlier this month that humans may have inherited a brain gene from Neanderthals. 
+The researchers reported their findings jointly in the journals Nature and Science.
+Rubin's team used one method to isolate and sequence part of the Neanderthal's DNA.
+Another team, led by Professor Svante Paabo of the Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany, used a separate method to sequence a much larger amount.
+Paabo was the first scientist to find and sequence Neanderthal DNA, in 1997, and first suggested that Neanderthals did not mix with modern humans. 
+"I think the sequence data will serve as a DNA time machine that will tell us about biology and aspects that we will never be able to get from their bones and a limited number of associated artefacts," Rubin says. 
+Neanderthals and modern humans are both descended from Homo erectus, which left Africa and spread around the world about 1.5 million years ago.
+Living side by side
+Neanderthals lived in Europe and the Middle East until about 30,000 years ago. Cro-Magnon people, the ancestors of modern humans, started a second wave of migration out of Africa about 10,000 years earlier. 
+One huge question is how closely they interacted. Paabo's and Rubin's genetic analysis both suggest there was little sexual contact, at least according to the genes from this one male found at the back of a cave in Croatia. 
+Paabo's team sorted through 70 Neanderthal specimens before they found a bone well-preserved enough to provide DNA. They took the tiniest samples they could to preserve the valuable bones. 
+They know it was a male because the DNA has the telltale Y chromosome. 
+Paabo's team says it hopes to have a complete genetic sequence within two years.
+They say the Neanderthal sequences are 99.95% identical to human DNA sequences. This compares to about a 98% similarity between humans and chimpanzees, who split from a common ancestor 6 to 7 million years ago. 
+Three-way comparisons among the human, chimpanzee and Neanderthal genomes should shed light on what makes modern humans unique, experts agree. 
+Rubin and other experts stress that while full sequences of the human genome are available, very little is understood about what the code actually means.
+"We have the book but we haven't yet read it," Rubin says. 
+The researchers found, for instance, sequences linked with eye colour but cannot read the code to tell what colour Neanderthal eyes were.
+
+The robot can adapt to changes in both terrain and itself - walking on three legs, for example, if the fourth is lost
+A star-shaped robot that senses and responds to changes in the environment and damage to its own body has been developed by US researchers.
+Because the robot continually refines its built-in software to move efficiently - wherever it is, and whatever its condition - it could help shape the future of mobile robotics.
+The four-legged Starfish robot is reported by Dr Josh Bongard and team from Cornell University in today's issue of the journal Science.
+The robot can adapt to changes in both terrain and itself - walking on three legs, for example, if the fourth is lost. 
+The Starfish could lead the way for a new generation of autonomous robots that can quickly adjust to unpredictable environments and circumstances, much the same way people and other animals do. 
+The technology is "very powerful," says Professor Dario Floreano, director of the Institute of Systems Engineering in Lausanne, Switzerland.
+"It's a major advance in the field," says Floreano, who is not associated with the research. 
+The software in conventional robots typically doesn't account for unpredictable changes in the environment, or to the robot itself, that could restrict its movement. 
+But the Starfish can explore its own abilities and limitations, taking them into account before planning a move. 
+Robot sensing
+The robot begins by getting a sense of itself, testing each of its joints with random motions. Sensors on the joints capture each joint's range of motion and feed that information to the 15 mathematical models built into its controlling software. 
+Each model figures out one possible mode of locomotion. For example, one model might find how the robot is capable of scurrying scorpion-like on three legs, using the fourth like a tail for balance. Another might offer a way for the robot to scuttle sideways like a crab.
+Every model may be accurate on some level, but not all are efficient.
+To refine the results, a computer program searches through the models, looking for areas of disagreement among their results.
+"This is the key element of the entire process," says team member Dr Hod Lipson, director of the Computational Synthesis Laboratory at Cornell University.
+The most common disagreements represent the biggest flaws, he says. 
+To work out potential kinks in those areas, the robot performs each possible motion where the models disagree, feeding more data about the efficiency of each option back to models. 
+The cycle is repeated 16 times, and in the end, the last model standing is the one that instructs the robot where to go, and how. 
+Challenges ahead
+At the moment, all of the computations are run on a desktop computer. If the robot is to work autonomously, it will need that computing power onboard. 
+"That could be a potential challenge," says Floreano, especially if the robot is equipped with many sensors. 
+But he feels certain that the Cornell team has a solution and expressed confidence in the flexibility of the approach, which "can be applied to any type of robot."
+
+Many people have protested over the use of animals in experiments
+The use of lab animals to develop new medicines, cosmetics and pesticides could be eliminated by virtual experiments on computer, say European researchers.
+The virtual tests could be run using computer models that draw on a vast database of information about chemical compounds.
+And the system could also help develop new compounds in record time, the researchers say.
+Developing new chemical compounds consists of multiple steps, from identifying an active chemical among millions of potential leads to pinpointing a target.
+Finding an effective chemical requires a lot of mixing and matching of compounds in the lab. 
+But access to a centralised database of chemical candidates under development, known as Chemomentum, could help researchers save some lab time, and lab animals.
+Modelling tools available in the software could be used to optimise the chemical structure of the compound and analyse whether those changes make it interact better or worse with a potential target.
+Once the right chemical compound is pinpointed, it needs to be tested for effectiveness as well as toxicity. Classic toxicity tests are done by exposing animals to increasing doses of a chemical.
+At a low dose no effect is seen; at a high dose, all animals die. The right dose is somewhere in between. Based on such animal tests, the lethal dose of a chemical is extrapolated to humans.
+According to the British Union for the Abolition of Vivisection, 100 million animals are used in laboratories to tests range of goods, including household products, cosmetics, food additives, pharmaceuticals, and industrial and agricultural chemicals, to name a few.
+Mathilde Romberg, a research fellow at the University of Ulster in the UK and one of the principal investigators on the Chemomentum project, hopes the new system can reduce those numbers.
+Romberg has partnered with experts at eight universities, institutes and companies from France, Germany, Italy, Estonia and Switzerland to compile the system.
+She says the user-friendly program should "help the chemical industry and European regulatory bodies evaluate the substances and assess related risks, with fewer and fewer animal tests."
+In theory, experimental tests may not be necessary with Chemomentum. Rather, users would input information about the leads and targets they are interested in and the system would return the corresponding toxicity predictions.
+The software will be designed to perform calculations using standard PCs or draw upon the computing power of PC clusters - also known as grid computing - to crunch more complex data expeditiously.
+At the moment, the models that predict toxicity are new and people are sceptical about using them, said Paolo Mazzatorta, a scientist in the Chemical Food Safety Group at Nestl&eacute; Research Center in Lausanne, Switzerland.
+But experimental tests are expensive and that could eventually drive more interest in predictive modelling.
+"I think there will come a moment when this science will be more mature and it will be used," he says.
+
+Researchers are trying to find out more about paranormal experiences
+An international online survey of paranormal experiences has met with an overwhelming response, say Australian researchers.
+The survey, on phenomena that cannot be explained using the current laws of science, is by researchers at Monash University in Melbourne.
+"The paranormal is covered by the media everyday. It is also in the public domain via chatrooms and websites and email lists," says Rosemary Breen, who will use the survey results as part of a Masters degree. 
+"I wanted to tap into this and give a scholarly voice to these experiences."
+A recent Gallup poll revealed that 75% of Americans hold at least one paranormal belief, and a UK newspaper poll showed that 60% of Britons accept the existence of the paranormal, say the researchers.
+But little is known about contemporary spontaneous experiences, and official surveys are rare, they say.
+Breen says the survey is not about beliefs or whether parapsychological phenomena exist, rather it is about what people have experienced and the impact it has had on their lives.
+And she says she is not aware of any equivalent study in the world.
+Thousands of responses
+Some 2,000 people have made contact via the internet since the survey began six weeks ago, says Dr Beverley Jane, who is supervising Breen's research.
+She says 96% of respondents claim to have had at least one brush with the paranormal,
+The exercise seeks to gauge the frequency, effect and age of onset of unexplained phenomena such as premonitions, out-of-body and near-death episodes, telepathy and apparitions. 
+Results to date showed 70% of respondents believe an unexplained event changed their lives, mostly in a positive way. 
+Some 70% also claim to have seen, heard or been touched by animal or person that wasn't there, 80% report having had a premonition, and almost 50% recalled a previous life. 
+"The respondents are sincere and they want to report what they have experienced," Jane says. 
+She is amazed by the strong response on such a sensitive subject, and put this down to the virtual nature of the study.
+"People can do it in the privacy of their homes instead of in front of the researcher, so they can answer honestly," she says.
+While the survey was anonymous, some people later sent emails with their contact details, Jane says. 
+She says the study is not seeking to assess respondents' mental health, but says it does offer people the chance to tell somebody about experiences they would normally keep to themselves.
+Due to the overwhelming response to the survey the researchers expect to extend the closing date for responses past its initial November deadline.
+
+Massage may make baby happier, but the evidence to date suggests it won't improve physical or emotional development
+A gentle massage appears to lower levels of stress hormones in unsettled babies, but there's no evidence that infant massage has any benefit on growth or development, a scientific analysis shows.
+Infant massage has long been used in many Asian and African cultures to ease colic and crying, help babies sleep, and even aid their growth and development. 
+There has also been growing interest in infant massage among parents in Western countries. 
+UK researchers seeking to assess the science behind the practice analysed 23 clinical trials.
+They report their findings in the latest issue of The Cochrane Library, a publication of the Cochrane Collaboration, an international organisation that evaluates medical research.
+The trials involved infants aged six months and under who were randomly assigned to receive massage or not.
+The researchers found that across nine of the studies, gentle massage appeared to improve infants' sleep patterns, ease crying, and strengthen mother-child bonding. 
+Some studies found that massage reduced babies' levels of the stress hormones norepinephrine and epinephrine and appeared to release melatonin, which is associated with sleep patterns.
+Given this apparent hormonal effect, it's "not surprising" that massage seemed to improve sleep and crying, according to the researchers, led by Dr Angela Underdown of the University of Warwick in Coventry, England. 
+Tentative support
+But the nine studies failed to come up with any evidence of cognitive or behavioural benefits.
+"There is no evidence of any impact on infant attachment, temperament, psychomotor or mental development," the researchers say.
+Overall, the results offer "tentative support" for teaching parents and caregivers infant massage, the investigators conclude.
+But they say there isn't enough evidence to universally recommend the practice.
+The trials included in the review were conducted in China, North America, Great Britain and Israel, and included 598 healthy, full-term infants. 
+In some studies, researchers provided the massage, while parents did in others.
+Most looked at the effects of daily massage over a period of weeks. 
+The researchers said 14 of the 23 trials they looked at were not entirely reliable because of concerns about their methodology.
+For example, some lacked information about how the study was designed and conducted, meaning more quality research is needed. 
+It's also unclear how often, when or for how long babies should receive massage to get the most benefits. 
+Underdown and colleagues recommend that future studies examine these questions.
+
+New research suggests that whale communication is even more sophisticated than previously thought
+Whales have such a broad vocal repertoire that they can call to their young, woo potential mates and even express emotions, according to researchers who have identified 622 social sounds in humpback whales.
+Their work will be presented at the upcoming joint meetings of the Acoustical Society of America and the Acoustical Society of Japan in Hawaii.
+Social sounds are brief, unpatterned noises that are distinct from lengthier, complex whale songs.
+The new research adds to a growing body of evidence that whales convey more meaning through vocalisations than previously thought.
+"I wouldn't say (whales possess) language, as that's a human term," says Dr Rebecca Dunlop, a researcher in the School of Veterinary Sciences at the University of Queensland, who worked on the study.
+"Whales don't string these sounds together like words and form sentences. It's more like a simple vocabulary," she says.
+The scientists visually tracked 60 pods of whales migrating along the east coast of Australia.
+The researchers used a static hydrophone array, sensitive equipment that detects sound waves, linking the whale sounds to various activities and contexts.
+Wops, thwops and yaps
+They identified 622 distinct sounds, which fell into 35 basic types.
+These include "wops" made by females, "thwops" made by males, "yaps" made when pods split, and high pitched cries that appeared to express anger.
+In addition to vocalisations, the researchers found that whales send messages through body language, by breaching the surface, slapping water with their tails and blowing underwater bubbles.
+Famous for their long, complex songs, whales also sometimes "speak" short song units individually instead of singing them.
+Males especially seem to do this when trying to woo a female.
+"Song is a loud broadcast signal and two singers singing at the same time is bound to be confusing to the receiver," Dunlop says.
+"If he's trying to attract a female, but doesn't want his signal confused with another singer in the area, then using song units in this case might be the way forward."
+She thinks one reason whales are so vocal is because sound travels better in water than light, and so sight is less useful to whales than hearing.
+Human interference
+Dr Christopher Clark, director of the Bioacoustics Research Program at Cornell University, conducted a similar study on right whales.
+He says that just as researchers are gaining a better understanding of whale vocalisations, humans are creating so much ocean noise, through shipping, oil and gas exploration, recreational traffic and more, that we often prevent whales from communicating.
+"Many whales have very traditional feeding grounds and their migratory routes occur along shallow coastlines, which are now some of the noisiest, most heavily impacted habitats," he says.
+"The ocean area over which a whale can communicate and listen today has shriveled down to a small fraction of what it was less than a century ago."
+
+Scientists say they can genetically engineer cotton plants to remove a toxic compound, making cottonseed fit for humans to eat
+Scientists say they have found a way of using the cotton plant to feed potentially half a billion people a year.
+Texas A&M University plant biotechnologist Associate Professor Keerti Rathore and colleagues report they have genetically altered the plant to reduce the levels of the toxic chemical gossypol in cottonseed, making it fit for humans to eat.
+"It actually tastes pretty good. It reminds me of chickpea. It's a fairly good-tasting seed," he says. 
+"It tasted better than soybean, I can tell you that," adds Rathore, who publishes the team's research in the Proceedings of the National Academy of Sciences.
+The protein-rich, GM cottonseed could be ground into a flour and made into bread and other foods, he says. 
+Rathore and his team turned to a technique also being used in cancer and AIDS research.
+They used so-called RNAi or RNA interference technology that can 'silence' a gene to cut the amount of gossypol in the cottonseed.
+When humans eat gossypol it can damage their heart and liver. 
+The researchers left gossypol intact in the rest of the plant because it guards against insects and disease. 
+"So the trick is not to affect the levels of these compounds in the rest of the plant, but eliminate it from the seed only. And that's what we have done," Rathore says. 
+This cottonseed could serve as a high-protein food for the world's hungry, and falls well within the criteria set by the World Health Organization and US Food and Drug Administration for food consumption, the researchers say.
+"Potentially, if all of the cottonseed today which is produced can be utilised for human nutrition directly, it can meet the protein requirements of 500 million people on an annual basis," Rathore says. 
+Wasted protein
+"That is a lot of protein right now really being wasted," he adds, noting that cottonseed often is fed to cattle because bacteria in their stomachs can break down gossypol.
+The chemical is present naturally within the glands in the above-ground parts of the cotton plant. 
+For millennia, people have spun cotton fibres into clothing and other fabrics. But for each kilogram of cotton fibre, the plant produces 1.6 kilograms of seed, Rathore says.
+Cotton is grown in more than 80 countries worldwide. With the exception of the US and Australia, he says, it is grown primarily in developing countries.
+Researchers estimate that it will take at least another decade to develop cotton varieties with these qualities for broad commercial production. 
+In the 1950s and 1960s, agricultural scientists bred cotton varieties that had no gossypol glands. But they were a commercial flop because the absence of the toxin made the plants too vulnerable to insects and disease. 
+In addition to edible cottonseed, the RNAi technique might be applied to other crops with toxic components, such as fava beans, to increase their use, the researchers say.
+
+Firefighters face long-term health risks, new research shows
+Firefighters appear to have higher-than-average rates of cancer, the largest study of its kind shows. 
+The analysis, of 32 previous studies, shows that firefighters are at greater risk of prostate and testicular cancers, as well as the immune system cancers non-Hodgkin's lymphoma and multiple myeloma.
+Eight additional cancers show possible links to the job, according to findings published in the Journal of Occupational and Environmental Medicine. 
+Firefighters are exposed to many potentially cancer-causing chemicals released from burning materials.
+Though they wear breathing apparatus and other protective equipment while fighting fires, researchers point out, they typically remove the gear when they're merely in the vicinity of the fire. 
+At the scene of the fire, toxic substances such as benzene, lead, uranium and asbestos can be inhaled or absorbed through the skin. And at the fire station, idling trucks expose firefighters to diesel exhaust. 
+The cancer risks seen in this latest study suggest that firefighters need better on-the-job protection, according to the study authors. 
+"Firefighters work in an inherently dangerous occupation on a daily basis," says lead author Dr Grace LeMasters of the University of Cincinnati College of Medicine.
+She and her colleagues based their findings on an analysis of 32 international studies that included more than 110,000 firefighters in all. 
+Across the studies, firefighters had double the risk of testicular cancer as men in other occupations, a 50% higher risk of both multiple myeloma and non-Hodgkin's lymphoma, and a 28% higher risk of prostate cancer. 
+These findings "raise red flags", LeMasters and her colleagues write, and point to a need for "innovative comfortable protective equipment allowing firefighters to do their job without compromising their health". 
+Another, more immediate measure would be for firefighters to shower as soon as they return to the fire station, the researchers say.
+Other investigators, they note, have found that firefighters often say their skin ends up covered in soot after battling a blaze.
+
+Male chimps fight over older females, who are seen as a prize catch
+Chimpanzee males prefer to have sex with older females, according to US researchers, showing one of the biggest behavioural differences between humans and our closest biological relatives.
+Male chimps will chase down and fight over the oldest females.
+Meanwhile, the youngest female chimps are forced to beg for masculine attention, say anthropologist Assistant Professor Martin Muller and colleagues at Boston University. 
+"It's really dramatic because it's not just that the old chimps are avoiding the youngest adult females. They actually have a strong preference for the older mothers," Muller says. 
+Writing in the journal Current Biology, Muller and colleagues say they studied chimpanzees living in the Kanyawara community of Kibale National Park in Uganda. 
+It is easy to observe their mating behaviour. 
+"Chimpanzee copulations are frequently preceded by a series of male courtship signals (eg, glancing with erect penis and branch shaking), after which either the male or the female approaches the other to mate," the researchers write. 
+They also collected the chimps' urine to test for various hormones that demonstrate fertility. 
+The researchers were checking to see if chimpanzees behave like humans, their closest living relatives, who form long-term mating bonds and who value younger females. 
+This is most definitely not the case with chimps. The very oldest adult females were the most sought after. 
+"The males fight over them more," Muller says. 
+"They don't have to do anything to get the males interested. The males find them. They follow them around. If you look at the very youngest females, the males will mate with them but it does take more work on the female's part." 
+Showing off
+Also unlike humans, female chimpanzees actively advertise when they are fertile, with bright red swellings around the genital area.
+And unlike human females, chimpanzees apparently remain fertile their entire lives, although these wild Ugandan chimpanzees rarely lived beyond the age of 40.
+Muller says that older female chimpanzees are more dominant socially and have access to better food. 
+"The females that have access to the most food are the most fecund, the most likely to conceive in any cycle," he says. And males may know that.
+Older females may also be better mothers, the researchers guess. 
+"The males do end up mating with all the females for the most part," Muller notes. But he says the study challenges common conceptions. 
+"Normally, I think peoples' default assumption is, 'Well other animals, they must also find young females attractive'," Muller says. "And people assume that young females are more fertile than older females." 
+But female chimpanzees do not experience the rapid decline in fertility that is seen in human females after their 20s.
+
+What happens to tissue that's removed during a biopsy and stored in liquid nitrogen?
+Some Australians are concerned that tissue samples held by hospitals could be used to make human clones, a survey of public attitudes towards tissue banking reveals.
+Early findings from the study, by researchers from the Centre for Values, Ethics and the Law in Medicine at the University of Sydney, show some people are also opposed to biopsy tissue, such as cut-out tumours, being used as a source of stem cells or by drug companies.
+Most hospitals have a collection of tissue that's been removed for diagnosis and serves as a research resource.
+The tissue can be used for in-house research or passed on to other institutions and private companies.
+But the laws relating to stored tissue are confusing and contradictory because of differences between state and federal jurisdictions, says Bronwen Morrell, who will present the study's interim findings at the Australian Health and Medical Research Congress in Melbourne this week.
+She says her study indicates that people want laws setting down basic parameters about consent, information about the type of research and whether their tissue can be used for profit.
+Morrell asked participants a range of questions including whether there was any sort of research they wouldn't want their tissue used for.
+"Two things that came up repeatedly were cloning and stem cells," she says.
+"Cloning came up repeatedly, which is interesting because I think they were thinking of reproductive cloning which isn't allowed in Australia anyway ... but obviously that's something that's very much on their mind."
+The federal government is currently debating recommendations of the Lockhart Review to allow therapeutic cloning in Australia, but reproductive cloning remains banned.
+Morrell says the study also shows some people trust the public sector more with their tissue than private companies.
+"As long as research was being done in a public hospital they would feel comfortable with that," she says.
+"But if it was a private company doing the research, especially drug companies, they wouldn't be that happy."
+Some people also wanted any profit made out of their tissue to go back into research, she says.
+Dr Wendy Lipworth, who was involved in the research, says that genetic technology has raised new issues for tissue banks.
+"I think 30 or 40 years ago nobody would have thought anything of it, they would have thought why would I care, it's just the leftover bits of my tumour," she says.
+"But as genetic technology has evolved you can find out more and do more with that material. There wasn't as much at stake until recently."
+Recommendations
+The current survey is part of a three-part study into in the ethics of tumour banking.
+The first part of the study, published in the Journal of Law and Medicine this year, surveyed hospitals and private research institutions.
+The second part, which questioned experts and medical professionals, is still being analysed.
+The third and final part subjected 20 people including patients, parents, consumer representatives and health advocates to a in-depth one hour interview.
+Morrell says researchers hope to publish a series of reports when the results are fully analysed.
+The researchers may also make recommendations about the sorts of procedures that tissue banks should follow, Worrell says.
+
+Scientists say they haven't heard from the Mars Global Surveyor in weeks
+NASA scientists conceded that the 10-year-old Mars Global Surveyor is probably lost in space after the US agency tried unsuccessfully for two weeks to make contact.
+The spacecraft, the oldest of five NASA robotic explorers studying Mars, was circling the planet snapping high-resolution images and studying the climate.
+It was on a mission that led to the first evidence that water once flowed on the planet's surface. 
+The probe went silent after reporting problems with a sticky solar panel, and scans of the skies have produced no sign of it. 
+"[Mars Global Surveyor] was a fantastic mission. It has really revolutionised how we look at Mars," says Dr Fuk Li, Mars Exploration Program manager.
+"We haven't given up hope, but we are all ready to celebrate a long life and a job well done." 
+One chance remained this week to recover the probe, which has been programmed to transmit a signal to NASA's robotic geology station, Opportunity, located near Mars' equator. 
+Opportunity will relay any signal from the orbiter to Earth during passes this week via the Mars Odyssey. 
+"If [Mars Global Surveyor] is in the sky and its [transmitter] is on, then Opportunity should receive it," says Dr John Callas, project manager for the Mars Exploration Rover mission.
+Scientists at NASA's Jet Propulsion Laboratory in Pasadena, California, lost contact with the spacecraft on 2 November after it signalled it was having trouble moving one of its solar panels to track the Sun as it emerged from behind Mars.
+The spacecraft is programmed to position itself so that a stuck panel faces the Sun, but that orientation could block its communication with mission controllers, says Tom Thorpe, the Mars Global Surveyor project manager.
+Power problem
+If Mars Global Surveyor is turned away from the Sun for more than a few orbits it could be low on power, an outcome that seemed to be supported by the spacecraft's apparent failure to respond to commands that would raise its transmitter, Thorpe says.
+"We don't believe the [solar] panel is in any way degraded ... the problem seems to be the gimble motor that is sticking," Thorpe says. "Why we can't raise the transmitter could be a function of the power problem." 
+Mission scientists first hailed the orbiter via the Deep Space Network, receiving what they believed was a weak carrier signal from the probe two or three days into the search. Then it went silent. 
+They then turned to the newly arrived Mars Reconnaissance Orbiter, which used its onboard cameras during recent passes near Mars Global Surveyor's last known orbit. But that probe had no definitive sightings of its sister craft. 
+If Opportunity records no sign of Mars Global Surveyor, scientists say they will have exhausted the most likely possibilities for contacting it.
+The 10-year mission, which was extended four times, cost a relatively modest US$377 million (A$489 million). 
+Mars Global Surveyor's cameras were the first to record topographic features suggesting flowing water on Mars, and its magnometer found the remains of magnetic fields that once shielded Mars' surface from deadly cosmic rays. 
+Its mineral mapping helped scientists choose landing sites for Opportunity and its twin, Spirit, and will be used to evaluate landing sites for the next-generation of Mars surface probes, the Phoenix and the Mars Science Laboratory.
+
+Tall men have the advantage when it comes to speed-dating
+If you want to be a big hit at speed-dating, walk tall, say UK scientists.
+Their survey found that taller men are more likely to get a date.
+The University of Essex scientists calculated that for every 2.5 centimetres taller a man is than his speed-dating rivals, the number of women who want to meet him goes up by about 5%.
+Dr Michele Belot and Dr Marco Francesconi analysed the choices made by 1800 men and 1800 women at 84 speed-dating events. 
+They found that women prefer men who are young and tall, while men are more attracted to women who are young and thin.
+"What we try to show is that there is a pattern in how people choose each other," says Belot. 
+But she readily concedes that science does not have the answer to all affairs of the heart.
+"It is true we can explain quite a lot, but there is still a part that is unexplained. That is where love will play a role," she says. 
+But, in the unforgiving numbers game of love, age is crucial. 
+Each extra year, in comparison with others in the speed-dating group, reduces a man's chance of finding a partner by 4%. For women it is 5%. 
+And it is often all about the luck of the draw on the big night.
+Should a man of average height turn up at the speed-dating event, all is not lost. 
+If all his male rivals are short, then women may decide that he does measure up after all. 
+"We also found that an overweight woman is 16% less likely to receive a proposal from men. Men, on the other hand do not seem to be penalised for being overweight," Belot says. 
+The survey also explodes the myth that blondes have more fun. Hair colour was not a major issue when speed-dating.
+And when the big night was over, women were much pickier than men, choosing only 2.6 men as possible future dates.
+To add insult to injury, almost half of the women said they did not want to see any of the men again.
+
+Green turtle returning to the sea after laying a clutch of eggs on the beach at Enu Island in Indonesia
+Scientists have conducted the first genetic census of endangered green turtles throughout southeast Asia and Australia, providing a conservation tool.
+"The green turtle is on the red list of endangered species internationally, so we wanted to be able to identify if there were particular groups that might need specific conservation efforts," says PhD student Kiki Dethmers from the University of Queensland.
+Her work on the turtle Chelonia mydas appears in the November issue of the journal Molecular Ecology.
+Turtle populations are shrinking for a range of reasons, she says.
+Some are hunted for food, others are accidentally caught in fishing nets, while others still are affected by a loss of habitat or viral diseases.
+Dethmers and her colleagues gathered skin or blood samples from turtles nesting at 27 different sites in Malaysia, the Philippines, Micronesia, Indonesia, Papua New Guinea and Australia.
+From each sample they extracted a mitochondrial DNA, genetic material that is passed down from mother to child.
+"Mitochondrial DNA is inherited through the female line, and females come to the beaches to nest, so our study was based on sampling the female population," Dethmers says.
+The results show that there are just 17 distinct genetic groups within the region.
+Some groups were made up of a single nesting beach. But in other cases, nesting sites in different locations turn out to be genetically related.
+Some of the groups were substantial, such as the 125,000 related turtles that nest on Western Australia's northwest shelf.
+Others, like some groups in Malaysia, might contain just a few hundred turtles.
+The information Dethmers and her colleagues have gathered could be vital for future conservation efforts.
+"The turtles' situation varies from one area to another," she says. "Our data would be useful for example if one of the groups is particularly threatened, because it would give you an idea of how many turtles are being affected.
+"This can help you make predictions about whether that is going to make a certain population go extinct."
+
+Cooling towers are one option for getting rid of waste heat from power plants
+Any Australian nuclear power plants would most likely need to be built on the coast where gigalitres of seawater could be used to cool them, suggest experts.
+"Because we've got a water shortage in this country it would be best to place them on the coast," says nuclear power engineer Professor John Price of Monash University in Melbourne.
+Price's comments come in the wake of a draft report from Prime Minister John Howard's nuclear taskforce that proposes constructing 25 nuclear power plants to meet Australia's future energy needs.
+Price, who welcomes the new report, says "gigantic" amounts of water are required to cool a nuclear power station.
+"I'm talking about tonnes per second," says Price, who has designed nuclear power stations in the UK.
+According to the taskforce, headed by nuclear physicist Dr Ziggy Switkowski, nuclear power plants are less efficient than coal-fired plants and thus require more cooling.
+One estimate, from a recent report to the Queensland government, suggests a 1400 megawatt nuclear power station would use around 25 gigalitres of water a year.
+This is about 1.26 times the water used by an equivalent coal-fired power station, says the report by Dr Ian Rose of Roam Consulting, a Queensland-based company with expertise in energy modelling.
+Water cooling
+While the Switkowski report does not consider specific locations for nuclear power plants in Australia, it says they are often located near existing power stations because this ensures ready access to appropriate infrastructure and water for cooling.
+Most nuclear power stations are cooled using water from a river, lake or the ocean, the report says.
+But the Rose report says a lack of reliable river water makes a nuclear power station cooled by river water "not an option for Australian conditions".
+Both Rose and Price also raise the issue of environmental effects of the warmer water discharged from nuclear power stations on rivers.
+"I wouldn't think that would be a good idea [siting a nuclear power station on a river] in Australia because the river volumes are not huge and you don't want to heat the river up," says Price.
+Price suggests power stations by the sea are preferable because the sea can more easily dilute the heat of the discharge.
+But Rose says it may be difficult to find suitable seaside locations.
+"The number of seaboard nuclear sites in areas close to a major transmission grid in eastern Australia is likely to be limited," his report says.
+The US Environmental Protection Agency says that discharge from nuclear power stations can also contain heavy metals and salts that can harm aquatic life.
+It also says removal of water upstream in the first place can also damage river environments.
+Cooling options
+Instead of discharging warm water, some nuclear power stations evaporate water into the air through cooling towers, Price says. 
+While Rose says this is a preferred option, Price says this is a waste of water.
+According to the Switkowski and Rose reports, it is also possible to use 'dry' cooling, which reduces water consumption by using air as a coolant. But they say this would be more expensive.
+Another option, says Price, is to use waste heat from nuclear power stations to desalinate water.
+"That may be one of the most interesting outputs, as far as Australia is concerned," he says.
+The nuclear taskforce is inviting public submissions on its draft report until 12 December and the final report is due at the end of the year.
+
+Left-handed people seem to have better connections between the left and right halves of their brain. So does this mean they are better at complex tasks like gaming?
+Left-handed people often perform better than right-handers at fast or difficult tasks that involve lots of information or stimuli, new research suggests.
+For instance left-handers might be better at playing fast computer games, talking while driving in heavy traffic and piloting a jet fighter - activities that need both hemispheres of the brain to process information.
+Research shows that the left and right hemispheres communicate and work together better in left-handers, as information transfers from one to the other slightly faster and perhaps more efficiently.
+Dr Nick Cherbuin from the Australian National University and colleagues report their findings in the November issue of the journal Neuropsychology.
+He says the left-hander's brain is wired slightly differently to the right-hander's as it tends to be more symmetrical with larger and perhaps faster connections between hemispheres.
+The research found that on average those with faster connections were more efficient at performing tasks that require processing in two hemispheres.
+"Typically we tend to use more our two hemispheres together  when tasks are very fast or very hard and one hemisphere does not have enough resources to cope," Cherbuin says. 
+"Examples might be dealing with multiple stimuli that are presented very briefly or tasks which require interpretation of a lot of information such as talking while driving in heavy traffic, piloting a jet fighter or playing fast computer games.
+"As our brain ages we lose processing resources in the two hemispheres but left-handers may be able to cope better because the sharing of resource across their hemispheres is more efficient."
+The computer tests in 80 right and 20 left-handers measured how fast information transferred between hemispheres by hitting a button to indicate whether a light flash was left or right of a dot.
+Another test to match letters found left-handers performed better when letters flashed on both sides of the dot, requiring collaboration across hemispheres.
+Right-handers did better when letters were on the same side of the dot, making them more efficient at single hemisphere processing. 
+Cherbuin, a right-hander, says the 7-10% of people who are left-handed adjust to our right-handed world by using their right hand more.
+
+Superimposing copy number profiles of different human genomes shows each chromosome has distinctive pattern of DNA gains (shown in green) and losses (red). Yellow areas show where there is no difference
+New investigations into the code for life suggest the assumption that humans are genetically almost identical is wide of the mark, and the implications could be resounding. 
+Current thinking, inspired by the results five years ago from the Human Genome Project, is that the 6 billion humans alive today are 99.9% similiar when it comes to genetic content and identity.
+But research published today in the journal Nature suggests we are genetically more diverse.
+The repercussions could be far-reaching for medical diagnosis, new drugs and the tale of human evolution itself, the researchers say. 
+Until now, analysis of the genome has focused overwhelmingly on comparing differences, or polymorphisms, in the patterns of single letters in the chemical code for making and sustaining human life.
+But an international consortium of scientists has taken a different tack and believes it has uncovered a complex, higher-order variation in the code. 
+This better explains why some individuals are vulnerable to certain diseases and respond well to specific drugs, while others swiftly fall sick or never respond to treatment, the authors believe.
+Their focus has been to dig out deletions or duplications of code among relatively long sequences of individual DNA and then compare these so-called copy number variations (CNVs) across a range of volunteers of different ancestry. 
+The researchers were astonished to locate 1447 CNVs in nearly 2900 genes, or around one eighth of the human genetic code.
+"Each one of us has a unique pattern of gains and losses of complete sections of DNA," says Dr Matthew Hurles of the UK's Wellcome Trust Sanger Institute, one of the project's partners.
+"One of the real surprises of these results was just how much of our DNA varies in copy number. We estimate this to be at least 12% of the genome.
+"The copy number variation that researchers had seen before was simply the tip of the iceberg, while the bulk lay submerged, undetected. We now appreciate the immense contribution of this phenomenon to genetic differences between individuals." 
+Some of the missing or duplicated stretches are very long, suggesting that, like backroom switches in a protein factory, CNVs must have a big impact on gene expression.
+Genetic diseases
+Nearly 16% of genes that are known to be related to disease have CNVs, the group found.
+These include genes involved in rare genetic disorders such as DiGeorge, Williams-Beuren and Prader-Willi syndromes and those linked with schizophrenia, cataracts, spinal muscular atrophy and atherosclerosis. 
+But kidney disease, Parkinson's, Alzheimer's and vulnerability to malaria and HIV, which recent research has blamed on  single-letter variations in the gene code, may also well be rooted in CNVs, the scientists believe. 
+"The stage is set for global studies to explore anew ... the clinical significance of human variation," say Professor Huntington Willard and Dr Kevin Shianna of the Institute for Genome Sciences and Policy at Duke University in North Carolina, in a review of the research.
+How about evolution?
+Evolution is another area that will come under new scrutiny. 
+The Out of Africa scenario, by which Homo sapiens emerged from east Africa and spread around the globe, will not be challenged, though. 
+Our origins are so recent that the vast majority of CNVs, around 89%, was found to be shared among the 269 people who volunteered blood as samples for the study.
+These individuals included Japanese people from Tokyo, Han Chinese from Beijing, Yoruba from Nigeria and Americans of northern and western European ancestry.
+All the same, there are widespread differences in CNVs according to the three geographical origins of the samples. 
+This implies that, over the past 200,000 years or so, subtle variants have arisen in the genome to allow different populations of humans adapt to their different environments, according to scientists at Wellcome Trust Sanger.
+The research is based on two technical advances, one in faster, accurate sequencing of DNA and the other in a powerful software programme to spot the CNVs.
+
+The first supernova, ringed on the right in the image, was detected in June and the second supernova, on the left, in November. The central bright spot is the galaxy core and the bright object to the far left, like an earring, is a foreground star
+Stars are blowing themselves to smithereens more often than usual in galaxy NGC 1316.
+Astronomers have stumbled across two supernovae letting loose there just months apart, in addition to two previous mega-blasts in the past 26 years. 
+That makes the rate of exploding stars in NGC 1316 many times higher than any other known galaxy.
+The NASA Swift satellite observatory detected the recent twin supernovae on 19 June and 5 November of this year.
+In the images, the supernovae are visible on either side of the bright galaxy centre. 
+"It is actually very puzzling," says Professor Neil Gehrels, a Swift investigator at NASA's Goddard Space Flight Center.
+"That's the most [supernovae] there have ever been in such a short time."
+A more typical rate is around one a century in a given galaxy.
+So what makes NGC 1316 different? Not a lot, at least so far as researchers can tell.
+It's a large elliptical galaxy about 80 million light-years away, believed to have recently collided and merged with a spiral galaxy, which may have something to do with the accelerated rate of supernovae, or not.
+Galactic mergers are believed to stir up cosmic dust in a way that can create supermassive stars, the sort that eventually explode as supernovae.
+But the supernovae in NGC 1316 have the spectral fingerprints of type 1A supernovae, which begin as small, dying white dwarf stars rather than supermassive ones.
+There's no reason to believe that a galactic merger would create a larger number of white dwarfs than normal. So the mystery continues.
+Baby boomers
+Another possible explanation is that there are an inordinate number of white dwarfs in NGC 1316, which are the corpses of an extraordinary 'baby boom' of stars in NGC 1316.
+If that's the case, a surge of white dwarf-triggered supernovae would be expected when all the 'boomer generation' stars reach a similar age. 
+On the other hand, it could just be chance.
+Of the thousands of observable galaxies, odds are in favour of an occasional random clustering of supernovae in one galaxy, says John Nousek, a professor of astronomy and astrophysics at Pennsylvania State University.
+"This sort of thing is more of a cosmic coincidence than a cosmic Rosetta stone," says Nousek.
+He and graduate student Peter Brown have been hard at work monitoring and trying to make sense of the double explosions. 
+"The exact mechanism is not well understood," says Gehrels. "This is a fairly hot topic."
+
+Silicon has been converted into a superconductor, but at very low temperatures. If this could be reproduced at room temperatures, then we could build super-efficient computer circuit boards
+Scientists say they have treated silicon, the material of choice for semiconductors, so that it paradoxically becomes a superconductor, a material that offers no resistance.
+This potentially has huge uses in the efficient transfer of energy, whether that's on a large scale like electronic cables or on a smaller scale, like in a computer chip.
+But superconductivity in the treated silicon occurs only at 0.3&deg;K, or 0.3&deg;C above absolute zero.
+This means the novel material has no practical use and is only of theoretical interest right now.
+Dr Etienne Bustarret of France's National Centre for Scientific Research (CNRS) in Grenoble and colleagues converted the silicon by 'doping' it with high levels of boron, using a pulsed laser at normal pressure.
+They publish their research today in the journal Nature alongside a commentary that describes the findings as "a breakthrough".
+Superconductivity has been found in only a number of materials which, at very cold temperatures, allow electricity to flow through them without offering any resistance or losing some of the energy as heat.
+Scientific but also industrial interest in superconductors is huge, as superconductive cable and dynamos would be many times more energy-efficient than traditional copper and other conductors. 
+In addition, superconductor computers could be many times faster than today's.
+Their semiconductors would not be hampered by heat, one of the biggest problems facing designers today who are tasked with crowding ever more circuits onto a chip.
+Exotic oxides, cooled by liquid nitrogen, have provided the best transition temperatures to superconductivity, with temperatures as high as 160&deg;K.
+
+Stripes on the shoulder of this basketball jersey light up for each foul the player commits
+An Australian researcher has developed a sports jersey that lights up to show players' goals or fouls, and how much time they have left to play.
+The jersey is called TeamAwear and is the brainchild of design computing student Mitchell Page of the University of Sydney.
+In fast-scoring games like basketball it can be quite hard to keep up-to-date with constantly changing statistics that help you understand what's going on, says Page.
+While some information is posted on the scoreboard this can be difficult to look at during the game.
+Page decided that displaying information on players' jerseys would be a good idea because these are at the centre of the game.
+"Everyone's focus is directed towards them," he says.
+And the jerseys could display real-time information on individual players that is generally not publicly available.
+Page developed a basketball jersey with displays made out of electroluminescent panels that light up when electricity flow through them. These are connected by conductive thread woven into the jersey.
+A microcontroller communicates via a wireless connection to a computer at the bench, where someone can input the detailed information as required.
+There are four stripes over the jersey's shoulder that light up as the number of fouls increase and three bars on the side of the jersey each representing 10 goals.
+Two bars on the front of the jersey warn the player when they are nearly out of time. 
+One warns when the game is nearly up and the other warns when they need to shoot without incurring a penalty.
+And panels on the back, mainly for the benefit of the spectators, light up to show the winning side.
+Page says when players tested the jerseys they found they were comfortable to wear and improved play by giving them immediate access to more information.
+He says the players found the displays intuitive and easy to understand without being distracting.
+The warning lights on the front were the most important. If it was a tight game they could pick up pace. But if a player had a lot of fouls, they would have to play conservatively.
+Players might also choose the displays to choose a high-scoring player to pass the ball to.
+Page says the jerseys also had an unexpected effect on players' psychology.
+"Athletes said they were more confident when they could see that they had high points or they could see that they were winning," he says.
+The coach and referee can also use the displays to choose who to keep on the court, without having to refer to the benches and scoreboards as often, says Page.
+Page says while slow sports like golf would probably not benefit from his jersey, he hopes the idea can be applied to other team activities.
+He says it might be useful for emergency service personnel working in noisy, chaotic environments where verbal communication is difficult.
+Teams of people with hearing disabilities, debaters and possibly even orchestra members, might also benefit from the technology, says Page.
+
+Wild emmer wheat, shown here, is more nutritious than some types of domestic wheat. So scientists have crossbred new and old strains to improve levels of protein, zinc and iron
+Scientists have found a way to boost wheat's nutrient content by reintroducing a gene that was 'lost' over the years as the wild plant was domesticated.
+Writing in the journal Science, the researchers say they used conventional breeding methods to bring the gene into cultivated wheat varieties, enhancing their protein, zinc and iron value.
+The gene, which Professor Jorge Dubcovsky from the University of California, Davis and colleagues have identified, has became nonfunctional for unknown reasons over the years.
+This occurred as humans cultivated the wild wheat, known as wild emmer wheat (Triticum turgidum ssp dicoccoides).
+Wheat represents one of the major crops feeding people worldwide, providing about 20% of all calories consumed.
+The World Health Organization says that upward of 2 billion people get too little zinc and iron in their diet, and more than 160 million children under the age of 5 lack adequate protein. 
+"We really can produce wheat with more protein and more zinc and iron," Dubcovsky says.
+"So if that is grown in a developing country or is used as food aid, it will really provide more of those needed things in places where it's necessary." 
+Same taste
+In making the wheat more nutritious, the researchers did not change how it tastes, Dubcovsky says.
+"We're not changing the composition or anything very dramatic in the grain," he says. 
+"I don't think a simple step like this will solve hunger in the world. I'm not that naive. But I think it's heading in the right direction," Dubcovsky says. 
+The gene made the grain mature more quickly while also boosting its protein and micronutrient content by 10-15% in the pasta and bread wheat varieties with which the researchers worked.
+"What this gene does is it uses better what is in the plant already, so rather than leave the protein and the zinc and iron in the straw, we've moved a little bit more into the grain," Dubcovsky says. 
+The wheat varieties bred by the scientists are not genetically modified, which could help them become accepted commercially, they say. 
+"We didn't do it by genetic modification. The normal wheat crosses perfectly well with the wild wheat. So we just crossed it after normal breeding," Dubcovsky says.
+The research team includes scientists from the US Department of Agriculture and the University of Haifa in Israel. 
+Dubcovsky heads a consortium of 20 public wheat-breeding programs called the Wheat Coordinated Agricultural Project.
+Annual wheat production is estimated at 620 million tonnes of grain worldwide.

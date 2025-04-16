@@ -1,0 +1,661 @@
+Cystic fibrosis affects 30,000 children and young adults in the US alone
+Inhaling the mists of salt water can reduce the pus and infection that fills the airways of cystic fibrosis sufferers, although side effects include a nasty coughing fit and a harsh taste. 
+That's the conclusion of two studies published in this week's issue of The New England Journal of Medicine.
+They found that inhaling a mist with a salt content of 7 or 9% improved lung function and, in some cases, produced less absenteeism from school or work. 
+Cystic fibrosis, a progressive and frequently fatal genetic disease that affects about 30,000 young adults and children in the US alone, is marked by a thickening of the mucus which makes it harder to clear the lungs of debris and bacteria. 
+The salt water solution "really opens up a new avenue for approaching patients with cystic fibrosis and how to treat them," says Dr Gail Weinmann, of the US National Heart, Lung, and Blood Institute, which sponsored one of the studies. 
+Mark Elkins of the Royal Prince Alfred Hospital in Sydney, Australia and colleagues authored one of the new published studies.
+The team found that the 83 volunteers who regularly inhaled a 7% mist of salty water had fewer breathing problems and less absenteeism from school or work than those who inhaled a solution with a salt content of under 1%. 
+"Adding salt [and water] to the airway surfaces of patients with cystic fibrosis is beneficial" for both children and adults, they conclude. 
+All of the patients first inhaled a chemical to try to open their lung passages as much as possible.
+In the second study, US-based Assistant Profsesor Scott Donaldson of the University of North Carolina at Chapel Hill and his colleagues found that a 7% salt mist "produced a sustained acceleration of mucus clearance and improved lung function" because it helped hydrate the lungs.
+In an accompanying editorial, Dr Felix Ratjen of the Hospital for Sick Children in Toronto, Canada, cited several unpleasant side effects of the salt mist treatment including a bad taste, coughing fits and the lengthy 30 minutes it can take to administer. 
+He added that in the study by Elkins and team, patients may not have received the best long-term antibiotic treatment. 
+That would make the inhaled salt water mist appear more effective than it would have been if people were getting a better drug, says Ratjen. 
+Weinmann says limitations inherent to the treatment mean a salt water mist "may be just a first step" in treating cystic fibrosis.
+
+Scientists have rescued a mouse immune system that was overwhelmed by a systemic blood infection. But will this work in humans?
+Scientists have discovered how infections that invade the whole body, like malaria, disable the immune system and prevent it from detecting and fighting other microorganisms.
+The Australian and German researchers say the discovery may help scientists to develop vaccines that restore immunity in people with systemic or 'whole body' infections. 
+They publish their research today online in the journal Nature Immunology.
+The immune response is alerted when specialised sentries of the immune system, dendritic cells, detect a virus or bacteria.
+They alert the immune system by capturing infected cells and displaying fragments or antigens of the pathogen on their surface in a process called cross-presentation.  
+Lead researcher Dr Jose Villadangos, an immunologist from the Walter and Eliza Institute of Medical Research in Melbourne, says systemic infections such as malaria or sepsis, a bacterial infection of the blood, overstimulate dendritic cells.
+This results in the immune system's critical alarm system shutting down.
+"This doesn't occur in local infections because only a few dendritic cells are involved," Villadangos says.
+"But in the case of malaria infections and sepsis, dendritic cells throughout the body are concentrated on alerting the immune system, which prevents them from detecting and responding to any new infections." 
+A new type of vaccine?
+Villadangos and colleagues managed to restore immunity in mice with an immune system compromised by sepsis.
+They injected them with a live vaccine made of dendritic cells that had been exposed to a secondary virus in the laboratory, and subsequently displayed antigens of that virus. 
+Villadangos says the findings show the missing link in the immunosupressed animal is the capacity of the dendritic cells to display the antigens of new viruses. 
+"We should be able to take dendritic cells from a patient with sepsis or malaria and expose them to antigens of the virus of a secondary infection and inject them back into the patient.
+"This strategy is already being used in the development of anti-cancer vaccines. We are yet to find out if will work against secondary infections in humans with a systemic infection," Villadangos says.
+
+Scientists will analyse the contents of this capsule for clues about how the solar system began
+A seven-year quest to return to Earth pristine samples from the solar system's formation ended in triumph in a dark and wet Utah desert at the weekend. 
+"It's hard to describe what it feels like to be at this point of the mission," University of Washington researcher and lead scientist of the Stardust mission Professor Don Brownlee said shortly after the probe's touchdown at 10:10 UTC (21:10 AEDT) on Sunday. 
+"We travelled almost 3 billion miles in space. We visited a comet, grabbed a piece of it and it landed here this morning," Brownlee said. "It's an incredible thrill." 
+Stardust released its precious cargo during a high-speed flyby of Earth, sending the tyre-sized canister soaring through space at a blazing speed of about 46,000 kilometres per hour when it smashed into the planet's atmosphere.
+This makes it the fastest human-made object, topping the record set in May 1969 by the returning Apollo 10 command module. 
+As its heat-shield fried away, a comet-like plume formed in its wake, looking like a torch that was visible in parts of the western US. 
+"We weren't quite sure how bright it was going to be and some people didn't think we would see anything," says Brownlee, who slipped outside the Utah base with some of his team members to try to spot the capsule's streak across the sky. 
+After scanning the sky for several minutes, Brownlee finally found an object that he said looked like Mars, but was clearly not where Mars was at the time. 
+"It was twinkling a little bit, getting a little brighter, and moving. I thought, maybe that's a helicopter. But it kept getting brighter and brighter and brighter," he says. 
+The object was reddish in colour and trailed a bright, glowing plume behind it, Brownlee says.
+"It's ironic, you have a comet mission that ends producing a comet." 
+Collecting spacedust
+During its time in space, Stardust passed by Comet Wild-2 (Vilt-2) and extended a gel-filled collecting device to trap some particles to take back to Earth. It also collected bits of interstellar dust. 
+Scientists believe comets contain unaltered material that was used to form the solar system. 
+"We did this mission to collect the most primitive materials we could in the solar system," Brownlee says.
+"We went to a comet that formed at the edge of the solar system, far from the Sun under very cold conditions. We're confident that it was made out of the initial building blocks of our solar system." 
+The capsule was retrieved by helicopter crews and taken to a clean room on the Utah Test and Training Range for inspection.
+The canister containing the samples is scheduled to be removed from the capsule and flown to the NASA Space Center in Houston on Tuesday. 
+There, scientists will catalogue the samples and begin distributing them to teams for analysis.
+
+Gotcha! A colourful, striking image can spark your interest
+Internet users can take just one-twentieth of a second to decide whether they like the look of a website, new research has found.
+"Visual appeal can be assessed within 50 milliseconds, suggesting that web designers have about 50 milliseconds to make a good impression," the Canadian researchers report in the March/April issue of the journal Behaviour & Information Technology.
+Dr Gitte Lindgaard and colleagues from Carleton University in Ottawa confirm that internet users are a fickle lot.
+The team did this by flashing up websites for 50 milliseconds and asking participants to rate them for visual appeal.
+When they repeated the exercise after a longer viewing period the ratings were consistent.
+The medium is the message
+The finding comes as bad news to anyone hoping to convey information, says Sue Burgess, an Australian researcher who evaluates website useability and senior lecturer in information management at the University of Technology Sydney.
+"There's no doubt that people do respond very quickly to websites and decide very quickly whether to stay on them," she says.
+The appeal of a website is usually tied to colour, movement and interactivity, she says, with the way the information is structured coming second.
+Burgess says it's unclear whether the internet is changing our ability to concentrate for long periods our if we are adapting to the medium.
+"There's so much information and ... there's always going to be a lot of clicking around just to see what's there," she says.
+The halo effect
+Australian associate professor of psychology Bill von Hippel, from the University of New South Wales, says it takes about 50 milliseconds to read one word, making this a "stunningly remarkable" timeframe in which to process the complex stimuli on a website.
+"It's quite remarkable that people do it that fast and that it holds up in their later judgement," he says.
+"This may be because we have an affective or emotional system that [works] independently of our cognitive system."
+In evolutionary terms, this ability helped us respond rapidly to dangerous situations, he says.
+The study also reflects the so-called halo effect, von Hippel says, where an initial bias towards something drives subsequent judgements.
+"This suggests that we make very quick judgements based on some sort of emotional reaction and our more considered judgements still reflect that first impression."
+
+Jewish people's history and migrations are reflected in their DNA, a new study shows
+Four Jewish mothers who lived 1000 years ago in Europe are the ancestors of 40% of all Ashkenazi Jews alive today, international researchers report.
+The DNA study paints a vivid picture of human evolution and survival, and correlates with the well-established written and oral histories of Jewish migrations, says Dr Doron Behar of the Technion-Israel Institute of Technology, who worked on the study. 
+The study, published in the American Journal of Human Genetics, suggests that some 3.5 million Jews alive today descended from four women. 
+For their study, Behar and scientists from Europe and the US sampled DNA from 11,452 people from 67 populations.
+"All subjects reported the birthplace of their mothers, grandmothers, and, in most cases, great-grandmothers," the scientists write. 
+They looked at mitochondrial DNA, which is found in cells, outside the nucleus and away from the DNA that carries most genetic instructions.
+Mitochondrial DNA is passed down virtually unchanged from mother to daughter, but it does occasionally mutate, at a known rate. 
+Researchers can use this molecular clock to track genetic changes through time.
+They used it, for instance, to compute when the "ancestral Eve" of all living humans lived: in Africa, about 180,000 years ago. 
+Now they have found four ancestral Jewish mothers. 
+"I think there was some kind of genetic pool that was in the Near East," Behar says.
+"Among this genetic pool there were four maternal lineages, four real women, that carried the exact specific mitochondrial DNA markers that we can find in mitochondrial DNA today." 
+Settling Europe
+They, or their direct descendants, moved into Europe. 
+"Then at a certain period, most probably in the 13th century, simply by demographic matters, they started to expand dramatically," Behar says. 
+"Maybe it was because of Jewish tradition, the structure of the family that might have been characterised by a high number of children."
+But these four families gave rise to much of the population of European Jews, which exploded from 30,000 people in the 13th century to "something like 9 million just prior to World War II", Behar says.
+The Nazis and their allies killed 6 million Jews during the war, but there are now an estimated 8 million Ashkenazi Jews, defined by their common northern and central European ancestry, cultural traditions and Yiddish language. 
+Behar says as they sampled people from Ashkenazi communities around the world, the same mitochondrial genetic markers kept popping up.
+They did not find the markers in most of the non-Jewish people they sampled, and only a very few were shared with Jews of other origin.
+Ancestry not genetic disease
+This particular study does not provide a direct explanation for some of the inherited diseases that disproportionately affect Jews of European descent, such as breast and colon cancer, because most diseases are caused by mutations in nuclear DNA, not the DNA studied by Behar's group. 
+These genes are believed to date from a 'bottleneck' phenomenon, when populations were squeezed down from large to small and then expanded again.
+Behar and Skorecki's team have found what is known as a 'founder effect', when one or a small number of people have a huge number of descendants.
+
+Scientists hope to gain an insight into the secret life of clouds with Australia's biggest climate experiment
+International storm chasers gathering in Australia this week will release more than 1000 weather balloons over the next month as part of the nation's largest meteorological study.
+The Tropical Warm Pool International Cloud Experiment, based in Darwin, will provide the world's most comprehensive set of data about the behaviour of thunderclouds, says Dr Peter May, a principal research scientist at the Australian Bureau of Meteorology in Melbourne.
+May says the study will give scientists better ways of modelling cloud behaviour, resulting in more accurate short-term weather forecasting and better predictions for long-term climate change.
+"The biggest uncertainty in climate forecasts and greenhouse calculations comes down to our understanding of thunderstorms," he says.
+"The underlying aim of this experiment is to increase our understanding of thunderstorms themselves, how they evolve and the large scale impact they have."
+Collaborators in the project include the bureau, the US Department of Energy Atmospheric Radiation Measurement Program, the CSIRO, NASA and universities from Australia, the US, Europe, Canada and Japan.
+Measuring ice crystals
+May says the tropical weather conditions in Darwin, which was devastated by Cyclone Tracy in 1974, provide a natural laboratory for storm watchers.
+And this is the time of year for tropical storms, when Darwin has its monsoon-like 'wet' season.
+The multi-million dollar study will have three prongs. 
+May says research planes will fly directly into the clouds to measure ice crystals while a ground-based network will use radars, laser and infrared systems to look at cloud characteristics and the movement of heat, moisture and light.
+And weather balloons will be released every three hours over 23 days from five sites around Darwin.
+"This data set is going to be a real resource for the whole meteorological community," May says.
+"It'll be the data set that people go to develop new model systems for the next 20 years. There will be dozens, if not hundreds of papers written about this experiment."
+May says the link between climate change and global storm patterns is unclear.
+But he says it's unlikely that climate change is directly responsible for isolated events, like Hurricane Katrina that struck New Orleans last year.
+"The question isn't is a particular storm due to climate change, the question is are we loading the dice so that we can expect more storms or will they be more intense," he says.
+
+Artists think Pluto looks like this. But we won't know for certain until NASA's New Horizons spacecraft, due to launch this week, reaches the distant planet in about a decade
+The US space agency is set to shed light on Pluto with the launch of the New Horizons spacecraft this week.
+The spacecraft, which is due to be launched at 05:24 AEDT on Wednesday (18:24 UTC, Tuesday) will also investigate a new class of planet-like objects, called ice dwarfs, that exist beyond the orbit of Neptune.
+Over the decades, NASA has launched probe after probe for close-up studies of Earth's sister planets. But distant Pluto has remained shrouded in mystery, with only a few fuzzy telescope pictures for scientists to ponder. 
+"What we know about Pluto today could fit on the back of postage stamp," says Dr Colleen Hartman, NASA's deputy associate administrator for science.
+And New Horizon's principal investigator Dr Alan Stern, with the Southwest Research Institute in Boulder, Colorado, agrees we have much to learn about the history of these distant objects.
+"These are objects that were growing to planethood, but something stopped that process of growth mid-gestation," he says. "It left us these fossil relics." 
+Pluto is the largest and best-known object in the Kuiper Belt region of the solar system.
+Like comets, the planetary bodies in the Kuiper Belt region are so far from the Sun that scientists believe they still contain some of the original material that was used to form the solar system. 
+How the universe formed
+New Horizons is a U$700 million (A$928 million) attempt to learn more about how the universe formed.
+The piano-sized spacecraft contains seven science instruments to map Pluto, its largest moon Charon, and two other recently discovered smaller moons, as well as other Kuiper Belt objects. 
+To shave as much time as possible from the journey to Pluto, which will take more than nine years, NASA is launching New Horizons aboard a massive rocket typically used for communications satellites five to 10 times heftier than the half-tonne science probe. 
+The launch vehicle, an Atlas 5 rocket with two upper-stage motors and an unprecedented five solid-rocket strap-on boosters for extra punch, has successfully flown six previous missions.
+The rocket was rolled out from its hangar to its Cape Canaveral launch pad earlier this week.
+Even with the 58,000 kilometre per hour boost into space, New Horizons will still need to bounce off Jupiter's massive gravity field and travel for nearly a decade to reach Pluto. 
+Hitching a ride
+If the probe cannot be launched by 2 Feburary it will miss the opportunity to slingshot off Jupiter and take an additional three to five years to reach Pluto, depending on the actual launch date. 
+Scientists, who already have waited decades for NASA to approve and fund a mission to Pluto, are happy to at last be on their way. 
+"This is a place where nature operates at vastly different temperatures and conditions than we're familiar with on Earth," says New Horizons co-investigator Professor Richard Binzel with the Massachusetts Institute of Technology. 
+"We're poised to begin the exploration of a new world," adds Dr Dale Cruikshank, with the NASA Ames Research Center in California.
+
+Backpackers form a highly mobile community, says a researcher who's developing a new communication device especially for them
+Backpackers may one day use a mobile travel assistant to ring home and network with other travellers while finding out the cost of a bus ticket to Bondi Beach, an Australian researcher says.
+The digital travel buddy would also act as a travel guide with information about the best places to go and how to get there, says Jeff Axup, a PhD student at the University of Queensland and former backpacker.
+Axup has been studying backpacker culture and communication as part of his research into the technology needs of so-called mobile communities.
+"A lot of research focuses too much on the technology and tries to find an application," he says.
+"We like to look at how people naturally act and try to come up with technology to fit their needs."
+In a recent study Axup shadowed a group of backpackers and documented their behaviour as they toured Brisbane, took a boat cruise and visited an animal park.
+The results of his study are published on the ePrintsUQ website and will be submitted for publication in coming weeks.
+Axup's latest research includes prototypes of the technology, which is being developed with the Australasian CRC for Interaction Design.
+The final product will probably be software-based so backpackers can download it onto their mobile phones, he says.
+And it will be likely to include instant messaging and discussion forums, or use wireless technology.
+Mobile communities
+Axup says backpackers are cultural symbols of an increasingly mobile world, a change brought about by improved transport and technology and the breakdown of the traditional neighbourhood.
+"One term to describe this is glocalisation, where you still have your local communities but they've gone global and they may be distributed," he says.
+Backpackers already use mobile phones, text messaging and the internet but Axup's research shows that they are driving changes in technology as much as the technology is changing the nature of travel.
+"Any time you introduce new technology it always enters an existing social and technological environment, so it will of course change the existing environment," he says.
+"But then people will take it and use it in ways that were never expected and maybe even change the technology."
+
+Watching a comedy is as good for the heart as aerobic exercise, new research suggests
+Watching a comedy film boosts the flow of blood to the heart, but watching a sad film makes the flow decline, a US study shows.
+University of Maryland researchers asked 20 young people to watch movie segments lasting 15 to 30 minutes, taken from comedy films and serious films, with at least 48 hours between the two sessions. 
+With the help of ultrasound, the researchers measured the study participants' blood flow through the brachial artery.
+This vessel runs between the shoulder to the elbow and its blood flow is thought to be a good indicator of blood flow around the body.
+Blood flow was reduced in 14 of the 20 volunteers when they watched extracts such as the distressful opening scenes to Saving Private Ryan.
+But blood flow rose in 19 out of 20 when they watched funny clips, such as scenes from Something About Mary. 
+The difference between the two flows was more than 50%, according to the study, which appears today in the journal Heart. 
+Watching a sad movie has about the same effect on heart flow as remembering an angry incident or doing mental arithmetic, it says. 
+But watching a comedy is equivalent to a bout of aerobic exercise or starting a course of cholesterol-busting statin drugs. 
+Depression, anxiety, hostility and anger are already known to impair nitric oxide pathways that help blood vessels to dilate. 
+The authors tentatively suggest that a chuckle may stimulate selected hormones to have the opposite effect. 
+"Positive emotions such as mirthful laughter [may] have a [beneficial] effect on the endothelium," the cells that line the walls of the blood circulation system, they speculate.
+
+Why did the turtle cross the road? Because it wanted lunch
+Scientists are studying the wandering ways of Australia's eastern long-necked turtle to see if can learn to cross the road.
+Professor Arthur Georges, director of the applied ecology research group at the University of Canberra, says it's the first time researchers have documented how roads affect the turtles.
+Georges says unlike other turtles, Chelodina longicollis has evolved the ability to take long overland hikes because it prefers ephemeral waters, such as temporary swamps and pools.
+"When a wetland dries, the nutrients are released from the sediment and when it refills there's a flush of production, so they're capitalising on all the insects and other foods that benefit from that flush," he says.
+The hardy creatures gravitate to permanent waters in a drought, where they can  'switch off' growth and reproduction, sometimes for as long as seven years. They then hit the road as soon as the rains come.
+Georges and his team are studying a population of turtles in Jervis Bay in southern New South Wales and hope to have some results ready for publication in the middle of the year.
+Look right, look left, look right again
+Georges says the long-necked turtle is familiar with its environment and may even have learnt to avoid roads.
+"What we have found is that they ... use the Sun and an internal clock to navigate and they know landscape really well so they tend to beeline to various places," he says.
+"We're going to take them from the wetlands and release them near a road and observe their behaviour as they approach the road. They may have an aversion to [it] and turn around."
+But if the road safety message hasn't sunk in it may be necessary to build tunnels under roads to provide them with safe passage, he says.
+While it appears that some aspects of development have got in the way of the turtle's natural behaviour, it hasn't been all bad for the long-necked turtle, Georges says.
+"When you fly over [surrounding farmland] you'll see there are lots of dams," he says.
+"Each one is full of about 20-30 turtles, and those sorts of water bodies weren't there before," he says.
+"But on the downside, when a road runs through a wetland you can increase the chance that over time the population will decline."
+
+Landslides like this one in Pakistan earlier this week may become more common if climate change increases rainfall, scientists say
+Heavier rainfall as a result of climate change could loosen soils making landslides more common, UN experts say.
+This may risk hillside slums in Latin America to antiquities in Egypt's Valley of the Kings, according to scientists meeting in Tokyo this week to discuss ways to prevent and ease damage from landslides.
+"If climate change predictions are accurate you will expect ... more intense and extreme rainfalls," says Professor Srikantha Herath, senior academic officer of the UN University. 
+A report released at the time of the meeting says some cultural sites are at risk from landslides, including the Valley of the Kings where Egypt's Pharaohs are buried, the Inca mountain fortress of Machu Picchu in Peru and China's Huaqing Palace dating from the Tang dynasty. 
+"Special attention should be given to cultural and natural heritage sites of universal and irreplaceable values," says Professor Kyoji Sassa, director of the Disaster Prevention Research Institute at Japan's Kyoto University.
+"In some places, particularly in developing countries, the natural threats are being exacerbated by rapid tourism development," he says.  
+Early warning
+Herath says the Tokyo talks are likely to call for better monitoring and early warning systems, special protection of cultural sites, better preparedness and quick aid for victims. 
+He says it is impossible to say if global warming is already causing more landslides. 
+Of natural disasters, landslides are the seventh biggest killer behind droughts, storms, floods, earthquakes, volcanoes and extreme temperatures, according to the report for the UN University, Kyoto University and UNESCO.
+Among severe landslides, about 2800 died in Cholima in Honduras in 1973 and almost 1200 in northern Italy in 1963.
+The Louvain University database on which the figures are based often excludes landslides triggered by earthquakes. 
+Unstable hillsides
+In many poor nations, many people were forced to live on unstable hillsides, away from flat plains exploited for farming. 
+"Late arrivals are always settling in the most dangerous land," says Professor Janos Bogardi, director of the UN University Institute for Environment and Human Security. 
+He says that better building codes and simply giving out information about the risks of mudslides could save lives.
+Asia suffered most with 220 landslides in the past century out of about 500 that caused human deaths, the scientists say. Many of the most deadly mudslides were in Latin America and the costliest in Europe. 
+About 800-1000 people died in landslides in each of the past 20 years, the UN University says.
+
+The wind may carry legionnaires bacteria from cooling towers much further than once thought, scientists say
+The bacteria responsible for causing legionnaires disease can spread through the air up to 6 kilometres from its source, French researchers report. 
+Legionella pneumophila likes to live in hot water, such as in industrial cooling towers or the water systems of large buildings where it can then cause pneumonia-like infections.
+Now a new study suggests that a wider area may be at risk. 
+Past studies found airborne legionella spread only a few hundred metres, says lead author Dr Tran Minh Nhu Nguyen, currently at the National Public Health Institute in Helsinki.
+If other investigators confirm the new findings, he says "a number of regulations and guidelines related to this environmental health risk should be revised accordingly".
+In the Journal of Infectious Diseases, Nguyen and his team report on their investigation of a 2004 outbreak of legionnaires disease that occurred in Pas-de-Calais in northern France. 
+They identify a contaminated cooling tower at a petrochemical plant as the source of the outbreak, which killed 21 of the 86 people with laboratory-confirmed infection.
+Most of the victims lived within 6 kilometres of the plant, although one lived 12 kilometres away. 
+The fatality rate is "striking" when compared with past community-acquired outbreaks, in which fatality rates were 1 to 11%, the researchers note.
+They think the strain of legionella involved could have been unusually virulent. 
+The outbreak occurred in two peaks, the first ending after the cooling tower had been shut down and the second beginning during cleaning of the tower and peaking once it had reopened. 
+The pattern suggests that high-pressure cleaning methods used to decontaminate the towers contributed to the bacteria's spread.
+"There are measures and guidelines for managing cooling towers contaminated with legionella," Nguyen says. "However, how well they have been adopted and implemented depends on the individual country and setting."
+
+Map collector Liu Gang speaks in Beijing in front of a slide of a map which is said to be an 18th century copy of the 1418 original and showing the Americas in unusual detail
+A Chinese map collector has found a copy of an ancient map he claims proves controversial theories that a famed Chinese mariner was the first to sail to the Americas and circumnavigate the world. 
+Liu Gang says the map supports recent theories that Chinese people sailed to America before Christopher Columbus and charted parts of the world such as Antartica and northern Canada long before Western explorers. 
+"The map shows us that Chinese discovered the world 70 years before Columbus," Liu said in a public unveiling of the chart. "The map tells us that [mariner] Zheng He discovered the world."
+The map is dated to 1763 but is also clearly marked that it is a copy of a map made in 1418. That date coincides with Zheng He's voyages, from 1405 to 1432. 
+Liu bought the map for about US$500 (A$666) from a map collector in Shanghai in 2001, but only realised its importance after he read Gavin Menzies' best-selling book 1421: The Year China Discovered The World. 
+In the book Menzies theorises that previously undiscovered world maps drawn up by Zheng He's admirals were copied by European map makers and were extensively used during the voyages of great Western explorers, including Columbus, Ferdinand Magellan, Vasco Da Gama and James Cook. 
+Much of Menzies' theories are supported by his knowledge of ocean currents, continental trade winds and star navigation that he learned during his life as a British naval commander. 
+Despite its prominence on best-seller lists, many historians have criticised Menzies' theories for the lack of accompanying evidence. 
+China's Ming Dynasty banned ocean-going exploration and trade on pain of death after Zheng He's final voyage, largely due to the death of Emperor Zhu Di, who sponsored the voyages. 
+The huge costs of Zheng's fleets, which often numbered hundreds of ships, were another factor. 
+The Chinese records of Zheng He's voyages have largely been lost, either purposely destroyed as part of the ban on ocean-going navigation or due to a fire that ravaged Beijing's imperial palace in the 1420s. 
+Liu believes a lot of the records still exist, but Chinese scholars have largely ignored them. 
+"I sincerely believe that other maps exist and books exist [that contain evidence of Zheng He's world travels] but no-one has been paying attention to them," Liu says. "It is my purpose to try to wake these [scholars] up."
+
+The new fridge magnets will be aware of others on the fridge and communicate with them
+Fridge magnets may one day be able to fix bad grammar and change the words to something they think is more appropriate.
+"The idea is that each magnet is aware of the other magnets on the fridge and they transmit information between each other," says Australian digital artist Pierre Proske.
+Proske is working with researchers at the Future Applications Lab of the Viktoria Institute in Sweden to develop the intelligent fridge magnets.
+Details will be presented at the  International Conference on Intelligent User Interfaces in Sydney later this month.
+Each fridge magnet consists of 16-character liquid crystal display, rather than a magnetic strip with a printed word, Proske says.
+The magnets can randomly generate a word, categorise that word (as a noun, verb, adjective or adverb) and transmit the category to any words they are placed next to.
+As you compose a poem, placing words in grammatical order, the magnets communicate with each other to learn the grammar rules you are using.
+Once they are 'trained', the magnets can change the words they are displaying to substitute words that don't fit the established grammar rules, like an autocorrect function.
+"So the actual word that's associated with each magnet can change depending on the way in which it's aligned," says Proske.
+Reshuffling gives you a new word
+Luckily if you don't like the word the magnet substitutes, you can always take the magnet off the fridge and shake it to reshuffle and get a new word.
+And the plan is for you to be able to reset the magnets completely so they forget all their grammar rules.
+Of course, the magnets rely on being taught good grammar in the first place.
+"Someone could instil bad grammar if they wanted to," says Proske.
+But he doesn't want to take all the fun for those kitchen-based party-goers that like making up crazy sentences on fridges.
+He says the system will only worry about which words can be immediately next to each other and won't be too strict about the grammar of the sentence as a whole.
+"This was deliberate to keep the sentences a little more poetic," says Proske.
+"The idea is it is still fridge poetry. We don't want to create sentences that make total sense." 
+Changing words to fit themes
+The team also hopes that the magnets will be able to substitute words in response to stimuli other than bad grammar.
+For example, someone might have a set of magnets on the home fridge and a set of magnets on the work fridge that can communicate via wireless internet, says Proske.
+If the magnets at home read, for example, "Crazy kangaroos dream wildly", those at work might change to "Drunk wallabies laze around the pool", in keeping with the Australian theme.
+The team also suggest it might be interesting to apply their ideas to Scrabble and crosswords but says further details on this are a subject for further investigation.
+Proske and colleagues have so far half developed a prototype intelligent fridge poetry magnet system and are hoping to get more ideas at the Sydney conference.
+And they're not just interested in generating another product for the consumer market.
+This is a "whimsical and accessible" way to contribute to the study of developing intelligent robots, says Proske.
+
+The findings could explain the traditional job of men as society's enforcers, say researchers
+Men are likely to take pleasure when they see someone punished for acting unfairly, while women are likely to feel badly for the culprit, say neuroscientists.
+Dr Tania Singer of University College London and team report their findings today online ahead of print publication in the journal Nature.
+In a two-phase experiment, the researchers recruited 32 male and female volunteers, as well as four others who were undercover actors hired to play the role of volunteers. 
+In the first part of the experiment, the group played a game of mutual investment in which they had to give money to one of their number.
+The recipient decided how much to give back from the profits. They could hand back up to triple the investment, at little reward to themselves, or hand back little or nothing, maximising their own gains at the investor's cost.
+One actor was cast in a generous role, always giving lots of money back to their partners, while another actor was cast as a meanie, giving back very little and sometimes nothing at all.
+Body language by the volunteers, confirmed later in questionnaires, confirmed that they did not like the actors who had cheated on them.
+"Fair" players, in contrast, were rated as more agreeable, more likeable and, remarkably, more attractive.
+Brain imaging reveals sex differences
+In the second phase, the same volunteers were each placed in a magnetic resonance imaging scanner, a device which shows blood flows within the brain. 
+The volunteer was then given a demonstration of a mild shock, the equivalent of short bee-sting, and then watched as the actors, standing next to the scanner, got the same painful treatment. 
+When a "fair" actor received a shock, the scanner showed empathy among all the volunteers. 
+In males and females alike, the images showed activation of the anterior insula/fronto-insular cortex (AI/FI) and anterior cingulate cortex (ACC). Previous research has showed that these parts of the brain cause the feeling of  distress when one sees someone else in pain.
+When an "unfair" actor got a shock, the AI/FI and ACC lit up again among most female volunteers. But amongst the men these empathic areas showed no increase in activity. 
+Reward centre activated in men
+Men who watched "unfair" actors suffering did show an activation of their nucleus accumbens, the part of the brain associated with the satisfaction of reward. This activation was not seen in most female volunteers.
+Singer says the results show that fairness in social situations "shapes the nature of the emotional link we have to other people. 
+"We empathise with others if they cooperate and act fairly. But in contrast, selfish and unfair behaviour compromises this empathic link," she says. 
+Singer believes these fundamental responses at the individual level have played a key role in social evolution. 
+They would explain for instance why communities everywhere draw up laws or codes to punish or sideline those who cheat and freeload on the majority, she says.
+As for the gender difference about punishing a social offender, Singer says she could not rule out the possibility that the experiment favoured men as there was a physical rather than psychological or financial threat involved.
+Despite this limitation, she says, the results could explain the traditional job of men as society's enforcers.
+"This investigation would seem to indicate there is a predominant role for men in maintaining justice and issuing punishment," she says.
+
+Remote peoples can describe and understand geometrical concepts related to circles, triangles and parallel lines, scientists show. So, is geometry hard-wired in the brain?
+Amazonian hunter-gatherers who lack written language and who have never seen a maths book do well on basic geometry tests, researchers say in a study that suggests geometry may be hard-wired into the brain.
+Adults and children alike showed a clear grasp of concepts such as where the centre of a circle is and the logical extension of a straight line.
+This was despite not having words for these concepts, the researchers report today in the journal Science. 
+Professor Stanislas Dehaene of the College de France in Paris and colleagues tested 14 children and 30 adults of an Amazonian group called the Munduruku, and compared their findings to tests of US adults and children. 
+"Munduruku children and adults spontaneously made use of basic geometric concepts such as points, lines, parallelism, or right angles to detect intruders in simple pictures, and they used distance, angle, and sense relationships in geometrical maps to locate hidden objects," they write. 
+"Our results provide evidence for geometrical intuitions in the absence of schooling, experience with graphic symbols or maps, or a rich language of geometrical terms." 
+Geometry is an ancient field and Dehaene's team postulated that it may spring from innate abilities. 
+"Many of its propositions -- that two points determine a line, or that three orthogonal axes localize a point -- are judged to be self-evident and yet have been questioned on the basis of logical argument, physical theory, or experiment," the researchers write. 
+There was no way the Munduruku could have learned these ideas, they add. 
+"Most of the children and adults who took part in our experiments inhabit scattered, isolated villages and have little or no schooling, rulers, compasses, or maps," they write. 
+"Furthermore, the Munduruku language has few words dedicated to arithmetical, geometrical, or spatial concepts, although a variety of metaphors are spontaneously used." 
+Playing by the rules
+They designed arrays of six images, each of which contained five conforming to a geometric concept and one that violated it.
+"The participants were asked, in their language, to point to the weird or ugly one," the researchers write. 
+"All participants, even those aged 6, performed well above the chance level of 16.6%."
+The average score was nearly 67% correct, identical to the score for US children. 
+"The spontaneous understanding of geometrical concepts and maps by this remote human community provides evidence that core geometrical knowledge, like basic arithmetic, is a universal constituent of the human mind," they conclude.
+
+Soil harbours bacteria that contain antibiotic resistance genes. So is this where hospital superbugs get their protective genes from?
+Bacteria in dirt may be 'born' with a resistance to antibiotics, which could help shed light on the problem of drug-defying superbugs, Canadian researchers say.
+They tested hundreds of different bacteria found in soil and discovered that every one had some resistance to antibiotics, meaning they had evolved a mechanism for evading the effects of the drugs. 
+The findings, published today in the journal Science, could help to explain why bacteria so quickly develop resistance to antibiotics, and why drug companies must constantly develop new ones. 
+"It explains where these things come from in the first place," says Dr Gerry Wright, of Ontario's McMaster University.
+"This work could prove to be extremely valuable to the drug development process." 
+Wright's team dug up 480 strains of streptomyces bacteria and tested them for resistance to various antibiotics. 
+"Without exception, every strain ... was found to be multi-drug resistant to seven or eight antibiotics on average, with two strains being resistant to 15 of 21 drugs," the scientists write. 
+A logical place to start
+These particular bacteria do not infect people, but Wright believes the findings almost certainly apply to other species of microbes. 
+"It turns out that streptomyces make lots of antibiotics," Wright says. "Anything that ends in 'mycin' comes from streptomycin: vancomycin, streptomycin." 
+That was why they chose this group of bacteria. 
+"We were curious to see where these things might come from in the first place, so it seemed that was a logical place to start. I expect lots of these [drug-resistant] genes are peppered all over the microbial community," Wright says. 
+The scientists exposed the bacteria to known antibiotics and then searched for genes that were activated when the microbes survived. 
+"We found old mechanisms and new mechanisms," Wright says. 
+"We found a brand-new resistance mechanism to an antibiotic called telithromycin," he says, referring to Aventis' drug Ketek, which has only recently been approved in some countries. 
+Ketek was designed to overcome resistance to antibiotics, but one of the bacteria Wright tested evolved a way to prevent it from working. 
+Developing resistance
+Almost as soon as penicillin was introduced in the 1940s, bacteria began to develop resistance to its effects, prompting researchers to develop many new generations of antibiotics. 
+But their overuse and misuse have helped fuel the rise of drug-resistant superbugs.
+The US Centers for Disease Control and Prevention says 70% of infections that people get while in the hospital are resistant to at least one antibiotic. 
+Wright says his findings do not get doctors off the hook. He says they still must prescribe antibiotics only when they are needed, and stress to patients the need to use them properly. 
+Soil bacteria live in a constant kind of arms race, making antibiotics to protect themselves against other bacteria, and then evolving antibiotic resistance to evade the antibiotics made by other bacteria. 
+"Their coping tactics may be able to give us a glimpse into the future of clinical resistance to antibiotics," Wright says.
+
+Nanoparticles may rescue us from the drudgery of cleaning the bathroom
+Cleaning bathrooms could become a chore of the past with new coatings on bench surfaces, tiles and glass that do the job for you, say Australian researchers.
+Professor Rose Amal of the ARC Centre for Functional Nanomaterials and team are developing new coatings they hope will be useful for self-cleaning surfaces in homes and hospitals. 
+"If you can have self-cleaning materials, you can do the job properly without having to use disinfectants and other chemicals," says Amal, based at the University of New South Wales in Sydney.
+Tiny particles of titanium dioxide up to 20 nanometres in diameter are currently used on outdoor surfaces, such as self-cleaning windows.
+These titanium dioxide nanoparticles absorb UVA light, ultraviolet light below 380 nanometres in wavelength.
+This excites electrons and gives the particles an oxidising ability more powerful than chlorine bleach. 
+The nanoparticles can then kill microbes and break down organic compounds from vehicle and industrial emissions into carbon dioxide and water.
+Surfaces coated with the titanium dioxide nanoparticles also have another property, called 'superhydrophilicity' that helps them self-clean. This is when water does not form droplets, but rather runs straight off the surface, washing as it goes.
+Changing the activating light
+But titanium dioxide can only be activated by UVA and this is only present in sunlight, not other sources of light, like indoor light. 
+This means that to date self-cleaning coatings have been limited to outdoor surfaces.
+Amal and team have been modifying titanium dioxide nanoparticles so they can absorb light at higher wavelengths, in the visible spectrum, over 400 nanometres in wavelength.
+They have been doping titanium dioxide nanoparticles with a small amounts of other elements such as iron or nitrogen, in place of titanium or oxygen.
+Lab trials show that glass coated with the new nanoparticles can be activated by visible light from a lamp to kill bacteria Escherichia coli, and degrade volatile organic compounds.
+"If you can coat it onto a shower room, you don't have to clean the shower room that often," says Amal. "Because of the oxidising properties, fungus will also not grow on the surface."
+Outdoor coatings could benefit too
+While Amal says the self-cleaning coatings would be useful on tiles, glass screens and benches in bathrooms and hospitals, she says the nanoparticles could also be used to improve outdoor self-cleaning surfaces.
+UVA only makes up 5% of sunlight, she says, whereas the ability to use visible light would significantly increase the amount of sunlight that could be used.
+"If you use this material outdoors you can utilise more of the sunlight wavelengths," she says.
+Funding so far has been through the Australian Research Council but Amal says her team will be looking for commercial support down the track.
+She expects it will be another year before the nanoparticles will be ready for large-scale production.
+Safety considerations
+Amal says recent concerns about the toxicity of nanoparticles should not apply to those in the self-cleaning coatings because they are chemically glued to surfaces with polyethylene glycol, and so are not free to float in the air.
+"For this particular application I don't think it should be a problem," she says.
+
+A long tailfin or 'sword' scares off competitors and impresses the ladies
+Colourful aquarium fish known as swordtails, size up competitors' tailfins before fighting, US scientists show.
+Often a male just has to show his big elongated tail, which looks like a pointy sword, to scare off challengers, according to a new study in the latest issue of the journal Animal Behaviour. 
+Yet another study in the same publication concludes that female swordtails prefer male swordtails with big, striped swords. 
+Researchers even think the female fixation on these bright appendages led to their emergence in the first place, since female fondness for novel traits and bright colours appears to have preceded the appearance of male swords. 
+The finding suggests the creation of some secondary sexual characteristics may be influenced, and even controlled, by the opposite sex. For male swordtails, this characteristic is an extension of the tail or caudal fin.
+"It is not terribly rigid and cannot be manipulated very efficiently," says Dr Kari Benson, who co-authored the first paper with Dr Alexandra Basolo. "It is not useful as a weapon. It is only used as a visual signal in a fight."
+Benson, a researcher at Lynchburg College, says, "The sword might signal many things: how strong and vigorous he is, how well he ate while growing up or simply by indicating that he is large." 
+The researchers staged duels between swordtails (Xiphophorus helleri), by putting two comparably sized males with different-sized swords in a tank and then observing their interactions, which usually involved aggressive behaviour, such as chasing and biting. 
+The researchers then artificially manipulated sword size by affixing fake plastic swords to the fish. 
+Repeatedly, the male with the bigger sword won. Often all he had to do was to show his sword and then the other male slunk away.
+Basolo, from the University of Nebraska, says the loser really looks the part. 
+"His body darkens, due to a stress response, he puts his head down and he then positions himself at the periphery of the tank," she says, adding that the loser even folds in his fins. 
+Dr Brian Trainor, a researcher in the College of Social and Behavioral Sciences at Ohio State University, says:
+"One part I was a bit amazed with was that in the sword manipulation experiment; somehow the fish were able to determine their own artificial sword sizes.
+"I think people usually think that fish are not too bright. Not only were these swordtails able to assess their competitors' apparent sword length, but also they were able to compare that with their own sword length. I thought that was a cool result." 
+He even believes there is a swordtail-human link, since both species seem to have evolved traits and behaviours that do not offer apparent survival benefits. 
+The sword, for example, appears to be useless, save for its visual impact. For humans, he says possible examples include artistic abilities and senses of humour. 
+Like male fish showing off their swords to females, he suggested that these human abilities might exist, in part, to impress members of the opposite sex.
+Like the fish swords, they can also weed out competitors who may not be as talented or humourous. 
+"Our studies in swordtails show that sexually selected traits can be complex and used in multiple behavioural contexts, much like many aspects of human behaviour," he says.
+
+This hourglass-shaped crater on Mars provides more evidence that glaciers once carved the planet's surface, glaciers made from fallen snow
+Mysterious debris fields found far from the poles on Mars were made by glaciers, possibly formed just like glaciers are on Earth, by the build-up of snow, researchers say.
+The glaciers would have resembled those found on Earth in places such as Mount Kilimanjaro in Africa or the Andean peaks in South America, the researchers report in the latest issue issue of the journal Science. 
+They probably formed when Mars was tilted on its side 5 million years ago, Brown University planetary geologist Professor James Head and colleagues say. 
+Researchers were intrigued when spacecraft data showed curious rock-strewn deposits at the foot of some Martian volcanoes and mountains close to the equator. 
+These scraped-up piles of rock and sand in certain valleys and along the western flanks of the three giant volcanoes look like what is left behind by a moving glacier on Earth. 
+It is now very cold and very dry on the Mars surface, and water cannot stand in any one place on the planet for long, even as ice. 
+Researchers have speculated whether the tropical glaciers came from snow or perhaps oozed up from underground. 
+An ancient climate
+The team of US and French researchers ran climate simulations that suggest glaciers could have formed when the Sun heated up the poles, sending snow there into the atmosphere and allowing it to fall elsewhere on the planet. 
+The models predict locations for these glaciers that match many of the glacier remnants seen today. 
+"What we found was that the glaciers were formed from snow brought from the polar regions," Head says. 
+They note that Mars often has changed its tilt so that the poles face the Sun and the equator gets only oblique sunlight. 
+"Actually, it last occurred only five-and-a-half million years ago," says Dr Francois Forget of the University of Paris, who led the team. 
+Sublime, say researchers
+The Sun's rays could vapourise the snow in a process known as sublimation, also seen here on Earth.
+Winds would carry the water vapour south, up and over the soaring slopes of the Tharsis Montes volcanoes and the giant Olympus Mons volcano. 
+The vapour would cool and condense into snow, which would eventually harden into an icy glacier. 
+"The findings are important because they tell us that Mars has experienced big climate changes in the past, the kinds of climate change that led to the Great Ice Age here on Earth," Head says. 
+"The findings are also interesting because this precipitation pattern may have left pockets of ice scattered across Mars. This is good information for NASA as officials plan future space missions, particularly with astronauts."
+
+And the AM goes to ... Dr Karl, for promoting greater understanding of the application of science to daily living
+Dr Karl Kruszelnicki, the man responsible for demystifying belly button lint, has been awarded an Australia Day Honour for his work as a science communicator.
+Dr Karl's appointment as a Member of the Order of Australia (AM) is the latest in a long list of accolades for the former scientist, engineer and paediatric emergency doctor, including a 2002 Ig Nobel Prize for his belly button lint research.
+Kruszelnicki, who describes himself as "very mediocre as a scientist but pretty good at talking about it" says his real achievements have been in making a difference to people's lives.
+He tells the story of a woman who told him at a book signing that her son, once a high school drop-out and surf bum, decided to become a geneticist after listening to him on Triple J radio.
+The boy got himself a PhD and is working as a geneticist at Harvard University today.
+"Under circumstances like that I feel that I have done my work," Kruszelnicki says.
+"I used to be a medical doctor and I didn't realise it at the time, but the reason I was doing it was to liberate people from what ails them or to help them get to the next stage, like a conduit.
+"So I think that's what [the AM] is for. Alternately it might be for my groundbreaking work on belly fluff."
+The secret history of Dr Karl
+Kruszelnicki was born in Sweden, across the river from Elsinore where Hamlet trod the corridors of his castle in Shakespeare's play.
+At school he was teased for having a weird surname and he grew up to work in a variety of jobs including physicist, labourer, roadie and TV weatherman.
+Today he's a popular media personality and a best-selling author.
+Ask about the least known fact about him besides his middle name (it's Sven), and he tells you that he test-drives four-wheel drives and is an avid autograph collector who has the signatures of three of the 12 moon walkers. 
+He also subscribes to A$10,000 (US$7500) worth of scientific literature.
+Kruszelnicki says the most important scientific discovery is that you can't mix sewage with drinking water, the most over-rated is the internet and the biggest unanswered question is why the Moon is larger on the horizon.
+The most way-out theory that may one day become reality?
+That one day genetic engineering will allow us to travel through space in the form of a giant magnetic vapour cloud.
+"And you'll still be able to have sex," he says.
+He's also learning to stand up on his Malibu surfboard. Obviously he'll be applying the most complex laws of physics to the task.
+"It's called not falling over," he says.
+Other Australia Day Honours recipients include:
+&bull; Professor Ian Hickie (AM), clinical advisor beyondblue, for service to medicine in the development of mental health initiatives
+&bull; Dr Jeanne Collison (AO), as a pioneer of cardiac bypass techniques through the development of the first Australian heart-lung machine
+&bull; Dr Ian Brooker (AM), for services to botany, including research leading to the identification and classification of the genus Eucalyptus; and
+&bull; Dr George Bennett (AM), for his work in celestial navigation and positional astronomy.
+
+The Fab Tree Hab weaves together branches to form living archways
+Growing a home from living trees instead of building a home from felled timber is the goal of an architect from the Massachusetts Institute of Technology. 
+Dr Mitchell Joachim, part of the MIT Media Lab's Smart Cities Group, along with ecological engineer Dr Lara Greden and architect Javier Arbona, propose a home that is actually an ecosystem. 
+The Fab Tree Hab goes beyond sustainable housing and so-called green design, building with materials that have a low impact on the environment and human health. 
+"Not only does it do zero damage, but it will hopefully clean the air," says Joachim. 
+The habitat is based on an ancient gardening method known as pleaching, which weaves together tree branches to form living archways, lattices or screens. 
+In Joachim's vision, the exterior of the living house is shaped over the course of several decades into a protective crisscross of vines, interspersed with soil pockets and growing plants. 
+A clay and straw composite fills in the gaps to insulate against the cold and heat and keep out moisture. 
+He proposes constructing windows manufactured from soy-based plastics that would flex with the home as it grows. 
+Gathering water
+Water would be gathered in a roof-top trough and circulate by gravity through the house, where it would be used by the inhabitants, filtered through a garden, and purified in a pond containing bacteria, fish, and plants that consume organic waste. A composting system would treat human refuse.
+Water would also serve to hydrate the plants and the tree itself, which would give off water vapour naturally during transpiration and cool the shelter. 
+The Fab Tree Hab would also rely on the Sun for heat. Large, south-facing windows would absorb warmth in the northern hemisphere's winter, while windows located on the shady side at ground floor would draw in cool breezes during hot months. 
+Grow your own furniture
+"The living house would be the Holy Grail of this art form," says Richard Reames, an Orgeon-based arborsculptor and author of the book How to Grow a Chair. 
+Reames uses grafting and pleaching techniques to grow living chairs, benches and tables. 
+Joachim's dream is to plan an entire community based on the living house design, but before that can happen, he will need to conduct a year or two's worth of sociology and feasibility studies. 
+In the meantime, he is designing a house in California that will be constructed from 50% recycled and reconstituted materials and 50% living elements. 
+The project is called MatScape and Joachim sees it as an experimental step toward the ultimate living house.
+
+Navigating bubble wrap: part of research that may one day help to design space exploration robots
+Crayfish don't just blunder around in the dark bouncing off rocks but use a sophisticated sense of touch to form detailed mental images of their surroundings, an Australian researcher says.
+Professor David Macmillan of the University of Melbourne has previously piqued the interest of NASA, which has applied his earlier work on the crayfish, or yabby (Cherax destructor), to developing tiny space exploration robots.
+Macmillan says just as humans looking for the bathroom in the middle of the night grope around with their hands, yabbies in dark or murky waters use their antennae to orientate themselves.
+They also use chemosensory receptors all over their bodies that allow them to detect chemicals in the water from food, mates or predators.
+"We're trying to find out how crustaceans work out what their world is like," he says.
+Yabbies are not renowned for having large brains, but Macmillan says his research, published in the current issue of the Journal of Experimental Biology, shows the crustaceans have an acute sense of touch that helps them to get around.
+"People have made lots of assumptions that they're not that smart and they don't know what's going on out there but increasingly [we're] finding that they actually put together some pretty sophisticated pictures," he says.
+Bubble wrap or sandpaper?
+In the study Macmillan and colleagues put the crayfish into arenas containing different types of surfaces and structures including bubble wrap and sandpaper.
+"Basically we asked the animals to tell us whether they could tell the difference," he says.
+"What we're seeing is that they change their behaviour according to the texture of surfaces."
+He says his team is the first to demonstrate that yabbies can discriminate between textures.
+Crayfish in space
+Macmillan's research feeds into the field of biomimetics, where designs found in nature are used in robotics.
+A few years ago, he travelled to the US where he met NASA scientists developing miniature, independently moving robots to discuss his work on how yabbies move their tails.
+Macmillan has just completed more work suggesting yabbies can analyse particular spaces before they enter them, and can even recognise places they've been before, and other crayfish.
+"We now think we've got evidence that they can do very sophisticated analyses on a space before they even get into it, they can detect vibrations and they can remember what they've experienced before," he says.
+
+Pericles probably died of typhoid fever, as did as many as one-third of his fellow Athenians
+Modern DNA analysis of ancient dental pulp suggests that typhoid fever caused the plague that helped to end the Golden Age in Athens, scientists say. 
+The DNA collected from teeth from an ancient Greek burial site is similar to a modern organism that causes typhoid fever, an infection spread by contaminated food or water. 
+"Studying the historical aspects of infectious disease can be a powerful tool for several disciplines to learn from," says Dr Manolis Papagrigorakis of University of Athens, a co-author of the study published in the International Journal of Infectious Diseases.
+"We believe this report to be of outstanding importance for many scientific fields, since it sheds light on one of the most debated enigmas in medical history." 
+Up to one-third of Athenians are thought to have died from the plague that spread to Greece from Ethiopia, Egypt and Libya in 430-426 BC. 
+Several diseases including smallpox, bubonic plague, anthrax and measles have been suggested as the cause of the plague, one of whose most prominent victims was the Athenian Golden Age leader Pericles. 
+The plague is thought to have changed the balance of power between Athens and Sparta, ending Athenian dominance.
+The scientists describe how they extracted DNA from a mass burial pit in a cemetery dating back to the time the plague struck Greece. 
+Papagrigorakis and his team say the DNA sequences resembled Salmonella enterica serovar Typhi, the organism that causes typhoid fever.
+
+How much old research is based on fraud? Details are emerging about the latest case, which involves papers in three medical journals
+A Norwegian mouth cancer specialist has admitted to fabricating research data published in several international scientific magazines, in the latest fraud case to rock the medical research world. 
+A doctor at the Institute for Cancer Research at the Norwegian Radium Hospital, Dr Jon Sudb&oslash;, has confessed to forging data used to document research published last October in The Lancet as well as in two other articles. 
+The revelation comes on the heels of the disclosure that South Korea's celebrated cloning pioneer Professor Hwang Woo-Suk had faked research papers claiming breakthroughs in stem cell research. 
+Suspicion that Sudb&oslash;, 44, had forged data in The Lancet article surfaced earlier this month and several investigations have been launched into his conduct. 
+"He has indicated that in addition to the article in The Lancet, two of his other articles contained information in which the conclusions have no basis," says Sudb&oslash;'s lawyer Erling Lyngtveit. 
+The two other articles appeared in the New England Journal of Medicine in April 2004 and the Journal of Clinical Oncology in March 2005. 
+"It appears that he started cheating a little bit, and then the deception got completely out of control in his last article in The Lancet," the lawyer adds. 
+Made-up study
+In The Lancet article, the doctor maintained that anti-inflammatory drugs like aspirin were efficient in preventing mouth cancer, but they also increased the risk of cardiovascular disease. 
+He based this conclusion on data from 908 fictitious patients, 205 of whom had been given the same date of birth. 
+"This had nothing to do with money," Lyngtveit insists. 
+"In different circumstances, his motives would be perceived as positive since they are what helps research to move forward: the desire to contribute to something, the yearning for fame and glory," he says, adding however that "this got completely out of hand". 
+In Sudb&oslash;'s article in the New England Journal of Medicine, he claimed that the resection of the first cancerous cells in the oral cavity did not have an impact on the mortality rate in patients. 
+According to his lawyer, he now admits he did not have the mortality statistics to back up that claim. 
+Sudb&oslash;'s article in the Journal of Clinical Oncology meanwhile discussed the possibility of calculating which heavy smokers would contract mouth cancer. 
+He has now admitted that he had only taken blood tests from some of the patients, and not all of them as previously claimed, to check if they had continued smoking, Lyngtveit says. 
+Over the past decade, Sudb&oslash; has published 38 articles in international scientific magazines, but his lawyer insists that "the forgery only occurred in three articles". 
+"Sudb&oslash; acted alone. His co-authors contributed to the articles in good faith," he adds. 
+The case has contributed to further weakening faith in research published in scientific reviews after the widely publicised Hwang scandal. 
+In 2005 Hwang claimed to have derived 11 stem cell lines tailored to specific patients, which are believed to have the potential to reduce the risk of rejection of new organs. In 2004, he said he had derived a stem cell from a human embryo. 
+But after a month-long probe, a panel of experts from Seoul National University found that Hwang had created no stem cells of any kind and that his research data was fabricated. 
+US research journal Science retracted Hwang's papers last week. 
+The Lancet meanwhile stated on its website earlier this week that "pending clarification, we now issue an expression of concern about the article by Sudb&oslash;".
+
+Alkaloids found in magic mushrooms act on the brain to produce changes in perception and hallucinations
+An Australian researcher has developed a new test for mushrooms that produces a glowing light if they contain the hallucinogenic ingredients that make them 'magic'. 
+Several species of magic mushroom grow in Australia, mainly in New South Wales, Victoria and South Australia. 
+Nicole Anastos, who did the research for her PhD at Deakin University, describes her work in the latest issue of the Journal of Forensic Sciences.
+She applied the method to three species of magic mushroom Psilocybe subaeruginosa, Hypholoma aurantiaca and Panaeolina foenisecii, provided by the Royal Botanic Gardens Melbourne.
+The technique uses chemiluminescence, a light reaction that occurs when two chemicals react, to detect psilocybin and its metabolite psilocin. These are the serotonin-like psychoactive ingredients in magic mushrooms.
+Magic happens
+Not all molecules exhibit chemiluminescence. But mix psilocin with acidic potassium permanganate and psilocybin with ruthenium and magic happens.
+Anastos says the technique can detect extremely low levels of psilocin, making it the most sensitive test there is and the first time chemiluminescence has been applied to magic mushrooms.
+"In the literature there's quite a few pieces published on the analysis of psilocin and psilocybin in magic mushrooms but the analysis time is quite long in some of them," she says.
+"We wanted a rapid method to detect these alkaloids. To date it's the most sensitive method published."
+Anastos soaked ground up samples of mushroom in methanol and separated the chemical components using high performance liquid chromatography (HPLC) before running the chemoluminescence test.
+A do-it-yourself test kit?
+Anastos says she hopes her research will be picked up and developed for use by the police.
+It could possibly also form the basis of a home magic-mushroom test kit or a urine test, she says.
+Associate Professor Michael Dawson, head of chemistry, materials and forensic sciences at the University of Technology Sydney says Anastos' work is interesting chemistry.
+But he says it doesn't offer any real advantage over existing tests.
+Mass spectrometry or ultra violet absorption produced equally good results when testing for psilocin and psilocybin in magic mushrooms, he says.
+"Once you've separated the mixture into its individual components ... there's a whole host of detection methods."
+
+Vikings are continuing to surprise us. They didn't have horned helmets, as this image suggests. And now it seems they filed their teeth, possibly as a status symbol
+Viking warriors filed deep grooves in their teeth, and they probably  had to smile broadly to show them off, according to new finds in four major Viking Age cemeteries in Sweden. 
+Caroline Arcini of Sweden's National Heritage Board and colleagues analysed 557 skeletons of men, women and children from 800 to 1050 AD. 
+She discovered that 22 of the men bore deep, horizontal grooves across the upper front teeth.
+"The marks are traces of deliberate dental modifications ... they are so well-made that most likely they were filed by a person of great skill," Arcini writes in the American Journal of Physical Anthropology, a journal of the American Association of Physical Anthropologists.
+Traces of teeth mutilation have been found in all parts of the world except Europe, with the practice reaching its peak from 700 to 1400 AD, during the height of the Viking Age.
+The Vikings were the first Europeans to have displayed this custom, perhaps because they picked it up during their travels.
+"This discovery is important as it shows that signs of cultural contact may happen between people over vast distances," Arcini says.
+However, the reason for and the importance of the furrows remain mysteries.
+"The only things that the people have in common are that they were men and that majority had died when they were quite young. The filed furrows were made in more or less the same area of the teeth in all individuals," Arcini says.
+The marks were cut deep into the enamel and occurred often in pairs or triplets.
+"To show their furrows, the individuals would have had to smile quite broadly," Arcini says.
+The researcher speculates that the marks could have been some sort of decoration or a badge to indicate class or military rank.
+"Maybe they were warriors, although no skeletal injuries have been detected," Arcini says.
+A status symbol? 
+Pia Bennike, at the University of Copenhagen's biological anthropology laboratory, agrees:
+"They did it on purpose, to mark that they belonged to a special group. Or maybe they were slaves. This is a very unique and interesting find."
+One hypothesis is that they could show an individual's ability to resist pain. They could have also represented some kind of achievement.
+"Maybe this is the explanation for multiple furrows or deeper ones," Arcini says.
+The tools that the Vikings used for handicrafts were made both of iron and stone. An experiment on a medieval tooth showed that with a lot of force and a file of steel, it takes about 20 minutes to cut a mark like the those of the Vikings in the enamel.
+"How long it took on a living person is really difficult to know. Even if the filing did not hurt, it most certainly must have been unpleasant," Arcini says.
+
+The new planet may look like this, a rocky-icy world circling a red dwarf star
+Astronomers have discovered the most Earth-like planet so far, close to the centre of our galaxy.
+The international team says the planet's relatively small size and large orbit imply a rocky-icy composition with a thin atmosphere.
+The discovery, involving a global network of telescopes and reported in today's issue of the journal Nature, is good news for astronomers searching for planets outside our solar system that may support life.
+"This discovery is a strong hint that these lower-mass objects are very common," says lead author Dr Jean-Philippe Beaulieu from the Institut d'Astrophysique de Paris.
+The discovery of OGLE-2005-BLG-390Lb also backs current theoretical models of planetary formation, the scientists say.
+These models predict finding planets the size of Earth to Neptune orbiting red dwarf stars, small cool stars, between one and 10 times the distance from the Earth to our Sun.
+The new planet has mass more than five times that of Earth and orbits a red dwarf at more than two-and-a-half times the distance between the Earth and the Sun.
+This makes it the first relatively small extrasolar planet discovered not huddled close to its parent star.
+The planet is about 28,000 light years away, near the centre of the Milky Way, and was discovered using a technique astronomers say is better at finding smaller planets.
+Hunting for extrasolar planets
+Most extrasolar planets discovered have been 'hot Jupiters' or gas giant planets in small orbits, detected by the gravitational 'wobble' they induce in the parent star.
+"That technique is sensitive to massive planets orbiting nearby stars. But the microlensing method ... can detect much smaller planets orbiting at larger distances around distant stars," says New Zealand's Dr Michael Albrow from the University of Canterbury.
+Albrow is a founding member of the PLANET collaboration, which found the planet, one of the three microlensing collaborations involved from 32 institutions in 12 countries.
+Dr Andrew Williams from Australia's Perth Observatory explains how microlensing works.
+"The gravity of a dim intervening star acts as a giant natural telescope, magnifying a more distant star, which brightens temporarily. A small 'defect' in the brightening reveals the existence of a planet around the lens star."
+Because the chances of exact alignment are very rare, astronomers continuously monitor dense star fields such as the galactic centre, which is best seen from the southern hemisphere.
+The Japanese-New Zealand Microlensing Observations in Astrophysics group supplied extra data.
+The group happened to be testing the world's largest dedicated microlensing telescope at the time, a 1.8 metre telescope at Mount John University Observatory in Tekapo, New Zealand.
+
+The adult female is just 7.9 millimetres long when sexually mature
+The smallest fish in the world has been found lurking in the peat wetlands of Southeast Asia, say scientists.
+Dr Maurice Kottelat of the National University of Singapore and team report their discovery online ahead of print publication in the Royal Society journal  Proceedings B.
+The record-busting newcomer, Paedocypris progenetica, is skinny and transparent, and a distant cousin of the carp, the researchers say.
+The elusive fish lives in highly acid peat swamps on the Indonesian island of Sumatra and in the Malaysian part of Borneo that are threatened by forestry and agriculture. 
+The scientists needed a special stereoscopic microscope to accurately measure the fish. 
+The smallest adult specimen they netted was a mature female, found in Sumatra, that came to just 7.9 millimetres from nose to tail.
+This makes her not only the world's smallest fish but also the world's smallest vertebrate.
+She nudged out the previous record holder, a marine fish of the western Pacific called the dwarf goby (Trimmatom nanus), which comes in at 8 millimetres at sexual maturity. 
+Kottelat says P. progenetica has "a very rudimentary skull", which leaves the brain exposed.
+
+Maybe he should have had sex
+Nervous public speakers should first have penetrative sex to ease the stress, according to a UK study.
+But masturbation is unlikely to have the same effect, the study published in the latest issue of the journal Biological Psychology suggests.
+Professor Stuart Brody, a psychologist at the University of Paisley, compared the impact of different sexual activities on blood pressure when a person later undergoes a stressful experience. 
+Brody asked 24 women and 22 men to keep a diary of their sexual activities for two weeks. 
+The volunteers then underwent a stressful ordeal that involved making a speech in public and doing mental arithmetic out loud. 
+Volunteers who had had penetrative sex during the previous week or so had the least stress, and their blood pressure returned to normal fastest after their test.
+Penetrative sex was far more effective in this regard than masturbation or oral sex.
+But those who had abstained completely from any sexual activity had the highest stress levels and blood pressure of all.
+Brody also did a psychological profile of the volunteers to see whether they had an anxious or neurotic character, and evaluated their work stress and satisfaction with their partners.
+Even when such factors were taken into account, sexual behaviour was clearly the best explanation for the stress responses.
+"The effects are not attributable to the short-term relief afforded by orgasm but, rather, endure for at least a week," Brody told New Scientist magazine.
+He believes that penetrative sex may release a special 'pair-bonding' hormone called oxytocin, which accounts for the calming effect.
+
+Adding another electrode to this ion engine improves fuel efficiency, tests show, promising faster space travel
+A new ion engine that promises to propel spacecraft faster and further is four times more fuel efficient than the best available, scientists say.
+They say the results of recent tests suggest the engine, the Dual Stage Four Grid Thruster (DS4G), would reduce the time for craft to reach Mars or Pluto and beyond.
+Dr Orson Sutherland and team at the Australian National University's Space Plasma Power and Propulsion Group designed and built the engine with the European Space Agency (ESA).
+Sutherland says laboratory tests show the DS4G it is four times more fuel efficient than the best ion engines available and 10 times more fuel efficient than used to propel ESA's SMART-1 Moon mission.
+"The underlying technology has been around for 40 years," he says. "All we did with the DS4G is to add some extra components which basically gave it a 10-fold improvement."
+Sutherland says missions to Pluto and the Kuiper Belt would be "quite easily" made, with trips out beyond the solar system also more feasible.
+"All of that within the working lifetime of a mission scientist," he says.
+Another option is the new engine could help take heavier missions to shorter distances such as the Moon or Mars.
+How it works
+A standard ion engine works by using electrodes to extract ions from plasma, in this case heated xenon gas.
+The ions are focused into beams that accelerate through tiny holes in the electrodes and thrust metres out into space, propelling the spacecraft in the opposite direction.
+
+Clusters of magnesium, zinc and copper atoms could be the key to strengthening lightweight metals
+An Australian PhD student has taken the first pictures of clusters of metal atoms, which could be the key to tailor-made alloys that are light, strong, durable and flexible.
+Peter Liddicoat of the  University of Sydney will present the digital images at a microscopy conference in Sydney next month. 
+Liddicoat analysed the atomic structure of a lightweight alloy used in the aerospace industry.
+The alloy is made of aluminium, zinc, magnesium and copper heated to 460°C before undergoing a rapid hardening process. 
+Hardening involves quenching the alloy in water and then reheating it to 150°C. After 60 seconds at this temperature, the alloy is twice as hard.
+Although this hardening process has been used for 50 years, Liddicoat says no one knows how it works.
+"Making metal is still a bit of a black art. It's like cooking," he says. "[This work is] just trying to get a bit of science back into it."
+Some time ago, his PhD supervisor, Professor Simon Ringer proposed a theory that small clusters of atoms in the alloy could be responsible for the hardening.
+And Liddicoat is the first to image them.
+First, decompose your alloy
+Liddicoat imaged the clusters using strong electromagnetic fields at very low temperatures to 'decompose' the alloy. 
+"When you decompose this material you actually rip the atoms off one by one," he says. "It's actually a very delicate process."
+A 3D digital image of the alloy and its atoms is then made by computer.
+Liddicoat says he is "pretty excited" to have imaged these clusters and the next step is to confirm that these clusters are responsible for the alloy's hardening.
+He hopes to work out how the atoms arrange themselves by taking snapshots of the alloy over time.
+And he wants to characterise the clusters: the precise combination of atoms that makes them up, the shape of the clusters and how many there are per unit volume of the alloy.
+Tailor-made alloys
+Liddicoat hopes this will one day make it possible to create materials with specific degrees of flexibility, durability and tensile strength.
+"If you understand what they are then ... you might be able to create the conditions to create these things," he says.
+
+An ancient ancestor of today's crocodiles looks like a cross between an ostrich and a dinosaur
+The discovery of a six-foot-long, bipedal and toothless fossil in a museum basement suggests crocodile ancestors looked like some bird-like dinosaurs that lived millions of years later, scientists say.
+The crocodile ancestor fossil, found in the basement of New York's American Museum of Natural History, is an example of how similar body types can evolve several times over.
+A museum team excavated the 210-million-year-old fossil in the 1940s from the Ghost Ranch Quarry in New Mexico.
+This site has produced numerous fossils of Coelophysis, small, carnivorous dinosaurs that lived in the Triassic period. 
+As scientists thought Coelophysis was the only vertebrate fossil in the quarry, the crocodile kin sat forgotten in storage and lodged in a slab of rock for nearly 60 years. 
+When graduate student Sterling Nesbitt opened the plaster jacket encasing the find in 2005, he saw an articulated fossil that closely resembled bird-like dinosaurs called ornithomimids, or ostrich dinosaurs, that lived 80 million years later. 
+Along with Dr Mark Norell, curator of the museum's palaeontology division, Nesbitt reported the finding in the Proceedings of the Royal Society B. 
+Part bird, part dinosaur
+The creature had large eyes, a beak, a long tail and no teeth. Walking on two feet with its tail erect, it lived at the end of the Triassic with some of the earliest dinosaurs. 
+"We don't know what the animal ate because it has a beak, and extant animals with beaks can eat almost anything," says Nesbitt. 
+While the skull and the skeleton were almost identical to those of ostrich dinosaurs, the ankle is typical of an ancient group of reptiles called crocodilians, which includes today's crocodiles and alligators. 
+The new animal was named Effigia okeeffeae, after the Latin word for ghost, referring to the fact that it was invisible to science for so long. Its name also honours the artist Georgia O'Keeffe, who lived near the quarry. 
+"This is one of the most specialised extinct relative of crocodilians yet known, and shows that the 'duck-billed' head that later evolved in ornithomimid dinosaurs first appeared, independently, in crocodilians relatives," says James Clark, associate professor of biology at the George Washington University in Washington DC. 
+"This exciting find tells us once again that crocodilians and their relatives were at one time much more diverse than they are today." 
+The fossil has also turned a keystone for identifying other close relatives to Effigia, says Norell.
+The researchers re-examined some isolated Triassic reptile specimens and noted that Effigia also resembles early theropods, two-legged carnivore dinosaurs. 
+They concluded that Effigia-like animals were common in most of the Triassic sediments of western North America. 
+This would suggest that creatures like the newly discovered fossil dominated what is now the Americas, and that dinosaur evolution only took off after Effigia went extinct. 
+Clark agrees. "The fossil record of the Triassic and Jurassic shows that dinosaur diversity did not take off until after the extinction event at the end of the Triassic, which included large-bodied crocodilian relatives such as aetosaurs, phytosaurs, and rauisuchians, as well as the smaller Effigia," he says.
+
+Cars run on ethanol would make us less dependent on fossil fuels. But does ethanol meet both energy and environmental goals?
+Ethanol fuel is more energy-efficient than some experts had realised and it is time to start developing it as an alternative to fossil fuels, researchers say.
+While some critics say the push for ethanol is based on faulty science and mostly benefits the farm lobby, several reviews and commentaries published in today's issue of the journal Science argue otherwise. 
+"We find that ethanol can, if it is made correctly, contribute significantly to both energy and environmental goals. However, the current way of producing ethanol with corn probably only meets energy goals," says Dr Alexander Farrell at the University of California, Berkeley. 
+Farrell and colleagues looked at six studies used to argue for and against the development of ethanol as an energy source.
+"One of the main purposes is to explain why the studies found in the literature have such divergent results," Farrell says.
+"Some of the studies use what appear to be obsolete data or data whose quality cannot be verified."
+Currently, ethanol is not a significant source of fuel, but is blended with petrol. Environmentalists hope it could be developed as a cleaner source of fuel than oil or gas. 
+"The 15.5 billion litres of ethanol blended into gasoline in 2004 amounted to about 2% of all gasoline sold by volume and 1.3% of its energy content," the researchers write. 
+Pollution and greenhouse gases?
+Farrell says it is possible to put ethanol in a car and run it, but making ethanol using current technology is expensive and contributes to pollution and greenhouse gases.
