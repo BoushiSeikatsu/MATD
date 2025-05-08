@@ -14,7 +14,7 @@ print("--- Část 1: Příprava Dat ---")
 
 # --- Konfigurace Přípravy Dat ---
 DATASET_NAME = "fewshot-goes-multilingual/cs_csfd-movie-reviews"
-VOCAB_SIZE = 10000  # Cílová velikost slovníku (bez <UNK>)
+VOCAB_SIZE = 1000  # Cílová velikost slovníku (bez <UNK>)
 CONTEXT_WINDOW_SIZE = 2 # Počet slov vlevo a vpravo od cílového slova
 
 # --- Krok 1.1: Načtení datasetu ---
@@ -38,12 +38,33 @@ except Exception as e:
 # --- Krok 1.2: Tokenizace ---
 print("\nProvádím tokenizaci...")
 
+# Seznam NLTK resources, které potřebujeme
+REQUIRED_NLTK_RESOURCES = {
+    "punkt": "tokenizers/punkt",
+    "punkt_tab": "tokenizers/punkt_tab" # Přidáno pro jazykově specifické tabulky
+}
+
 # Stáhneme potřebné NLTK data (pokud nejsou k dispozici)
-try:
-    nltk.data.find('tokenizers/punkt')
-except nltk.downloader.DownloadError:
-    print("Stahuji NLTK tokenizer 'punkt'...")
-    nltk.download('punkt', quiet=True)
+for resource_name, resource_path in REQUIRED_NLTK_RESOURCES.items():
+    try:
+        # Nejprve zkusíme, zda je resource dostupný
+        nltk.data.find(resource_path)
+        print(f"NLTK resource '{resource_name}' ({resource_path}) je již k dispozici.")
+    except LookupError:
+        print(f"NLTK resource '{resource_name}' ({resource_path}) nenalezen. Pokouším se stáhnout...")
+        try:
+            # Stáhneme resource podle jeho krátkého jména (např. 'punkt', 'punkt_tab')
+            nltk.download(resource_name, quiet=True)
+            print(f"NLTK resource '{resource_name}' úspěšně stažen.")
+            # Po stažení je dobré znovu zkusit resource najít, abychom se ujistili
+            nltk.data.find(resource_path)
+        except Exception as e:
+            print(f"Chyba při stahování NLTK resource '{resource_name}': {e}")
+            print(f"Prosím, zkuste stáhnout '{resource_name}' manuálně pomocí:")
+            print(">>> import nltk")
+            print(f">>> nltk.download('{resource_name}')")
+            print("A poté spusťte skript znovu.")
+            exit()
 
 def tokenize(text):
     text = text.lower()
@@ -119,7 +140,7 @@ print("\n--- Příprava dat dokončena ---")
 print("\n--- Část 2: Trénink CBOW Modelu ---")
 
 # --- Hyperparametry Tréninku ---
-embedding_dim = 100     # Dimenze embedding vektorů
+embedding_dim = 50     # Dimenze embedding vektorů
 learning_rate = 0.01    # Míra učení pro SGD
 epochs = 5              # Počet průchodů celým datasetem
 
@@ -222,3 +243,137 @@ try:
 except ImportError:
     print("\nKnihovna matplotlib není nainstalována. Graf ztráty nelze zobrazit.")
     print("Historie průměrných ztrát:", total_loss_history)
+
+# --- Část 3: Evaluace a Vizualizace Embeddingů ---
+
+print("\n\n--- Část 3: Evaluace a Vizualizace Embeddingů ---")
+
+# Potřebné importy pro tuto část
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.manifold import TSNE
+from sklearn.decomposition import PCA
+import matplotlib.pyplot as plt
+import matplotlib.cm as cm # Pro barvy v grafu
+# Nastavení pro české popisky v matplotlibu, pokud je potřeba
+# from matplotlib import rcParams
+# rcParams['font.family'] = 'DejaVu Sans' # Nebo jiný font podporující češtinu
+
+# Matice embeddingů je 'E'
+# Slovníky jsou 'word_to_ix' a 'ix_to_word'
+
+# --- Krok 3.1: Nalezení nejbližších sousedů ---
+def get_top_n_similar(word, embedding_matrix, word_to_index, index_to_word_map, top_n=5):
+    """Najde top_n nejpodobnějších slov k danému slovu."""
+    if word not in word_to_index:
+        print(f"Slovo '{word}' není ve slovníku.")
+        return []
+
+    word_idx = word_to_index[word]
+    word_vector = embedding_matrix[word_idx].reshape(1, -1) # (1, embedding_dim)
+
+    # Vypočítáme kosinovou podobnost mezi daným slovem a všemi ostatními
+    # cosine_similarity očekává dva 2D pole
+    similarities = cosine_similarity(word_vector, embedding_matrix)[0] # Výsledek je (1, vocab_size), vezmeme první řádek
+
+    # Seřadíme indexy podle podobnosti (sestupně)
+    # np.argsort vrátí indexy, které by seřadily pole
+    # [::-1] pro sestupné řazení
+    sorted_indices = np.argsort(similarities)[::-1]
+
+    similar_words = []
+    for i in range(1, top_n + 1): # Začínáme od 1, abychom přeskočili samotné slovo
+        if i < len(sorted_indices):
+            neighbor_idx = sorted_indices[i]
+            neighbor_word = index_to_word_map[neighbor_idx]
+            similarity_score = similarities[neighbor_idx]
+            similar_words.append((neighbor_word, similarity_score))
+        else:
+            break # Pokud už nemáme dost slov ve slovníku
+    return similar_words
+
+# Vybraná slova pro testování
+words_to_test = ["film", "dobrý", "nuda", "herec", "hudba", "příběh"]
+# Můžete přidat slova, která očekáváte, že budou ve vašem slovníku
+# (zejména pokud jste VOCAB_SIZE výrazně snížili)
+
+print("\n--- Nejbližší sousedé (Kosinová podobnost) ---")
+for test_word in words_to_test:
+    if test_word in word_to_ix: # Zkontrolujeme, zda je slovo ve slovníku po omezení VOCAB_SIZE
+        neighbors = get_top_n_similar(test_word, E, word_to_ix, ix_to_word, top_n=5)
+        if neighbors:
+            print(f"Nejpodobnější slova k '{test_word}':")
+            for neighbor, score in neighbors:
+                print(f"  - {neighbor} (Podobnost: {score:.4f})")
+    else:
+        print(f"Slovo '{test_word}' není v aktuálním slovníku (velikost: {actual_vocab_size}).")
+
+
+# --- Krok 3.2: Vizualizace embedding prostoru (t-SNE) ---
+# t-SNE může být výpočetně náročné pro velký slovník.
+# Pro vizualizaci vybereme podmnožinu slov (např. N nejčastějších).
+# Nebo můžeme použít PCA, které je rychlejší.
+
+# Počet slov pro vizualizaci
+num_words_to_visualize = 200 # Můžete upravit
+if actual_vocab_size <= 1:
+    print("\nSlovník je příliš malý pro vizualizaci.")
+else:
+    # Vezmeme prvních N slov ze slovníku (kromě <UNK>)
+    # Pokud je slovník menší, vezmeme všechna dostupná slova
+    words_for_viz_indices = list(range(1, min(actual_vocab_size, num_words_to_visualize + 1)))
+    selected_embeddings = E[words_for_viz_indices]
+    selected_words = [ix_to_word[i] for i in words_for_viz_indices]
+
+    print(f"\nProvádím redukci dimenze pro {len(selected_words)} slov pomocí t-SNE (může chvíli trvat)...")
+    tsne = TSNE(n_components=2, random_state=42, perplexity=min(30, len(selected_words)-1), n_iter=1000, init='pca', learning_rate='auto')
+    # Perplexity by měla být menší než počet vzorků.
+    # 'init'='pca' může zrychlit a stabilizovat t-SNE
+    # 'learning_rate'='auto' je doporučeno od sklearn 0.22
+    try:
+        embeddings_2d = tsne.fit_transform(selected_embeddings)
+
+        print("Vykresluji embeddingy...")
+        plt.figure(figsize=(14, 10))
+        # Vykreslíme body
+        # Můžeme použít barvy pro odlišení, např. na základě frekvence nebo náhodně
+        colors = cm.rainbow(np.linspace(0, 1, len(selected_words)))
+
+        for i, word in enumerate(selected_words):
+            x, y = embeddings_2d[i, :]
+            plt.scatter(x, y, color=colors[i % len(colors)]) # Použijeme modulo pro případ, že máme více slov než unikátních barev v paletě
+            # Anotujeme pouze některá slova, aby graf nebyl přeplněný
+            # Například každé N-té slovo, nebo slova z našeho testovacího seznamu, pokud jsou ve vizualizované podmnožině
+            if i % 10 == 0 or word in words_to_test: # Anotuj každé 10. nebo pokud je to testovací slovo
+                 plt.annotate(word,
+                             xy=(x, y),
+                             xytext=(5, 2),
+                             textcoords='offset points',
+                             ha='right',
+                             va='bottom',
+                             fontsize=9)
+        plt.title(f't-SNE vizualizace {len(selected_words)} slovních embeddingů')
+        plt.xlabel("t-SNE komponenta 1")
+        plt.ylabel("t-SNE komponenta 2")
+        plt.grid(True)
+        plt.show()
+
+    except Exception as e:
+        print(f"Chyba při t-SNE vizualizaci: {e}")
+        print("Možná je příliš málo dat pro t-SNE (zkuste menší perplexity nebo více dat).")
+        print("Například, `perplexity` musí být menší než počet vzorků.")
+
+
+# --- Krok 3.3: Zhodnocení ---
+print("\n--- Zhodnocení kvality embeddingů ---")
+print("Prohlédněte si výpis nejbližších sousedů a t-SNE graf (pokud byl vygenerován).")
+print("Odpovídají si slova, která jsou si blízko, i významově?")
+print("Například:")
+print("  - Jsou synonyma nebo slova s podobným kontextem použití blízko sebe?")
+print("  - Tvoří slova shluky podle nějaké sémantické kategorie (např. jídlo, místa, akce)?")
+print("Mějte na paměti, že kvalita bude silně záviset na:")
+print("  - Velikosti trénovacího korpusu (náš je relativně malý).")
+print("  - Velikosti slovníku (VOCAB_SIZE).")
+print("  - Dimenzi embeddingů (embedding_dim).")
+print("  - Počtu epoch tréninku.")
+print("  - Hyperparametrech (learning_rate, context_window_size).")
+print("Pro velmi malé VOCAB_SIZE a málo epoch nemusí být výsledky příliš přesvědčivé.")
