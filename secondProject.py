@@ -917,9 +917,18 @@ if __name__ == "__main__":
                     print(f"\nReferenční shrnutí:\n{reference_summary_text}")
                     print(f"Vygenerované shrnutí (Greedy):\n{generated_summary}")
 
+                    sample_dialogue_text = samsum_test_raw_original[20]["dialogue"]
+                    reference_summary_text = samsum_test_raw_original[20]["summary"]
+                    
+                    print(f"Vstupní dialog:\n{sample_dialogue_text}")
+                    # Generování shrnutí pomocí greedy decoding
+                    generated_summary = greedy_decode_sentence(model, tokenizer, sample_dialogue_text, device, max_len=MAX_TARGET_LENGTH)
+                    print(f"\nReferenční shrnutí:\n{reference_summary_text}")
+                    print(f"Vygenerované shrnutí (Greedy):\n{generated_summary}")
+
                     # Evaluace na (části) testovací sady pomocí ROUGE metrik
                     print("\n--- Evaluace na testovací sadě (ROUGE) ---")
-                    num_test_samples_for_rouge = 50 # Pro rychlejší evaluaci; pro finální výsledky použijte více/všechny
+                    num_test_samples_for_rouge = 1000 # Pro rychlejší evaluaci; pro finální výsledky použijte více/všechny
                     
                     # Výběr vzorků z původní testovací sady
                     selected_test_samples = samsum_test_raw_original.select(range(min(num_test_samples_for_rouge, len(samsum_test_raw_original))))

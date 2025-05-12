@@ -1,5 +1,6 @@
 import re
 import nltk
+from nltk.corpus import stopwords # Přidán import pro stop slova
 import numpy as np
 from collections import Counter
 from datasets import load_dataset
@@ -16,6 +17,49 @@ print("--- Část 1: Příprava Dat ---")
 DATASET_NAME = "fewshot-goes-multilingual/cs_csfd-movie-reviews"
 VOCAB_SIZE = 1000  # Cílová velikost slovníku (bez <UNK>)
 CONTEXT_WINDOW_SIZE = 2 # Počet slov vlevo a vpravo od cílového slova
+REMOVE_STOPWORDS = True # Přidána volba pro snadné zapnutí/vypnutí
+
+CZECH_STOPWORDS_LIST = [
+    "a", "aby", "ahoj", "ale", "anebo", "ano", "asi", "aspoň", "atd", "atp",
+    "az", "až", "bez", "bude", "budem", "budeme", "budete", "budeš", "budou",
+    "budu", "by", "byl", "byla", "byli", "bylo", "byly", "bys", "čau", "chce",
+    "chceme", "chcete", "chceš", "chci", "chtít", "chtějí", "či", "článek",
+    "článku", "články", "co", "což", "cz", "dál", "dále", "další", "datum", "deset",
+    "devatenáct", "devět", "dnes", "do", "dobrý", "docela", "dva", "dvacet",
+    "dvanáct", "dvě", "ho", "hodně", "i", "jak", "jakmile", "jako", "já", "je",
+    "jeden", "jedenáct", "jedna", "jedno", "jednou", "jedou", "jeho", "jehož",
+    "jej", "její", "jejich", "jemu", "jen", "jenom", "ještě", "jestli", "jestliže",
+    "ještě", "ji", "jinak", "jiné", "již", "jsem", "jsi", "jsme", "jsou", "jste",
+    "jít", "k", "kam", "kde", "kdo", "když", "ke", "kolik", "kromě", "která",
+    "které", "kterou", "který", "kteří", "ku", "kvůli", "má", "mají", "málo",
+    "mám", "máme", "máte", "máš", "mě", "mezi", "mi", "místo", "mně", "mnou",
+    "moc", "mohl", "mohla", "mohli", "mohlo", "mohou", "moje", "moji", "možná",
+    "můj", "musí", "může", "my", "na", "nad", "nade", "nám", "námi", "naproti",
+    "např", "napsal", "napsala", "napsali", "náš", "naše", "naši", "ne", "nebo",
+    "nebyl", "nebyla", "nebyli", "nebylo", "něco", "nedělá", "nedělají", "nedělám",
+    "neděláme", "neděláte", "neděláš", "neg", "nechce", "nechceme", "nechcete",
+    "nechceš", "nechci", "nechtějí", "nejsi", "nejsme", "nejste", "někde", "někdo",
+    "nemají", "nemám", "nemáme", "nemáte", "nemáš", "nemohl", "nemohla", "nemohli",
+    "nemohou", "nemusí", "nemůže", "není", "nestačí", "než", "nic", "ní", "nich",
+    "ním", "nimi", "nix", "no", "nové", "nový", "o", "obj", "od", "ode", "on",
+    "ona", "oni", "ono", "ony", "osm", "osmnáct", "pak", "patnáct", "pět", "po",
+    "počet", "pod", "podle", "pokud", "popř", "pořád", "poté", "potom", "pouze",
+    "práve", "pravě", "první", "před", "přede", "přes", "přese", "přesto", "při",
+    "pro", "proč", "prostě", "proti", "proto", "protože", "prý", "pta", "půjde",
+    "půjdou", "re", "řekl", "řekla", "řekli", "s", "se", "sedm", "sedmnáct",
+    "si", "skoro", "smí", "smějí", "snad", "spolu", "sta", "sté", "sto", "strana",
+    "straně", "strany", "své", "svých", "svým", "svými", "ta", "tady", "tak",
+    "také", "takže", "tam", "tamhle", "tamto", "tato", "tě", "tebe", "tedy",
+    "teď", "téměř", "ten", "tento", "těch", "těma", "tím", "tímto", "tipy", "tisíc",
+    "tiše", "to", "tobě", "tohle", "toho", "tohoto", "tom", "tomto", "tomu",
+    "tomuto", "toto", "třeba", "tři", "třináct", "trošku", "tvá", "tvé", "tvoje",
+    "tvůj", "ty", "tyto", "u", "určitě", "už", "v", "vám", "vámi", "vás", "váš",
+    "vaše", "vaši", "ve", "vedle", "večer", "velmi", "více", "vlastně", "vše",
+    "však", "všechen", "všechno", "všichni", "vůbec", "vy", "vždy", "z", "za",
+    "zase", "zpět", "zpráva", "zprávy", "že"
+]
+# Převedeme na množinu pro rychlé vyhledávání
+CZECH_STOPWORDS_SET = set(CZECH_STOPWORDS_LIST)
 
 # --- Krok 1.1: Načtení datasetu ---
 print("Načítám dataset...")
@@ -35,53 +79,69 @@ except Exception as e:
     print("Zkontrolujte připojení k internetu, název datasetu a název sloupce ('comment').")
     exit()
 
-# --- Krok 1.2: Tokenizace ---
-print("\nProvádím tokenizaci...")
+# --- Krok 1.2: Tokenizace (s odstraněním stop slov) ---
+print("\nKontroluji a stahuji NLTK resources...")
 
 # Seznam NLTK resources, které potřebujeme
 REQUIRED_NLTK_RESOURCES = {
     "punkt": "tokenizers/punkt",
-    "punkt_tab": "tokenizers/punkt_tab" # Přidáno pro jazykově specifické tabulky
+    "punkt_tab": "tokenizers/punkt_tab",
+    #"stopwords": "corpora/stopwords" # Přidán resource pro stop slova
 }
 
 # Stáhneme potřebné NLTK data (pokud nejsou k dispozici)
 for resource_name, resource_path in REQUIRED_NLTK_RESOURCES.items():
     try:
-        # Nejprve zkusíme, zda je resource dostupný
         nltk.data.find(resource_path)
         print(f"NLTK resource '{resource_name}' ({resource_path}) je již k dispozici.")
     except LookupError:
         print(f"NLTK resource '{resource_name}' ({resource_path}) nenalezen. Pokouším se stáhnout...")
         try:
-            # Stáhneme resource podle jeho krátkého jména (např. 'punkt', 'punkt_tab')
-            nltk.download(resource_name, quiet=True)
+            nltk.download(resource_name, quiet=False)
             print(f"NLTK resource '{resource_name}' úspěšně stažen.")
-            # Po stažení je dobré znovu zkusit resource najít, abychom se ujistili
             nltk.data.find(resource_path)
         except Exception as e:
             print(f"Chyba při stahování NLTK resource '{resource_name}': {e}")
-            print(f"Prosím, zkuste stáhnout '{resource_name}' manuálně pomocí:")
-            print(">>> import nltk")
-            print(f">>> nltk.download('{resource_name}')")
-            print("A poté spusťte skript znovu.")
+            print(f"Prosím, zkuste stáhnout '{resource_name}' manuálně a spusťte skript znovu.")
             exit()
 
-def tokenize(text):
+if REMOVE_STOPWORDS:
+    print(f"Používám vlastní seznam {len(CZECH_STOPWORDS_SET)} českých stop slov.")
+    active_stopwords_set = CZECH_STOPWORDS_SET
+    effective_remove_stops = True
+else:
+    print("Odstraňování stop slov je vypnuto.")
+    active_stopwords_set = set()
+    effective_remove_stops = False
+
+print("\nProvádím tokenizaci" + (" s odstraněním stop slov..." if REMOVE_STOPWORDS else "..."))
+
+def tokenize(text, remove_stops=False, stop_words_set=None):
+    """
+    Tokenizuje text, volitelně odstraňuje stop slova.
+    """
     text = text.lower()
     text = re.sub(r"[^a-záčďéěíňóřšťúůýž0-9\s]", "", text)
-    tokens = nltk.word_tokenize(text, language='czech')
-    return tokens
+    initial_tokens = nltk.word_tokenize(text, language='czech')
 
+    if remove_stops and stop_words_set:
+        filtered_tokens = [token for token in initial_tokens if token not in stop_words_set]
+        return filtered_tokens
+    else:
+        return initial_tokens
+
+# Aplikujeme tokenizaci na všechny texty
 all_tokens = []
 print("Tokenizuji texty...")
 for text in tqdm(texts, desc="Tokenizace"):
-    all_tokens.extend(tokenize(text))
+    # Předáme naše nastavení a vlastní množinu stop slov
+    all_tokens.extend(tokenize(text, remove_stops=effective_remove_stops, stop_words_set=active_stopwords_set))
 
-print(f"Tokenizace dokončena. Celkový počet tokenů: {len(all_tokens)}")
+print(f"Tokenizace dokončena. Celkový počet tokenů (po filtraci): {len(all_tokens)}")
 if not all_tokens:
-    print("Chyba: Po tokenizaci nezůstala žádná slova.")
+    print("Chyba: Po tokenizaci (a případné filtraci stop slov) nezůstala žádná slova.")
     exit()
-print("Příklad tokenů:", all_tokens[:20])
+print("Příklad tokenů (po filtraci):", all_tokens[:20])
 
 # --- Krok 1.3: Sestavení slovníku ---
 print(f"\nSestavuji slovník o velikosti {VOCAB_SIZE} nejčastějších slov...")
@@ -107,7 +167,8 @@ print(f"\nGeneruji trénovací páry (kontextové okno: {CONTEXT_WINDOW_SIZE} vl
 training_data = []
 print("Generuji páry z recenzí...")
 for text in tqdm(texts, desc="Generování párů"):
-    tokens = tokenize(text)
+    # Důležité: Použijeme stejnou tokenizaci jako pro slovník
+    tokens = tokenize(text, remove_stops=effective_remove_stops, stop_words_set=active_stopwords_set)
     indexed_tokens = [word_to_ix.get(token, word_to_ix['<UNK>']) for token in tokens]
 
     for i in range(len(indexed_tokens)):
@@ -177,7 +238,7 @@ for epoch in range(epochs):
     np.random.shuffle(training_data)
 
     data_iterator = tqdm(training_data, desc=f"Epocha {epoch+1}/{epochs}", leave=False)
-
+    avgProb = 0
     for context_indices, target_index in data_iterator:
         # Forward Pass
         context_vectors = E[context_indices]
@@ -186,6 +247,7 @@ for epoch in range(epochs):
         probs = softmax(scores)
         loss = cross_entropy_loss(probs, target_index)
         total_loss += loss
+        avgProb += probs[0, target_index]
 
         # Backward Pass
         dscores = probs.copy()
@@ -201,13 +263,13 @@ for epoch in range(epochs):
         # Iterativní update pro E kvůli možným duplicitním indexům v kontextu
         for idx in context_indices:
              E[idx] -= learning_rate * grad_E_update[0]
-
+    avgProb /= len(training_data)
     # Konec epochy
     epoch_end_time = time.time()
     avg_loss = total_loss / len(training_data)
     total_loss_history.append(avg_loss)
     epoch_duration = epoch_end_time - epoch_start_time
-    print(f"Konec Epochy {epoch+1}/{epochs}, Průměrná ztráta: {avg_loss:.4f}, Trvání: {epoch_duration:.2f}s")
+    print(f"Konec Epochy {epoch+1}/{epochs}, Průměrná ztráta: {avg_loss:.4f}, průměrná pravděpodobnost na cílové slovo: {avgProb}, Trvání: {epoch_duration:.2f}s")
 
 total_training_time = time.time() - start_time
 print(f"\n--- Trénink dokončen --- (Celkový čas: {total_training_time:.2f}s)")
@@ -314,7 +376,7 @@ for test_word in words_to_test:
 # Nebo můžeme použít PCA, které je rychlejší.
 
 # Počet slov pro vizualizaci
-num_words_to_visualize = 200 # Můžete upravit
+num_words_to_visualize = 800 # Můžete upravit
 if actual_vocab_size <= 1:
     print("\nSlovník je příliš malý pro vizualizaci.")
 else:
